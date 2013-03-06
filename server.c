@@ -46,27 +46,30 @@ int main(int argc,char** argv){
     //bind complete
      
     freeaddrinfo(res);
-    
+    printf("server is now bound to port:%s\n",port);
     
     while(TRUE){
-      
+      printf("listening for a new connection\n");
       listen(sockfd, BACKLOG);
       // now accept an incoming connection:
       addr_size = sizeof their_addr;
       
       new_fd = accept(sockfd, (struct sockaddr *)&their_addr, &addr_size);
       if(new_fd == -1){
-        fprintf(stderr,"unable to establish connection\n");
+        fprintf(stderr,"unable to  on accept establish connection\n");
         continue;  
       }
-      
+      printf("new connection has been established, preparing to fork, current fd:%d\n",new_fd);
       
       int child = fork();
       if(child == 0){
+      	printf("I am in the fork, current fd:%d\n",new_fd);
       	//child variables
       	char method[LINE];
       	char url[LINE];
       	char http[LINE];
+      	char arg[LINE];
+      	char host[LINE];
       	int out_fd;
 		  close(sockfd);
 		  //printf("A new connection has been established in child\n");
@@ -75,6 +78,7 @@ int main(int argc,char** argv){
 		          
 		  //while loop will handle commands
 		  while(TRUE){
+		  	printf("top of child while loop\n");
 		    if(break_flag==TRUE){
 		      break_flag=FALSE;
 		      break;
@@ -94,6 +98,7 @@ int main(int argc,char** argv){
 		     	close(new_fd);
 		     	exit(EXIT_FAILURE);
 		     }
+		     printf("from the client:\n%s\n",read_pipe);
 		     
 		     	start = get_next_string(start, read_pipe, line);
 		     	if(strlen(line)<=0){
@@ -101,26 +106,38 @@ int main(int argc,char** argv){
 		     		continue;
 		     	}
 		     	
-		     	printf("valid line, attempting to parse\n");
 		     	int n = sscanf(line, "%s %s %s", method, url, http);
 		     	if(n!=3){
 		     		send_error(new_fd,write_pipe,404,"Bad Request");
 		     		continue;
 		     	}
 		     	if(!valid_method(method)){
-		     		printf("not a valid method, sending 501 error\n");
 		     		send_error(new_fd,write_pipe,501,"Not Implemented");
 		     		continue;
 		     	}
 		     	
-		     out_fd = create_client_socket(url);
-		     
-		     
-		     //DEBUG
-		     //send a 404 error
-		     send_error(new_fd,write_pipe,418,"I am a teapot");
-		     //printf("sending to client:\n%s\n",write_pipe);
-		     
+		     	start = get_next_string(start, read_pipe, line);
+		     	if(strlen(line)<=0){
+		     		send_error(new_fd,write_pipe,404,"Bad Request");
+		     		continue;
+		     	}
+		     	
+		     	n = sscanf(line, "%s %s", arg,host);
+		     	if(n!=2){
+		     		send_error(new_fd,write_pipe,404,"Bad Request - No host");
+		     		continue;
+		     	}
+		     	if(strcmp(arg,"Host:")!=0){
+		     		send_error(new_fd,write_pipe,404,"Bad Request - No host");
+		     		continue;
+		     	}
+		     	printf("host:%s\n",host);
+		     	printf("attemptig to create connection to host\n");		     	
+		     	out_fd = create_host_socket(host);
+		     	printf("connection to host established\n");
+		     	
+		     	write_to_host(out_fd,new_fd,read_pipe,write_pipe);
+		     	close(out_fd);
 		        
 		  }
 	 }

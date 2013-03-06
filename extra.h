@@ -3,7 +3,7 @@
 
 #define FALSE 0
 #define TRUE 1
-#define PIPE_MAX 4096
+#define PIPE_MAX 8192
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
@@ -14,7 +14,7 @@
 //	pre:	url string is a valid host address
 //	post:	socket will pre opened and returned to caller, else -1 for error
 /////
-int create_client_socket(char* url);
+int create_host_socket(char* host);
 
 /////
 //	prints errors to stderr
@@ -52,6 +52,14 @@ void set_headers(char* write_pipe, int status, char* status_msg,int close_bool);
 //  TRUE if method is HEAD or GET and FALSE if anything else
 //	pre: 	valid method string is assumed
 //	post: 	no data is mutated, simple int return value
+/////
 int valid_method(char* method); 
+
+/////
+//	this function will write to the internet and respond back to the client
+//	pre:	host is connected, client is connected, read and write are valid
+//	post:	write to host performed and client received response or error
+/////
+void write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe);
 
 #endif

@@ -40,7 +40,7 @@ void send_error(int new_fd,char* write_pipe, int err, char* err_msg){
 } 
 
 void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
-	time_t now;
+	time_t now = time(0);
 	char buf_for_time[100];
 	char buff[PIPE_MAX];
 	memset(buff,0,PIPE_MAX);
@@ -69,21 +69,21 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 	int char_count = 0, end = 0;
 	for(end = start;end<PIPE_MAX;end++){
 		if(search_buf[end] == '\0') break;
-		char_count++;
 		if(search_buf[end] == '\r'){
-			ret_buf[end] = '\0';
+			ret_buf[char_count]='\0';
 			continue;
 		}
 		if(search_buf[end] == '\n'){
-			ret_buf[end] = '\0';
+			ret_buf[char_count] = '\0';
 			break;
 		}
-		ret_buf[end] = search_buf[end];
+		ret_buf[char_count] = search_buf[end];
+		char_count++;
 	}
 	
 	start = ++end;
 	//DEBUB PRINT STATEMENT
-	printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
+	//printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
 	return start;
 	
 }
@@ -94,33 +94,59 @@ int valid_method(char* method){
 	return FALSE;
 }
 
-int create_client_socket(char* url){
-	struct sockaddr_storage remote_addr;
-    socklen_t remote_addr_size;
-    struct addrinfo remote_hints, *remote_res;
-    int out_fd, data_size;
-    memset(&hints, 0, sizeof hints);
-    hints.ai_family = AF_INET; 
-    hints.ai_socktype = SOCK_STREAM;
-    hints.ai_flags = AI_PASSIVE;     // fill in my IP for me
-    if(getaddrinfo(NULL, port, &hints, &res) != 0){
-		error_print("unable to identify address");
-	}
-    // make a socket, bind it, and listen on it:
-    sockfd = socket(res->ai_family, res->ai_socktype, res->ai_protocol);
-    int on = 1;
-        if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, (char*)&on, sizeof(on)) < 0){
-            error_print("unable to set SO_REUSEADDR option");
-        }
-	if(sockfd == -1) error_print("socket build error");
-    if (bind(sockfd, res->ai_addr, res->ai_addrlen) == -1){ 
-		error_print("socket bind error");
-	}
-    //bind complete
-     
-    freeaddrinfo(res);
-
+int create_host_socket(char* host){
+	int sockfd, data_size,rv;
+	char* port = "80";
+	struct addrinfo hints, *servinfo;
+	  
+	memset(&hints,0,sizeof hints);
+	hints.ai_family = AF_INET;
+	hints.ai_socktype = SOCK_STREAM;
+	 
 	
+	  
+	  
+	//from beej.us online pdf document
+	if( (rv = getaddrinfo(host,port,&hints,&servinfo)) !=0){
+		fprintf(stderr,"addrinfo:%s\n",gai_strerror(rv));
+		return EXIT_FAILURE;
+	}
+	  
+	  
+	sockfd = socket(servinfo->ai_family,servinfo->ai_socktype,servinfo->ai_protocol);
+	if(sockfd == -1) error_print("socket build error");
+	if(connect(sockfd,servinfo->ai_addr,servinfo->ai_addrlen) == -1){
+		close(sockfd);
+		error_print("connect fail");
+	}
+	freeaddrinfo(servinfo);
+	return sockfd;
+}
+
+void write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe){
+	int write_data;
+	int data_read = write(out_fd,read_pipe,PIPE_MAX);
+	if(data_read < 0){
+		send_error(new_fd,write_pipe,500,"server error");
+		error_print("Unable to write to host");
+	}
+	
+	
+	while(data_read != 0){
+		memset(read_pipe,0,PIPE_MAX);
+		data_read = read(out_fd,read_pipe,PIPE_MAX);
+		if(data_read < 0){
+			send_error(new_fd,write_pipe,500,"server error");
+			error_print("Unable to receive from host");
+		}
+		printf("server response:\n%s\n",read_pipe);
+	
+		write_data = write(new_fd,read_pipe,PIPE_MAX);
+		if(write_data < 0){
+			//send_error(new_fd,write_pipe,500,"server error");
+			error_print("Unable to respond to host");
+		}
+	}
 }
 
 
