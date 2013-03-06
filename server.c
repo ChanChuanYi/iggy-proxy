@@ -33,11 +33,16 @@ int main(int argc,char** argv){
 	}
     // make a socket, bind it, and listen on it:
     sockfd = socket(res->ai_family, res->ai_socktype, res->ai_protocol);
+    int on = 1;
+        if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, (char*)&on, sizeof(on)) < 0){
+            error_print("unable to set SO_REUSEADDR option");
+        }
 	if(sockfd == -1) error_print("socket build error");
     if (bind(sockfd, res->ai_addr, res->ai_addrlen) == -1){ 
 		error_print("socket bind error");
 	}
     //bind complete
+     
     freeaddrinfo(res);
     
     
@@ -89,7 +94,12 @@ int main(int argc,char** argv){
 		     
 		     //DEBUG
 		     //send a 404 error
-		     send_error(new_fd,write_pipe,404,"(Not Found)");
+		     send_error(write_pipe,418,"I am a teapot");
+		     printf("sending to client:\n%s\n",write_pipe);
+		     data_size = write(new_fd,write_pipe,PIPE_MAX);
+		     if(data_size < 0 ){
+		     	error_print("unable to transmit to client");
+		     }
 		        
 		  }
 	 }

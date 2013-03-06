@@ -19,31 +19,42 @@ void error_print(char* message){
 
 void send_error(char* write_pipe, int err, char* err_msg){
 	memset(write_pipe,0,PIPE_MAX);
+	char buff[PIPE_MAX];
+	memset(buff,0,PIPE_MAX);
+	
 	set_headers(write_pipe,err,err_msg,TRUE);
-	sprintf(write_pipe,"\
-		<!DOCTYPE html>\n\
-		<html lang=en>\n\
-		<meta charset=utf-8>\n\
-		<title>%d %s</title>\n\
-		<p><b>%d</b> <ins>%s</ins>\n",
+	sprintf(buff,"\
+<!DOCTYPE html>\n\
+<html lang=en>\n\
+<meta charset=utf-8>\n\
+<title>%d %s</title>\n\
+<p><b>%d</b> <ins>%s</ins>\n\
+</html>",
 		err,err_msg,err,err_msg);
-	sprintf(write_pipe,"\r\n");
-	printf("to browser msg:\n%s\n",write_pipe);
+	strcat(write_pipe,buff);
 } 
 
 void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
 	time_t now;
 	char buf_for_time[100];
+	char buff[PIPE_MAX];
+	memset(buff,0,PIPE_MAX);
 	
-	sprintf(write_pipe,"%s %d %s\r\n","HTTP/1.1",status,status_msg);
-	sprintf(write_pipe,"Server: http://localhost\r\n");
+	sprintf(buff,"%s %d %s\r\n","HTTP/1.0",status,status_msg);
+	strcat(write_pipe,buff);
 	strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
-	sprintf(write_pipe,"Date: %s\r\n",buf_for_time);	
+	sprintf(buff,"Date: %s\r\n",buf_for_time);
+	strcat(write_pipe,buff);	
 	if(close_bool == TRUE){
-		sprintf(write_pipe,"Connection: close\n");
+		sprintf(buff,"Connection: close\n");
+		strcat(write_pipe,buff);
 	}
-	sprintf(write_pipe,"Content-Type: text/html; charset=UTF-8\r\n");
-	sprintf(write_pipe,"\r\n");
+	sprintf(buff,"Server: http://localhost\r\n");
+	strcat(write_pipe,buff);
+	sprintf(buff,"Content-Type: text/html; charset=UTF-8\r\n");
+	strcat(write_pipe,buff);
+	sprintf(buff,"\r\n");
+	strcat(write_pipe,buff);
 }
 
 
