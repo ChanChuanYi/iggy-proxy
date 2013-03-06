@@ -63,12 +63,14 @@ int main(int argc,char** argv){
       
       int child = fork();
       if(child == 0){
-      int itr = 0;
-      close(sockfd);
-      printf("A new connection has been established in child\n");
-      //connection is now accepted, time to send to connected client new_fd
-              
-      //while loop will handle commands
+      	//child variables
+      	char* method, uri, http;
+		  close(sockfd);
+		  printf("A new connection has been established in child\n");
+		  //connection is now accepted, time to send to connected client 
+		  //new_fd
+		          
+		  //while loop will handle commands
 		  while(TRUE){
 		    if(break_flag==TRUE){
 		      break_flag=FALSE;
@@ -91,7 +93,14 @@ int main(int argc,char** argv){
 		     }
 		     
 		     	start = get_next_string(start, read_pipe, line);
-		     	if(strlen(line)<=0)break;
+		     	if(strlen(line)<=0)
+		     	send_error(new_fd,write_pipe,404,"Bad Request");
+		     	
+		     	int n = sscanf(line, "%[^ ] %[^ ] %[^ ]", method, uri, http);
+		     	if(n!=3)send_error(new_fd,write_pipe,404,"Bad Request");
+		     	if( (strcmp(method,"GET")!=0) || (strcmp(method,"HEAD")!=0))
+		     		send_error(new_fd,write_pipe,500
+		     	
 		     
 		     
 		     
