@@ -18,6 +18,8 @@ int main(int argc,char** argv){
     int sockfd, new_fd, data_size;
 	char read_pipe[PIPE_MAX],write_pipe[PIPE_MAX];
 	int break_flag = FALSE;
+	int start, end = 0;
+	char line[LINE];
 	  
 	//1st check:user must enter a port number!
 	if(argc !=2){error_print("Usage: server [port number]");}
@@ -86,7 +88,14 @@ int main(int argc,char** argv){
 		         continue;
 		       }
 		     
-		     printf("from client on iteration:%d:\n%s\n",itr++,read_pipe);
+		     if( (read_pipe == (char*) 0) || (data_size == 0)){
+		     	send_error(new_fd,write_pipe,404,"Bad Request");
+		     	close(new_fd);
+		     	exit(EXIT_FAILURE);
+		     }
+		     
+		     get_next_string(&start, &end, read_pipe, line);
+		     
 		     if(strcmp(read_pipe,"exit") ==0){
 		      printf("exit received, terminating connection\n");
 		      break;
@@ -94,12 +103,9 @@ int main(int argc,char** argv){
 		     
 		     //DEBUG
 		     //send a 404 error
-		     send_error(write_pipe,418,"I am a teapot");
-		     printf("sending to client:\n%s\n",write_pipe);
-		     data_size = write(new_fd,write_pipe,PIPE_MAX);
-		     if(data_size < 0 ){
-		     	error_print("unable to transmit to client");
-		     }
+		     send_error(new_fd,write_pipe,418,"I am a teapot");
+		     //printf("sending to client:\n%s\n",write_pipe);
+		     
 		        
 		  }
 	 }

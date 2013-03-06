@@ -6,6 +6,7 @@
 #define PIPE_MAX 4096
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
+#define LINE 1024
 
 
 /////
@@ -15,7 +16,12 @@
 /////
 void error_print(char* message);
 
-
+/////
+//	grabs next string from buffer
+//  pre: assumes incoming buffer ends in a \n
+//  post: return buffer will contain next string
+/////
+void get_next_string(int start, int end, char* search_buf, char* ret_buf);  
 
 /////
 //	forms an error HTTP request that will be sent to the user
@@ -23,7 +29,7 @@ void error_print(char* message);
 //       user
 //  post: user will be alerted of error type
 /////
-void send_error(char* write_pipe,int error,char* err_msg);
+void send_error(int new_fd,char* write_pipe,int error,char* err_msg);
 
 /////
 //	sets the content headers
