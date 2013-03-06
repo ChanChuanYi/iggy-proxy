@@ -64,14 +64,27 @@ void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
 	strcat(write_pipe,buff);
 }
 
-void get_next_string(int start, int end, char* search_buf, char* ret_buf){
-	for(end = start; search_buf[end] != '\n';end++){
-		if(search_buf[end] == '\r')search_buf[end]='\0';
+int get_next_string(int start, char* search_buf, char* ret_buf){
+	//printf("get_next_string search_buf:\n%s\n",search_buf);
+	int char_count = 0, end = 0;
+	for(end = start;end<PIPE_MAX;end++){
+		if(search_buf[end] == '\0') break;
+		char_count++;
+		if(search_buf[end] == '\r'){
+			search_buf[end] = '\0';
+		}
+		if(search_buf[end] == '\n'){
+			search_buf[end] = '\0';
+			break;
+		}
 	}
-	if(search_buf[end]=='\n') search_buf[end]='\0';
-	strncpy(ret_buf,start,end); 
+	strncpy(ret_buf,search_buf+start,char_count);
+	
 	start = ++end;
-	printf("String grabbed:%s\n",ret_buf);
+	//DEBUB PRINT STATEMENT
+	//printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
+	return start;
+	
 }
 
 

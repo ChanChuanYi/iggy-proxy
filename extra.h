@@ -20,8 +20,10 @@ void error_print(char* message);
 //	grabs next string from buffer
 //  pre: assumes incoming buffer ends in a \n
 //  post: return buffer will contain next string
+//	NOTE: this will return buffer with a start regardless of it being a string 
+//		  or not. User should check string size via strlen() to validate string
 /////
-void get_next_string(int start, int end, char* search_buf, char* ret_buf);  
+int get_next_string(int start, char* search_buf, char* ret_buf);  
 
 /////
 //	forms an error HTTP request that will be sent to the user

@@ -49,10 +49,6 @@ int main(int argc,char** argv){
     
     
     while(TRUE){
-      if(break_flag == TRUE){
-        close(new_fd);
-        break_flag=FALSE;
-      }
       
       listen(sockfd, BACKLOG);
       // now accept an incoming connection:
@@ -69,7 +65,7 @@ int main(int argc,char** argv){
       if(child == 0){
       int itr = 0;
       close(sockfd);
-      printf("A new connection has been established\n");
+      printf("A new connection has been established in child\n");
       //connection is now accepted, time to send to connected client new_fd
               
       //while loop will handle commands
@@ -94,12 +90,10 @@ int main(int argc,char** argv){
 		     	exit(EXIT_FAILURE);
 		     }
 		     
-		     get_next_string(&start, &end, read_pipe, line);
+		     	start = get_next_string(start, read_pipe, line);
+		     	if(strlen(line)<=0)break;
 		     
-		     if(strcmp(read_pipe,"exit") ==0){
-		      printf("exit received, terminating connection\n");
-		      break;
-		     }
+		     
 		     
 		     //DEBUG
 		     //send a 404 error
@@ -109,6 +103,7 @@ int main(int argc,char** argv){
 		        
 		  }
 	 }
+	 printf("parent closing new_fd\n");
      close(new_fd);
      }
        
