@@ -8,6 +8,13 @@
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
 
+/////
+//	creates a socket for transmission to remote server and returns the socket
+//	to the caller of the function
+//	pre:	url string is a valid host address
+//	post:	socket will pre opened and returned to caller, else -1 for error
+/////
+int create_client_socket(char* url);
 
 /////
 //	prints errors to stderr
@@ -39,5 +46,12 @@ void send_error(int new_fd,char* write_pipe,int error,char* err_msg);
 //  post:	headers will be set for the write_pipe
 /////
 void set_headers(char* write_pipe, int status, char* status_msg,int close_bool);
+
+/////
+//	simple function that checks if http method is GET or HEAD. It will return
+//  TRUE if method is HEAD or GET and FALSE if anything else
+//	pre: 	valid method string is assumed
+//	post: 	no data is mutated, simple int return value
+int valid_method(char* method); 
 
 #endif

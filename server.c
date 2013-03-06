@@ -64,9 +64,12 @@ int main(int argc,char** argv){
       int child = fork();
       if(child == 0){
       	//child variables
-      	char* method, uri, http;
+      	char method[LINE];
+      	char url[LINE];
+      	char http[LINE];
+      	int out_fd;
 		  close(sockfd);
-		  printf("A new connection has been established in child\n");
+		  //printf("A new connection has been established in child\n");
 		  //connection is now accepted, time to send to connected client 
 		  //new_fd
 		          
@@ -93,15 +96,24 @@ int main(int argc,char** argv){
 		     }
 		     
 		     	start = get_next_string(start, read_pipe, line);
-		     	if(strlen(line)<=0)
-		     	send_error(new_fd,write_pipe,404,"Bad Request");
+		     	if(strlen(line)<=0){
+		     		send_error(new_fd,write_pipe,404,"Bad Request");
+		     		continue;
+		     	}
 		     	
-		     	int n = sscanf(line, "%[^ ] %[^ ] %[^ ]", method, uri, http);
-		     	if(n!=3)send_error(new_fd,write_pipe,404,"Bad Request");
-		     	if( (strcmp(method,"GET")!=0) || (strcmp(method,"HEAD")!=0))
-		     		send_error(new_fd,write_pipe,500
+		     	printf("valid line, attempting to parse\n");
+		     	int n = sscanf(line, "%s %s %s", method, url, http);
+		     	if(n!=3){
+		     		send_error(new_fd,write_pipe,404,"Bad Request");
+		     		continue;
+		     	}
+		     	if(!valid_method(method)){
+		     		printf("not a valid method, sending 501 error\n");
+		     		send_error(new_fd,write_pipe,501,"Not Implemented");
+		     		continue;
+		     	}
 		     	
-		     
+		     out_fd = create_client_socket(url);
 		     
 		     
 		     //DEBUG
@@ -112,7 +124,7 @@ int main(int argc,char** argv){
 		        
 		  }
 	 }
-	 printf("parent closing new_fd\n");
+	 //printf("parent closing new_fd\n");
      close(new_fd);
      }
        

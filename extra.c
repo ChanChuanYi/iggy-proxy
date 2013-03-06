@@ -71,22 +71,57 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 		if(search_buf[end] == '\0') break;
 		char_count++;
 		if(search_buf[end] == '\r'){
-			search_buf[end] = '\0';
+			ret_buf[end] = '\0';
+			continue;
 		}
 		if(search_buf[end] == '\n'){
-			search_buf[end] = '\0';
+			ret_buf[end] = '\0';
 			break;
 		}
+		ret_buf[end] = search_buf[end];
 	}
-	strncpy(ret_buf,search_buf+start,char_count);
 	
 	start = ++end;
 	//DEBUB PRINT STATEMENT
-	//printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
+	printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
 	return start;
 	
 }
 
+int valid_method(char* method){
+	if(strcmp(method,"GET")==0)return TRUE;
+	if(strcmp(method,"HEAD")==0)return TRUE;
+	return FALSE;
+}
+
+int create_client_socket(char* url){
+	struct sockaddr_storage remote_addr;
+    socklen_t remote_addr_size;
+    struct addrinfo remote_hints, *remote_res;
+    int out_fd, data_size;
+    memset(&hints, 0, sizeof hints);
+    hints.ai_family = AF_INET; 
+    hints.ai_socktype = SOCK_STREAM;
+    hints.ai_flags = AI_PASSIVE;     // fill in my IP for me
+    if(getaddrinfo(NULL, port, &hints, &res) != 0){
+		error_print("unable to identify address");
+	}
+    // make a socket, bind it, and listen on it:
+    sockfd = socket(res->ai_family, res->ai_socktype, res->ai_protocol);
+    int on = 1;
+        if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, (char*)&on, sizeof(on)) < 0){
+            error_print("unable to set SO_REUSEADDR option");
+        }
+	if(sockfd == -1) error_print("socket build error");
+    if (bind(sockfd, res->ai_addr, res->ai_addrlen) == -1){ 
+		error_print("socket bind error");
+	}
+    //bind complete
+     
+    freeaddrinfo(res);
+
+	
+}
 
 
   
