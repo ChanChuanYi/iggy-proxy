@@ -1,0 +1,16 @@
+Ignacio Llamas Avalos Jr
+illamasa@ucsc.edu
+1252148
+
+CMPE 156 Winter 2013
+March 6, 2013
+
+**specifications**
+
+In order to keep the design of the server/client relationship as simple
+as possible,the following guidelines and assumptions were used:
+-TCP will ensure messages from server will reach client and vise-versa
+
+To that end, the program only relies on the 3 way handshake provided by TCP
+and will not authenticate further. The client mearly needs to establish a 
+connection and is immediately able to start parsing HTTP requests

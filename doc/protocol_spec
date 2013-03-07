@@ -1,0 +1,23 @@
+Ignacio Llamas Avalos Jr
+illamasa@ucsc.edu
+1252148
+
+CMPE 156 Winter 2013
+March 6, 2013
+
+**PROTOCOL SPEC**
+Basic design of server is as follows:
+	Establish socket to the port provided by user
+	Listen for new connections
+	Create a new process for each incoming connection
+	  Read the request
+	  if request is not GET or HEAD send error and listen for more connections
+	  log request received and method
+	  if host is not in request send error and listen for more connections
+	  log request url and host
+	  send request to server and wait for response
+	  while server has stuff to consume, fill buffer and send to browser
+	  if server buffer contained Connection:close end the process
+	  else go back for more requests
+	continue listening for more clients	
+	  
