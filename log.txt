@@ -1,0 +1,200 @@
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.dolphin-emulator.com
+	URL: http://www.dolphin-emulator.com/
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: enigmaticmuffin.deviantart.com
+	URL: http://enigmaticmuffin.deviantart.com/art/Ouroboros-Something-293367022?q=boost%3Apopular%20ouroboros&qo=306
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th03.deviantart.net
+	URL: http://th03.deviantart.net/fs71/150/i/2012/347/f/8/the_excalibur_by_enigmaticmuffin-d5nyphi.jpg
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th09.deviantart.net
+	URL: http://th09.deviantart.net/fs71/150/f/2012/269/8/a/hair_colours_collection_by_neko_vi-d5fw0ox.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: st.deviantart.net
+	URL: http://st.deviantart.net/minish/main/defaulttag2.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/116/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: st.deviantart.net
+	URL: http://st.deviantart.net/minish/main/v7footer/left_chisel.png?2
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/57/small3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/100/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: st.deviantart.net
+	URL: http://st.deviantart.net/minish/main/v7footer/right_notch.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/76/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/100/150/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.google-analytics.com
+	URL: http://www.google-analytics.com/ga.js
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: b.scorecardresearch.com
+	URL: http://b.scorecardresearch.com/b?c1=2&c2=8112885&ns__t=1362636612727&ns_c=ISO-8859-1&c8=Ouroboros%20Something%20by%20~Enigmaticmuffin%20on%20deviantART&c7=http%3A%2F%2Fenigmaticmuffin.deviantart.com%2Fart%2FOuroboros-Something-293367022%3Fq%3Dboost%253Apopular%2520ouroboros%26qo%3D306&c9=
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: www.google.com
+	URL: www.google.com:443
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: fbstatic-a.akamaihd.net
+	URL: fbstatic-a.akamaihd.net:443
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: static.tumblr.com
+	URL: http://static.tumblr.com/eatauj5/aBHly2e80/jquery-1.7.1.min.js
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: deadpathogen.tumblr.com
+	URL: http://deadpathogen.tumblr.com/post/29385314159/photoset_iframe/cynicalmoderate/tumblr_m8q7f1reRS1r4o5jm/250/false
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: deadpathogen.tumblr.com
+	URL: http://deadpathogen.tumblr.com/post/43552282568/photoset_iframe/bipoehler-disorder/tumblr_miibboLl601r9vkgb/250/false
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: www.facebook.com
+	URL: www.facebook.com:443
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.youtube.com
+	URL: http://www.youtube.com/
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: lekabr.deviantart.com
+	URL: http://lekabr.deviantart.com/art/ouroboros-and-solomons-seal-159140445?q=boost%3Apopular%20ouroboros&qo=887
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: a.deviantart.net
+	URL: http://a.deviantart.net/littags/r/b/a/lekabr.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/75/28/null.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th04.deviantart.net
+	URL: http://th04.deviantart.net/fs71/150/f/2010/075/0/1/Edted__New_sign___father_by_lekabr.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/104/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th03.deviantart.net
+	URL: http://th03.deviantart.net/fs71/150/i/2010/078/c/6/FanArt__Meu_caderno_de_2009_by_lekabr.jpg
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th09.deviantart.net
+	URL: http://th09.deviantart.net/fs71/150/i/2012/337/a/d/different_point_of_view_by_kara_a-d5mwqsb.jpg
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/56/75/null.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/150/92/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th03.deviantart.net
+	URL: http://th03.deviantart.net/fs71/150/f/2010/076/3/e/edited_and_gift_sign_greeling_by_lekabr.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sh.deviantart.net
+	URL: http://sh.deviantart.net/shadow/x/105/150/logo3.png
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th06.deviantart.net
+	URL: http://th06.deviantart.net/fs70/150/i/2012/335/3/f/q_by_devilkero-d5mrtlg.jpg
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: th04.deviantart.net
+	URL: http://th04.deviantart.net/fs71/150/f/2011/299/a/d/autumn_faery_witch_by_jbrommers-d4e1ypi.jpg
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: b.scorecardresearch.com
+	URL: http://b.scorecardresearch.com/b?c1=2&c2=8112885&ns__t=1362636682320&ns_c=ISO-8859-1&c8=ouroboros-and-solomons-seal%20by%20~lekabr%20on%20deviantART&c7=http%3A%2F%2Flekabr.deviantart.com%2Fart%2Fouroboros-and-solomons-seal-159140445%3Fq%3Dboost%253Apopular%2520ouroboros%26qo%3D887&c9=
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.gravatar.com
+	URL: http://www.gravatar.com/avatar/be9e4cbcfa96b7e4ad4bc28c88cfdb2b?s=32&d=identicon&r=PG
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.gravatar.com
+	URL: http://www.gravatar.com/avatar/d458bc475f0e0cc0a8d11325db2d9621?s=32&d=identicon&r=PG
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: answers.yahoo.com
+	URL: http://answers.yahoo.com/question/index?qid=20110409200845AAjJZnf
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.gravatar.com
+	URL: http://www.gravatar.com/avatar/100a6c42a31a56e882475725d65537f8?s=32&d=identicon&r=PG
+Thu, 07 Mar 2013 06:09:28 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: answers.yahoo.com
+	URL: http://answers.yahoo.com/favicon.ico

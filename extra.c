@@ -35,8 +35,7 @@ void send_error(int new_fd,char* write_pipe, int err, char* err_msg){
 	strcat(write_pipe,buff);
 	int data_size = write(new_fd,write_pipe,PIPE_MAX);
 		     if(data_size < 0 ){
-		     	sprintf(write_pipe,"unable to transmit to client PID:%d",(int)getpid());
-		     	error_print(write_pipe);
+		     	error_print("unable to send to client");
 		     }
 } 
 
@@ -68,7 +67,7 @@ void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
 int get_next_string(int start, char* search_buf, char* ret_buf){
 	//printf("get_next_string search_buf:\n%s\n",search_buf);
 	int char_count = 0, end = 0;
-	for(end = start;end<PIPE_MAX;end++){
+	for(end = start;;end++){
 		if(search_buf[end] == '\0') break;
 		if(search_buf[end] == '\r'){
 			ret_buf[char_count]='\0';
@@ -125,28 +124,28 @@ int create_host_socket(char* host){
 }
 
 char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe){
-	printf("PID:%d write_to_host called\n",(int)getpid());
+	//printf("PID:%d write_to_host called\n",(int)getpid());
 	int host_data_out,host_data_in, client_data;
 	
 	host_data_out = write(out_fd, read_pipe,PIPE_MAX);
 	if(host_data_out <0){
 			send_error(new_fd,write_pipe,500,"proxy error");
 	}
-	printf("PID:%d wrote to host request:\n%s\n",(int)getpid(),read_pipe);
+	//printf("PID:%d wrote to host request:\n%s\n",(int)getpid(),read_pipe);
 	do{
 	memset(write_pipe,0,PIPE_MAX);
 	host_data_in = read(out_fd, write_pipe, PIPE_MAX);
 	if(host_data_in < 0){
 		send_error(new_fd,write_pipe,500,"internet read error");
 	}
-	printf("PID:%d just read %d bytes from host\n",(int)getpid(),host_data_in);
+	//printf("PID:%d just read %d bytes from host\n",(int)getpid(),host_data_in);
 	client_data = write(new_fd,write_pipe,host_data_in);
 	if(client_data < 0){
 		send_error(new_fd,write_pipe,500,"client data write error");
 	}
-	printf("PID:%d just wrote %d bytes to client response:\n%s\n",(int)getpid(),client_data,write_pipe);
+	//printf("PID:%d just wrote %d bytes to client response:\n%s\n",(int)getpid(),client_data,write_pipe);
 	}while(host_data_in > 0);
-	printf("PID:%d job done, returning to server main()\n",(int)getpid());
+	//printf("PID:%d job done, returning to server main()\n",(int)getpid());
 }
 
 int close_is_true(char* write_pipe){
