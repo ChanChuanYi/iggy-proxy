@@ -48,8 +48,14 @@ int main(int argc,char** argv){
     freeaddrinfo(res);
     printf("server is now bound to port:%s\n",port);
     
+    //start the log
+    FILE *tmp_out;
+    tmp_out = fopen("log.txt","a+");//open output file in read-only
+    if(tmp_out == 0)error_print("unable to open log\n");
+    
+    
     while(TRUE){
-      printf("listening for a new connection\n");
+      printf("PID:%d listening for a new connection\n",(int)getpid());
       listen(sockfd, BACKLOG);
       // now accept an incoming connection:
       addr_size = sizeof their_addr;
@@ -59,11 +65,11 @@ int main(int argc,char** argv){
         fprintf(stderr,"unable to  on accept establish connection\n");
         continue;  
       }
-      printf("new connection has been established, preparing to fork, current fd:%d\n",new_fd);
+      printf("PID:%d New connection has been established\n",(int)getpid());
       
       int child = fork();
       if(child == 0){
-      	printf("I am in the fork, current fd:%d\n",new_fd);
+      	printf("PID:%d I am in the fork\n",(int)getpid());
       	//child variables
       	char method[LINE];
       	char url[LINE];
@@ -71,18 +77,11 @@ int main(int argc,char** argv){
       	char arg[LINE];
       	char host[LINE];
       	int out_fd;
-		  close(sockfd);
+      	close(sockfd);
+      	printf("PID:%d close(sockfd)\n",(int)getpid());
 		  //printf("A new connection has been established in child\n");
 		  //connection is now accepted, time to send to connected client 
 		  //new_fd
-		          
-		  //while loop will handle commands
-		  while(TRUE){
-		  	printf("top of child while loop\n");
-		    if(break_flag==TRUE){
-		      break_flag=FALSE;
-		      break;
-		    }
 		     //command read
 		     data_size=0;
 		     memset(read_pipe,0,PIPE_MAX);
@@ -98,8 +97,7 @@ int main(int argc,char** argv){
 		     	close(new_fd);
 		     	exit(EXIT_FAILURE);
 		     }
-		     printf("from the client:\n%s\n",read_pipe);
-		     
+		     printf("PID:%d request:\n%s\n",(int)getpid(),read_pipe);
 		     	start = get_next_string(start, read_pipe, line);
 		     	if(strlen(line)<=0){
 		     		send_error(new_fd,write_pipe,404,"Bad Request");
@@ -130,21 +128,20 @@ int main(int argc,char** argv){
 		     	if(strcmp(arg,"Host:")!=0){
 		     		send_error(new_fd,write_pipe,404,"Bad Request - No host");
 		     		continue;
-		     	}
-		     	printf("host:%s\n",host);
-		     	printf("attemptig to create connection to host\n");		     	
+		     	}		     	
 		     	out_fd = create_host_socket(host);
-		     	printf("connection to host established\n");
-		     	
 		     	write_to_host(out_fd,new_fd,read_pipe,write_pipe);
-		     	close(out_fd);
-		        
+		     	if(close_is_true(write_pipe))break;
+		  		close(new_fd);
+		  		close(out_fd);
+		  		printf("PID:%d closing fork and close(new_fd) close(out_fd)\n",(int)getpid());
+		  		break;
 		  }
-	 }
 	 //printf("parent closing new_fd\n");
      close(new_fd);
+     printf("PID:%d close(new_fd)\n",(int)getpid());
      }
-       
+    fclose(tmp_out);   
     return(EXIT_SUCCESS);
 }
           

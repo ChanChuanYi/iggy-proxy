@@ -3,10 +3,17 @@
 
 #define FALSE 0
 #define TRUE 1
-#define PIPE_MAX 8192
+#define PIPE_MAX 100000
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
+
+/////
+//	goes through response and looks for Connection: close
+//	pre:	write_pipe is a valid response
+//	post:	if Connection:close is found, return TRUE else return FALSE
+/////
+int close_is_true(char* write_pipe);
 
 /////
 //	creates a socket for transmission to remote server and returns the socket
@@ -60,6 +67,6 @@ int valid_method(char* method);
 //	pre:	host is connected, client is connected, read and write are valid
 //	post:	write to host performed and client received response or error
 /////
-void write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe);
+char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe);
 
 #endif

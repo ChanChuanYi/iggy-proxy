@@ -35,7 +35,8 @@ void send_error(int new_fd,char* write_pipe, int err, char* err_msg){
 	strcat(write_pipe,buff);
 	int data_size = write(new_fd,write_pipe,PIPE_MAX);
 		     if(data_size < 0 ){
-		     	error_print("unable to transmit to client");
+		     	sprintf(write_pipe,"unable to transmit to client PID:%d",(int)getpid());
+		     	error_print(write_pipe);
 		     }
 } 
 
@@ -123,29 +124,38 @@ int create_host_socket(char* host){
 	return sockfd;
 }
 
-void write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe){
-	int write_data;
-	int data_read = write(out_fd,read_pipe,PIPE_MAX);
-	if(data_read < 0){
-		send_error(new_fd,write_pipe,500,"server error");
-		error_print("Unable to write to host");
+char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe){
+	printf("PID:%d write_to_host called\n",(int)getpid());
+	int host_data_out,host_data_in, client_data;
+	
+	host_data_out = write(out_fd, read_pipe,PIPE_MAX);
+	if(host_data_out <0){
+			send_error(new_fd,write_pipe,500,"proxy error");
 	}
-	
-	
-	while(data_read != 0){
-		memset(read_pipe,0,PIPE_MAX);
-		data_read = read(out_fd,read_pipe,PIPE_MAX);
-		if(data_read < 0){
-			send_error(new_fd,write_pipe,500,"server error");
-			error_print("Unable to receive from host");
-		}
-		printf("server response:\n%s\n",read_pipe);
-	
-		write_data = write(new_fd,read_pipe,PIPE_MAX);
-		if(write_data < 0){
-			//send_error(new_fd,write_pipe,500,"server error");
-			error_print("Unable to respond to host");
-		}
+	printf("PID:%d wrote to host request:\n%s\n",(int)getpid(),read_pipe);
+	do{
+	memset(write_pipe,0,PIPE_MAX);
+	host_data_in = read(out_fd, write_pipe, PIPE_MAX);
+	if(host_data_in < 0){
+		send_error(new_fd,write_pipe,500,"internet read error");
+	}
+	printf("PID:%d just read %d bytes from host\n",(int)getpid(),host_data_in);
+	client_data = write(new_fd,write_pipe,host_data_in);
+	if(client_data < 0){
+		send_error(new_fd,write_pipe,500,"client data write error");
+	}
+	printf("PID:%d just wrote %d bytes to client response:\n%s\n",(int)getpid(),client_data,write_pipe);
+	}while(host_data_in > 0);
+	printf("PID:%d job done, returning to server main()\n",(int)getpid());
+}
+
+int close_is_true(char* write_pipe){
+	int start;
+	char buf[LINE];
+	while(start < PIPE_MAX){
+		start = get_next_string(start, write_pipe, buf);
+		if(strlen(buf)==0)return FALSE;
+		if(strcmp(buf,"Connection: close")==0)return TRUE;
 	}
 }
 
