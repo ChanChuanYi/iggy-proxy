@@ -91,10 +91,12 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 int valid_method(char* method){
 	if(strcmp(method,"GET")==0)return TRUE;
 	if(strcmp(method,"HEAD")==0)return TRUE;
+	printf("PID:%d %s is not GET or HEAD. Returning FALSE.\n",
+		(int)getpid(),method);
 	return FALSE;
 }
 
-int create_host_socket(char* host){
+int create_host_socket(char* host,int client_fd,char* write_pipe){
 	int sockfd, data_size,rv;
 	char* port = "80";
 	struct addrinfo hints, *servinfo;
@@ -104,12 +106,14 @@ int create_host_socket(char* host){
 	hints.ai_socktype = SOCK_STREAM;
 	 
 	
-	  
+	
 	  
 	//from beej.us online pdf document
 	if( (rv = getaddrinfo(host,port,&hints,&servinfo)) !=0){
-		fprintf(stderr,"addrinfo:%s\n",gai_strerror(rv));
-		return EXIT_FAILURE;
+		fprintf(stderr,"PID:%d host:%s port:%s addrinfo:%s\n",
+			(int)getpid(),host,port,gai_strerror(rv));
+		printf("returning an address error error\n");
+		return rv;
 	}
 	  
 	  
@@ -164,8 +168,9 @@ int close_is_true(char* write_pipe){
 	}
 }
 
-void call_death(FILE* d_out,int fd,char* err_msg){
+void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* req_err){
 	fprintf(d_out,"PID:%d %s, preparing to end uncleanly\n",(int)getpid(),err_msg);
+	send_error(fd,write_pipe, int err, char* err_msg)
 	close(fd);
 	error_print(err_msg);
 	

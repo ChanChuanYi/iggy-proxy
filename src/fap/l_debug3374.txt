@@ -1,0 +1,9 @@
+PID:3374 Child:Fork has been created
+PID:3374 request:
+CONNECT github.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Proxy-Connection: keep-alive
+Host: github.com
+
+
+PID:3374 not a valid method, preparing to end uncleanly

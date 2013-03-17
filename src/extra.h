@@ -3,7 +3,7 @@
 
 #define FALSE 0
 #define TRUE 1
-#define PIPE_MAX 100000
+#define PIPE_MAX 4096
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
@@ -28,7 +28,7 @@ int close_is_true(char* write_pipe);
 //	pre:	url string is a valid host address
 //	post:	socket will pre opened and returned to caller, else -1 for error
 /////
-int create_host_socket(char* host);
+int create_host_socket(char* host,int client_fd,char* write_pipe);
 
 /////
 //	prints errors to stderr

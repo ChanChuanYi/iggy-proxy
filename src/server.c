@@ -113,17 +113,12 @@ int main(int argc,char** argv){
 		     
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	fprintf(d_out,"PID:%d get_next_string read less than 0\n",(int)getpid());
-		    	send_error(new_fd,write_pipe,404,"Bad Request");
-		    	close(new_fd);
-		    	break;
+		    	call_death(d_out,new_fd,"Not a valid request line");
 		    }
 		     	
 		    int n = sscanf(line, "%s %s %s", method, url, http);
 		    if(n!=3){
-		    	fprintf(d_out,"PID:%d bad request, bad form\n%s\n",(int)getpid(),line);
-		    	send_error(new_fd,write_pipe,404,"Bad Request");
-		    	break;
+		    	call_death(d_out,new_fd,"line does not contain 3 tokens");
 		    }
 		    
 		    
@@ -134,11 +129,9 @@ int main(int argc,char** argv){
 		    fprintf(tmp_out,"\tHTTP Version: %s\n",http); 
 		    
 		    //checking for valid method
+		    printf("PID:%d calling valid_method with:%s\n",(int)getpid(),method);
 		    if(!valid_method(method)){
-		    	fprintf(d_out,"PID:%d bad method detected:\n%s\n",(int)getpid(),method);
-		    	send_error(new_fd,write_pipe,501,"Not Implemented");
-		    	close(new_fd);
-		    	break;
+		    	call_death(d_out,new_fd,"not a valid method");
 		    }
 		    
 		    start = get_next_string(start, read_pipe, line);
@@ -160,7 +153,12 @@ int main(int argc,char** argv){
 		    }
 		    fprintf(tmp_out,"\tHost: %s\n",host);
 		    fprintf(tmp_out,"\tURL: %s\n",url);
-		    out_fd = create_host_socket(host);
+		    out_fd = create_host_socket(host,new_fd,write_pipe);
+		    printf("PID:%d out_fd returned:%d\n",(int)getpid(),out_fd);
+		    if(out_fd < 0){
+		    	send_error(new_fd,write_pipe,500,"Server Error");
+		    	call_death(d_out,new_fd,"unable to build host socket");
+		    }
 		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
 		  	close(new_fd);
 		  	close(out_fd);
