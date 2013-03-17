@@ -1,0 +1,50 @@
+Sun, 17 Mar 2013 00:17:27 GMT
+	Method: GET
+	HTTP Version: HTTP/1.0
+	Host: linuxmint.com
+	URL: http://www.linuxmint.com/tmp/blog/2327/thumb_mdmlogin.png
+Sun, 17 Mar 2013 00:32:55 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/cssbin/www-home-vflHysgm_.css
+Sun, 17 Mar 2013 00:37:30 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.youtube.com
+	URL: http://www.youtube.com/favicon.ico
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients2.google.com
+	URL: clients2.google.com:443
+Sun, 17 Mar 2013 00:44:06 GMT
+	Method: CONNECT
+	HTTP Version: HTTP/1.1
+	Host: clients4.google.com
+	URL: clients4.google.com:443
