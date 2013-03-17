@@ -1,0 +1,44 @@
+PID:3644 Child:Fork has been created
+PID:3644 request:
+GET http://content.dl-rms.com/rms/mother/5721/nodetag.js HTTP/1.1
+Host: content.dl-rms.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3644 wrote to host request:
+GET http://content.dl-rms.com/rms/mother/5721/nodetag.js HTTP/1.1
+Host: content.dl-rms.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3644 just read 552 bytes from host
+PID:3644 just wrote 552 bytes to client response:
+HTTP/1.1 404 Not Found
+Date: Sun, 17 Mar 2013 22:19:27 GMT
+Vary: Accept-Encoding
+Content-Length: 341
+Keep-Alive: timeout=120, max=1000
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /origin.dl-rms.com/html/http://content.dl-rms.com/rms/mother/5721/nodetag.js was not found on this server.</p>
+<hr>
+<address>Apache Server at content.dl-rms.com Port 80</address>
+</body></html>
+
+PID:3644 pipe error occured, preparing to end uncleanly

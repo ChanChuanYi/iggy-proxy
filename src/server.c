@@ -64,23 +64,30 @@ int main(int argc,char** argv){
       
       	new_fd = accept(sockfd, (struct sockaddr *)&their_addr, &addr_size);
       	if(new_fd == -1){
-        	fprintf(stderr,"unable to  on accept establish connection\n");
+        	error_print("unable to accept() a connection");
         	continue;  
       	}
       	printf("PID:%d New connection has been established\n",(int)getpid());
       
       	int child = fork();
-      	printf("fork ran\n");
       	if(child == 0){
       		printf("PID:%d Fork has been created\n",(int)getpid());
+      		close(sockfd);
+      		
+      		
       		//debug stuff
+      		printf("PID:%d Child close(sockfd)\n",(int)getpid());
+      		
       		char filename[LINE];
       		sprintf(filename,"fap/l_debug%d.txt",(int)getpid());
+      		
       		FILE *d_out;
     		d_out = fopen(filename,"a+");//open output file in read-only
     		if(d_out == 0)error_print("create debug log\n");
+      		
       		fprintf(d_out,"PID:%d Child:Fork has been created\n",(int)getpid());
-      	
+      		printf("opened %s for debugging",filename);
+      		
       		//child variables
       		char method[LINE];
       		char url[LINE];
@@ -89,36 +96,39 @@ int main(int argc,char** argv){
       		char host[LINE];
       		char buf_for_time[LINE];
       		int out_fd;
-      		close(sockfd);
-      		printf("PID:%d Child: close(sockfd)\n",(int)getpid());
+      		
+      		
 			//connection is now accepted, time to send to connected client 
 			//new_fd
 			//command read
 			data_size=0;
 			memset(read_pipe,0,PIPE_MAX);
+			
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
-			if(data_size < 0){
-				call_death(d_out,new_fd,"initial read pipe returned < 0");
+			if(data_size <= 0){
+				call_death(d_out,new_fd,500,"initial read pipe returned <= 0",
+				write_pipe,"Server error, unable to read from pipe");
 			}
 		     
-			if( (read_pipe == (char*) 0) || (data_size == 0)){
-				fprintf(d_out,"PID:%d received a bad request\n",(int)getpid());
-				send_error(new_fd,write_pipe,404,"Bad Request");
-		    	close(new_fd);
-		    	break;
-			}
+			//fill time for log printing
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
+		    
+		    //debug statements 
 		    printf("PID:%d request:\n%s\n",(int)getpid(),read_pipe);
 		    fprintf(d_out,"PID:%d request:\n%s\n",(int)getpid(),read_pipe);
-		     
+		    
+		    //grab string from request
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	call_death(d_out,new_fd,"Not a valid request line");
+		    	call_death(d_out,new_fd,500,"did not read a proper line",
+				write_pipe,"Server error, not a valid request");
 		    }
-		     	
+		    
+		    //parse 1st line  	
 		    int n = sscanf(line, "%s %s %s", method, url, http);
 		    if(n!=3){
-		    	call_death(d_out,new_fd,"line does not contain 3 tokens");
+		    	call_death(d_out,new_fd,500,"not enough tokens read",
+				write_pipe,"Server error, unable to parse request");
 		    }
 		    
 		    
@@ -129,35 +139,34 @@ int main(int argc,char** argv){
 		    fprintf(tmp_out,"\tHTTP Version: %s\n",http); 
 		    
 		    //checking for valid method
-		    printf("PID:%d calling valid_method with:%s\n",(int)getpid(),method);
+		    printf("PID:%d calling valid_method() with:%s\n",(int)getpid(),method);
 		    if(!valid_method(method)){
-		    	call_death(d_out,new_fd,"not a valid method");
+		    	call_death(d_out,new_fd,505,"received a method not implemented",
+				write_pipe,"Server error, not implemented");
 		    }
 		    
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	fprintf(d_out,"PID:%d http read error:\n%s\n",(int)getpid(),line);
-		    	send_error(new_fd,write_pipe,404,"Bad Request");
-		    	close(new_fd);
-		    	break;
+		    	call_death(d_out,new_fd,500,"unable to parse host",
+				write_pipe,"Server error, host line read error");
 		    }
 		    
 		    n = sscanf(line, "%s %s", arg,host);
 		    if(n!=2){
-		    	send_error(new_fd,write_pipe,404,"Bad Request - No host");
-		    	fprintf(d_out,"PID:%d did not recognize host\n",(int)getpid());
+		    	call_death(d_out,new_fd,500,"initial read pipe returned < 0",
+				write_pipe,"Server error, not enough tokens in host line");
 		    }
 		    if(strcmp(arg,"Host:")!=0){
-		    	send_error(new_fd,write_pipe,404,"Bad Request - No host");
-		    	fprintf(d_out,"PID:%d did not recognize host\n",(int)getpid());
+		    	call_death(d_out,new_fd,500,"read something other than host",
+					write_pipe,"Server error, no host detected");
 		    }
 		    fprintf(tmp_out,"\tHost: %s\n",host);
 		    fprintf(tmp_out,"\tURL: %s\n",url);
 		    out_fd = create_host_socket(host,new_fd,write_pipe);
 		    printf("PID:%d out_fd returned:%d\n",(int)getpid(),out_fd);
 		    if(out_fd < 0){
-		    	send_error(new_fd,write_pipe,500,"Server Error");
-		    	call_death(d_out,new_fd,"unable to build host socket");
+		    	call_death(d_out,new_fd,500,"unable to build host socket",
+				write_pipe,"Server error, unable to connect to host");
 		    }
 		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
 		  	close(new_fd);

@@ -1,0 +1,43 @@
+PID:3581 Child:Fork has been created
+PID:3581 request:
+GET http://i.cdn.turner.com/cnn/.e/img/3.0/global/icons/gallery_icon.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3581 wrote to host request:
+GET http://i.cdn.turner.com/cnn/.e/img/3.0/global/icons/gallery_icon.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3581 just read 1497 bytes from host
+PID:3581 just wrote 1497 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:18:35 GMT
+Expires: Tue, 07 Mar 2023 10:34:29 GMT
+Last-Modified: Wed, 06 Mar 2013 20:35:51 GMT
+Cache-Control: max-age=315360000
+Content-Type: image/png
+Accept-Ranges: bytes
+Server: Apache
+Content-Length: 1236
+
+‰PNG
+
+
+PID:3581 just read 0 bytes from host
+PID:3581 just wrote 0 bytes to client response:
+
+PID:3581 job done, returning to server main()
+PID3581 fork is ending cleanly

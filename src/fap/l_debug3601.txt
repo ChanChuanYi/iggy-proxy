@@ -1,0 +1,65 @@
+PID:3601 Child:Fork has been created
+PID:3601 request:
+GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/ebof.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3601 wrote to host request:
+GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/ebof.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3601 just read 4096 bytes from host
+PID:3601 just wrote 4096 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:18:53 GMT
+Expires: Sun, 17 Mar 2013 23:11:05 GMT
+Last-Modified: Sun, 29 Jul 2012 14:15:19 GMT
+Cache-Control: max-age=3600
+Content-Type: image/png
+Accept-Ranges: bytes
+Server: Apache
+Content-Length: 14745
+
+‰PNG
+
+
+PID:3601 just read 4096 bytes from host
+PID:3601 just wrote 4096 bytes to client response:
+Ğ]–xğo¼jBbmPP°	½_x-ÅIAÑ\‡MøxvÂf‡aCˆ<ñ¡"!
+PID:3601 just read 4096 bytes from host
+PID:3601 just wrote 4096 bytes to client response:
+0ŞJ|Ãë÷zûÃáÑá¤¼±9şÁİÉ^EiJ…•#€di RZXAÙ˜Èø¯†àlÆK;g¯B^PMj±Öm^xşçö	Ûëóe?†äœÆ²ÆÍ¥$YÍ¦eCê£yŒºªiuŸöÈ÷Çˆu——³|òã×~üÖ¿üã­ïı`iwtÆf'æUOÎA;ƒ1¾yXkêf4ì
+‘ĞF®¼ğ¦‚—÷<^ØA>‡!Ê®^½ÚnÿÜ™•˜ÔãƒF{‘Ò<·’€êµÖÏœi
+²İO§©ŞÙ¡¸IEÆ#VİßÚœNGÊSKí%w/e‹ŒúÃâO\¯‡‡ãk×n½ûî&%M>29÷±BxÖ®ŠäÊ—¿üåµµµétJ!iÚ(QÎ'jïcú_»Òˆš3‹KxYËF©d·Úl¬p/é­?øÎµo}g´»½–D­F«$(+SkO”è¯jcg×ªZg…ô¨lZ0+W Ó4ôĞvßV–
+8hH‘GÎY	ürçı-ô˜|ş¹ÇÏ_˜¤uÒ„¸¡œÀ3€(j“GÓDöËÃI¯ÌÊjR¹ál ‚lªÅ¥pVzaâƒŠ\OÓ¢ŸMFÆlF?¹qçíÛ¦&ğ½@ÖS»„ëá<ìœâæúÙ[B?WEZ|úWe#Yìµˆa÷ôıÊ¦,µuõ¤_»‹ŠÓ\}TcÀYC¸`€0b¦É7NoLöÿÕ·şøê?ûığÎ®×Ÿ,t:àØ|4­¡Ã£v4’Â-JS™‚[è¤¶ı4=(9ŸûàÚƒİN‡6qLeÔ’
+ÄââB ‹ë×ßó¥i…ÑÊÊ
+„ÙA§…~aõ¯ïyŸÁîËëëË‹Ëhf6¡E1n–šWn´õÔå4+©v›¹9IAa1o¼±?H™v¢€æcõñŒ£œC{¾ŞÒÂ,¡\ËO<ñD–VÛ	·ê–JSÌÇ˜Âüjª“SşxØ<%©d#i—ugcáña9ı¿¿;ø?ş øwßÿ9SÓPLL¹T~Ô}‚Ö‡‚á2D[p|"T-*ÃœEÆN /²|Š¯„
+BJ6	VEô§4Š(ŒÚ7±Å‹ÛQS³ú­k÷Óü‡_ûÅ¯>ùøjQd"•‘l…¸s\!l©Œ ÂĞIÄŸSR¿L¢šNÒ±É_qô~QæyYLòÍ­ñË¯ŞıŞkû»%›r¿V5‚('5!¹‘Ü-«;^›£ëyG¸lMƒç‹«KËU6AxPN²•°)Ä¦¬Ë-t-V5Ê–2CÓÖ\¨Öl¸åqL§“ï~÷{W¿ñÏ^yït7$³Ö¬R[û‚yê<u!VÍ¨h„Ç<³@‹I—Xpe¥V+Eaè¹‰Xm•“¶ï)Ê°¤÷«««»›[7nÜ€Î	Ô—.^¼ˆ@¦%Q‹Br©-óRY…â@‰±ñ‡9VÓªÈh:·®”«È.íš‰×_ı'?y{X’h&Ígd}r±ó+³Òo«Ú¬® O.]ºÔh„£	NI©–ÂIÑ,è”ç†Ó'0®bŒmÀJ©™‡TŠ*{zãôÒ>xùÿŸø‡ëºˆWÛûÓÁAYR®–Šß|¿)µÌk;ó‚š)«SJSÑÈ!!Ò@OàÉ*ç	ÕûÔU–BíÆ2Á¨ø<
+GÃTê¼û‘¢õİ-„ÜÆ×ÎŞİÙçî½âö¾ü…/}î³Ÿ=½q.’”Oà¾¶ubŒE”Ö³ a?–çåÕQ–<á
+ñY•›òƒı½?ùákß{ıún_àS^´+¦¢Ì”i•­Ğ"©G=Ëànàs-kS„Û$*Úiõ\Ğ]º¾Í/¯˜(Gä	áGF\L>	İ'Ü
+eØ¬`ÆV‚
+PID:3601 just read 1600 bytes from host
+PID:3601 just wrote 1600 bytes to client response:
+œ<íq#!:‹r¾< İn?öØcï<Ø™óò|a `%Éäğ€fÆjŠ
+PID:3601 just read 1114 bytes from host
+PID:3601 just wrote 1114 bytes to client response:
+X i$ÀçÃº¦] (·¤EQ6ºÔGM¨€LI=T;!øK„\17‘·YÒéˆ"À¦ÚçÓKËë+g”ñwúkç=8ÂİëèâííÁhŒkìÜ½õÎlW	ıë__yâéb/—H"šƒ2hkŠ ©ıªÑ(ma#‹ıàüé…«o<&*NÀuNF?î1;<4“¬ÅÚâ:tˆæ“s^ÈóR›\E	“æŠÊ+t#ˆÔ¤)>
+'EFVæÓaoA‡Ï&aHĞ<‡
+PID:3601 just read 0 bytes from host
+PID:3601 just wrote 0 bytes to client response:
+
+PID:3601 job done, returning to server main()
+PID3601 fork is ending cleanly

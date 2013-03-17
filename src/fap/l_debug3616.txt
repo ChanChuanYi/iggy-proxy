@@ -1,0 +1,45 @@
+PID:3616 Child:Fork has been created
+PID:3616 request:
+GET http://i2.cdn.turner.com/cnn/dam/assets/130315152834-red-jessica-chastain-video-tease.jpg HTTP/1.1
+Host: i2.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3616 wrote to host request:
+GET http://i2.cdn.turner.com/cnn/dam/assets/130315152834-red-jessica-chastain-video-tease.jpg HTTP/1.1
+Host: i2.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3616 just read 3472 bytes from host
+PID:3616 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:19:02 GMT
+Expires: Sun, 17 Mar 2013 23:46:02 GMT
+Cache-Control: max-age=7200
+Content-Type: image/jpeg
+Server: Apache-Coyote/1.1
+Content-Length: 8259
+
+ÿØÿáTExif
+PID:3616 just read 4096 bytes from host
+PID:3616 just wrote 4096 bytes to client response:
+¹0ÇJ^%«ÃýgÆÍ«'»2j¼XÂÊ«`x5o§w¯úFîý+ÙüâÎÊÃm½''!››]lh#¸s+s=ßIºÿ
+PID:3616 just read 891 bytes from host
+PID:3616 just wrote 891 bytes to client response:
+g<6p0AíŒcé^iÓçì{ÙUKUåîløÎÖéü§Ê«"ÞæM3
+PID:3616 just read 0 bytes from host
+PID:3616 just wrote 0 bytes to client response:
+
+PID:3616 job done, returning to server main()
+PID3616 fork is ending cleanly

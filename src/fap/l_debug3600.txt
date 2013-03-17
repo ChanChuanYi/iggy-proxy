@@ -1,0 +1,58 @@
+PID:3600 Child:Fork has been created
+PID:3600 request:
+GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/tsr.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3600 wrote to host request:
+GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/tsr.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3600 just read 3472 bytes from host
+PID:3600 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:18:53 GMT
+Expires: Sun, 17 Mar 2013 23:11:35 GMT
+Last-Modified: Sun, 29 Jul 2012 14:15:19 GMT
+Cache-Control: max-age=3600
+Content-Type: image/png
+Accept-Ranges: bytes
+Server: Apache
+Content-Length: 14934
+
+‰PNG
+
+
+PID:3600 just read 4096 bytes from host
+PID:3600 just wrote 4096 bytes to client response:
+EÎÌYê@èÔnYÂM(ûA7¬\ß'®-œ%(SÓ˜îhÏ$®	›¤n	Äˆïšrpà,N`­óé)ôñÉg£ÑWÅã ŞPêJê\©-ŠJæàùŒŸœráo¾ò¥ÍĞë²r¥‚ºap:ŸÆ1á¹vwAöFò‘,ŠÛL"…”ÌT'R¦Ñ¹^ö¹Çóùt–gf¤HÓ9şc4­ıôšÎD7”‹¶´È&6mDşOÿÒM¦Û}×±ë*/¯l®ßÜ½™'‰MGÕy©òBPh%ù)‘”)…q{Ó£“ÎÌåïkçRì$±kD<+p
+PID:3600 just read 2848 bytes from host
+PID:3600 just wrote 2848 bytes to client response:
+©	Î¡tªÕ.	wÌ‚Ò/³@°®ğ†–WÙ^QÙ€…‰Œk	£3Ñ–¯ûrÚ”‚¸è™Ó•ûç*r¦¡~Ñ–ùùNw€2jÔ¢®ly«Ÿî¡Óú4_5ÑA>ƒ¢şÚ¨³_œÚ³^à,™•N<×Új£§Â »µÄO|vv~~Îİ ;PBÌpéÉY
+›çgD“´,€êtM6Y×u¥iŒ2=PKcôÊé¼Ä4ÉáÍ4Ãº©ÕÊ²L›‡CU[é¶‡èPÄ^µWã¢@wWQVìWRJã{CÔ»„<!=Jõwˆ›©…-“Uš±Vº½ßØ»4¥nô™µBèÃØg`ÖÊİºPK…c*]7§ˆe{Ü‰9!4„µ?şù‡¥íıï~=%ËêJ!¦µXµÓ
+Ú0è4|wÍ‹ŒR]µs¼Çd\§Y«İïô{^3ÒùÌ­£‰GÌìÚ®³Èîr`Äd%AQkÙFC<¢Q
+PID:3600 just read 3472 bytes from host
+PID:3600 just wrote 3472 bytes to client response:
+ğáşÉ3È£n¯³³³3­†·{]‚fÖ„A‹ªÓˆ÷Â^7€¸Q\Ùxÿı÷ã7~ã?ûÏóíï¾…ã_yå•[·~qpp0Ÿ§´?À28­–”ÚN}MjÅZZçyòJ¥ÔI9'~­ËÙÄ×ôfÆ|é'_ö¨ÅJ´E°¤ÈÌ¦véJš~;Eá èì ´ J£×Áˆ¡ï5M:LÏÎj%Ä:ÁDó)&£óW^º…›òı jµÄ¸˜hG`ÿÎ< #¾#ø|49{¶rŞŸgNªìi^Ä"–Íqüğ'wŸ~øà_½ÿã»ÿ×Ïßû8g›½ÎîÕÖûCĞë»·¸ğK<îÅEgUœ¤YYçEÕéÏgIØY/”³±õÂÓ'Ç‡ç€Äø{¿ï8üí·¾ã¸ŞéÉèéÓ½Óƒ3¸-³õíÊ’
+PID:3600 just read 1303 bytes from host
+PID:3600 just wrote 1303 bytes to client response:
+Hj>VË×ŠcXšh˜¯XÇs[Š‘ªö} ¤`ë9IÛv¹Nà¾ŞS@dq|ïŞ½w¿û6í¨ªFU?nµƒ^¿5ôaGy‘6UZ“Og´i„p|ÀñÙl®Øä|–<ŞÛvròtÿ¸²ÔöÖÕ7Şüö/ÿò¯nonù¢•v	³]Á©Ú¹Ú!M[®ŞPD¯à,«F|A¢Œ]3¾ØôÌğãÄ&—I^«¡´?7Ù<ã¿6•Ğ¤‘v³HÁ„ia‹Z|ÀL'\¶Xq¡wÁ5½ëpBYçLE‚@4‡£(lKWXŒ¡ëŠBµÃ`m}t
+n6%Y’:Ô]MÑÁ\HJûQ™5rÚÛÃ;÷?ıàşg·_}ªŠõ6¿:™œ½ÿç:İãë/ì×®@ÖÕ^—6PÛ°ÚÑø˜ˆ¤ÉáÉhïèìñŞÉ´°6¶®íl^}é¥—ş­û7ô"äy!gL¹´Ù¯çš–ÜÓÓcŒ/Ë!5Ei_0œ8¡Ô•Å¤¸Ø€ÈÖC¹Üg×˜‘^JÂ¥éõe{ØòÛ´°Ù
+PID:3600 just read 0 bytes from host
+PID:3600 just wrote 0 bytes to client response:
+
+PID:3600 job done, returning to server main()
+PID3600 fork is ending cleanly

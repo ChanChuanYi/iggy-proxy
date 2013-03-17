@@ -1,0 +1,77 @@
+PID:3597 Child:Fork has been created
+PID:3597 request:
+GET http://i.cdn.turner.com/cnn/.element/img/3.0/games/main_logo.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3597 wrote to host request:
+GET http://i.cdn.turner.com/cnn/.element/img/3.0/games/main_logo.png HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:18:45 GMT
+Expires: Sun, 17 Mar 2013 23:17:54 GMT
+Last-Modified: Tue, 19 Jun 2012 16:52:05 GMT
+Cache-Control: max-age=3600
+Content-Type: image/png
+Accept-Ranges: bytes
+Server: Apache
+Content-Length: 32493
+
+‰PNG
+
+
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+(
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+h¥î<Î"ºô‚YÇEj+ĞŸ¼ŞŸ³ €Qy¼qIJáY­@;”ˆ™LX8UGˆ=ÎÊ4xè&•§Lcü5·oùÚ]5'•tq+ó@-+‰«ë8)ÆÏ÷tà;k™˜)¥r#Ÿ{™RŠ41äœˆÀRdQ|ÅºM;·_œÙ,_	|áYvÃ•RQ)c‰)­•§êQ3âåC#•®®(Ó4¢Hk],kµš”2Š""Ò˜(‹cLâ ³Ô)Å¢M7ŸŒëî;<:::XTËCåÒ&ÄuH€Iy¾Ü³{/˜¸:;û{w> •œœ­¥étôüÙ©Ë†îšKiìD5Şm›Vì)×ˆW5³ÇŸz„H“xåÒá7¾ñ:n´|àÈI£=®U!i€ÎW6¡À¤,ÎòüÔÈ"'o‘¡ê¤Ä;9íóA™3emÆ§mM;?ñ|gñ|ÛùS\Ì:ÿ‘"­¨t-­”,TSÍ„CÀ3×•Sl»tÀ’c@”úb™Éàlz"ØÔ³vÍÊÁ½Ït¾~nQ“­Tz{;I”(³ö<@ `‰@L
+U{¡!bÏó´F!”bÌ¹QòÃ.Ïo:R”
+A§‰RB­"%Í¦r¾µ¶ÙhFå(Š¢v’£öhù7ä\œDóãgë^ĞSê
+!ÄMHµDXİßè}r·‰“ë.Ù8XØf5 QÀ\(^}æì™³`)š¨ï>}&÷—!À˜G}Ëí+î7
+Òâ&cÈİYã9‚ëÒ’&aÓtıÊ¥<¹gllúgn¾òöÛ6ş`lŞ?;q“
+€L*OJ°™…ø‹ÖëE‹c'O´h_ä/æ'¤=ùiY„ãEfµ½O;Zjn'¿È›\Öåû§?p[¿ê—5ß¥
+X‰ˆ5 £ˆR®`¢…/²À×½Ëõ²5(ëhÒÈ8¯ÑXÙß³×
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+Ël3mæn¶ö¼vX+0Ò4ÍgşÈé¡bÿ0Ii£(š›¦$É‚"HQ›Ÿ=sâÄK^ıª¾b×{eÌ÷|ç»İû£·¿ãg¹ÑÛ÷ÜÄØ8‘=sôğÄ±cŸûøï¿øMoüå7¼ùìñãßøÓ?š8z‚°Q«k÷şèG[n¾yÛÎ&3¸ ¢vÖ®Xµr¾^îégN?·çïv?}åí·¿ëçŞ·í¢õßŞw¤¥gíŸé)Û·/š«×¯%c r„åGBp§ÂŸ…@À¼ÀE,0+…R˜ÓÌìrğpÆÄ$rŸa!7s.ÇÓ:B;ÊáKË
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+&­¼ öTzº»»	¡wp¸X.yR0Q–&IšEZÖ€m—a_˜hf$‡ 
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+ú]¥ÂÔÌÌäÄÔôôìüìl\«×êf›,óó å\îóXt|®qmNrå¢Èµ)8ıÆc<ñË¿¶ùC?·éškâ8ÊÒ_t‘ÈÉ‡Áø÷¿wìÚ«Ö½äöåë.òÃBuß¾n_M}ëÎ3;v¬»ñ†d¾!•¬=ª@P«æX´¤kÎsz+‡—3²1u}¹Ø°t&M§òºB!`¡90@ÕAÓÙ:FF 
+2ì‰“éôäŒP²Şr—­jÅúş«úK1¢p"›A™H?
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+£Š³Õg³ëWg•hr&>y¶k°o”Ò•do·nV+Q"d›é‰´>ĞôTB/(2x=*–j$;q¨Ü•ŠßÀéÓ³3§gÍ¼å$3IœE†
+PID:3597 just read 3472 bytes from host
+PID:3597 just wrote 3472 bytes to client response:
+øğo|ä/>ùÉB±0??{êÔéMmSJ7£æÔô¤TØÓ“79!!0ğYF ]àL¹DˆR	)ÀqÖ¨OØ=sìyvĞ½zMØİ'9ÚÙîJ·ÁÚƒB‘,Û,KL\¯62Ëpëú'îÛõãÌŸ®¾í¶Í•®RfŒÂ;Şòî¬67ëÏï}öÈ}££q£&¤@J¢•kÖ¯ßyÍá'8½ûÉÒÀH,K7mÛ656şÌcx…‚ô¼¸6ŸÆÑÌË_¾ĞoÚ`Úóğ\Á+ˆ¼® Õ2mA ÓÑá…s…ëÂÕ,(÷nX°v8LÍrƒÕ’ñ¹óÖ›³È'Í
+PID:3597 just read 4096 bytes from host
+PID:3597 just wrote 4096 bytes to client response:
+AıkŞº¿êŞ§ºïÌĞMày¾ğ´çØı´”êÕozkbì®‡xş™§{úÉ«w\al‚BY“İÿ¿şL–Ê—½êuK–,eA}•.Ü€“¤>ßpè+wÜ|Ñu/ö)‹õ[n»íº›nJâxzjêÌèèøØX­Şh4"ß÷‰hpp°=z±3‚Î‹|X{^ÓÆ:h­ÚèO
+PID:3597 just read 878 bytes from host
+PID:3597 just wrote 878 bytes to client response:
+À={:ÓÿÜŞ>àÎ;sD~øÃœœüĞ‡>tâÄ‰şşşñññ;î¸cÇ¹ùüÚ×¾vüøñüã'Nœ˜œœÜ±cÇäääı÷ßÿò—¿¼X,Ş}÷İ?şøêÕ«_şò—6›Í»ï¾û¹çÛ¹sçË_şr
+PID:3597 just read 0 bytes from host
+PID:3597 just wrote 0 bytes to client response:
+
+PID:3597 job done, returning to server main()
+PID3597 fork is ending cleanly

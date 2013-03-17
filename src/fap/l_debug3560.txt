@@ -1,0 +1,74 @@
+PID:3560 Child:Fork has been created
+PID:3560 request:
+GET http://i.cdn.turner.com/analytics/cnn/ais.js HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3560 wrote to host request:
+GET http://i.cdn.turner.com/analytics/cnn/ais.js HTTP/1.1
+Host: i.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3560 just read 1315 bytes from host
+PID:3560 just wrote 1315 bytes to client response:
+HTTP/1.1 200 OK
+Date: Sun, 17 Mar 2013 22:18:18 GMT
+Expires: Sun, 17 Mar 2013 22:58:10 GMT
+Last-Modified: Fri, 08 Jun 2012 21:39:37 GMT
+Cache-Control: max-age=3600
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Server: Apache
+Content-Length: 1044
+
+var cnnad_transactionID = null;
+function cnnad_getTransactionID() {
+	if (cnnad_transactionID == null) {
+		cnnad_transactionID = "";
+		cnnad_transactionID = Math.floor(Math.random()*9007199254740992);
+	}
+	return cnnad_transactionID;
+}
+function cnnad_readCookie( name ) {
+        if ( document.cookie == '' ) { // there is no cookie, so go no further
+		return null;
+        } else { // there is a cookie
+		var ca = document.cookie.split(';');
+		var nameEQ = name + "=";
+		for(var i=0; i < ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1, c.length); //delete spaces
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+		}
+		return null;
+        }
+}
+
+function cnnad_haveCookie(a){return document.cookie&&(-1<document.cookie.indexOf("; "+a+"=")||document.cookie.indexOf(a+"=")==0);}
+
+function cnnad_ugsync() {
+        if (!cnnad_haveCookie('ugs')) {
+		document.write('<scr'+'ipt src="http://www.ugdt'+'urner.com/xd.sjs"></scr'+'ipt>');
+        }
+}
+
+cnnad_getTransactionID();
+cnnad_ugsync();
+
+PID:3560 just read 0 bytes from host
+PID:3560 just wrote 0 bytes to client response:
+
+PID:3560 job done, returning to server main()
+PID3560 fork is ending cleanly

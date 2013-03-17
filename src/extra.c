@@ -170,7 +170,7 @@ int close_is_true(char* write_pipe){
 
 void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* req_err){
 	fprintf(d_out,"PID:%d %s, preparing to end uncleanly\n",(int)getpid(),err_msg);
-	send_error(fd,write_pipe, int err, char* err_msg)
+	send_error(fd,write_pipe,err,req_err);
 	close(fd);
 	error_print(err_msg);
 	

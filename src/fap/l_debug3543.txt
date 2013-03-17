@@ -1,0 +1,115 @@
+PID:3543 Child:Fork has been created
+PID:3543 request:
+GET http://z.cdn.turner.com/cnn/tmpl_asset/static/www_homepage/2117/js/hplib-min.js HTTP/1.1
+Host: z.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3543 wrote to host request:
+GET http://z.cdn.turner.com/cnn/tmpl_asset/static/www_homepage/2117/js/hplib-min.js HTTP/1.1
+Host: z.cdn.turner.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://www.cnn.com/
+
+
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Thu, 07 Mar 2013 14:54:09 GMT
+ETag: "1d77cf4-6e5a6-4d756e101e640"
+Accept-Ranges: bytes
+Content-Type: application/x-javascript
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 110607
+Cache-Control: max-age=314469396
+Expires: Sun, 05 Mar 2023 14:54:45 GMT
+Date: Sun, 17 Mar 2013 22:18:09 GMT
+Connection: close
+
+‹
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+÷÷á?hxØqÎ¸ãíñv>Ÿ±±²q2û!’şj÷¿Ò‹ccMâajÎó´S>ÏÓÕWî‰§{T]OßtÅô•Z˜Êº¨¾	`SsÒÒ:`Óóíí´Q™eï€¹¦Ö%µ‘wQ‡¬]—ØL(×%#N&qVÂ©Ê^XÍàŠ24“d±Kwû¤7Š`¢™Ô…M:jiY6ƒŠˆøéó„ÁJï’)~ª–6pœçÉÃÀ8m·	¥pms¹º_İí{í‰ šèRüÊ^;˜æ¼Ìµ›¬²ÁSšÂ×.#h€‚×t¯$Â§glªVô<7+ÏD¡‘{CÒÅÑr¬-ˆ@88 ùÀJæ^Û[n¸£`äª>w€~€€ÒôÛ÷ñH9Æ–Ú5øû€~ûØj»ı¥7)Ì=†µ3ô®‹^Ñ”QGáüirM\)æ·"»ŞÈw™Ş_">…Ú³Ó~ÄzN3¥dİCwìDxe2AIäq?Ó*ÛòG¦¢BËğÖ2Tg}šïdö—KLA¯g7‚É>m.õPŠrSqÔşJêótEóBm>i‚lĞg-ÛygµEw€¶`¬£:
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+»ƒXhí*VÔ}E­º¸…)3J;YnEÀÚ=*	O9™Â©­CË½¬¤nù5Eoom¥uËÅ¾¢ŞÖTìW”İff”£û·Åò<»r4«%TúÁãUk†»»ùpw?w¸»w.ÚŠæhkÚÏT6§’Ífİ:Äu$x×ïj„/¿eÓ¼nÆqE€wjD
+PID:3543 just read 2848 bytes from host
+PID:3543 just wrote 2848 bytes to client response:
+7*÷U|y>D_'§ªäÕÅ½­*%moo}'ü(ìÚ^¸»+"şò}cÑ®s*'‘FÒ-}:Ğ
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+“~"·ŠÇ~&üÈtĞ$çJOè‘û,¡7kïàsoælKĞÙöÕŸŞ¶?½mzÛ MdVºÚştµıG¨:ºÚLW¯¤KĞÊì‚]EE6Ì8Ázô¤}í†mo@g.€û>»½İbx_©ôê»*¦zç“G« ¹àˆt
+zv«ö9«JIZ4¤4
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+ÀË±ìÿmç¹—
+:Z\7‚8À&[¥G…ñ[¨`İw°ÓÔ-†R²y“áÜE†¬ú2C†œ‡ØÊ9j8ĞŸmRhÈâ$
+EgofSÉ­ÃòÍë¡8~
+*­´ˆEsÈû¸•.*ïñ¼SÌùEµ|T*‘Šmù¢îÍPx©Vç7ÕjZjt`Ôæ†/7›¦>~65¬9ˆŠ×Çú¬Lv6›0»LĞ'®_¼	¨²‘ÿFËgº÷•‰‘ÇüUdRLP3˜à3ÃÁUÇK­›ÁMxÕ£ö3
+PID:3543 just read 2224 bytes from host
+PID:3543 just wrote 2224 bytes to client response:
+.q´ú‹©<× ‚4Åí ¾6!
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+wÓC½ÖšúŠmã%DyõeLoöD²Ú8MññCûº²<D‚wÖÃ#9è~ˆ‡G ºÊB»}äÈ¦Bh·ëôøôy}‹Ê^®vÜâ|+d>(ò5ü´ÎTvö™æI•şÜFÙ¼qŸzÓòzë×X¤»Ù“„;t·†gšB|Ó®äö)M. '¯ †	® ­â`BÔ–j¯>°ÉcdW«·¥Y`¼­ªøLéä†…ï„-Y|x²úèÆí-î™Sbë±XíySir6¹“B°5iÃ0H¥ş|¦æZÃ!tıÔ*Ôµê3	"l–?®Á-üÃ1‹3Ô„
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+º”ÿncF„	©rL×AH“Pb•ÚèªæùSÊèğİrc)KŠ¼`çrNìÓEÂK±CUá@E¢è1å®û2jFi’b¾‡Uød'2Êµpš÷dô>—²dí¶e¤/Ë¡l§#ôìÈ{)]éï^B;óµ—€°K¡ê¡_k(Àtø—úbøk’vÓÛ¥e~CÉ¹.0²¿Õ•´$üCÄt:1`ÙÀ¿Ü´qšå/Á˜P”S,
+Ãâ×B3U¹™¨ßOü’N
+Íèeì’•‡A£¯EácÅ *aĞ–7¢•kˆË©õş®ÓxŞï:ò¾‡»ë5»]O†¿#JE€‰n…•V?ç‘a¿«\†¯‹‰Qˆw”Ñ,Œá¹Fıš”±®İ4&ß“5®®OOs-¨‰V›J?Â¸äï<4zƒ0rì^Yƒ^yºkà•Á¾–ğºĞl„2`çÖUŒ‡¼2aíM‰õ+º¹àˆU'«‰KÚK«–,¬³c"•w4×u¹jİXmEB¼c`ş‹¢ˆÎ±ñ)l±@ÏQ_ş·x™Š¼M®¯ëÏ-¦ß#¿?½¹)ûò1š4°ÛŠo=§ô¶WAğU`rŸÊá*/T
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+ıjÿÍ²	42±|t¹¾~yÏ Š[i4¸ÇÛí;NHnH¸½?@« z1z/ù•0AƒâÆãcNá/”cE Ş3÷G6zW‚1Îy£ÍZå{”é™qb¯qX˜,Ğu_í‹"{¦HnTíéµL›“:ÙÊzV&ÙWWYx-¾°yøB(’æ6>!•l—‡½­~-67£ÿ5l}E[¢aÒ?]ãøåÑËƒ”IÎ¬M÷,ù:Ãkx¯>¼{SÃÑ×~{ıòÃËÚŒî…óÄìçO-·Ò…_Ì³©=`v¾oà©@6U¨¯¼
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+›—]\J×ûV½?6/e‚8x±¯$ˆÛïÍè'ˆ›õh€Y‚¸}‰ŞHK7	â¡{l&Í6†Ñ±hÃÔºÈ¿i©²I¬|	))à)âiñ d šËFoD‰¢,iYg”^.Á¾dì.…úÔ‚“¶ğƒğ; çJáMX°pÿëÖv:Û“o½¢ü†Lw"á‡ce¢ß€½~£4ø~ôM¼Oó[ky>oP]L›¡©¨Åş°F×¡ÄàJGB4Bxt„ì$p¼«ÚDRPpØÙ=â­g	§º8)cî(™fË°7ÙæA”Ÿ\f*/ü­â‚ì–ÚçEs>k,óXš†a²eCûÊ¨ò(æi®sú0ÒHø+d¬EúA*^3³fëolÍz®6
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+
+Æuc]\ÖwiˆénÂ\ 7
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+Eâe³_4èÚd‘&;™D[2ú$úfßdÃ±ß¢[Êõ~CÚ<üty÷Í¾\9L’Ù7-Šâv²ôÑœØËÔÈ¼¹Eİé>Òşú—8-g½ğ–N}ÔªñnÜ _~óGü¢óçÜàq¨à¢/ìÔÀSÖ’"|Á6Hx—ïşc{—½4¯”ÕÆkQ(º‘'× ªçÛ’Ë:I‹ƒò~j)OÍ¦ß^†yÓFĞÄÄ™Ã¢1ÿ@Æ'›¥â§Ş¯şº¦•‚èœ¢‚öWû[Ê,¨>^Óc>‘rÁBC'TòtÍí!"¿  i^™‚¸„¸¦‹§9|¤ôCD&ÑáX
+‡/ušÕ›Í*’kdSÈÙ“Rk¥M*¡æ“’widkîµ‹†0tpíº0Ïóâ\¢x‘+—[É WÏğYœûÌòI®
+PID:3543 just read 2848 bytes from host
+PID:3543 just wrote 2848 bytes to client response:
+õ>»º.>|:.¾“ñîó_f‰¿çbÊVºY¨|PbŞd?UÉ|-wòËqå‚ÍşŒŠ#¨4›X¾­­¬€°ùË(®Yw'^¯~BøOŒÓ5aSd™ôz.VşâJÒÉ¥©H¥¬@8šaŸ8 &œZø·<igr¹Èé—Ïk©D!"ó‚ŒÎÉFPÌİµ²²q
+PID:3543 just read 3472 bytes from host
+PID:3543 just wrote 3472 bytes to client response:
+kÛ1ªå†¸)“6Ñ÷a¹çşÇÒ¶¥m=UšJ¬?ıéOÙ\MF@„ØÚÛÙ§V³)‡:Ç WÆÙ1¬è·[{ #/iXC Û“ö
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+VG
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+È­³ @íÕAÑéO€öË@=ëŒ(PµPN‡µ`æt( GeĞ¾>`
+Ì?ê”ÓwNŒ†B'¿£Õw¥I œq/‚©¸K2“[Bq¬­TßoÖ‘5˜ºšB»<èäßaCÃû¯i})~2X´)ç½
+Å©Wş¿6tI…LñŞ¶¼&+TDm²È]ƒ¬9ÓQ:¿í\¥ƒA’uè?†
+,ğµ
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+—Ú¤‹€ÀVÙ$ş#]§ñ;)Ìåù0ğC$Ÿ_g(_–fC!Éeü•04Dâ¨0Ò°4(¸“¾Hht`á
+PID:3543 just read 1600 bytes from host
+PID:3543 just wrote 1600 bytes to client response:
+:¿?™ÁdóûŸ“şçÉı!œ¢æ“ •{Ì²hÎ|?=˜Óxr>¸ÇÕ
+ƒ
+PID:3543 just read 4096 bytes from host
+PID:3543 just wrote 4096 bytes to client response:
+8ÌÃËğ6¼
+§a/ün†ÇáMx˜
+PID:3543 just read 16 bytes from host
+PID:3543 just wrote 16 bytes to client response:
+´0a¯˜))UR:·¯
+€É
+PID:3543 pipe error occured, preparing to end uncleanly
