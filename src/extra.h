@@ -7,6 +7,13 @@
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
+/////
+//	aux function that will print an error message to the process debug file
+//	then will close the file descritor, followed by terminating the child
+//	pre:	assumes debug file, file descriptor are valid
+//	post:	error is printed, file descriptor closed and child process has ended
+void call_death(FILE* d_out,int fd);
+
 
 /////
 //	goes through response and looks for Connection: close
@@ -67,6 +74,6 @@ int valid_method(char* method);
 //	pre:	host is connected, client is connected, read and write are valid
 //	post:	write to host performed and client received response or error
 /////
-char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe);
+char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE* out);
 
 #endif

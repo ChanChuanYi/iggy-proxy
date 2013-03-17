@@ -123,29 +123,35 @@ int create_host_socket(char* host){
 	return sockfd;
 }
 
-char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe){
+char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE* d_out){
 	//printf("PID:%d write_to_host called\n",(int)getpid());
 	int host_data_out,host_data_in, client_data;
 	
 	host_data_out = write(out_fd, read_pipe,PIPE_MAX);
 	if(host_data_out <0){
-			send_error(new_fd,write_pipe,500,"proxy error");
+		fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
+		error_print("pipe error occured");
 	}
-	//printf("PID:%d wrote to host request:\n%s\n",(int)getpid(),read_pipe);
+	fprintf(d_out,"PID:%d wrote to host request:\n%s\n",(int)getpid(),read_pipe);
 	do{
 	memset(write_pipe,0,PIPE_MAX);
 	host_data_in = read(out_fd, write_pipe, PIPE_MAX);
 	if(host_data_in < 0){
-		send_error(new_fd,write_pipe,500,"internet read error");
+		fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
+		error_print("pipe error occured");
 	}
-	//printf("PID:%d just read %d bytes from host\n",(int)getpid(),host_data_in);
+	fprintf(d_out,"PID:%d just read %d bytes from host\n",
+		(int)getpid(),host_data_in);
 	client_data = write(new_fd,write_pipe,host_data_in);
 	if(client_data < 0){
-		send_error(new_fd,write_pipe,500,"client data write error");
+		fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
+		error_print("pipe error occured");
 	}
-	//printf("PID:%d just wrote %d bytes to client response:\n%s\n",(int)getpid(),client_data,write_pipe);
+	fprintf(d_out,"PID:%d just wrote %d bytes to client response:\n%s\n",
+		(int)getpid(),client_data,write_pipe);
 	}while(host_data_in > 0);
-	//printf("PID:%d job done, returning to server main()\n",(int)getpid());
+	fprintf(d_out,"PID:%d job done, returning to server main()\n",(int)getpid());
+	printf("PID:%d job done, returning to server main()\n",(int)getpid());
 }
 
 int close_is_true(char* write_pipe){
@@ -156,6 +162,10 @@ int close_is_true(char* write_pipe){
 		if(strlen(buf)==0)return FALSE;
 		if(strcmp(buf,"Connection: close")==0)return TRUE;
 	}
+}
+
+void call_death(FILE* d_out,int fd){
+
 }
 
 

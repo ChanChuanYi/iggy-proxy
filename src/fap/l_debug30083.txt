@@ -1,0 +1,25 @@
+PID:30083 Child:Fork has been created at time
+PID:30083 Child:close(sockfd)
+PID:30083 request:
+CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+
+
+PID:30083 sscanf line read:
+CONNECT clients2.google.com:443 HTTP/1.1
+PID30083 bad method detected:
+CONNECT
+PID30083 Leaving main, creating a host socket
+PID30083 Returned to main, host socket created
+PID30083 Leaving main: out_fd:3, new_fd:5
+PID:30083 wrote to host request:
+CONNECT clients2.google.com:443 HTTP/1.1
+Host: clients2.google.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+
+
+PID:30083 just read 1112 bytes from host
+PID:30083 pipe error occured, preparing to end uncleanly

@@ -1,0 +1,25 @@
+PID:30136 Child:Fork has been created at time
+PID:30136 Child:close(sockfd)
+PID:30136 request:
+CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com
+Proxy-Connection: keep-alive
+User-Agent: Chrome LINUX 25.0.1364.160 (186726)
+
+
+PID:30136 sscanf line read:
+CONNECT clients4.google.com:443 HTTP/1.1
+PID30136 bad method detected:
+CONNECT
+PID30136 Leaving main, creating a host socket
+PID30136 Returned to main, host socket created
+PID30136 Leaving main: out_fd:3, new_fd:5
+PID:30136 wrote to host request:
+CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com
+Proxy-Connection: keep-alive
+User-Agent: Chrome LINUX 25.0.1364.160 (186726)
+
+
+PID:30136 just read 1112 bytes from host
+PID:30136 pipe error occured, preparing to end uncleanly
