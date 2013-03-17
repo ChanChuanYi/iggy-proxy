@@ -164,8 +164,11 @@ int close_is_true(char* write_pipe){
 	}
 }
 
-void call_death(FILE* d_out,int fd){
-
+void call_death(FILE* d_out,int fd,char* err_msg){
+	fprintf(d_out,"PID:%d %s, preparing to end uncleanly\n",(int)getpid(),err_msg);
+	close(fd);
+	error_print(err_msg);
+	
 }
 
 

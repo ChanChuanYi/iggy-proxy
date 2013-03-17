@@ -48,3 +48,394 @@ Sun, 17 Mar 2013 00:44:06 GMT
 	HTTP Version: HTTP/1.1
 	Host: clients4.google.com
 	URL: clients4.google.com:443
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/start/nadia
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/favicon.ico
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/favicon.ico
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: blog.linuxmint.com
+	URL: http://blog.linuxmint.com/
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/planet/rss.xml
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: cnn.com
+	URL: http://cnn.com/
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.cnn.com
+	URL: http://www.cnn.com/favicon.ico
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: z.cdn.turner.com
+	URL: http://z.cdn.turner.com/cnn/.e/js/libs/jquery.timeago.min.js
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/global/icons/video_icon.gif
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/nav-arrow.gif
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.cnn.com
+	URL: http://www.cnn.com/favicon.ie9.ico
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130104062635-ac-harlow-steubenville-rape-case-00012513-t1-main.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/global/icons/gallery_icon.png
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/1px.gif
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130313144851-shipwreck-queequeg-capsized-video-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130314212556-exp-erin-dnt-idea-nascars-first-female-pit-crew-member-christmas-abbott-00003015-video-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130314134937-irpt-comet-rosenthal-video-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130314082243-exp-point-obrien-sandberg-tease-00005810-left-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130314104013-john-drury-split-image-video-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130313082425-exp-point-enclade-missing-teacher-00002001-left-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130312184306-exp-lead-tapper-colbert-tease-00003309-left-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130313063931-valerie-harper-piers-morgan-left-tease.jpg
+Sun, 17 Mar 2013 03:40:18 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130315132540-03-ncaa2012-video-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: z.cdn.turner.com
+	URL: http://z.cdn.turner.com/cnn/.e/js/libs/jquery.timeago.min.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130315011502-pkg-vercammen-32-yr-old-adoption-00001802-video-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130316204909-intvw-hendricks---blind-4-year-old-boy-interview-00004616-video-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130316154045-conan-carell-inner-badass-00015024-video-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130225205543-orig-jtb-distraction-tiny-golf-prodigy-00001624-video-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i.cdn.turner.com
+	URL: http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/advertisement.gif
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130313172127-11-francis-0313-left-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i2.cdn.turner.com
+	URL: http://i2.cdn.turner.com/cnn/dam/assets/130314220001-pmt-lords-on-steubenville-00004513-left-tease.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/js/jstarget.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/css/style.css
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/topstories.css
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/js/iCarousel.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/css/lytebox.css
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/topstories2.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/css/minty.css
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/js/lytebox.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/js/mootools.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/cover3.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb_xfce.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb_kde.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/cover5.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb5.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb_mint14.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/cover_xfce.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/cover_mint14.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/feed.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/twitter.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/facebook.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: linuxmint.com
+	URL: http://linuxmint.com/img/sponsor/logos/507.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: linuxmint.com
+	URL: http://linuxmint.com/img/sponsor/logos/216.gif
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb3.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: linuxmint.com
+	URL: http://linuxmint.com/pictures/sponsors/bluesystems.jpg
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/ads/tshirts.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/topstories1.js
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-repeat.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-nav-hover.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb_arrow.gif
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-body.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-wrapper.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-footer.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-ads.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/logo.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/buttons.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg.png
+Sun, 17 Mar 2013 03:53:24 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/cover_kde.jpg
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i4.ytimg.com
+	URL: http://i4.ytimg.com/vi/gJ1Mz7kGVf0/default.jpg
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.youtube.com
+	URL: http://www.youtube.com/favicon.ico
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: i1.ytimg.com
+	URL: http://i1.ytimg.com/vi/p04TYk4j0zQ/default.jpg
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: l.yimg.com
+	URL: http://l.yimg.com/pv/static/img/us-metro-sprite-201301221438.png
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: l.yimg.com
+	URL: http://l.yimg.com/pv/static/lib/srp-core-css_201301090955.css
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: l.yimg.com
+	URL: http://l.yimg.com/pv/i/us/sch/gr5/ylogo_avg.png
+Sun, 17 Mar 2013 03:56:49 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1

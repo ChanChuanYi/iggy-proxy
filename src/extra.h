@@ -12,7 +12,7 @@
 //	then will close the file descritor, followed by terminating the child
 //	pre:	assumes debug file, file descriptor are valid
 //	post:	error is printed, file descriptor closed and child process has ended
-void call_death(FILE* d_out,int fd);
+void call_death(FILE* d_out,int fd,char* err_msg);
 
 
 /////

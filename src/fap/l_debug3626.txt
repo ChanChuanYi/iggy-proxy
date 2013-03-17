@@ -1,0 +1,59 @@
+PID:3626 Child:Fork has been created
+PID:3626 request:
+GET http://l.yimg.com/pv/i/us/sch/gr5/ylogo_avg.png HTTP/1.1
+Host: l.yimg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://us.yhs4.search.yahoo.com/yhs/search?p=fap&fr=sfp&fr2=&type=__alt__ddc_linuxmint_com&hspart=ddc&hsimp=yhs-linuxmint&iscqry=
+
+
+PID:3626 wrote to host request:
+GET http://l.yimg.com/pv/i/us/sch/gr5/ylogo_avg.png HTTP/1.1
+Host: l.yimg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Proxy-Connection: keep-alive
+Referer: http://us.yhs4.search.yahoo.com/yhs/search?p=fap&fr=sfp&fr2=&type=__alt__ddc_linuxmint_com&hspart=ddc&hsimp=yhs-linuxmint&iscqry=
+
+
+PID:3626 just read 1226 bytes from host
+PID:3626 just wrote 1226 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000,public
+Content-Length: 603
+Content-Type: image/png
+Date: Tue, 05 Mar 2013 00:56:47 GMT
+Etag: "YM:1:fc47a811-a818-4327-9c0d-8bc2ab507889"
+Expires: Sat, 05 Sep 2026 00:00:00 GMT
+Last-Modified: Wed, 21 Sep 2011 16:41:58 GMT
+Server: ATS/3.2.0
+Via: HTTP/1.1 web8.use10.mobstor.bf1.yahoo.com YahooTrafficServer/3.0.1 (UFF), http/1.1 l10.ycs.dxs.yahoo.com (ApacheTrafficServer/3.2.0)
+x-ysws-request-id: 2f0e4526-c98f-4d42-90fe-e57fe2b0cbfe
+x-ysws-visited-replicas: gops.use10.mobstor.vip.bf1.yahoo.com
+Age: 1047708
+Proxy-Connection: keep-alive
+
+‰PNG
+
+
+PID:3626 just read 217 bytes from host
+PID:3626 just wrote 217 bytes to client response:
+<HEAD><TITLE>Invalid HTTP Request</TITLE></HEAD>
+<BODY BGCOLOR="white" FGCOLOR="black">
+<FONT FACE="Helvetica,Arial"><B>
+ Bad request syntax</B></FONT>
+
+<!-- default "Invalid HTTP Request" response (400) -->
+</BODY>
+
+PID:3626 just read 0 bytes from host
+PID:3626 just wrote 0 bytes to client response:
+
+PID:3626 job done, returning to server main()
+PID3626 fork is ending cleanly

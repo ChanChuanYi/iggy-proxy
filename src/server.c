@@ -76,12 +76,10 @@ int main(int argc,char** argv){
       		//debug stuff
       		char filename[LINE];
       		sprintf(filename,"fap/l_debug%d.txt",(int)getpid());
-      		//printf("PID:%d l_debug made\n",(int)getpid());
-    		//printf("PID:%d file name generated:%s\n",(int)getpid(),filename);
       		FILE *d_out;
     		d_out = fopen(filename,"a+");//open output file in read-only
-    		if(tmp_out == 0)error_print("unable to open log\n");
-      		fprintf(d_out,"PID:%d Child:Fork has been created at time\n",(int)getpid());
+    		if(d_out == 0)error_print("create debug log\n");
+      		fprintf(d_out,"PID:%d Child:Fork has been created\n",(int)getpid());
       	
       		//child variables
       		char method[LINE];
@@ -93,7 +91,6 @@ int main(int argc,char** argv){
       		int out_fd;
       		close(sockfd);
       		printf("PID:%d Child: close(sockfd)\n",(int)getpid());
-      		fprintf(d_out,"PID:%d Child:close(sockfd)\n",(int)getpid());
 			//connection is now accepted, time to send to connected client 
 			//new_fd
 			//command read
@@ -101,17 +98,14 @@ int main(int argc,char** argv){
 			memset(read_pipe,0,PIPE_MAX);
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
 			if(data_size < 0){
-				fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
-				error_print("pipe error occured");
+				call_death(d_out,new_fd,"initial read pipe returned < 0");
 			}
 		     
-		    printf("PID:%d read successfull\n",(int)getpid());
 			if( (read_pipe == (char*) 0) || (data_size == 0)){
-				fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
-				error_print("pipe error occured");
+				fprintf(d_out,"PID:%d received a bad request\n",(int)getpid());
 				send_error(new_fd,write_pipe,404,"Bad Request");
 		    	close(new_fd);
-		    	exit(EXIT_FAILURE);
+		    	break;
 			}
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
 		    printf("PID:%d request:\n%s\n",(int)getpid(),read_pipe);
@@ -121,45 +115,53 @@ int main(int argc,char** argv){
 		    if(strlen(line)<=0){
 		    	fprintf(d_out,"PID:%d get_next_string read less than 0\n",(int)getpid());
 		    	send_error(new_fd,write_pipe,404,"Bad Request");
+		    	close(new_fd);
+		    	break;
 		    }
 		     	
 		    int n = sscanf(line, "%s %s %s", method, url, http);
 		    if(n!=3){
-		    	fprintf(d_out,"PID:%d sscanf line error:\n%s\n",(int)getpid(),line);
+		    	fprintf(d_out,"PID:%d bad request, bad form\n%s\n",(int)getpid(),line);
 		    	send_error(new_fd,write_pipe,404,"Bad Request");
+		    	break;
 		    }
-		    fprintf(d_out,"PID:%d sscanf line read:\n%s\n",(int)getpid(),line);
+		    
+		    
+		    //printing request information into log
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
 		    fprintf(tmp_out,"%s\n",buf_for_time);
 		    fprintf(tmp_out,"\tMethod: %s\n",method);
 		    fprintf(tmp_out,"\tHTTP Version: %s\n",http); 
+		    
+		    //checking for valid method
 		    if(!valid_method(method)){
-		    	fprintf(d_out,"PID%d bad method detected:\n%s\n",(int)getpid(),method);
+		    	fprintf(d_out,"PID:%d bad method detected:\n%s\n",(int)getpid(),method);
 		    	send_error(new_fd,write_pipe,501,"Not Implemented");
+		    	close(new_fd);
+		    	break;
 		    }
 		    
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	fprintf(d_out,"PID%d http read error:\n%s\n",(int)getpid(),line);
+		    	fprintf(d_out,"PID:%d http read error:\n%s\n",(int)getpid(),line);
 		    	send_error(new_fd,write_pipe,404,"Bad Request");
+		    	close(new_fd);
+		    	break;
 		    }
 		    
 		    n = sscanf(line, "%s %s", arg,host);
 		    if(n!=2){
 		    	send_error(new_fd,write_pipe,404,"Bad Request - No host");
+		    	fprintf(d_out,"PID:%d did not recognize host\n",(int)getpid());
 		    }
 		    if(strcmp(arg,"Host:")!=0){
 		    	send_error(new_fd,write_pipe,404,"Bad Request - No host");
+		    	fprintf(d_out,"PID:%d did not recognize host\n",(int)getpid());
 		    }
 		    fprintf(tmp_out,"\tHost: %s\n",host);
 		    fprintf(tmp_out,"\tURL: %s\n",url);
-		    fprintf(d_out,"PID%d Leaving main, creating a host socket\n",(int)getpid());		     	
 		    out_fd = create_host_socket(host);
-		    fprintf(d_out,"PID%d Returned to main, host socket created\n",(int)getpid());
-		    fprintf(d_out,"PID%d Leaving main: out_fd:%d, new_fd:%d\n",
-		    	(int)getpid(),out_fd,new_fd);
 		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
-		    //if(close_is_true(write_pipe))break;
 		  	close(new_fd);
 		  	close(out_fd);
 		  	printf("PID:%d closing fork and close(new_fd) close(out_fd)\n",(int)getpid());
@@ -169,7 +171,6 @@ int main(int argc,char** argv){
 		}
 	 printf("parent closing new_fd\n");
      close(new_fd);
-     printf("PID:%d close(new_fd)\n",(int)getpid());
      }
     fclose(tmp_out);   
     return(EXIT_SUCCESS);
