@@ -1,0 +1,45 @@
+PID:12553 Child:Fork has been created
+PID:12553 request:
+GET http://b.scorecardresearch.com/p?c1=2&c2=7241469&c4=http%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1363573091996&ns_c=UTF-8 HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.yahoo.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: UID=355ad75-23.3.12.57-1363561108; UIDR=1363561108
+
+
+PID:12553 about to start writing to host
+PID:12553 wrote to host request:
+GET http://b.scorecardresearch.com/p?c1=2&c2=7241469&c4=http%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1363573091996&ns_c=UTF-8 HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.yahoo.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: UID=355ad75-23.3.12.57-1363561108; UIDR=1363561108
+
+
+PID:12553 just read 304 bytes from host
+PID:12553 just wrote 304 bytes to client response:
+HTTP/1.1 200 OK
+Content-Length: 43
+Content-Type: image/gif
+Date: Mon, 18 Mar 2013 02:18:12 GMT
+Connection: close
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: private, no-cache, no-cache=Set-Cookie, no-store, proxy-revalidate
+
+GIF89a
+PID:12553 just read 0 bytes from host
+PID:12553 just wrote 0 bytes to client response:
+
+PID:12553 job done, returning to server main()
+PID12553 fork is ending cleanly

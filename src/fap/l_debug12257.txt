@@ -1,0 +1,91 @@
+PID:12257 Child:Fork has been created
+PID:12257 request:
+GET http://googcloudlabs.appspot.com/images/ex10/2.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12257 about to start writing to host
+PID:12257 wrote to host request:
+GET http://googcloudlabs.appspot.com/images/ex10/2.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12257 just read 6944 bytes from host
+PID:12257 just wrote 6944 bytes to client response:
+HTTP/1.1 200 OK
+ETag: "TgEX3g"
+Date: Mon, 18 Mar 2013 02:15:06 GMT
+Expires: Mon, 18 Mar 2013 02:25:06 GMT
+Cache-Control: public, max-age=600
+Content-Type: image/png
+Server: Google Frontend
+Content-Length: 48677
+
+‰PNG
+
+
+PID:12257 just read 7258 bytes from host
+PID:12257 just wrote 7258 bytes to client response:
+Œ
+PID:12257 just read 6944 bytes from host
+PID:12257 just wrote 6944 bytes to client response:
+:â¯öÐÌnóeÍG³ù¬RZÊ=•6%Ë×TV˜ï8~	Wzç(
+[ðrûî6XGÀa™Ì½læ…æeb}Œ
+PID:12257 just read 6944 bytes from host
+PID:12257 just wrote 6944 bytes to client response:
+oËoj%“žV]{&vxûŽ-›
+PID:12257 just read 6944 bytes from host
+PID:12257 just wrote 6944 bytes to client response:
+RÌï(ÿéÇËn’˜U<fÜ‘)Ü\]ÚÛZÌLŒ¯úæFÏëf»Õÿ¬±‡bÌÙ÷Wâ¥/Fàÿ-á*³û·ƒVuú‰íçÓÔ÷¢@`Xt¹Ò<+Í§Z QœJu©««£XÖâÍüy®é[¹ßÄñî²–Úš‹’)šâš4Ú­M}áœéªá5í¥s6.7%H¡U·êÚÛ]ÜG{´ÕTçïeê¯Ñà¬õ—¬X¯|Ô¤ñ£Û[Õ5u1mXìÈGúzµ×7—VôvÌ£ýäZúˆÞ–ïC9üíèŠB
+PID:12257 just read 3472 bytes from host
+PID:12257 just wrote 3472 bytes to client response:
+¬kI›Ççår9vqÿ®™¦þ´ú…ºÌ„Xœ­úÃ„W7ú“šVnÒæNÇN?ð›Ÿ¹ö9ö‘^2›ÚòéaÒóâØ£6@
+PID:12257 just read 4296 bytes from host
+PID:12257 just wrote 4296 bytes to client response:
+&lIM}„±	!×X›h€
+PID:12257 just read 2860 bytes from host
+PID:12257 just wrote 2860 bytes to client response:
+Ö1S~Êi;Ýkæ–´Oì®©WëžÞãü}„/ŠÚÕñëí5õÍôLØ
+PID:12257 just read 3236 bytes from host
+PID:12257 just wrote 3236 bytes to client response:
+G*£[·˜ÌÖÑŸ…ì’‹Î¼ìùÝw‡¼èóbÑÏON%?[¸W¹|Q“Ç‰?.l]¹PóÅHÆZh:óöÚåž€Å£ìÔ+
+j)l¥Ÿ\/e2Š\=J8ôØ1›yÅx@
+PID:12257 just read 1068 bytes from host
+PID:12257 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Mon, 18 Mar 2013 02:15:06 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>Thatâ€™s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>Thatâ€™s all we know.</ins>
+
+PID:12257 just read 0 bytes from host
+PID:12257 just wrote 0 bytes to client response:
+
+PID:12257 job done, returning to server main()
+PID12257 fork is ending cleanly

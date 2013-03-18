@@ -1,0 +1,45 @@
+PID:12580 Child:Fork has been created
+PID:12580 request:
+GET http://us.bc.yahoo.com/b?P=eghCZmKK.mGuJB0rUT5b1BqiTGea3FFGeWMAA0GA&T=17vkko6il%2fX%3d1363573091%2fE%3d2023538075%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d1991330374%2fH%3dc2VydmVJZD0iZWdoQ1ptS0subUd1SkIwclVUNWIxQnFpVEdlYTNGRkdlV01BQTBHQSIgc2l0ZUlkPSI0NDUyMDUxIiB0U3RtcD0iMTM2MzU3MzA5MTIzMTQ1NSIg%2fS%3d1%2fJ%3d27FC8A62&U=12ctj23b0%2fN%3d3_s9HGKKIRk-%2fC%3d-1%2fD%3dSTRM%2fB%3d-1%2fV%3d0&Q=0&O=0.9114679456688464 HTTP/1.1
+Host: us.bc.yahoo.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.yahoo.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: B=as90t5d8jsmuk&b=3&s=sv
+
+
+PID:12580 about to start writing to host
+PID:12580 wrote to host request:
+GET http://us.bc.yahoo.com/b?P=eghCZmKK.mGuJB0rUT5b1BqiTGea3FFGeWMAA0GA&T=17vkko6il%2fX%3d1363573091%2fE%3d2023538075%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d1991330374%2fH%3dc2VydmVJZD0iZWdoQ1ptS0subUd1SkIwclVUNWIxQnFpVEdlYTNGRkdlV01BQTBHQSIgc2l0ZUlkPSI0NDUyMDUxIiB0U3RtcD0iMTM2MzU3MzA5MTIzMTQ1NSIg%2fS%3d1%2fJ%3d27FC8A62&U=12ctj23b0%2fN%3d3_s9HGKKIRk-%2fC%3d-1%2fD%3dSTRM%2fB%3d-1%2fV%3d0&Q=0&O=0.9114679456688464 HTTP/1.1
+Host: us.bc.yahoo.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.yahoo.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: B=as90t5d8jsmuk&b=3&s=sv
+
+
+PID:12580 just read 428 bytes from host
+PID:12580 just wrote 428 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:18:12 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: image/gif
+
+2b     
+GIF89a
+PID:12580 just read 0 bytes from host
+PID:12580 just wrote 0 bytes to client response:
+
+PID:12580 job done, returning to server main()
+PID12580 fork is ending cleanly

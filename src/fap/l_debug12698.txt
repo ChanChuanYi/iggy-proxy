@@ -1,0 +1,2 @@
+PID:12698 Child:Fork has been created
+PID:12698 initial read pipe returned <= 0, preparing to end uncleanly

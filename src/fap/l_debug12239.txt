@@ -1,0 +1,42 @@
+PID:12239 Child:Fork has been created
+PID:12239 request:
+GET http://googcloudlabs.appspot.com/codelabexercise10.html HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12239 about to start writing to host
+PID:12239 wrote to host request:
+GET http://googcloudlabs.appspot.com/codelabexercise10.html HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12239 just read 5208 bytes from host
+PID:12239 just wrote 5208 bytes to client response:
+HTTP/1.1 200 OK
+ETag: "TgEX3g"
+Date: Mon, 18 Mar 2013 02:14:56 GMT
+Expires: Mon, 18 Mar 2013 02:24:56 GMT
+Cache-Control: public, max-age=600
+Content-Type: text/html
+Content-Encoding: gzip
+Server: Google Frontend
+Content-Length: 3896
+
+‹
+PID:12239 just read 0 bytes from host
+PID:12239 just wrote 0 bytes to client response:
+
+PID:12239 job done, returning to server main()
+PID12239 fork is ending cleanly

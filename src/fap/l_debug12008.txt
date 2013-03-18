@@ -1,0 +1,50 @@
+PID:12008 Child:Fork has been created
+PID:12008 request:
+GET http://static.tumblr.com/thpaaos/DIcklyl4z/reset.css HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/page/2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12008 about to start writing to host
+PID:12008 wrote to host request:
+GET http://static.tumblr.com/thpaaos/DIcklyl4z/reset.css HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/page/2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12008 just read 912 bytes from host
+PID:12008 just wrote 912 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: xWEnuKdkb+vMmBwyoe337aqEcWmzUgodCGDvncHEYUUdUv1TTWYt5qAGmcnnvC4h
+x-amz-request-id: 70666D02F2A22869
+Last-Modified: Sun, 28 Jun 2009 17:12:36 GMT
+ETag: "59e9da54386ee635c42b923acc35ff33"
+Accept-Ranges: bytes
+Content-Type: text/css
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 503
+Date: Mon, 18 Mar 2013 02:13:33 GMT
+Connection: close
+
+‹
+PID:12008 just read 0 bytes from host
+PID:12008 just wrote 0 bytes to client response:
+
+PID:12008 job done, returning to server main()
+PID12008 fork is ending cleanly

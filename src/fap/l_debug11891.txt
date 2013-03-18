@@ -1,0 +1,77 @@
+PID:11891 Child:Fork has been created
+PID:11891 request:
+GET http://www.emposha.com/wp-content/plugins/wp-cumulus/tagcloud.swf?r=2064321 HTTP/1.1
+Host: www.emposha.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.emposha.com/javascript/fcbkcomplete.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11891 about to start writing to host
+PID:11891 wrote to host request:
+GET http://www.emposha.com/wp-content/plugins/wp-cumulus/tagcloud.swf?r=2064321 HTTP/1.1
+Host: www.emposha.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.emposha.com/javascript/fcbkcomplete.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11891 just read 6944 bytes from host
+PID:11891 just wrote 6944 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Wed, 22 Dec 2010 09:19:26 GMT
+ETag: "1060d13-8732-497fc3fdf6380"
+Content-Type: application/x-shockwave-flash
+Content-Length: 34610
+Accept-Ranges: bytes
+Date: Mon, 18 Mar 2013 02:12:22 GMT
+X-Varnish: 2060221332
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: MISS
+
+CWS	éñ
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+úY—
+bH	Œÿ!ÇYå_rtÕm¢’Ã‘3Î§xXüIÕËqºWÜ{åyÉÓ5ÎqEî“%#„a¿\]Èı!ØdÕ`b©¸ı”`
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+êö|—lóbšÈ jİÛ/’Èw½(öÊtòŸºeî„¬uwšM"S]KV¬iş°p©J¢õîØü))Q¤ïÀSFBüIòZµN Zæş\Î…2·şªÅcÇ2ës¹)õì®.·ÚZ˜œû½w—hOÇlŞ*²ÇÀğ{ù¿ˆ:&½o(³ë\D¶¯t8i¢t
+ªÏ’n ãäÜ%õ Ïçü²Š7Î§|zâêš›“GÇ¼«#îœûØ·@íê¸„C]ãâ@óc=hŞ?sğ—º3ßZœöS9hÌ˜-n]A±dh³#«{:ö
+Ç¿Q8`0w·rÃ[Ôi¸ôœäë2®HXâÙÂÑ|BÎºùœu¨?‰Ésè³M²æ†Ô´ƒF÷èRK<x·ØæmÍ†
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+=S’‡éÓI¸WôhµZ(
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+k‡ê“ &j²
+:”UxÈÙÖî.í¨k‚}íÀ>;yfÑ<û~èDËøèîë]èŞN¬‚Ñùöî}’ƒKç¦‚0²hØÓA*ëbİÜiÏ×úş¡ìt-l!¼ø†'j}#©(™¹‘â¹Ø_?/
+.¼™	8›Ù‰¦5/ì×®Ê>SPku.ÜØÿ^A´)>Øév¿NwSNPj{ACpºë SAqÃ½bÎ®Â“mŞãY½ÛÆc@K³ú—ã-	
+PID:11891 just read 3988 bytes from host
+PID:11891 just wrote 3988 bytes to client response:
+ò™õ<–@X°¤œwcœT”zŞŒ‚ëšv©½Ç7N–T
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+Fnñ—”ÓT»„Ä/ÙºGMWi)˜ã´ múæ®tI%t‚nÅ½háösè^BtŸH}ïš°ìs#Gsè»Öóøæì¤m`9Ô˜hçâj™™ì|®¿cfNU‹H·.8¤‚LÚÙ¸i‡¥Ê^M»q§ÜOà^´xĞ"/ğD4Mµ/Y' á&||W v|ŸË {ÿéõPñ:
+PID:11891 just read 3472 bytes from host
+PID:11891 just wrote 3472 bytes to client response:
+ywIÖe•áßZgÿm.­Öë/z5% Ã©¤ö•ku¥šaöü¢ƒ|Mµt¢>ş÷§xôºÀ˜²­ñ
+PID:11891 just read 3202 bytes from host
+PID:11891 just wrote 3202 bytes to client response:
+×§İ÷ ¤j§0ûäc{1æ¤â¼©8o*Î›Šó¦â¼©8o*#ó]ö)ÆÏÈD©[¾ü˜Œy*Æíİ?îÀ<áÚÏyØ§#;p];p];p];p];p];p];°Î¸®¸®İ¸®İ¸®İ¸®İ¸®İ¸®İ¸®İ¸®İ¸.
+ã¹ßwÉS1îÀ˜°ëyÈ?‘‡ÊßDá§0&cK*ÆLlÙùnÌó1bŒgäcUùXU>Ö“ôäb‡íÅ·0
+æ"¤b{!F1ÖPŒ5cÅXC1ÖPŒ5cÅXC1ÖPŒ5P¸…Q‚bµ!ñ9ó<Œ×~.Æ¼áâµ½>Õ!üøùÆF„õŸc<PÅp?òßÂ(E}”‡±c5B‘Ï[ßŠ0¥À©Ö1Ê(µ+)ÇJÊ±’r¬¤+)ÇJÊ±’r¬¤+)ÇJÊ±’r¬¤)‰gT¢’“1æ"¤J«dÔ|¬FŠZ]…ìÛRuU!{¶ ¤êªÂš)¬EHÕU…ëªÂuUáºªp]U¸Õ±òjTZ-BÊ¿ûWcÿjì_ı«‘ÿÆ!¬êVuÇá®ñŠÒvF*§!U{ãŠÌa·ÃHy.BjÆ¹ã\‡qlkqÌk±½Ûk‘½‘Q‡x+ÂÈ§×[ë­ÇÆ3p¬pjsªk;ãnÑÜ¢#¸EGp9Gq{âèÅ¥Å=uGï(.á(î©£8ïQœ÷(ÆQ£8GQ4ö2™Ÿ«Ö#ÍHÃQÌalÅØñÆNŒµŒ&\r.¹	—Ü„KnÂ%7á87cÍXg3ÖÙŒu6cÍXg3ÖÙŒKkÆ¥5ãÒšqiÍ¸´f¬ó8Öyë<uÇ:cÇ±ÎãXçq¬“Â\Fª¥!5Â[±V¬§ëiÅzZ±V¬§ëiÅzZ±V¬§ëiÅzZñ?{íîµõUå‘*
+[1¶#´û|
+óNÌsmXC;Ò°aßç„kÑxkÇõ¶ãzÛqí¸Æv\c;Ê»…Ñæà­KĞHñ<ŒÅs'qKOâ–ÂµœÂ-=…[z
+·ôné)ÜÒS¸ÆS¸ÆS¸¥@HS§qi§QiÛXm'VÛ‰Õvâ¼8o'VÛ‰ÕvbµH­"Ag¾|£H#gŠ1_~”@ÈD×\1æÀ{E„o?¾%1WÂve„ß©`‹&FmŒbLIæ[ºBêš‹ø'EÌ	„ïIÌ•°]áàŒšØ®…íÚÅ™Ò%¾ü(ƒ¹"Bªi\‚4S€®‰Sµ

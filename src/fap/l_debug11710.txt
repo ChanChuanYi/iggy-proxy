@@ -1,0 +1,50 @@
+PID:11710 Child:Fork has been created
+PID:11710 request:
+GET http://static.tumblr.com/eatauj5/ah5lz703s/tessellate.2.1.min.css HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11710 about to start writing to host
+PID:11710 wrote to host request:
+GET http://static.tumblr.com/eatauj5/ah5lz703s/tessellate.2.1.min.css HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11710 just read 2187 bytes from host
+PID:11710 just wrote 2187 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: o5x1HGZG43ONcccuQCIdDXmE3NkfjHnyTx53d5t57jyZ0yhcP6/PPddyYKc5YFJ1
+x-amz-request-id: 73C22795AE378DC0
+Last-Modified: Fri, 10 Feb 2012 19:43:05 GMT
+ETag: "32296f9172c953639b6e09ab00c2efb7"
+Accept-Ranges: bytes
+Content-Type: text/css
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1777
+Date: Mon, 18 Mar 2013 02:11:10 GMT
+Connection: close
+
+‹
+PID:11710 just read 0 bytes from host
+PID:11710 just wrote 0 bytes to client response:
+
+PID:11710 job done, returning to server main()
+PID11710 fork is ending cleanly

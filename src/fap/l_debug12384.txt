@@ -1,0 +1,57 @@
+PID:12384 Child:Fork has been created
+PID:12384 request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_master04_background.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0037.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12384 about to start writing to host
+PID:12384 wrote to host request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_master04_background.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0037.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12384 just read 3472 bytes from host
+PID:12384 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:54 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Thu, 23 Jan 2003 02:43:45 GMT
+ETag: "2a0e142-3577-d76aba40"
+Accept-Ranges: bytes
+Content-Length: 13687
+Connection: close
+Content-Type: image/gif
+
+GIF89aÜew
+PID:12384 just read 3472 bytes from host
+PID:12384 just wrote 3472 bytes to client response:
+Öü'mœÖw´åwÜöm”nü%næ_Š¶~ˆf~êƒŒõ
+PID:12384 just read 3472 bytes from host
+PID:12384 just wrote 3472 bytes to client response:
+N7ã¤sN;ÛÄSÎ<ëÜóN=ÿäP?%tPCÿûDTP4¹d´Ê.·t´QH'}´RI-4SJ/åTSƒPJT…D-ˆÔO2U To
+UW[…uÔWeµÔYm­õÔ\U½UWZÅX_ƒ%vXcyİ•Ua‘]VÙb™}ÖÙc¥…vÚU¯íµZm©åvU¡Xr
+\›Ä—)rË×\u¿]7]vßu7ŞqÛŞzåE_tïå7ß~÷õ7`€.÷ß‚>˜àsfxa‡éEøa{#†XáŠ>MQM”ãı¸c=&yd“EF9d•KN™å•O~ÑN7õtfLiÆùfmæ¹fŸsîh–b&Úe£a>ºe¤—Vºé¢™~Úé¤ÿ£¦zj:-k}1Îšë­%şúb°›â®ËÖšl±×>›í°Û†ûm¹Õ›î¹ÍNj«õæ[ê¾«ş{o¿œpÁGœÏ wş™q¡w<òÅ'oœrÈ-wÊ=Ç4gsóÖ8ÓóÎ@/OôËHGısÕG_ıôÖM‡½sÙCŸ½ôÚSg=w×uvßmÿ÷İ‡ïxã…/ùÛ__÷æ‰·/_é§§¾zë¯Ç>{í·ç¾{ï¿?|ñÇ'¿|óÏG?ıÃ×¼}ÃİO~öß§?şúçsı+çÿòş%ÿßşü7@
+PID:12384 just read 3524 bytes from host
+PID:12384 just wrote 3524 bytes to client response:
+àfàv`n`~à)`
+V`	Æ``.âõ`à5Ş&^áÎ!Aa"Qáfává†á–a‹àßÎ_öÌÖáæaøíáúÕ_üıáıİa6âFâVâ$fâ%vâ&†â©‹·ø
+»˜bº¨b*v,Şb¶Èb.–-c0¶â/öâÿ.¾â3c5.c46ã4†ã7–c7¦ã¸ˆâ;~â<Æã=Öã>æcùÒ@ÓAäB&äC6äD¤?öãFfäGväH†ä(î¡ŸxK6L>İ3Òä¸dNåJåèåOåS&eT6åTfåUvåL.eXVeYneZ~åMe\®e]¾eO¶å_æe`öå`&æa6æNFæX.ædÎåcVfcdI–æh¦æi¶æjîNÕmöÔPíæRÕæoÕp6Un.gq6grVgPgvgvÆæk–çx¦çy¶g>ÆİİÕçÚåç|îgŞõç€¾ç®ç‚&èƒ6hÂØÓ5]h5uè;Rÿˆfh=¥h<mh‰~è<µèŠhÖÑ„Fèé‘é’>Şg”şç”è–fé—&’–i“¦é™¶i%Véœvé•æi†iŸîé¹é¡®é¢&ê£î‹/Q„1Yê2ij¥fê¨vj©†ê©¶êªÆêêxj­¦j®¾j¯ÎêëØj±îj²şj³k™kµ.k¶>k·NkEXk¹nkº~k»ë¹ÖëºŞë»îë¼æëÀöë¶FêÂ6êÃ6ìÄ>ßòßÅ®^ò}lÇ–^ÈlÉ¦ŞÊnìÌfìÍlÍîlÎÆlĞ¾ìÑîŞÏ6mÄFmÅVíÔfíPyê¦v…×VÙn	Úm³¾m·Îmÿ»ŞmØ¶íßÆmàÖmáæmâöíàFîáNîâ^îãVîçfnèvîè¦îé¶îÙnnì–ní®nî¾îÚÎnğŞnñînòşîŞöîô6oõFïõvïö^•Õ–ïÖ¦ïùşã¦Fü>ı&şÿ¦
+PID:12384 just read 0 bytes from host
+PID:12384 just wrote 0 bytes to client response:
+
+PID:12384 job done, returning to server main()
+PID12384 fork is ending cleanly

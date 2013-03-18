@@ -1,0 +1,68 @@
+PID:12369 Child:Fork has been created
+PID:12369 request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_outline_navigation_bar.htm HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_document.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12369 about to start writing to host
+PID:12369 wrote to host request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_outline_navigation_bar.htm HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_document.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12369 just read 923 bytes from host
+PID:12369 just wrote 923 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:50 GMT
+Server: Apache/2.2.3 (CentOS)
+Accept-Ranges: bytes
+Content-Length: 734
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=PowerPoint.Slide>
+<meta name=Generator content="Microsoft PowerPoint 10">
+<link id=Main-File rel=Main-File href="../STL%20Overview.htm">
+<link rel=Preview href=preview.wmf>
+<script>
+<!--
+if( window.name != "PPTOtlNav" )
+  parent.location.href = "../STL%20Overview.htm";
+//-->
+</script>
+</head>
+
+<body bgcolor=silver topmargin=5>
+
+<center><a href="javascript:parent.CollapseOutline()"><img
+src="v3_outline_collapse.gif" border=0 alt="Collapse Outline"></a><a
+href="javascript:parent.ExpandOutline()"><img src="v3_outline_expand.gif"
+border=0 alt="Expand Outline"></a></center>
+
+</body>
+
+</html>
+
+PID:12369 just read 0 bytes from host
+PID:12369 just wrote 0 bytes to client response:
+
+PID:12369 job done, returning to server main()
+PID12369 fork is ending cleanly

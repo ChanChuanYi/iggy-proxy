@@ -1,0 +1,46 @@
+PID:11712 Child:Fork has been created
+PID:11712 request:
+GET http://static.tumblr.com/eatauj5/aBHly2e80/jquery-1.7.1.min.js HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11712 about to start writing to host
+PID:11712 wrote to host request:
+GET http://static.tumblr.com/eatauj5/aBHly2e80/jquery-1.7.1.min.js HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11712 just read 3472 bytes from host
+PID:11712 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: EclB5sZcPC29p7k6oeZDGDjxc9d0L2V/qPNTiNF+K/oLGrmAkLju18b0stN0UfkY
+x-amz-request-id: D07900F3DB9F9E3D
+Last-Modified: Thu, 19 Jan 2012 21:26:25 GMT
+ETag: "ddb84c1587287b2df08966081ef063bf"
+Accept-Ranges: bytes
+Content-Type: application/x-javascript
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 33186
+Date: Mon, 18 Mar 2013 02:11:10 GMT
+Connection: close
+
+‹
+PID:11712 pipe error, probably done reading, preparing to end uncleanly

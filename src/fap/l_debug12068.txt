@@ -1,0 +1,66 @@
+PID:12068 Child:Fork has been created
+PID:12068 request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=7&utmn=773060047&utmhn=assets.tumblr.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1x1&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.6%20r602&utmdt=Tumblr&utmhid=1252264331&utmr=http%3A%2F%2Foptemino.tumblr.com%2F&utmp=%2Fanalytics.html&utmac=UA-97144-8&utmcc=__utma%3D151488169.469745280.1363561109.1363561109.1363572619.2%3B%2B__utmz%3D151488169.1363572619.2.2.utmcsr%3Dimlikeadogtogetyou.tumblr.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F%3B&utmu=qAC~ HTTP/1.1
+Host: www.google-analytics.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://assets.tumblr.com/analytics.html?d35d5423c5b91651db3d0dbfc10f8d60
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12068 about to start writing to host
+PID:12068 wrote to host request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=7&utmn=773060047&utmhn=assets.tumblr.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1x1&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.6%20r602&utmdt=Tumblr&utmhid=1252264331&utmr=http%3A%2F%2Foptemino.tumblr.com%2F&utmp=%2Fanalytics.html&utmac=UA-97144-8&utmcc=__utma%3D151488169.469745280.1363561109.1363561109.1363572619.2%3B%2B__utmz%3D151488169.1363572619.2.2.utmcsr%3Dimlikeadogtogetyou.tumblr.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F%3B&utmu=qAC~ HTTP/1.1
+Host: www.google-analytics.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://assets.tumblr.com/analytics.html?d35d5423c5b91651db3d0dbfc10f8d60
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12068 just read 376 bytes from host
+PID:12068 just wrote 376 bytes to client response:
+HTTP/1.1 200 OK
+Date: Fri, 15 Mar 2013 04:28:26 GMT
+Content-Length: 35
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Expires: Wed, 19 Apr 2000 11:43:00 GMT
+Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+Content-Type: image/gif
+Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+Age: 251118
+Server: GFE/2.0
+
+GIF89a
+PID:12068 just read 1068 bytes from host
+PID:12068 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Mon, 18 Mar 2013 02:13:44 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>That’s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>That’s all we know.</ins>
+
+PID:12068 just read 0 bytes from host
+PID:12068 just wrote 0 bytes to client response:
+
+PID:12068 job done, returning to server main()
+PID12068 fork is ending cleanly

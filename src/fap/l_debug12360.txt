@@ -1,0 +1,522 @@
+PID:12360 Child:Fork has been created
+PID:12360 request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_outline_collapsed.htm HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_document.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12360 about to start writing to host
+PID:12360 wrote to host request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_outline_collapsed.htm HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_document.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12360 just read 6944 bytes from host
+PID:12360 just wrote 6944 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:50 GMT
+Server: Apache/2.2.3 (CentOS)
+Accept-Ranges: bytes
+Content-Length: 18321
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=PowerPoint.Slide>
+<meta name=Generator content="Microsoft PowerPoint 10">
+<link id=Main-File rel=Main-File href="../STL%20Overview.htm">
+<link rel=Preview href=preview.wmf>
+<script>
+<!--
+if( window.name != "PPTOtl" )
+  parent.location.href = "../STL%20Overview.htm";
+//-->
+</script>
+<meta name=Robots content=NoIndex>
+</head>
+
+<body bgcolor=black alink=white link=white vlink=white text=white>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0053.htm');">STL Library - Overview</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0134.htm');">STL - Standard Template
+Library</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0135.htm');">STL Based on Templates</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0133.htm');">STL - Standard Template
+Library</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0156.htm');">Array Example (1 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0157.htm');">Array Example (2 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0158.htm');">Array Example (3 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0159.htm');">Comments on Array</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0137.htm');">Two Varieties of
+Containers</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0007.htm');">Typical Container
+Interfaces</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0064.htm');">Overview of<span
+style='mso-spacerun:yes'>  </span>Containers</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0010.htm');">Container Definitions for
+CAN</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0011.htm');">Container Members for CAN</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0140.htm');">Container Operators</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0141.htm');">Typical Container
+Algorithm (1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0142.htm');">Typical Container
+Algorithm (2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0160.htm');">Containers with Iterators
+(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0161.htm');">Containers with Iterators
+(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0162.htm');">Comments on Containers
+with Iterators</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0145.htm');">Associative Containers</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0146.htm');">Associative Container
+Program<span style='mso-spacerun:yes'>  </span>(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0147.htm');">Associative Container
+Program<span style='mso-spacerun:yes'>  </span>(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0021.htm');">Additional Associative
+Definitions</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0022.htm');">Additional Associative
+Constructors</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0023.htm');">Associative Insert &amp;
+Erase Functions (1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0024.htm');">Associative Insert &amp;
+Erase Functions (2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0030.htm');">Associative Member
+Functions</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0031.htm');">Container Adapter Classes</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0032.htm');">Adapted Stack Functions</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0013.htm');">Sequence Containers</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0014.htm');">Sequence Container
+Program (1 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0015.htm');">Sequence Container
+Program (2 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0016.htm');">Sequence Container
+Program (3 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0017.htm');">Additional Sequence
+Members in SEQ</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0035.htm');">Adapted Containers (1 of
+2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0163.htm');">Adapted Containers (2 of
+2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0036.htm');">Stack Adapted from Vector
+(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0037.htm');">Stack Adapted from Vector
+(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0151.htm');">Iterators</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0144.htm');">Iterators and Containers
+and Algorithms</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0050.htm');">Input Iterator</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0005.htm');">istream_iterator for
+Reading from Streams</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0051.htm');">Output Iterator</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:p
+PID:12360 just read 3472 bytes from host
+PID:12360 just wrote 3472 bytes to client response:
+arent.GoToSld('v3_slide0154.htm');">Special case ostream_iterator</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0074.htm');">The ostream_iterator for
+Writing to Streams</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0067.htm');">Forward Iterator</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0068.htm');">Bidirectional Iterator</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0069.htm');">Random Access Iterators</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0155.htm');">Random Access Iterators
+Support</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0038.htm');">STL Algorithms Library</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0039.htm');">Sorting Algorithms</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0040.htm');">Using sort() for
+In-Memory quicksort</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0041.htm');">Sorting Algorithm
+Prototypes (1 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0042.htm');">Sorting Algorithm
+Prototypes (2 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0043.htm');">Sorting Algorithm
+Prototypes (3 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0044.htm');">Sorting Algorithm
+Prototypes (4 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0045.htm');">Sorting Algorithm
+Prototypes (5 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0046.htm');">Sorting Algorithm
+Prototypes (6 of 6)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0047.htm');">Sort Related Library
+Functions<span style='mso-spacerun:yes'>  </span>(1 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0048.htm');">Sort Related Library
+Functions<span style='mso-spacerun:yes'>  </span>(2 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0049.htm');">Sort Related Library
+Functions<span style='mso-spacerun:yes'>  </span>(3 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0076.htm');">Sort Related Library
+Functions<span style='mso-spacerun:yes'>  </span>(4 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0077.htm');">Sort Related Library
+Functions<span style='mso-spacerun:yes'>  </span>(5 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0078.htm');">Sort Algorithms and
+Ordering with comp ()</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0079.htm');">Non-Mutating Sequence
+Algorithms</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0080.htm');">Non-mutating find()<span
+style='mso-spacerun:yes'>  
+PID:12360 just read 2724 bytes from host
+PID:12360 just wrote 2724 bytes to client response:
+</span>For Locating element t</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0081.htm');">Non-mutating Algorithm
+Prototypes<span style='mso-spacerun:yes'>  </span>(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0082.htm');">Non-mutating Algorithm
+Prototypes<span style='mso-spacerun:yes'>  </span>(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0083.htm');">Non-Mutating Sequence
+Functions (1 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0084.htm');">Non-Mutating Sequence
+Functions (2 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0148.htm');">Non-Mutating Sequence
+Functions (3 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0085.htm');">Non-Mutating Sequence
+Functions (4 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0086.htm');">Non-Mutating Sequence
+Functions (5 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0087.htm');">Mutating Sequence
+Algorithms</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0088.htm');">Mutating reverse() &amp;
+copy() Program (1 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0089.htm');">Mutating reverse() &amp;
+copy() Program (2 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0090.htm');">Mutating reverse() &amp;
+copy() Program (3 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0091.htm');">Mutating Function
+Prototypes (1 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0092.htm');">Mutating Function
+Prototypes (2 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0093.htm');">Mutating Function
+Prototypes (3 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0094.htm');">Mutating Function
+Prototypes (4 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0095.htm');">Mutating Function
+Prototypes (5 of 5)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0096.htm');">Mutating Sequence Library
+Function (1 of 8)</a></b></font></p>
+
+<p><fo
+PID:12360 just read 3472 bytes from host
+PID:12360 just wrote 3472 bytes to client response:
+nt face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0097.htm');">Mutating Sequence Library
+Function (2 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0098.htm');">Mutating Sequence Library
+Function (3 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0099.htm');">Mutating Sequence Library
+Function (4 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0100.htm');">Mutating Sequence Library
+Function (5 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0149.htm');">Mutating Sequence Library
+Function (6 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0101.htm');">Mutating Sequence Library
+Function (7 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0102.htm');">Mutating Sequence Library
+Function (8 of 8)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0103.htm');">Numerical Algorithms</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0104.htm');">Numerical Algorithm
+Program</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0105.htm');">Numerical Algorithm
+Prototypes<span style='mso-spacerun:yes'>  </span>(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0106.htm');">Numerical Algorithm
+Prototypes<span style='mso-spacerun:yes'>  </span>(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0107.htm');">Numerical Algorithm
+Functions<span style='mso-spacerun:yes'>  </span>(1 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0108.htm');">Numerical Algorithm
+Functions<span style='mso-spacerun:yes'>  </span>(2 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0150.htm');">Numerical Algorithm
+Functions<span style='mso-spacerun:yes'>  </span>(3 of 3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0109.htm');">Function Objects</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0110.htm');">Function Object for
+minus&lt;int&gt;</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0111.htm');">Defined Function Object
+Classes</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0113.htm');">Arithmetic Objects<span
+style='mso-spacerun:yes'>  </span>(1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0114.htm');">Arithmetic Objects<span
+style='mso-spacerun:yes'>  </span>(2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0115.htm');">Comparison Objects (1 of
+2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0116.htm');">Comparison Objects (2 of
+2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0117.htm');">Logical Objects</a></b></font></p>
+
+PID:12360 just read 1900 bytes from host
+PID:12360 just wrote 1900 bytes to client response:
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0118.htm');">Function Adapters</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0120.htm');">Use of Function Adapter
+bind2nd (1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0121.htm');">Use of Function Adapter
+bind2nd (2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0122.htm');">Function Adapters (1 of
+3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0123.htm');">Function Adapters (2 of
+3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0124.htm');">Function Adapters (3 of
+3)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0125.htm');">Iterator Adapters</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0126.htm');">Reverse Iterator
+Traverses Sequence (1 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0127.htm');">Reverse Iterator
+Traverses Sequence (2 of 2)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0136.htm');">Iterator Adapter
+Prototypes (1 of 4)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0129.htm');">Iterator Adapter
+Prototypes (2 of 4)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0130.htm');">Iterator Adapter
+Prototypes (3 of 4)</a></b></font></p>
+
+<p><font face=Arial size=2><b><a
+href="javascript:parent.GoToSld('v3_slide0131.htm');">Iterator Adapter
+Prototypes (4 of 4)</a></b></font></p>
+
+</body>
+
+</html>
+
+PID:12360 just read 0 bytes from host
+PID:12360 just wrote 0 bytes to client response:
+
+PID:12360 job done, returning to server main()
+PID12360 fork is ending cleanly

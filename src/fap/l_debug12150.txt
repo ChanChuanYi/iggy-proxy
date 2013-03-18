@@ -1,0 +1,67 @@
+PID:12150 Child:Fork has been created
+PID:12150 request:
+GET http://24.media.tumblr.com/4b0880de623d6c0b97bff1f20d5b5ea9/tumblr_mjcqhtzl0b1qkdrw1o1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12150 about to start writing to host
+PID:12150 wrote to host request:
+GET http://24.media.tumblr.com/4b0880de623d6c0b97bff1f20d5b5ea9/tumblr_mjcqhtzl0b1qkdrw1o1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12150 just read 1460 bytes from host
+PID:12150 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Mon, 18 Mar 2013 02:14:14 GMT
+ETag: "fca428a4da7c3c7b310cacb97a77cb57"
+Last-Modified: Fri, 08 Mar 2013 17:13:08 GMT
+Server: ECS (sjc/4F97)
+x-amz-id-2: U74udvo2WYqdTT73WEye9bs14mVVmkfdUWY6JKIlfMGGrA2n5f4cTl95vL2jbWpR
+x-amz-request-id: C833DEAF040B58B4
+x-amz-version-id: qOBtwOsjtvShnH.uz4dDkZIJe2bEOwQZ
+X-Cache: HIT
+Content-Length: 42666
+
+ÿØÿà
+PID:12150 just read 6944 bytes from host
+PID:12150 just wrote 6944 bytes to client response:
+¨*§Ô©`¨¿•;}J¾¼sc^ÙÇ.fE_WNuÏŞ¬¤µ®ºÊ¤77Úz®Û—É8M>Mó‰ÅqÍG1QyXĞ»|âu=ëUoÃŠ0 :ËoÉzTÆa´"o6)æ>
+¤dˆ‚Š¿‹Ğ|bjbGGó°stMÂâ•Àïÿ
+PID:12150 just read 4736 bytes from host
+PID:12150 just wrote 4736 bytes to client response:
+÷—%áuZ8*‚§Ô£ıJ¢*¢«	p%Í;ŠGŒdS¶áÎÀë¯’¹nq<Ó{Ë½ÓmOªQ'I1iVM5Ò½Ô€’ZÛñ¡úl¿‹Œ&‘­Åeƒ'u]og[(ÆP±ØÁiÃ3a·£<¾sft§Q £ŠBˆŸç1İSÕŒJ$ê†uŸT#[c³,+÷©ğ¬E¹‘&?	ÏxŠáºßShJ
+kÔ+Ò„ˆ¨©¿xŸêEÆkÉ€êímlGÍÖyHm•Ü¢ÙT=2X6Ù¡¾S±Úy‘}Q‘u–ÉÒò‘Ş©İí-Î¿E\¢áøkåu.\d½¬m©½·CNq©´š‘¬)¦†mHôKÊW]šj=Qà6ŸteVJR¡" ¨3²õ=ÓÍ>î¾ãTq·jÖDû†L·!´}q§„]Mä›J?î»¨¯v	¢5Úw“K±¤HğâOyZ–ì©.ØYÈm[D'İuâô§|¿ª%Ù¿‰TrÅ¤”·9f(Õá„]ë§£Ïj¬°Í”¹U²z‘,AãqZVÇ¡_ó@zÕEP¨œÇ¦p½µ^¸á<ÁXÛ¿wn<üNîûªÏ™~Z`s…£)Uy¨ù6Ÿa}11Ê)+.¬sËtxŒ(à¨üµmĞ[e·Ûä
+BÒu
+PID:12150 just read 8192 bytes from host
+PID:12150 just wrote 8192 bytes to client response:
+ƒtFÉmøĞ9}ÄOJğŠPÆî²\2th1%üráúàëH­“®GEX¯u):É©*î»î»—³óÓ”cZ{ªgóşÌä`tñ¯ë$G‚Å}£/+ì”wEµş`¾Èìè‹CÓ QCpR%Ø3rJá<Ui›D‚Çf
+PID:12150 just read 5696 bytes from host
+PID:12150 just wrote 5696 bytes to client response:
++·[Z-?:ÉÀÊ²2Ø;¾Y÷ ó=#¸¦ıJ‰ÙÑ7JÙ«ñ¬<©"ÉĞĞŸu^l…7ØzœÈÌQQnû/dùmÇ­I5ÄQØ¤&ÕUKi.6ã>¨£´kÃstNû§nş¨½¸”¶sdŞ]Ì®‚Ø3X+<*CÀl¸â!ÍÜAI²0-º—¸™îª$©İW×3”aÜ¦jn”@É.²×«rTeÜ4ªvêåEelr¦®6mª“í!¯–ìgQQÄDİ§ûDzeZ<C¹K¯Ô’%ã†É²È€Ú0oÄfJ¼ã#³»
+PID:12150 just read 3472 bytes from host
+PID:12150 just wrote 3472 bytes to client response:
+5ÚHŠ^›ĞÙ.ÿ
+PID:12150 just read 3472 bytes from host
+PID:12150 just wrote 3472 bytes to client response:
+QPhÔ[KôŞé¾¦¤Ç4N6®Ò´óKÖŞôñFÔ{ï¸ªo¶Ûúñ‰¬ÊëÛ§v¦£YhkZmÇÙk±ˆ²¹ÓtÃ@øÛRUè0TNÈ¢©Û…MáÛí#kEìOuooSâeS¢cÕ9uKçôê<óÈÓK%_.À‘HS§îÛ«¤[îåÙÆsÊ«KFË±‘f]¼‰hiE)şŸ1AVx¡wT^ÛõwâªŠJGd”Zşù.lÙ¶T-evÏ–Œİç×Rl+ãF…içz,Érøêh{ jD ûj¢ˆ¨*‚  …¯‰étxyk)uy}¬òRßm¶]÷ùp?Şåz‹–òÇawŠB,ëªê%8…Î`Ä|÷%î.˜¡o÷2UDN¾¥!|MX÷]e•Uq+‘I|¢Ù?mxÀ$ø„Â»XÈî)_aw¸İ-„ ï]ƒ¦±Ù7Ï¨¤!F•6%$$]×¿R'oŸkPå·€2.Õ³
+j„­m^òŠH¬º‹ÖÓ«{8-¯R!q¨Y’ÎV¶„ã‚]kÒ_Åğï·bü\vu/%•“^¼û ñÅ`UTÈ›$D.èˆ]!ßnà

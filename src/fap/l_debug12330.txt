@@ -1,0 +1,877 @@
+PID:12330 Child:Fork has been created
+PID:12330 request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/skin.css HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12330 about to start writing to host
+PID:12330 wrote to host request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/skin.css HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12330 just read 3472 bytes from host
+PID:12330 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Content-Length: 16145
+Content-Type: text/css
+Last-Modified: Thu, 31 May 2007 21:37:17 GMT
+Accept-Ranges: bytes
+ETag: "80241edccba3c71:70e"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Mon, 18 Mar 2013 02:15:33 GMT
+
+/* CSS Document */
+
+/* CSS Document */
+
+/* CSS Document */
+/* ================================
+    CSS STYLES FOR DotNetNuke
+   ================================
+*/   
+
+
+/* PAGE BACKGROUND */
+/* background color for the header at the top of the page  */
+.HeadBg {
+    background-color: #CCCCCC;
+}
+
+/* background color for the content part of the pages */
+Body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #095BA5;
+	background-image: url(Images/bg.gif);
+}
+
+/* background/border colors for the selected tab */
+.TabBg {
+    background-color: black;
+}
+
+
+/* text style for the selected tab */
+.SelectedTab {
+    font-weight: bold;
+    font-size: 8.5pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+/* hyperlink style for the selected tab */
+A.SelectedTab:link {
+    text-decoration:    none;
+    color:white;
+}
+
+A.SelectedTab:visited  {
+    text-decoration:    none;
+    color:#eeeeee;
+}
+
+A.SelectedTab:active   {
+    text-decoration:    none;
+    color:#eeeeee;
+}
+
+A.SelectedTab:hover    {
+    text-decoration:    none;
+    color:#cccccc;
+}
+
+
+
+
+
+
+
+/* styles for the top right contact us, logout adn admin */
+.OtherTabs {
+    font-weight: bold;
+    font-size: 10pt;
+    color: white;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.OtherTabs {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+A.OtherTabs:link {
+	color:#333333;
+    text-decoration:    none;
+	font-weight: normal;
+}
+A.OtherTabs:visited  {
+	color:#333333;
+    text-decoration:    none;
+	font-weight: normal;
+}
+A.OtherTabs:hover    {
+	text-decoration:    none;
+	color:#ffffff;
+	font-weight: normal;
+}
+
+
+
+
+/* GENERAL */
+/* GENERAL */
+/* GENERAL */
+
+
+/* style for module titles */
+.Head   {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  20px;
+    font-weight:    normal;
+    color: #333333;
+}
+
+/* style of item titles on edit and admin pages */
+.SubHead    {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  11px;
+    font-weight:    bold;
+    color: #000000;
+}
+
+/* module title style used instead of Head for compact rendering by QuickLinks and Signin modules */
+.SubSubHead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  11px;
+    font-weight:    bold;
+    color: black;
+}
+
+/* text style used for most text rendered by modules */
+.Normal{
+	font-size:10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+td
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+}
+/* text style used for textboxes in the admin and edit pages, for Nav compatibility */
+.NormalTextBox
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.NormalRed
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff0000
+}
+
+.NormalBold
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold
+}
+
+/* text style for buttons and link buttons used
+PID:12330 just read 3472 bytes from host
+PID:12330 just wrote 3472 bytes to client response:
+ in the portal admin pages */
+.CommandButton     {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+}
+    
+/* hyperlink style for buttons and link buttons used in the portal admin pages */
+A.CommandButton:link {
+    text-decoration:    underline;
+    color: #003366;
+}
+
+A.CommandButton:visited  {
+    text-decoration:    underline;
+    color: #003366;
+}
+
+A.CommandButton:active   {
+    text-decoration:    underline;
+    color: #003366;
+}
+
+A.CommandButton:hover    {
+    text-decoration:    underline;
+    color: #ff0000;
+}
+    
+/* GENERIC */
+
+DT  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  11px;
+    font-weight:    bold;
+    color: #003366;
+}
+
+
+TFOOT, THEAD    {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  12px;
+    color: #003366;
+}
+
+TH  {
+    vertical-align: baseline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  12px;
+    font-weight:    bold;
+    color: #003366;
+}
+
+A:link  {
+    text-decoration:    none;
+    color:  #2f73c2;
+}
+
+A:visited   {
+    text-decoration:    none;
+    color:  #2f73c2;
+}
+
+A:active    {
+    text-decoration:    none;
+    color:  #2f73c2;
+}
+
+A:hover {
+    text-decoration:    underline;
+    color:  #009AEF;
+}
+
+SMALL   {
+    font-size:  8px;
+}
+
+BIG {
+    font-size:  14px;
+}
+
+BLOCKQUOTE, PRE {
+    font-family:    Lucida Console, monospace;
+}
+
+UL {
+	font-family: Verdana, arial, helvetica, sans-serif;
+	font-size:10px;
+	color:#666666;
+	margin-top: 5px;
+	margin-bottom:15px;
+}
+UL LI   {
+	list-style-image: url(images/blt_blue.gif);
+	font-size:10px;
+	line-height:15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color:#666666;
+}
+
+UL LI LI    {
+    list-style-type:    disc;
+	font-size:10px;
+	line-height:15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#666666; }
+
+UL LI LI LI {
+    list-style-type:    circle;
+	font-size:10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#666666; }
+
+OL LI   {
+    list-style-type:    decimal;
+	font-size:10px;
+	line-height:15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#666666; }
+
+OL OL LI    {
+    list-style-type:    lower-alpha;
+	font-size:10px;
+	line-height:15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color:#666666;}
+
+OL OL OL LI {
+    list-style-type:    lower-roman;
+	font-size:100px;
+	line-height:15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color:#666666;}
+
+
+HR {
+    color: dimgrey;
+    height:1pt;
+    text-align:left
+}
+
+
+
+
+/* Menu-Styles */
+/* Module Title Menu */
+
+
+
+
+.ModuleTitle_MenuContainer {
+	/*border-bottom: blue 0px solid; 
+	border-left: blue 0px solid; 
+	border-top: blue 0px solid; 
+	border-right: blue 0px solid; */
+}
+
+.ModuleTitle_MenuBar {
+	cursor: pointer; 
+	cursor: hand;
+	height:16;
+	/*background-color: Transparent;*/
+}
+
+.ModuleTitle_MenuItem {
+	cursor: pointer; 
+	cursor: hand; 
+	color: black; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9pt; 
+	font-style: normal; 
+	/*border-left: white 0px solid; 
+	border-bottom: white 1px solid; 
+	border-top: white 1px solid; 
+	border-right: white 0px solid;*/
+	/*background-color: Transparent;*/
+}
+
+.ModuleTitle_MenuIcon {
+	cursor: pointer; 
+	cursor: hand; 
+	background-color: #EEEEEE; 
+	/*border-left: #EEEEEE 1px solid; 
+
+PID:12330 just read 3472 bytes from host
+PID:12330 just wrote 3472 bytes to client response:
+	border-bottom: #EEEEEE 1px solid; 
+	border-top: #EEEEEE 1px solid; */
+	text-align: center; 
+	width: 15; 
+	height: 21;
+}
+
+.ModuleTitle_SubMenu {
+	z-index: 1000; 
+	cursor: pointer; 
+	cursor: hand; 
+	background-color: #FFFFFF; 
+	/*border-bottom: #FFFFFF 0px solid; 
+	border-left: #FFFFFF 0px solid; 
+	border-top: #FFFFFF 0px solid; 
+	border-right: #FFFFFF 0px solid;*/
+}
+
+.ModuleTitle_MenuBreak {
+	/*border-bottom: #EEEEEE 1px solid; 
+	border-left: #EEEEEE 0px solid; 
+	border-top: #EEEEEE 1px solid;  
+	border-right: #EEEEEE 0px solid; */
+	background-color: #EEEEEE; 
+	height: 1px;
+}
+
+.ModuleTitle_MenuItemSel {
+
+	cursor: pointer; 
+	cursor: hand; 
+	color: black; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9pt; 
+	font-style: normal;
+	background-color: #C1D2EE;
+}
+
+.ModuleTitle_MenuArrow {
+	font-family: webdings; 
+	font-size: 9pt; 
+	cursor: pointer; 
+	cursor: hand; 
+	/*border-right: #FFFFFF 1px solid; 
+	border-bottom: #FFFFFF 1px solid; 
+	border-top: #FFFFFF 0px solid;*/
+}
+
+.ModuleTitle_RootMenuArrow {
+	font-family: webdings; 
+	font-size: 9pt; 
+	cursor: pointer; 
+	cursor: hand;
+}
+
+/* Main Menu Main Menu Main Menu Main Menu */
+/* Main Menu Main Menu Main Menu Main Menu */
+/* Main Menu Main Menu Main Menu Main Menu */
+
+
+
+.MainMenu_MenuContainer {
+	/*border-bottom: #EEEFF4 0px solid; 
+	border-left: #EEEFF4 0px solid; 
+	border-top: #EEEFF4 0px solid; 
+	border-right: #EEEFF4 0px solid; */ 
+	background-color: transparent;
+}
+
+.MainMenu_MenuBar {
+	cursor: pointer; 
+	cursor: hand; 
+	height:16;
+}
+
+.MainMenu_MenuItem {
+	cursor: pointer; 
+	cursor: hand; 
+	color: #333333; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9px; 
+	font-style: normal; 
+	/*border-bottom: #EEEFF4 1px solid; 
+	border-top: #EEEFF4 1px solid; */
+}
+
+.MainMenu_MenuItemSel {
+	background-color:#EEEFF4; 
+	cursor: pointer; 
+	cursor: hand; 
+	color: #666666; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9px; 
+	font-style: normal;
+
+}
+
+
+.MainMenu_MenuIcon {
+	cursor: pointer; 
+	cursor: hand; 
+	background-color: #666666; 
+	text-align: center; 
+	width: 15; 
+	height: 21;
+}
+
+.MainMenu_SubMenu {
+	z-index: 1000; 
+	cursor: pointer; 
+	cursor: hand; 
+	background-color: #EEEFF4; 
+    color:#333333;
+}
+
+.MainMenu_MenuBreak {
+	background-color: #EEEFF4; 
+	height: 0px;
+}
+
+
+.MainMenu_MenuArrow {
+	font-family: webdings; 
+	font-size: 9px; 
+	cursor: pointer; 
+	cursor: hand; 
+	color: #666666; 
+}
+
+.MainMenu_RootMenuArrow {
+	font-family: webdings; 
+	font-size: 9px; 
+	cursor: pointer; 
+	cursor: hand;
+	color: #666666; 
+}
+
+
+.MenuItemText{
+font-size:9px;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+
+/* end main css */
+
+
+
+
+
+
+/* style of item titles on edit and admin pages */
+.SubHead    {
+font-size:10px;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+
+
+/* LEFT NAVIGATION CSS */
+/* LEFT NAVIGATION CSS */
+/* LEFT NAVIGATION CSS */
+
+
+.MenuItemText{
+	font-size:10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+.MenuItem{
+	padding: 3px;
+	margin-bottom: 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0099CC;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	border-left-width: 8px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	border-top-width: 1px;
+
+PID:12330 just read 3472 bytes from host
+PID:12330 just wrote 3472 bytes to client response:
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+}
+.MenuHdr{
+	padding: 3px;
+	margin-bottom: 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0099CC;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	border-left-width: 8px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+}
+
+.MenuItemMouseOver{
+	padding: 3px;
+	margin-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	border-left-width: 8px;
+	border-left-style: solid;
+	border-left-color: #FF9933;
+	background-color: #eeeeee;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+}
+
+.MenuItemMouseOver a:hover{
+	color: #993300;
+	text-decoration:underline;
+	}
+
+/* Skin Specific CSS */
+/* Skin Specific CSS */
+/* Skin Specific CSS */
+
+
+
+
+.nav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	height: 25px;
+	padding-left: 5px;
+	background-image: url(images/header_05.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-top: 3px;
+	text-align: center;
+}
+	
+.NavPaneStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-right: 10px;
+	padding-top: 35px;
+	padding-left: 15px;
+	width:150px;
+}
+
+.borderframe {
+	border-right-width: 1px; 
+	border-left-width: 1px; 
+	border-right-style: solid; 
+	border-left-style: solid; 
+	border-top-color: #000000; 
+	border-right-color: #000000; 
+	border-bottom-color: #000000; 
+	border-left-color: #000000; 
+}
+
+.ContentPaneStyle2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	padding-right: 35px;
+	padding-left: 15px;
+}
+
+.ContentPaneStyle1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	margin: 0 25px 0 25px;
+        width: 700px;
+}
+
+.FoundationWraper{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+h2{
+	font-weight:normal;
+	margin:0px;
+	padding: 0px;
+	font-size:14px;
+	text-transform:uppercase;
+	color:#666666;
+	font-family: arial, helvetica, sans-serif;
+}
+.title{
+	font-weight:bolder;
+	margin:0px;
+	padding: 0px;
+	font-size:16px;
+	text-transform:uppercase;
+	color:#407eaa;
+	font-family: arial, helvetica, sans-serif;
+}
+.subtitle{
+	font-weight:bold;
+	margin:0px;
+	padding: 0 0 10px 0;
+	font-size:11px;
+	text-transform:uppercase;
+	color:#666666;
+	font-family:  verdana, arial, helvetica, sans-serif;
+}
+p{
+	margin: 0 0 0 0;
+	padding: 5px 0 15px 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 15px;
+}
+.footer{
+	
+}
+.mainfooter{
+	background-image: url(images/footer.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	height: 60px;
+	padding-top: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+}h1{
+	font-weight:bold;
+	margin:0px;
+	padding: 0px;
+	font-size:12px;
+	text-transform:uppercase;
+	color:#407eaa;
+	font-family:  verdana, arial, helvetica, sans-serif;
+}
+h3{
+	font-weight:bold;
+	margin:0px;
+	padding: 0px;
+	font-size:10px;
+	text-transform:uppercase;
+	color:#407eaa;
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+.Head{
+	font-weight
+PID:12330 just read 2671 bytes from host
+PID:12330 just wrote 2671 bytes to client response:
+:bolder;
+	margin:0px;
+	padding: 0px;
+	font-size:16px;
+	text-transform:uppercase;
+	color:#407eaa;
+	font-family: arial, helvetica, sans-serif;
+}
+/* FORMATTING FOR TABULAR DATA */
+.tableoutline {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 10px;
+ padding-top: 4px;
+ border-top-width: 1px;
+ border-top-style: solid;
+ border-top-color: #CCCCCC;
+ padding-bottom: 4px;
+}
+
+/*  top right navigation */
+
+.contactlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #66CCFF;
+	text-align: right;
+	height: 23px;
+	padding-right: 5px;
+	padding-top: 3px;
+	font-weight: normal;
+}
+
+
+#topright{
+	margin-top: 3px;
+	font-weight: normal;
+}
+
+.white {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#topright a {
+	color: #8DD0EA;
+	font-weight: normal;
+}
+#topright a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 10px;
+}.topheader {
+	background-image: url(images/topheader.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 80px;
+	vertical-align: top;
+}
+.blackbottom {
+	border-right: 1px solid #003366;
+	border-bottom: 1px solid #003366;
+	border-left: 1px solid #003366;
+	border-top-color: #003366;
+}
+
+#st_link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4c4c4;
+	width: 130px;
+	float: left;
+}#st_link2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4c4c4;
+	width: 130px;
+	margin-left: 170px;
+}#st_link a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4c4c4c;
+	text-decoration: none;
+	background-image: url(btn_blank.gif);
+	padding-top: 8px;
+	padding-left: 24px;
+	display: block;
+	background-repeat: no-repeat;
+	padding-bottom: 10px;
+	text-transform: capitalize;
+	width: 130px;
+}#st_link2 a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4c4c4c;
+	text-decoration: none;
+	background-image: url(btn_blank.gif);
+	padding-top: 8px;
+	padding-left: 24px;
+	display: block;
+	background-repeat: no-repeat;
+	padding-bottom: 10px;
+	text-transform: capitalize;
+	width: 130px;
+}
+#st_link a:hover {
+	text-decoration: underline;
+	background-image: url(btn_blank.gif);
+	background-repeat: no-repeat;
+}
+#st_link2 a:hover {
+	text-decoration: underline;
+	background-image: url(btn_blank.gif);
+	background-repeat: no-repeat;
+}
+
+.NukeHTML
+{
+
+	background-color: #FFFFFF;
+	background-image: url(Images/1x1.gif);
+}HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Mon, 18 Mar 2013 02:15:33 GMT
+Connection: close
+Content-Length: 35
+
+<h1>Bad Request (Invalid Verb)</h1>
+PID:12330 just read 0 bytes from host
+PID:12330 just wrote 0 bytes to client response:
+
+PID:12330 job done, returning to server main()
+PID12330 fork is ending cleanly

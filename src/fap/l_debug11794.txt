@@ -1,0 +1,50 @@
+PID:11794 Child:Fork has been created
+PID:11794 request:
+GET http://assets.tumblr.com/javascript/iframe.js?33 HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://assets.tumblr.com/iframe.html?af5ce0ec8e924e785026d9afb227449e&src=http%3A%2F%2Fdeadpathogen.tumblr.comhttp%3A%2F%2Fdeadpathogen.tumblr.com%2F&lang=en_US&name=deadpathogen
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.4.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+
+
+PID:11794 about to start writing to host
+PID:11794 wrote to host request:
+GET http://assets.tumblr.com/javascript/iframe.js?33 HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://assets.tumblr.com/iframe.html?af5ce0ec8e924e785026d9afb227449e&src=http%3A%2F%2Fdeadpathogen.tumblr.comhttp%3A%2F%2Fdeadpathogen.tumblr.com%2F&lang=en_US&name=deadpathogen
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.4.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+
+
+PID:11794 just read 6162 bytes from host
+PID:11794 just wrote 6162 bytes to client response:
+HTTP/1.1 200 OK
+Server: nginx/0.8.55
+Content-Type: application/x-javascript
+Last-Modified: Thu, 21 Feb 2013 22:09:34 GMT
+Accept-Ranges: bytes
+X-Varnish: 2907248691
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 5794
+Cache-Control: max-age=504982
+Expires: Sat, 23 Mar 2013 22:27:51 GMT
+Date: Mon, 18 Mar 2013 02:11:29 GMT
+Connection: close
+
+‹
+PID:11794 just read 0 bytes from host
+PID:11794 just wrote 0 bytes to client response:
+
+PID:11794 job done, returning to server main()
+PID11794 fork is ending cleanly

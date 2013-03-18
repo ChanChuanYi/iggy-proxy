@@ -1,0 +1,74 @@
+PID:12193 Child:Fork has been created
+PID:12193 request:
+GET http://24.media.tumblr.com/b40c1e5cefbe9c57291ed26ad0a16fce/tumblr_mi8nycPv1I1qcs3axo1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12193 about to start writing to host
+PID:12193 wrote to host request:
+GET http://24.media.tumblr.com/b40c1e5cefbe9c57291ed26ad0a16fce/tumblr_mi8nycPv1I1qcs3axo1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12193 just read 8192 bytes from host
+PID:12193 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Mon, 18 Mar 2013 02:14:24 GMT
+ETag: "5efa96f295799c6d3925a04fcf53df5e"
+Last-Modified: Fri, 15 Feb 2013 01:54:14 GMT
+Server: ECS (sjc/4FA0)
+x-amz-id-2: NmOJntBPuT4bS99ChhKJhQYLfkFQHu+gQk6YGVv6ZYD+v+P4RWojRbX5TnXXJwk5
+x-amz-request-id: 9AED0E23662148DE
+x-amz-version-id: ineWgsvkn.f3z3jNJlgylTm15Iw1MJrV
+X-Cache: HIT
+Content-Length: 81810
+
+ÿØÿà
+PID:12193 just read 5696 bytes from host
+PID:12193 just wrote 5696 bytes to client response:
+?£'”¿¤u,¾¨]…‰öFä5–ÑS,®Ê˜Çîoªú­,®Ö?éÙşgè+W²ñ‰tu:M®É³¥¸ÎsC½Sf>÷Ó¶Öû÷¿Ó±‹pîû5T9àQH]>Á¦âíÛ«şBÂÌè£$äºŒ³MÙqjÜâÍ¢èÊ­Ãs½Ÿ¹üßú5>?n@Õ.ÕŸšæ4‘â„(@ÈNR„ˆıéz¿uPÈ«¦úÙ]?&Ú2rmTÖİ‹kÒĞáé¶ê,ı…Uúáéô¬õVfù¹yFÌ«‘c©U†Ğ	 î¾‡7Ù_ü¥‘ÿ
+PID:12193 just read 3472 bytes from host
+PID:12193 just wrote 3472 bytes to client response:
+ŸÿĞºNªu»TG=Êe%7êw
+ÃKv˜$cÀˆpU*<#ÔfÎ|@
+PID:12193 just read 3472 bytes from host
+PID:12193 just wrote 3472 bytes to client response:
+eŠ¯Õú Ek‘·İ*QwÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ğ!!H!u!¡!Î!û"'"U"‚"¯"İ#
+#8#f#”#Â#ğ$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ğ**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/ş050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e44Ø55M5‡5Â5ı676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEŞF"FgF«FğG5G{GÀHHKH‘H×IIcI©IğJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O
+PID:12193 just read 3472 bytes from host
+PID:12193 just wrote 3472 bytes to client response:
+iÅaoëXàÙŒĞÒÇ›qİëSé¿oóõÓ½j¼|ÏÖpnkÍÍ÷YSÚêÏ¢ß§ı¤J±(“GOîÿ
+PID:12193 just read 3472 bytes from host
+PID:12193 just wrote 3472 bytes to client response:
+GGö=ÏXæYSC‹›,™>’oŒ®êé
+PID:12193 just read 5804 bytes from host
+PID:12193 just wrote 5804 bytes to client response:
+et begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:aux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmp:CreatorTool="Ver.1.03" xmp:ModifyDate="2013-02-14T19:51:44-06:00" xmp:CreateDate="2012-06-18T17:18:30" xmp:Rating="0" xmp:MetadataDate="2013-02-14T19:51:44-06:00" aux:SerialNumber="3147808" aux:LensInfo="240/10 700/10 28/10 28/10" aux:Lens="24.0-70.0 mm f/2.8" aux:LensID="147" aux:ImageNumber="27903" aux:ApproximateFocusDistance="335/100" photoshop:DateCreated="2012-06-18T17:18:30" photoshop:ColorMode="3" photoshop:ICCProfile="Adobe RGB (1998)" xmpMM:DocumentID="xmp.did:1a81c820-c8b7-4f63-82d6-87322ec61b38" xmpMM:OriginalDocumentID="0C3B4D820999A02D7AF8942BE2787B16" xmpMM:InstanceID="xmp.iid:C715F3E709206811822A95B39AAD9D97" dc:format="image/jpeg" crs:RawFileName="DSC_7738.NEF" crs:Version="7.3" crs:ProcessVersion="6.7" crs:WhiteBalance="As Shot" crs:Temperature="4650" crs:Tint="+6" crs:Saturation="+100" crs:Sharpness="25" crs:LuminanceSmoothing="0" crs:ColorNoiseReduction="25" crs:VignetteAmount="0" crs:ShadowTint="0" crs:RedHue="0" crs:RedSaturation="0" crs:GreenHue="0" crs:GreenSaturation="0" crs:BlueHue="0" crs:BlueSaturation="0" crs:Vibrance="-100" crs:HueAdjustmentRed="0" crs:HueAdjustmentOrange="0" crs:HueAdjustmentYellow="0" crs:HueAdjustmentGreen="0" crs:HueAdjustmentAqua="0" crs:HueAdjustmentBlue="0" crs:HueAdjustmentPurple="0" crs:HueAdjustmentMagenta="0" crs:SaturationAdjustmentRed="0" crs:SaturationAdjustmentOrange="0" crs:SaturationAdjustmentYellow="0" crs:SaturationAdjustmentGreen="0" crs:SaturationAdjustmentAqua="0" crs:SaturationAdjustmentBlue="0" crs:SaturationAdjustmentPurple="0" crs:SaturationAdjustmentMagenta="0" crs:LuminanceAdjustmentRed="0" crs:LuminanceAdjustmentOrange="0" crs:LuminanceAdjustmentYellow="0" crs:LuminanceAdjustmentGreen="0" crs:LuminanceAdjustmentAqua="0" crs:LuminanceAdjustmentBlue="0" crs:LuminanceAdjustmentPurple="0" crs:LuminanceAdjustmentMagenta="0" crs:SplitToningShadowHue="0" crs:SplitToningShadowSaturation="0" crs:SplitToningHighlightHue="0" crs:SplitToningHighlightSaturation="0" crs:SplitToningBalance="0" crs:ParametricShadows="0" crs:ParametricDarks="0" crs:ParametricLights="0" crs:ParametricHighlights="0" crs:ParametricShadowSplit="25" crs:ParametricMidtoneSplit="50" crs:ParametricHighlightSplit="75" crs:SharpenRadius="+1.0" crs:SharpenDetail="25" crs:SharpenEdgeMasking="0" crs:PostCropVignetteAmount="0" crs:GrainAmount="0" crs:ColorNoiseReductionDetail="50" crs:LensProfileEnable="0" crs:LensManualDistortionAmount="0" crs:PerspectiveVertical="0" crs:PerspectiveHorizontal="0" crs:PerspectiveRotate="0.0" crs:PerspectiveScale="100" crs:AutoLateralCA="0" crs:Exposure2012="+0.50" crs:Contrast2012="-20" crs:Highlights2012="0" crs:Shadows2012="0" crs:Whites2012="0" crs:Blacks2012="-10" crs:Clarity2012="+49" crs:DefringePurpleAmount="0" crs:DefringePurpleHueLo="30" crs:DefringePurpleHueHi="70" crs:DefringeGreenAmount="0" crs:DefringeGreenHueLo="40" crs:DefringeGreenHueHi="60" crs:ConvertToGrayscale="False" crs:ToneCurveName2012="Linear" crs:CameraProfile="Adobe Standard" crs:CameraProfileDigest="2FEA3EA92D5DFE77FBB77CCAD84C4769" crs:LensProfileSetup="LensDefaults" crs:HasSettings="True" crs:CropTop="0.251244" crs:CropLeft="0.077255" crs:CropBottom="0.991132" crs:CropRight="0.828682" crs:CropAngle="0" crs:CropConstrainToWarp="1" crs:HasCrop="True" crs:AlreadyApplied="True"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:F97F1174072068118A6DB2AD8BDAB0FB" stEvt:when="2012-06-18T18:10:04-05:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 7.1 (Macintosh)" stEvt:changed="/metadata"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:d917349e-3d08-47ab-9a45-07c1ab8fb05d" stEvt:when="2012-10-09T18:03:16-05:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 7.2 (Macintosh)" stEvt:changed="/metadata"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/x-nikon-nef to image/tiff"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:1a81c820-c8b7-4f63-82d6-87322ec61b38" stEvt:when="2013-02-14T19:44:30-06:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 7.3 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:C615F3E709206811822A95B39AAD9D97" stEvt:when="2013-02-14T19:51:44-06:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from image/tiff to image/jpeg"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/tiff to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:C715F3E709206811822A95B39AAD9D97" stEvt:when="2013-02-14T19:51:44-06:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:C615F3E709206811822A95B39AAD9D97" stRef:documentID="xmp.did:1a81c820-c8b7-4f63-82d6-87322ec61b38" stRef:originalDocumentID="0C3B4D820999A02D7AF8942BE2787B16"/> <crs:ToneCurvePV2012> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012> <crs:ToneCurvePV2012Red> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Red> <crs:ToneCurvePV2012Green>
+PID:12193 just read 8192 bytes from host
+PID:12193 just wrote 8192 bytes to client response:
+ <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Green> <crs:ToneCurvePV2012Blue> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Blue> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end="w"?>ÿÛ
+PID:12193 just read 8192 bytes from host
+PID:12193 just wrote 8192 bytes to client response:
+éãIiªJóÀ2¤…D­‡õ‚®øe[š7nìŞìS#^à	ÀôÛ2'8W8ucÁÅJ¬0ç¥Ó° µí=Zà~Â®wïZ,½)ÜÖªó·¶~çß×äp–õ_,&ÜÊ•Lé2¢Üš@T“È]q|M¼GãK—ÛT·²h |“—àd˜AiÀ8Â¡mu¥ÎuÎ>’z
+PID:12193 just read 8192 bytes from host
+PID:12193 just wrote 8192 bytes to client response:
+Á”Ç­¤‡‡sÎ]æbªÅ÷z¥èå×AStÔwYTÈL­UPµ&0 8Hè‰9*~uÀ98Í}3P4¹h÷şÁzeç¥kwU¶ÏŸÃÛ¼ ˆ¥Lg‘í*‰ïÄ,a¹ÕArŠ”TH”ÕÔ²ÔB„˜Ç(â]|62@Ï€H÷ÖÛ\A€w^¤5±à¾¶õsZïßÎõ[¹jªg‡kŞ(Òºzßøbß)ÚT0c2È®œ1ÈÇÅ!ó™[¬<¹¾>ĞR4‚Ñè

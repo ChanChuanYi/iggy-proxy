@@ -1,0 +1,98 @@
+PID:12258 Child:Fork has been created
+PID:12258 request:
+GET http://googcloudlabs.appspot.com/images/ex10/3.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12258 about to start writing to host
+PID:12258 wrote to host request:
+GET http://googcloudlabs.appspot.com/images/ex10/3.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+ETag: "TgEX3g"
+Date: Mon, 18 Mar 2013 02:15:06 GMT
+Expires: Mon, 18 Mar 2013 02:25:06 GMT
+Cache-Control: public, max-age=600
+Content-Type: image/png
+Server: Google Frontend
+Content-Length: 62674
+
+‰PNG
+
+
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+òÿ&,¼Ò9‡„Eºzx<Ùßf_pz÷¸òìkSq=Gœÿë
+r½éµïÙk«uêø_3}óèÏw»^‘Ñ8ú2:3Ò~Áô¿{»òÉ÷¹òŞ¾®¼äğ£®Zi¤"¥N%şFâBÏqå²û¹“ĞåÁ_Û4ŒßB÷"¶O|×7
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+¶ÒÒÒı#ççç?yòÄÓÓ³¨¨¨¾¾¾åíÔÚë÷7¿¾óõ^/677ãñx$Êvvv¶¶¶UUU0Æ<„')T€
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+V—ãÑ:ÿ-„>³SRR.£A/ôyŞµĞ™LjÀa›‰hƒÌşD$àëÊJK«18´ª\®å#·µâğèÄÖ¦êŠÒŠªl}CK+©¹¹±íÙF$à$T±WßÜF¬Oˆ‹Š°8¯®qÇµ³ŠÎ’9ØÈÆ´İL¦™çwXt<.ìxRØq-¢ìŒ{’E>Ë<¯ãAvÇİôÓ/(JæÙIyÿ+w†Ah«)/ÊÉÎ.,Ã´Séì—´–Vrç,RS}YqIĞÔÜBc°ÔöÚÊ’ÒòÊÆV2‹Ål#µQéo=Ü•F"³×écĞ)Øªò²òj|C±ópåÁ>—ªü®ŒB‚¦xüø1Z»{qåö6´RJEqaQM„úi_WS^^î¬Eİ¹¾¶º²ª¦[ƒ–G$¢ç4·¶·SÚÛÉèô«*/GÒ­mäÖÆúÖ6ô*¹±¾ıÛĞ²qéééh-gô,±<P…r€
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+§+ÿµtû¾-¦ïvw2E®låì²s³Ìæzg÷¯şë×ïN?õÛ¯"şå¸…êZÚBSÆ}ùû|T*ğ©EÙáÛÖLŸ´HüêÅã‹&ş±\ãşH>Ë8ş(àmÆ¸r=¦Òh¿„ÀÔÍáYeªG×W•ñ;DşXs¡¶tg×¬7Æg'l—[ú£à–[Ï(KHœzdNEèG_´îÜ>µmÜ?s^¼ª¯.9îÇé—íÂ\Ü-ğÓäMõä—LønâÆº—N˜¿=25ı²šğ¯“ç58/=â©Ã^vFßÍZ¼úÀÑ»%£ã<ŞFÕöaWÆD+¬Y8QşF×	‹«,<»uÑ?²Úî6şºë™XQ»}ş„Ó¦~q~÷—/—Ò9wy÷Ê_&¯w÷´÷×ØÉ‹¶œ?­µ|ÊÏ«7k»Ú\ÿÓ“*=s4;aÚÖË®WæÿøÃäEJîÿëïÉ¯=Ïğ¿;aòÔ3‰p¿³#pàÊ¿Ên=zãæ5u9ñŸÆÛ„Ç_ÕQøCR~·ñõ;’bfª˜•¼Ú.6oÚ
+¹Ó'µWÎ›²ì¨±Ê¢?¦-¾tùìª™ãgl<UZ;âÏ¥»rrˆÕÒ©ÿ9nêz¥z§/Xy…åFiÉÎÿNàı—ŸÜ48´LTÙÈèøòI‚ªn–şMàÇÊçŸš¿Ê*$£(5pÓìŸEx™øsæ…ë:ë$·ë\M)£yú¸+ÿıïjuÅé‹vùÙÈ¯“:¼wÅaíô¬˜ƒ;åå”´/hmøç'#ıô5äÆ®SR¿÷ğÒ¯RY¶d¾ˆÌËœj¿d…CàÊv7T&I¹F¿ş–6Şæø“Ü²¶Z8Uxï£R.ÊìĞß³…\ãJu…ªs+kİ×ZòÕw?/“Z»r¡À—«9=şÔe™»2»Ç•Ã?GØ-®¤“¯:\ùİ…£qe]7.WgáÜåkO¹š˜üÛç³„V¯“\şã÷ß‹¬ÓŞª"ñÄñÊŠÌ[Å¿Õ­¨Ì<ˆ6Vèÿ7á±Ó•'ˆŸ~d#8mú‚ó+Ûø†ÜÖU\!.ºpÒß{ú±Ïş­âß¯>QY‘¡©²ê{1½ŠJöÆ"§’¢¬×ÌøsúbÙu«'ûåû	[óŞÿ]Ï@üTÖ‡\¹®êÚI©["³ÊÙH˜¼œìœÔ¨È•å.cñ!wvÍşwcra¶Ñ¡Õ?Ÿ¼\DDHj³…\ˆùÅ)ólCâv-Q9[QWï#·tÂÆ³ÖvÌVŒÌÈ}xa§ÀŒÍé¹æw
+LSy¡¾Là§¿§­‘^7oÚ8ïEîİ;#ğËÜóÃêêa’ËùaW®+ŒUX»h¢¼Qû2(/0ÀÿÈ¦E“ÖëzØ^¿ÌÄ'¹òÎùÎ˜úeÇxíÚ »JRrŞø¯'Ê¹{ÙŒ›4eËOLC­Ñ¦q‚r[óSvŒ›,·ıVn†ï¸‰Ó¶]öÇc3wŒ›„^)©Éİ-<^r£Æ½=›gNQŒ-ƒ¹pï&®,0~ÆŒeË—K¬İ sáYQiÑU]E•¢sÊëŠcå$Ø®œï½zÑÁóõ¸ê„—!îö*‹~™0KzÔÌÉc~”|U€¢=²Ó‡]©	ö¶0¹uRKuáŒñ¿Lœå›šçvñğß‚á¹EÏ­n¬_³FbÙß?
+î¹ï÷x¡À¿F6şÖú“$¬Ã3‹S7Ïş÷Ú³ˆ—nWgLúyÆ¢e"bbWŸTòÅg®<c×•›B‹„µOÜ ²ûĞBaí¬âl‹óGÑgºØÒi?|%pä¾¾¦œÀ´™åµuh†Ğömi_½ë2Ò¿ÖW´7úé‡ï”undæ¤FûïZ:kÒi¯ oáEÓD8£^™dê§	sn:Gæe†ÈO`»ò#]‰ß&Ï¹aïêõÌğæ=/O›%§­<êÒ³w»rœíÉŸ&Î¹å•—¼a¸ò§¸rÎ±…s„$tú×wZ÷İ#»™Ü¾ùÔŞEu›Äw"úÕH‘{n¬Ğï5®<aÍ©\…õqÕß¾ü¹²‘Á‰EÓş<cîéc~aê?~ìËveÑÓ¨Í­â?toˆœJ}é =ëëÕ®¾ˆ
+zòÀøæ#¯¸c ?æ>4£kgªıİ·_iß²ÎÎÍ²6˜3m†Ú>³m›DÕNÏM0Ú*9qìÆÄ‚|w«Û—n››İÔ_8óŸÉ
+—Qd§Ì±ô¿¤*2YrWdbæKOóÓß~ÅíÊÓ•_¤ç™ÿ·±¹rHì«¢ßÏ•Ûëæôø®¡‰m€«‘ÀØ%7\À”¹ù‡]™P“wh—Ì¯Oyàõ2ĞlûÄ¿~üæ«¯ôŒCœ¯	ü¾à²UP´ŸÙÂ/Ø®üL_z¦Ğêg>¡·¬› ÔéÊ§m½âkÄÜRD®¬’˜Ÿ´}Ü$é-WÓ“=şzíÊÛ:_É«Å<8òİÿş‡~T.ºA4ßM\ùŸ³÷<K+*«ªª±øzB]Û•g«fUÔáJº]ÙKbá?ëô,
+2_İ=}ôà©«Û¿[¬t$$2ÌÎâ¡©CIİˆ¿Vù°+»)ÿ±|ÃŸ¨œìÔÇÔşùö[‹Èt×‹‡Æ	,v	> ı¯ø½Ğ@wÑ©‚{¯Åû[.˜|á‘¿ïÓ3
+ßu‰s0šóÛ•ƒí¯\»iñøÑ^yÁÿM—¶‹Ìæ‡Ÿ»òØ‡ï9—\úÍ·ãv3s8!¶PH;ÔçÑò¿ißuö·¾>gÂ/GtºòüƒõlÑäÊWn]/¶ğÇäãÊ¸ºu˜ëwÀŞ‘÷®Üˆ)Íº}bë¯?}?MHôß‰ã~›²ğì£ÈªÂHäÊ"Ç\ÑìÄÚÜˆåó'ü=m¦ÈÜIè’dúñ¤h¯eKæÎ\&!±ğ©»º»-œ&Ú™¹;U&;ü:ãä“•9áìİ§¿Ù]ãD~|õ÷VÇùØ¸r{¾òI7¾ÔPQì—?¦^¾ywÏ–5cç.[»bÆÄYK/Úøíß¾ú;1ä¸Y·unTed¿ÒÇ•×BöŒ)ˆİ±zòØ9"wL®	ÿ;võÆİÛ$ÅıñgÕ+ÏT·J|¿êL§+Kü ~¶º*SsÚ8]Y•wçôŞß¦.X'%2}ê$…Ë®ğA;Ğç~ã‡×Á¨È9«*öãßÏ]´øÏ_ÿX±NùEFş¿üô½ˆ¤èüñ?ıcs|f¬ş.‘_¦ˆîŞ¥<}ælÙ+QÎ¦óûVLîè3‡{ó'Œ]´\lñ¬éÓl
+ˆÏx`°G`¦
+*Ä¼{ã2z[àñğôÄ™sÅ¥¥LıMdÿ­
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+‚©(ôuµ311ylç‘Y<`ş°+£õà3¢‚­ïß36¾ığ™S\N)Z8«º8ÓİÑÆÑÉ?&*èÑ=Ó§6¾¾VÎ¡e•e¡>NN…å‘ş.fÍ=|ü]¬Ü’³Ë1ù¾.Öwî›>|›QÇşğW&T:º½Ê,-Keïâ‘V\]çïé[][îédbúĞÕÃßÙÙÑ3(}låó
+‡<¬®ÜÏÛİ;._[âëåêîVÕ}µ7OÚ!qåNNhéúúzöbàï¡†
+ïµ@\çS8ıôdï>ãÁ›&÷ë¹}İëôuòÿô‘¾¾}ÿAw…98İâc®ÜušØ§i°n|;"]£ç«o¶;ÿÀé‰ØköÀ›W~_B=;
+3Zø¯ë¥^Q`ÿõcqé8ö+¸¼£Â‹Ç›sÁÜŸ›Õè†Ä(e
+PID:12258 just read 2717 bytes from host
+PID:12258 just wrote 2717 bytes to client response:
+2ŞÖÒ¹kÃÆÒ9³²i¸#ß¶§¯+SZkíßzY€§µ·XßØß.>«keË¤¡"ĞÇ•Åæ×\âÑûjCn„Öá×±:zÒ>¢˜ŸÇ–ßvåkÓç®ÚµgúÑè;®” {Õ=»öìU}šİN¬½Û¡¢Ós¼ïy$W5”§ÖÚ½[CcÿÉÛ.‘y‰VÎ1Íø|£›l5¡…Y]{•_›å«yè ŞÅjæ?xY1T]‚÷õö½·/!!ù1³3¡›ùĞÿÑM~hÍ¸ğğppåAreŞÇjü÷<‹„Eg0»æ-²èÔövÊ›ß
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+ÑÛ!nâ•‹,ª_[Z‰-Š±•Vº^Oï 7–]Ø%ír|ßŞÍ;ö¨©m[4eª_z–š²†_F%½¹DMù_F5½	mh¸½ˆ?¯8EYUÍÈ@oöïN[ÔµÀ—ûÜ„æÓ÷ù+³Õi‘Ú;7íĞ8ZÚÎÏ•Ÿz JèëÊQo\¹ƒŞâzMı¹‹æNh‚Ü@Ô6‚Ëè9®ãqg‡ÖÃ&FG._Gs¯ñÅ#ÿü#ºsŸšššêfå]&.ÒûRğèjèYÙí—ïïØ$íšPÉê`¤[*êşçÊB+õjØƒ¤d“‚'.œÚzº¡qn÷>(­fÇ¿®\RRŒÁ`#a@	màp¸ªª*wwwpånËÇXMDn»otJnnNna)±ï†î‡á;Ó;\™Ølql÷ÉŞ-ØüJ›.<!¶`Ìnœ>nâ†\ÙĞ•DC®ÌVdöFWN°Öš+‰4šô1İ®Ì ´ŞÓßºïâc®ÊÒ@ëÆÓàÜhiÅ+õ4¶+ëï’~ğÈhéüıYµ„œ(ë•sgx$¤°]9µË•5üÒ*»\Ù;±(/ñUxx¸ŸÇ3Ñç†6“á|ÿXçïïteU9‘G!…TrÓ£›%w{™œÙù¶\A¡ƒ/N8+µ¯+‡ßTR³Bš„,e³fİô|‘“››—‡©oí÷ZEœµaDäzÛ•æ¯Û_†O|*® âá|wÎ"¥W¥¸†êÔ=êš/#e%v¦`Ù®tVv‡©ë)uéã÷<	õ·*Jî7	}3®,$z¤†½6ùæ!ƒ§OV¯ZãXXšê ²ğ/-şue4ÌüòåK4_=Ø¹µ3¡4İØ‡Æ›Á•Ú•Y,W£İsæ/XŞ•6/†Û}†şMé­ùÊøLåÍg+Úi)å¤V†UKüåå¤DDV¬Û­[Œyng~õa™N´{Ğ½aˆ^aßcÂÈö½,{ÌŒï¾ú@ş›¯ÌbÕäEkîÚ¸bÅrÅjÉ%õUi~{?n u´7W™œPMJ8³fí²"[öÕÚº|ÿ‘Ó]	Ï©£·Vœ:z©çFW³Ğ^¦gT#
+_/z5
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+ëº­¾éU-m·:$¸å*¸òà„³RûÎÁhÅæì“±WæŒ sõ™ƒA‹¸© ¬Æve4q™ĞĞÚÖ„ñºvZlúêvOÖl<WÙÄşK†­Öòö|u[@OWñ0X*¾=&§6#â™âfyG+ãe”½ÒË1¥q»×,¼îä%#±àÌÃàŠª<É§íCÎªªêİò®¬Êyxdƒô~“PÇk;µÌ1%AÿÎ˜÷4 ½ª<iÏ|!K/ç5B[\âó+óÂ,›uĞ&•‡½`ˆ«êåÊhD9  
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+·]™êzGpÍòo§ŠXFÒ)ÍOµ/Yú¶Óé¦Ë¤ÔêICÖP¨ømWnÅé«Éş5á÷9šVÈ•‰EşkÖí+l¦±èÍç¤çy÷‰—³#šwOW.Iò9{ö‚’²¢´¬œwt>•NËy¦ºiÙráöÁi¤†2³kÆw6/RÒ2Ä(õåéF;¶ÈÈÉQZ/sĞ$+6à©}TS]ÚY]ƒ«ÇH/=cáO¤Ñ*2Â*ŠnWÛolxÅ#¹zDãêWã{¹2ú¹2‰DB(tÆë„¦Ö!y°²²B£Îı*|dtWîdDñ;»r•Û•<tÄ5Ø,fû¥¢Çu–Èv
+1=Âpãªs~•Õ5h.QmnÂù’Çmø. <éS=]™R#*¼=Wqj¯üÁ›6x\ÅÕ=[eO=.ÌO¾°oõ6C³#Sç)ú„'\?$5uÍnÿØÃC›u¯y¶±cCO°Öš+®Ì“°t%İ®Ì¤‘_>(©z#=?ûŞiÕ}s£ÿ>~Ñ›°—2âãŠóhjÚDç$x-X4/03KMyÕšÍF‰1~Åf­Õyí¾aåFÿÔb¯ûÇ&,•Ø ¿n›ºmPb;ÎàgåõƒÑŠÍQ•±)d2éLucK[CUşı};Wï¹^GäÇ/U9É‹\}æ`ĞÂo*©±]™A"”Wà(ä–Œ §M3Dî¾ªâçYM=]9ÆÃ`ÂtY·°œ`û+kT‚ƒ\DfIŞzœç*-²øI`°¬Ä‚-šfÉiQj"oøÅŞ« mššvZiÄ~“PG£Zæ˜’ ¿şvöOZ‚÷º…Â®‘!Ò"Ò—]¢’C-7ÍùSÓ&•áuôreô´²€€€ÖÖÖvt3YgBmmmÖÖÖè×áÑjŞµ‚G®øÆ•ó\tÄµ:]™E½qPLCGo±B—+3ãïo–¸Ni#„Z^Ü"/wDïVR–w$ø©¦·]9NTxGI[Ëİ=×_«Ó÷ÉŠŠËmQWS•ıçÆ¶f§_±j¥Ñ<;|Å¶sãâ1#×6ö !=ÉZk¸òÈì<İ®L!ÖêïX}Û9“ÑÁjÂW—–cŠb­Ş¬_ÓÎj«/9#/í›šïùäú.Õ}»Täÿ™<Ù/=CMYÙ5©„Ñ\ª¡²Ó-¹œÑ\¢®¢á“RZáUY]åuÿ¤øæCù8âÈd3â[ıNWVëreônKi‰s¾»GQVãğåÈ´2˜¯<´ñîëÊQ7„;]¥†â£Ã[6oÜ~Ï:@æëïjŞvå[\o u´áruÔwß¾ ı÷ø…Ûöª©«ï^2{ÚÛO¤%^Ô´¢¡ºç‡dvZì]¿Ùùe9«ƒb}EA×$ÄñÆ.-óº’ %"{ŠÙ?¤[2‚úWÎoĞÃ’ÑSdÒjvüëÊEEEhÊ2’ãÆÎ„6Ğóöjkk‘7í)ÃûÚyäÊ®Œ®D*C.­½[K¦QHU	İxz_xñÂV
+Bx$µì k²ÛeíE›¿Ê(Â5¶´S`İ t‰w¸2©ÙBg÷UÇˆ–ÊdUiÇğÂüìP/KŸXW³‹:F®$ÍÍì’‘{ãûpåA‰íve©Ş@sÓuûd*’ä’”ûÊFZéj=­ƒÜXvv—ôS3ÉªñÙéÁJKù¦eª)kø¥UÒ›KÔ”÷û¥UÑ›Ğ††wBa|wbVAÏ	¶ßq ‹>« ¹2£=òÉUa™]î/RëÍd
+–Â‚õ¨²¯+G¾qeFS¾ªˆÈ^c‡¬’šÖ¶v´ÉĞ6uhkÛ•5ï`ÉôúÒø}»äï^9¸`±^tv^A^šícËğèpY‰İ)X4G>+»ëº¥æ)›ˆ|:ƒuëôæƒÿ¹²¨V{”|{‡ĞùÛF¢rÇªÛ¨äšò¢‡lù×•‘†‡‡£ÇI"?F–Ü•9ÔÔÔ ¹àÊóŒë>÷Qü/¬\¥ÀşF©¥x”Ä®SFG•œ­ÄWŸ9¢²JıüÍ‡$d6$f¥Ø0ÍÖ½ÏŸ9sæÔ¹û~ ËƒñŞô¶+'ˆ
+ï-!‘Ü®¨+íÓÎÃÔY\ÓŞ ®óÈü¶¼Â¦SÎ/ÜÌ.ëºwº²QçÆöF—+'ÚjÍU4€Ùƒ¦Á.³û<e1(A¶Wä¶î6¾s}—¼”¹GBa¬½´¢Q—+ŸŞ½ÎÊå©Ìùë÷^?pÅüñWÍ­wn9è—ZÕéÊŞ¸òŸ„|÷;ê
+Ûw›Ş7İ·]şàmÇ&ş¾m°#øòßéÊû6Š>
++joÅ]Ù·b¹Ì¦sçÎ9súÌmg<‘ï¾QÂĞô­º¯+GÜVÒ|†î©Œ¸?yò„CúçÎ£X]¼ê]ÊÏ²ÜkÆ“êŞ=yd·¬öõÜüÄ-òkµ®Ü½wã„àFµàäY	Õ.W:+«ş4ÂÁøèúí÷LoJ	Ï=t/Ôñö.-Ëº’!Ñc]®|k§±oä¹C›wŸ¸|Ó`ï²	ßŸqÍVıdPÓkzŞu|||KKK×´öE×¤Îè†?påAreFMº@Ju×·GÅi&Æ7nŞ¹WÀîÇè”Âwoİ¸u',µ˜FjŒö|ò&=õNäçûïÄxkŒ¶z?Ÿè³¾$ÆÁæIq3ZZªÊÕîñ»&¾Qb{YnF|:ZUŠY–›öÖ{Ş“Pç™a¼`^É=¯iÛ[ğAŞ¦¦¦.~Á"µWú<,«ÙA§´¦¾ªÂãc\ìnß1qô‰ò·õò		‹¯$˜Ô–Wáq=6ˆ-¸RGë;·î<sö­"øynåà“’ß±f\{ct„>¦…AkO{áÛı6ûÄıe3úÒÒĞè»f\]N¨O\1úÄ$ÖäØÙX¿Ö3Çè,¸rW b<n­X½÷©É}KÛ´ŠzÄª,ıÕÓ;&÷¼Èª¢µ7ÄÔ“ÑG³:98±”@Ä—yØYŞ51³xâŸ[S’WHn©õñK$uûdGùä–×&E…>zúÔŞÍAw¹à£Øª¡ë¼®¹¯+ÇÆÆ"9F·õ¡;ùººÍ¹rHH¸ò ¹òÛQï|Zº³²ûUfçïğ= ÏN÷=·=H¢«,&!İ¿ò¬aP/	ôúş‡ıô÷¶ ó¯èÏèaB<WÑßìç€'ó2˜½ë‚çö%ı~ÖÏíãXÏqå8oã}ÇÍ©l•{³;zëéùkïR»şü7&!ûĞMú÷líî—X°9±–Vxê»†……ZÎî‘PG
+
+²µµE9Ù¨ÉÆ›ùÊ£×(9xÆõ(	ä§Æ`<‹äÓZ{påC9ø+sÈ¸§+ãJÒ£“‹zdôıjú]ıƒú—_äÕòÕõ~/WF#Ç/^¼xğàÁİ·ÓãÇÑ”e>GWæğ$UÙÀ•GU8¹=penÉ€ıÀ•G@Ş4\™Ã`Ä³H8¬Šï²õ}Æ5úº¿¹¹Mºè™Ğ¬>eÔÀ•ùî”@®ÌQïsÌàÊ£¸€+ à‚+s,peAq‘­¯+sQÈ(Ş\y÷½‡®ÌQWæ§¨ƒ+ hƒ+s,peAq‘\ùÃĞÀ•¹èT#~påÂ8
+PID:12258 just read 3472 bytes from host
+PID:12258 just wrote 3472 bytes to client response:
+¢¸qú‰‡!™Cû6ZkË•›Š.7ÃRZëî1tzÁù!³˜ôò¬èûÇ×ı;ÿ‰óİ ç°!ĞÇ•YŸü&È,
+³Ú²rş†›ŒìüZ©üø®:"ü¶+³ˆøª0wÉEË¹ç3™Ô¿»+E…7+*‰-X´ûÔ“–v•Ê õte•\”qCCp±ÔcrG“TyLe©Ğjy©…3$C
+š†²¡C]÷@¸23ËáÚ&=“ÔW¾mÂÀ•»CÚË•I$RPPÍ³©ëW´\ÆPw„!¨Ğ]¹¾$é€¢Ğ×ß½ê¼?=]9Ùfñ’­q•-Äê¥9Ëm½=Ö-wÍÂS‹O/[xÖ>è¨’Ê}÷$z;á®ösVÏ‡
+PID:12258 pipe error, probably done reading, preparing to end uncleanly

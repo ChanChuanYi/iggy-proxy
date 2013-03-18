@@ -1,0 +1,55 @@
+PID:11760 Child:Fork has been created
+PID:11760 request:
+GET http://assets.tumblr.com/javascript/tumblelog.js HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.3.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+Range: bytes=3104-3104
+If-Range: Wed, 13 Feb 2013 20:52:47 GMT
+
+
+PID:11760 about to start writing to host
+PID:11760 wrote to host request:
+GET http://assets.tumblr.com/javascript/tumblelog.js HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.3.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+Range: bytes=3104-3104
+If-Range: Wed, 13 Feb 2013 20:52:47 GMT
+
+
+PID:11760 just read 416 bytes from host
+PID:11760 just wrote 416 bytes to client response:
+HTTP/1.1 206 Partial Content
+Server: nginx/0.8.55
+Content-Type: application/x-javascript
+Last-Modified: Wed, 13 Feb 2013 20:52:47 GMT
+Accept-Ranges: bytes
+X-Varnish: 355521155
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=1396452
+Expires: Wed, 03 Apr 2013 06:05:40 GMT
+Date: Mon, 18 Mar 2013 02:11:28 GMT
+Content-Range: bytes 3104-3104/7549
+Content-Length: 1
+Connection: close
+
+¦
+PID:11760 just read 0 bytes from host
+PID:11760 just wrote 0 bytes to client response:
+
+PID:11760 job done, returning to server main()
+PID11760 fork is ending cleanly

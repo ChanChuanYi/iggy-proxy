@@ -1,0 +1,84 @@
+PID:12339 Child:Fork has been created
+PID:12339 request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/images/banner/mi_general_3.jpg HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12339 about to start writing to host
+PID:12339 wrote to host request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/images/banner/mi_general_3.jpg HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Content-Length: 36780
+Content-Type: image/jpeg
+Last-Modified: Wed, 24 Nov 2004 16:16:16 GMT
+Accept-Ranges: bytes
+ETag: "04874ec40d2c41:70e"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Mon, 18 Mar 2013 02:15:34 GMT
+
+ÿØÿà
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+"e“Lj»‘3ÊfwN	4ù+)œó.ªÕ¼4¬¶¢ˆ8í(µk&$0Šº¥²¶‹ŠD•‰¬„ôDA?!©U2Y¢¬ÊÛ•KIN Œ¸‰ögÓ„Z¨Çm¤_X^¨hîÈ*¨M­–i\S(R’ÓII`e¨êzš+]Š¨¬Úo—+Õj)èér¶H›‹$åíÂ;<Öå××ğsnóKÍnƒb½L¶İg
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+Œ¥Ñ=˜¥g)O>­é´u7ñ¬•Ô‘úÃ¼+í[Tu7¡Êz*—›yºvPÎNÀ’»Ìœq•ğ¼»kØ²gµäè­”U3WMq¡n¢ÌÌ¸&ƒÔ0ù£ì5mÎŠßSÁµ1´.çU¥j4ÓJ@lT¢¥â°Úg–nzÄg&Hl£‹gû‹¢ÑXûte´ŒÊÀï1Çåõ:ü~»ŠBŞ.«ô€””Nª)’·m±Í5	m€¥	¸
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+È”¨Ò¼P	VU¨§¥(æÆÑÁ³†Å*¯Ñİ®5wjës—j†ÀKw@êi’àÃ9l„L‘×¯'mkÿ
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+U 	šHŒZ:hËårò$fíŒAºd‹UªY—OLB.™7GVÎeÊvÅúd"­Sg.-ªŠ¾²iLÉPè¤å¾Öˆ+Á÷éÉ'š‘€=YÈ¤øâéCŸc›nÉPcõ¯%Kp£HÊ…‘RÒzÕƒƒÊ'ŞRVrõ®!özâ$Ó¶qçAĞœ—«-`Ë)Å“$°$çDú¥†è³E¢QAïÚÉ¦Ey`:¦ÈiÅ€Jƒjàc»Æ¼3ÎòõÏ(¥Û“CPê­å•§9šKNg2é=‘…­õ<Ô›8½ÒÑ…;NŠ°—¤´-\2ÕRII‹ÒÅXÖ²Ú*ôãçKUŒdE+yˆÄŒİ¾ĞzLM¯İš%ÇB"±WJ×›MJB«)@rœ©#†
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+F7d¢›qB*îµŠA’BÕ”u#O`@V$¥E= ÅÓf×Ñ8Z²L›U5Zµÿ
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+çO’97:¥3OH›Úeh.0‰§2¤å1ÓÒz²k»6ÒÒŸi1\âVS,S„Š9÷Ûí4¢äÍ“–w\í³2GPşˆú-}$òv8ØÊ%ló×ù=]¾·4Ş–­ºÕ)	[î6Õ&cÚ’s<qÅºò ŞŠ9ŞŞ÷GÓ:±°\ÚViâGdpV¢„¬®Û‘•]ŸL÷Sªì÷»3uV—¥©9ƒIP—•ŠÙX{'¶2o‰Íª¶¼ù <ÒI+QöÅ:’Ìaš£pÖµ6šw3Õ2–ÊœX)¦R`€õgÃÓ%L³iÆïT¬JKÎf‚qÃ”ÄÓ©Ò
+B@Á2ˆ 5>ª´Û(*õKh$—œZ€m´¥jØ<z£¶•ÁzTù§[·bú»"‹–Êš¶V…²Õ@ZR¬³tsÒ¯ÜÒÍ$Xn–?|6Tê]&¤µªhÛáÜlÏ-ÇB1à1ú
+À›bêÎ’¸Ê0‹Íºãm¹?Cq¦r–¹…”¿NòJJ†ÜÉ1Ğ¬Ÿ&X–>î)ê*o­0Â38R¹nÀLÎ)r²Ù©khî™*)§;g’2ÌN]"9®‰ê…)«½j@Ê’âÜqé„¸(út'wÚ›XW¦ÖÁElµ{4í¶j8)_U"&×‚ĞiZ†§DX)i;¾ÓÎ¢®¡§ıÆ»™éœÊ×íl®Îˆ¦Å%Ò$jµ’Ö®¨œMÎ–´Ü0\K)Ë#?ğÓÓJËŸ`ş†-¬4¦Ò—SŞ)hRÈb±S…6½Ç®Qµv&fëºI¥›X}!?,,»ªš¶¨U1JR—UNÚTLŒÄ¥0s%ÉvŒR[+m·
+Š:ÆË5,,¡ÖÏB„u)Eûe%ÂºµvúgjëìµNÊJÖ£Ô‘ì„®—ĞVêtòµ–µ}R¾ƒøu©2RÚ˜ŸCÖq`Égb6OlfÛ|"Ê¼+·¨½j¶uK³i¯Š¥¡dºCn)YI˜
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+ºÀ+i¢6BFõ?\”¹GÑ@ÔÛœp’d®EJ%Ä‡„Ç§’K£<çFíÕ*¼êAqŒéé·,'×ÕŸf®â<»•´!a²Z*¬í¸&ÙÌRS3‚†9÷©¯C§Kue^Z­öİGQOdJQH¾ì0U!ô
+GF<ÃÒlJŞºZTf¨X)lfq3˜	Ä•ƒ$»ÖšÛÃµ$Í+WffrH=‘äˆ³.‘ÉÇdP°Kà€/–
+VÍ¢˜© ’‰¨í™”MLî‰!N†P%Õt)"ÔôÕ>†)Ğ·pÉ¶
+”OPÄ0”k4ıâˆWARÀTãKHò‘ÉH(¶Ä0%
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+‰ˆl…RgDU[¨5e]Áif•*Vg<¨ZR…+«4±Œ÷¯´×GR×©{—Ó7+ë×´<¤š¥ñß¦. 0³ì¨Û¶<ªİ¥¡bYßÖ* ¡«<*6xJS%IG6b9;;:#Ğñ¨šû?#cö*ñ*í,ô©j&d•|±Ø•j¸9%·,UÓm9B¥Œâ™É¢@[¨fsaã‹qAÙ§t&`‚ ˜¤“T5¬aY[u$’©‰l>hÒ¬‹/tLh½qQ§WSCSN+mU‚NÒ¹.ÊˆÚ™‚™â#ˆ®å·cÔ¸SwCk¢U=–‡–â)N$¨€”æTN{ã=^¾KíòápQ®·ÛÅÎ¡Îr±Ú‚µvRµ’NÙ'`úé¥:om­Ô÷”!¤åTÕ"HØ
+PID:12339 just read 3472 bytes from host
+PID:12339 just wrote 3472 bytes to client response:
+^ÊØá­R;ü1)6iDVh+XqúºE¨+–Y‘;–'óÆ¶ê)¢×naÚ^ê®%
+ÈËõ. &{f¤‘×[dÏ/eqlÇ®wè<0•£é%B~GLœªI=-\î¢¼ĞÙé
+©Ÿ©!n)%±!5+Ó·ÓQèSÈXÁyÔz	ªVªôİºäYJK•<ÅU6e9ÙQ–P 1H–1ç3ê4¼÷>7¥Ü¸Š¦u®Ô°äÊˆIÊ„ö¾”wø›_È*‰ĞÈõ#¯òJhgT–‚7¡‡=5ÂMœ~åLéë»Ê)jKW@Ç›ò);âK}ºÈí¹¶MBjÍÓ#)ÈÇ~»ppİK%éÎ	\§ˆy(×N6â’BT™tb&bUˆº^Sj’’pÂ}/—AÚœ!iN
+PID:12339 just read 2475 bytes from host
+PID:12339 just wrote 2475 bytes to client response:
+O¶sÓ	~’®áÏ^ış§Û9é†O±¯Rõïßê}³˜dûW©z÷ïõ>ÙÏL2}†+Ô‡={÷úŸlç¦>ÃêC½ûıO¶sÓŸaŠõ!ÏŞış§Û9é†O°Åzçï~ÿ
+PID:12339 just read 0 bytes from host
+PID:12339 just wrote 0 bytes to client response:
+
+PID:12339 job done, returning to server main()
+PID12339 fork is ending cleanly

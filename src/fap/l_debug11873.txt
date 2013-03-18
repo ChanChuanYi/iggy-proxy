@@ -1,0 +1,111 @@
+PID:11873 Child:Fork has been created
+PID:11873 request:
+GET http://www.emposha.com/wp-content/themes/brainstorm/js/jquery.innerfade.js?ver=3.5.1 HTTP/1.1
+Host: www.emposha.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.emposha.com/javascript/fcbkcomplete.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11873 about to start writing to host
+PID:11873 wrote to host request:
+GET http://www.emposha.com/wp-content/themes/brainstorm/js/jquery.innerfade.js?ver=3.5.1 HTTP/1.1
+Host: www.emposha.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.emposha.com/javascript/fcbkcomplete.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11873 just read 3472 bytes from host
+PID:11873 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache/2.2.15 (CentOS)
+Last-Modified: Wed, 27 Oct 2010 15:59:12 GMT
+ETag: "1060a36-1603-4939b4e6fb400"
+Content-Type: text/javascript
+Content-Length: 5635
+Accept-Ranges: bytes
+Date: Mon, 18 Mar 2013 02:12:17 GMT
+X-Varnish: 2060221321
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+X-Varnish-Cache: MISS
+
+/**
+ * =========================================================
+ * jquery.innerfade.js
+ * =========================================================
+ *
+ * Date: 2008-12-22
+ * Author: Fabian Neumann
+ * Web: http://www.fabianneumann.de/
+ * Web: http://www.sturzbach.de/
+ *
+ * Based on the works of:
+ * - Medienfreunde Hofmann & Baldes GbR, Torsten Baldes, http://medienfreunde.com
+ * - Matt Oakes, http://portfolio.gizone.co.uk/applications/slideshow/
+ * - Ralf S. Engelschall, http://trainofthoughts.org/
+ *
+ * Example:
+ *
+ *  <ul id="news">
+ *      <li>content 1</li>
+ *      <li>content 2</li>
+ *      <li>content 3</li>
+ *  </ul>
+ *
+ *  $('#news').innerfade({
+ *      animationtype: Type of animation 'fade' or 'slide' (Default: 'fade'),
+ *      speed: Fading-/Sliding-Speed in milliseconds or keywords (slow, normal or fast) (Default: 'normal'),
+ *      timeout: Time between the fades in milliseconds (Default: '2000'),
+ *      containerheight: Height of the containing element in any css-height-value (Default: 'auto'),
+ *      runningclass: CSS-Class which the container get’s applied (Default: 'innerfade'),
+ *      next_selector: jQuery selector of element(s) that let's you manually click forward (Default: '#if-next'),
+ *      prev_selector: jQuery selector of element(s) that let's you manually click backwards (Default: '#if-prev'),
+ *      pause_selector: optional jQuery selector of element(s) that on hover will pause the slideshow,
+ *      callback: optional function to call after each transition,
+ *      children: optional children selector (Default: null),
+ *  });
+ *
+ **/
+
+
+(function($) {
+
+    $.fn.innerfade = function(options) {
+        return this.each(function() {
+            $.innerfade(this, options);
+        });
+    };
+
+    $.innerfade = function(container, options) {
+        var settings = {
+            'container': container, // container's data is used as state memory
+            'animationtype': 'fade',
+            'type': 'sequence',
+            'speed': 'normal',
+            'timeout': 2000,
+            'containerheight': 'auto',
+            'runningclass': 'innerfade',
+            'children': null,
+            'next_selector': '.nextslide',
+            'prev_selector': '.prevslide',
+            'callback': null
+        };
+        $.data(settings.container, 'paused', false);
+        if (options)
+            $.extend(settings, options);
+
+        if (settings.children === null)
+            var elements = $(container).children();
+        else
+            var elements = $(container)

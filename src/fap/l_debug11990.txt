@@ -1,0 +1,50 @@
+PID:11990 Child:Fork has been created
+PID:11990 request:
+GET http://static.tumblr.com/thpaaos/78Jks5gyt/carousel.js HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11990 about to start writing to host
+PID:11990 wrote to host request:
+GET http://static.tumblr.com/thpaaos/78Jks5gyt/carousel.js HTTP/1.1
+Host: static.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11990 just read 1509 bytes from host
+PID:11990 just wrote 1509 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: ApFBSyhbuLGHUJz0nha2ENsedtwOC5xTEsPQrMv3iocKMmFHzWnv5d4QkBhcN9mx
+x-amz-request-id: 3F7C8572B017E98B
+Last-Modified: Tue, 27 Oct 2009 01:47:18 GMT
+ETag: "3b456561eb9b386f231c6755728ce4eb"
+Accept-Ranges: bytes
+Content-Type: application/x-javascript
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1083
+Date: Mon, 18 Mar 2013 02:13:16 GMT
+Connection: close
+
+‹
+PID:11990 just read 0 bytes from host
+PID:11990 just wrote 0 bytes to client response:
+
+PID:11990 job done, returning to server main()
+PID11990 fork is ending cleanly

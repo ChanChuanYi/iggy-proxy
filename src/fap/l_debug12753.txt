@@ -1,0 +1,63 @@
+PID:12753 Child:Fork has been created
+PID:12753 request:
+GET http://www.youtube.com/watch?v=FNQowwwwYa0 HTTP/1.1
+Host: www.youtube.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12753 about to start writing to host
+PID:12753 wrote to host request:
+GET http://www.youtube.com/watch?v=FNQowwwwYa0 HTTP/1.1
+Host: www.youtube.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12753 just read 3472 bytes from host
+PID:12753 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:20:59 GMT
+Server: gwiseguy/2.0
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+X-YouTube-Other-Cookies: VISITOR_INFO1_LIVE=LCDUuvmVk_M;PREF=fv=11.6.602&f1=50000000
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==; path=/; domain=.youtube.com
+X-YouTube-Visitor: LCDUuvmVk_M
+X-Content-Type-Options: nosniff
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/bin/answer.py?answer=151657&hl=en-US for more info."
+Content-Encoding: gzip
+X-YouTube-Experiment: ;919113;912505;914073;916613;901467;920704;912806;902000;919512;929901;913605;906938;931202;931203;931401;908529;904830;919373;930803;920201;929602;930101;930603;926403;900824
+Content-Length: 29898
+X-XSS-Protection: 1; mode=block
+
+‹
+PID:12753 just read 3472 bytes from host
+PID:12753 just wrote 3472 bytes to client response:
+>
+PID:12753 just read 1441 bytes from host
+PID:12753 just wrote 1441 bytes to client response:
+²K&¶0Ì†Úé\änÂvª]:-îö-Uëê¦ëÁ<xŒI<˜„÷ìuCuE)r\ó±›âü†çJ…ÈÏq±»<­¨ë»øt]ºıjx¯«İIUª-ó|ğéËä¦sÒÊ¨•A½ÌÎ¼îØ¢uËåÎÕ‘rZ®ƒ;oêÍĞ›><J/ğ2Üj÷v—ì¹%;®gÉ~ëY²Ûz–ìµ%;­gÉ>ëY²Ëz–ì±%;¬gÉşêY²»z–ì­N~Ä,ÙW=KvUÏ’=Õ³dGõ,ÙO=KvSÏ’½Ô³d'õ,ÙG=KvQÏ’=Ô¡Ñª†æÑ].m·K-;Ôn
+PID:12753 just read 3472 bytes from host
+PID:12753 just wrote 3472 bytes to client response:
+ÊÒ½¯U>'?çÀ&¿“?šXŠ>ƒ­•ô¸($>†
+Eè¥ Á}!(8yVÇ#Šò÷<jzğó"	âIlOéßv=ë–Ì…1á1ëS `¦˜L"Ö“E–Lø€©=eØuÀşaö4¸µb³ÂĞf%JEu³Ã¬jùHøĞ>¨Y`”Ï94QTd¾ºD.İrÀ¼¿‘¹/‘R¶#JE£°
+5"ßè
+±£iÈüv':Ë|-T"ÚØ]>vÇ/Ü£·hb»çPÇîQö…é-}™àFŸ¬œâB¢•“\ò.2ÍÅ~¼‰.nv0ÕÅ7óÉ.éRtºK†7ÈL]0P>âP5ªT2‹r=°,G%şÂv( M/-3úÅ'„¢TÌy¹(
+PID:12753 pipe error, probably done reading, preparing to end uncleanly

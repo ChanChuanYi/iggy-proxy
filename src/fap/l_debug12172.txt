@@ -1,0 +1,75 @@
+PID:12172 Child:Fork has been created
+PID:12172 request:
+GET http://24.media.tumblr.com/c006ca7cff7e642cd1ea4b3d9ba18bf0/tumblr_miq039sQaH1r1dqpyo1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12172 about to start writing to host
+PID:12172 wrote to host request:
+GET http://24.media.tumblr.com/c006ca7cff7e642cd1ea4b3d9ba18bf0/tumblr_miq039sQaH1r1dqpyo1_250.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12172 just read 4932 bytes from host
+PID:12172 just wrote 4932 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Mon, 18 Mar 2013 02:14:19 GMT
+ETag: "752d6754cabbc819d18cd3fea99245ef"
+Last-Modified: Sun, 24 Feb 2013 10:35:38 GMT
+Server: ECS (sjc/4FA4)
+x-amz-id-2: D3QG5dP3nyY2I8ax1VK73yb6MZpe3xWzOZK9RK4J+gznF37Fmyb4vdSRcaaaw8XZ
+x-amz-request-id: FD3C1EAA4517A0C7
+x-amz-version-id: Braqc2YPasvxSOBl_J21zUptiV8cjfiZ
+X-Cache: HIT
+Content-Length: 54993
+
+ˇÿˇ‡
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+SS_S™SˆTBTèT€U(UuU¬VV\V©V˜WDWíW‡X/X}XÀYYiY∏ZZVZ¶Zı[E[ï[Â\5\Ü\÷]']x]…^^l^Ω__a_≥``W`™`¸aOa¢aıbIbúbcCcócÎd@dîdÈe=eíeÁf=fífËg=gìgÈh?hñhÏiCiöiÒjHjüj˜kOkßkˇlWlØmm`mπnnknƒooxo—p+pÜp‡q:qïqrKr¶ss]s∏ttptÃu(uÖu·v>võv¯wVw≥xxnxÃy*yâyÁzFz•{{c{¬|!|Å|·}A}°~~b~¬#ÑÂÄGÄ®Å
+ÅkÅÕÇ0ÇíÇÙÉWÉ∫ÑÑÄÑ„ÖGÖ´ÜÜrÜ◊á;áüààiàŒâ3âôâ˛ädä ã0ãñã¸åcå ç1çòçˇéféŒè6èûêênê÷ë?ë®íízí„ìMì∂î îäîÙï_ï…ñ4ñüó
+óuó‡òLò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´´u´È¨\¨–≠D≠∏Æ-Æ°ØØã∞
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+kv5÷lŸ]üÃ˙u[_´“tº∂óE˘NØ!‡çhÿ«¥
+ŸK!Ænˇ
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+–\¸∫∂Ók∑◊Ì¡ﬂ_™œ÷}KΩ/Ë7onπ“ÈÈwä˚,{úÁ1Ó
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+?¢?‚@#@d@¶@ÁA)AjA¨AÓB0BrBµB˜C:C}C¿DDGDäDŒEEUEöEﬁF"FgF´FG5G{G¿HHKHëH◊IIcI©IJ7J}JƒKKSKöK‚L*LrL∫MMJMìM‹N%NnN∑O
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+_Ë’ìM{üÓıùW©SÌı}_“◊˛—∆Â≤_6HàÒFQ«f?‰åøvúpÒïÃ›œådÂé"6"8†j7Íóq„üµé|≠œˇ
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+πô◊ê\Ÿk1ﬂÌ≥;⁄w˙xvl˚O˛∆MWCu√®∫∑ñ˝ã‘Ù+~–˚MG}Ï€Í7˙>-…ª“ı∂7˛%:_Z¨8ÏƒÀv⁄⁄CéÑ±—:9ç˛o˛∂ﬂ¶∫|Ø¨5f‡TÏ{Î{j-uçC·∞⁄öÊ⁄ÊÿÌèˇ
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+"saved" stEvt:instanceID="xmp.iid:07801174072068118F62E6ACFF631A95" stEvt:when="2012-04-04T10:32:49-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:08801174072068118F62E6ACFF631A95" stEvt:when="2012-04-04T10:32:56-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:09801174072068118F62E6ACFF631A95" stEvt:when="2012-04-04T10:33:09-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:B617923CDB20681188C6C83B776E1CEF" stEvt:when="2012-06-05T10:50:57-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:01801174072068118F62902594D6F5F7" stEvt:when="2012-07-31T09:39:47-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:02801174072068118F62902594D6F5F7" stEvt:when="2012-07-31T09:39:47-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:FD7F11740720681195FEFDCE6F5D1CDE" stEvt:when="2012-08-20T13:24:34-07:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:5DDE2F821A2068119109CBD21A3962C4" stEvt:when="2013-02-06T14:21:09-08:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:191BC2B82D2068119109CBD21A3962C4" stEvt:when="2013-02-06T14:30:09-08:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:07801174072068118F62E6ACFF631A95" stRef:documentID="xmp.did:05801174072068118A6DC3368BE1D466" stRef:originalDocumentID="xmp.did:05801174072068118A6DC3368BE1D466"/> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+PID:12172 just read 6944 bytes from host
+PID:12172 just wrote 6944 bytes to client response:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <?xpacket end="w"?>ˇ€
+PID:12172 just read 3472 bytes from host
+PID:12172 just wrote 3472 bytes to client response:
+•Õø”:f≠∑QcÓ•öRy@è“KôJ,áêTÖˆ‰çÉr¡Y[ÌOÁ˛ØŒe3Y√Å∆<7ô"y!çÔ∏Ó8ƒû@ÚÏ&˝/_9vGO‡^ZÍÓıA‡‚@ ø∏kZŸ!∞„æÛe◊˘}´‹8≥Y˘-.±7÷VÏc∫X/,≠Ì’^)#g.æe‰pLGükì•

@@ -1,0 +1,42 @@
+PID:12345 Child:Fork has been created
+PID:12345 request:
+GET http://learningcenter.uti.edu/favicon.ico HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12345 about to start writing to host
+PID:12345 wrote to host request:
+GET http://learningcenter.uti.edu/favicon.ico HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12345 just read 1309 bytes from host
+PID:12345 just wrote 1309 bytes to client response:
+HTTP/1.1 200 OK
+Content-Length: 894
+Content-Type: image/x-icon
+Last-Modified: Thu, 14 Oct 2004 00:29:36 GMT
+Accept-Ranges: bytes
+ETag: "05814e284b1c41:70e"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Mon, 18 Mar 2013 02:15:37 GMT
+
+
+PID:12345 just read 0 bytes from host
+PID:12345 just wrote 0 bytes to client response:
+
+PID:12345 job done, returning to server main()
+PID12345 fork is ending cleanly

@@ -1,0 +1,91 @@
+PID:12677 Child:Fork has been created
+PID:12677 request:
+GET http://www.youtube.com/ HTTP/1.1
+Host: www.youtube.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; recently_watched_video_id_list=4d1af5e4784f7fcf43525a3df7e9413bWwEAAABzCwAAAFlNY01waC1UVzlJ; PREF=fv=11.6.602&f1=50000000
+
+
+PID:12677 about to start writing to host
+PID:12677 wrote to host request:
+GET http://www.youtube.com/ HTTP/1.1
+Host: www.youtube.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; recently_watched_video_id_list=4d1af5e4784f7fcf43525a3df7e9413bWwEAAABzCwAAAFlNY01waC1UVzlJ; PREF=fv=11.6.602&f1=50000000
+
+
+PID:12677 just read 3472 bytes from host
+PID:12677 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:19:19 GMT
+Server: Apache
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+Content-Length: 16193
+Content-Type: text/html; charset=utf-8
+
+‹
+PID:12677 just read 3472 bytes from host
+PID:12677 just wrote 3472 bytes to client response:
+Ú—cPÁFTK|—+7²QÉï]ÿÈ«_„Bºò\öOıú•ÉíG¶‘ü\§2ü4¥h²‹Ì°xìÅ‹U‚™ş†ì%PÏ^£Õ”ú‰ö}ï¬Qùš7—Ù›A6qæ·šÏ†0lGí™˜Fgc&K2oX	fú2K±^£]´k¯÷iıäËUöæ{.wœÿ\IÑ¤İ“i DšF4©i,É4|ËLC¦áêÖk´ËíÚÑıuÔää¢ÛÏİŸš¿u”ïªd5¢élLcI¦áÁLC¦a)Ök´‹Dæ¾(~j¥ê…cS{ºì–?ª>úÑÔ5tïÀ	š(ãˆ&¶1%‡wäÌô7dœvÍm!oar”|+wş½ì m¡KxºÖ;éÉ%àAé;?ÅÒ_`jVuk™0°FyÏt¸Ö0¯!8Õòrç›0Qy[°Nå—Şéê£A]Qûè0í	¼#vûıÄ„®WÖ9%‚çOÁœ4]¨VŠI²f¶èj¥wÎÑJS%‚(•Ù¥¬$lãLuWßÜó/v#5›ª÷ìEk(ÉĞ«!ö!µ±ZìHwBšd|4Ê‘£¯ætoĞ^çänöÄ9û¿í’/>·;öçó9uOïÎac“1$ê,îo)fò©×«
+®Únhì£‚~y…Û·jx2½ÙeesÏk‘„UL÷Ïsî‹•¬[x3jéìÔ‚å{Èp«Ö‰ ´GÎ²P‹º‚ğKTÁ,t¼/@”„sÎŸ3Ğ:e®ŞIcˆ(jIøúl¥lŸp2ê'&G@ø…6å2[Ë“x6ˆİ{á†Ù}EUØ	`N)ÆÚÑp¼Á:»×í%Ğ`$s„@‘Ù\y§en3'q?ù’²Úc7M€ŠkÀügÇ.7!O–:mdùk
+m[Ã"F²u6ë´+CˆAÉCp‡1U0{£›óÊY {oòâ15¢•v¬§5"†©Sjè¥ú/dûJ—À‘
+òû RÈò‡„œy–‹ùë3#(ËƒÜ:ŒeâùB*ÙKö"¸]xÈ7µŸÍ{8ê"æşx8ôTh³ÎAÉ‰G]Ğ"œ¡]!{e‹ÃH@˜ƒàBúT<¬”kŸRO9µ\fyVDÂ®¾˜×Û;jÙİÔ‘½oPú ípüÛéığìãñÃz_C‹^°x ! FY;`ÇºÆò¢ã&|7E^ZÁÄç8`‹¼´bh@ÕLÚV.+°ÈÂm;a`¶yÃ¥/xÚLò½e×e9ïLU•M3ö¼ÃšÈÖd+»]
+`ÒŞ•Nl²a2B»ÕI4|†6ÿéÿ—
+PID:12677 just read 1373 bytes from host
+PID:12677 just wrote 1373 bytes to client response:
+¿ó1¢P‹1æh!äßP«±~œ`7>‡å´9šO‘Š:@gk’ÚT³bS"Œd»ª%Ó¡WªöŸÎOåš®÷>Õ¢¦ÕrÅxj75µöÓsÿóT½Ôö¸°CşéP›Zm,‹5£6Ô™j›µylfƒÚVÚw¨—˜µ-îÊK]-šóD‰¥¡¹œÍ_¼
+4'¯jsõ¿ßµóæ×İ³lªVûòÜ<íø¡·/Oaø®,Ó'l‰NîÀU÷XÕ|
+PID:12677 just read 3472 bytes from host
+PID:12677 just wrote 3472 bytes to client response:
+c3›0¿Š0¿¸“ó¼Ä<a>ÜU—B“V”=^~i9M)í{v59/æ‰ÈŸ›Õ¶)3+å\¿ü£•;ıŞó©0`=]U">ü|üi®)Y§«kYàê=P]6ØÍQ³/¾’IïíåIİÉ»¢Ğİg:×İóó£Ân+ò–‡x¦˜‹³Sw8¥÷ssà-OåkÁ[·˜Â[¯yíÌ·Ã‰“Åš×ÎPg6xkV¼å±™ŞZŞZÜIâ-^b¼é¯KQ©«E]>o¿4ÜõÚW²Ş,ºº­h}µ™rİçÌ°yÜ=îŠ{¡Gş†ÏÏ'”ŠÎül =Är	¾9på´<Vá)š
+‚nèÒ~Ü²&)"9’ÕG\znôà_¯Ä#—§0=uˆs—WrD;ª
+½.ÎG9áö1İşò)zeâ»¹=üüøtè•İ›zy*_ôê.ìU:èå»b‹“ÅÚ¡Wvo½f…^›Ù@¯U@¯ÅD ôâ%æ^/öé¥—RX-„óE¥A¸%-fy~.ÂÉ«ÚŒô¯
+PID:12677 just read 3472 bytes from host
+PID:12677 just wrote 3472 bytes to client response:
+Je|´Fa¶w÷äßAmg¶y´£éĞ…XéÿÚ‡Ñ`ÜhÌG¦­j#ö=m Uq~ÏIÇâª©Ø?íöàœp{Î&	"›î4(,Û¿ABáDDú+Ó*«š§6#EcPP1D8m
+PID:12677 just read 1218 bytes from host
+PID:12677 just wrote 1218 bytes to client response:
+¨
+ùÒ'ØãJ™g¤šömG–ZßvZÃ‘Oƒ…ƒ) @+—õrÅ[*@3­ÊU@.º)Õê§`°·×@Ç¼	tUá´¿@@S4Ph¾|¹Úua_ì\Ás¢şˆ4I®e¼n\Åˆ]A*ï¼“$s›—{¢·ş¼¾ŞÎÃ7®³·—vÁ£êÌ"âË\}®Ş\”øIKIÄKğECÅÛÎKn®×^'°É{Óº¡¥=41'³Ô€Ygÿ\+G.a
+z—šÓfZÇ´|³­ãÆĞ°Éšs³Æş™Ùà–òÛ§·1ªÎNwr.8:ÿx*Û_.º¤½~<õ]Ô·6H–¾‚ÜÆØùfëöË:Æûš'I…,%L°ÆWf–ÎG°;¤h˜éLÕŠà‚ö^>…A}0&YÖÙR1†öGA1Ù:Â¸Ô\zIc&‹Ôjjtö!ñïØŞ*[Qç\'iJ›Ê¼š±%¹qÕV¤²êÄPåÁ_‘º:{#ĞÛÎä:BÊ;Û*ÔŠD”Áô™ı@tÕa‹a÷¸äÅ³Œ<J²LZÔ•"yìQ…©9G>ilëT”LÈª‹V9E%²ªt©Î(ô0®ˆ,¯•c‹8†-¶æoéÖ˜?˜=J
+PID:12677 just read 1068 bytes from host
+PID:12677 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Mon, 18 Mar 2013 02:19:20 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>Thatâ€™s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>Thatâ€™s all we know.</ins>
+
+PID:12677 just read 0 bytes from host
+PID:12677 just wrote 0 bytes to client response:
+
+PID:12677 job done, returning to server main()
+PID12677 fork is ending cleanly

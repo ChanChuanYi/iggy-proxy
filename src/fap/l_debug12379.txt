@@ -1,0 +1,42 @@
+PID:12379 Child:Fork has been created
+PID:12379 request:
+GET http://users.soe.ucsc.edu/favicon.ico HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12379 about to start writing to host
+PID:12379 wrote to host request:
+GET http://users.soe.ucsc.edu/favicon.ico HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12379 just read 1414 bytes from host
+PID:12379 just wrote 1414 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:51 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Fri, 21 Mar 2008 15:19:13 GMT
+ETag: "6c1a3-47e-2339e40"
+Accept-Ranges: bytes
+Content-Length: 1150
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+
+
+PID:12379 just read 0 bytes from host
+PID:12379 just wrote 0 bytes to client response:
+
+PID:12379 job done, returning to server main()
+PID12379 fork is ending cleanly

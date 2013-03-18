@@ -1,0 +1,49 @@
+PID:12341 Child:Fork has been created
+PID:12341 request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/images/topheader.jpg HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12341 about to start writing to host
+PID:12341 wrote to host request:
+GET http://learningcenter.uti.edu/Portals/0/Skins/default/images/topheader.jpg HTTP/1.1
+Host: learningcenter.uti.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://learningcenter.uti.edu/Default.aspx?tabid=181
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: DotNetNukeAnonymous=dc166af2-777d-486f-a783-b0ae08fa0e4f
+
+
+PID:12341 just read 7100 bytes from host
+PID:12341 just wrote 7100 bytes to client response:
+HTTP/1.1 200 OK
+Content-Length: 10977
+Content-Type: image/jpeg
+Last-Modified: Mon, 22 Dec 2008 21:56:10 GMT
+Accept-Ranges: bytes
+ETag: "a01662198064c91:70e"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Mon, 18 Mar 2013 02:15:34 GMT
+
+ÿØÿà
+PID:12341 just read 4293 bytes from host
+PID:12341 just wrote 4293 bytes to client response:
+­i{qï|oc|\´»ÊhÍŞ‹‹£5Ú7Gs©c½’qâÓú.‡^ÉñÕ¯ƒ‹Û«\¶OäÃYO]&Ò¼IBæcsËI.ù@ïh?’æşŞÑZ£«ú:K³ú3³Xn5÷8i[O'·S3Hh?1q#‡ÃƒÑOÁöÄâZÒ
+PID:12341 just read 0 bytes from host
+PID:12341 just wrote 0 bytes to client response:
+
+PID:12341 job done, returning to server main()
+PID12341 fork is ending cleanly

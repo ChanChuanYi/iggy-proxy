@@ -1,0 +1,53 @@
+PID:12283 Child:Fork has been created
+PID:12283 request:
+GET http://assets.tumblr.com/javascript/video-js/video.js?1087 HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.8.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+Range: bytes=3103-3103
+If-Range: Sun, 28 Oct 2012 17:43:14 GMT
+
+
+PID:12283 about to start writing to host
+PID:12283 wrote to host request:
+GET http://assets.tumblr.com/javascript/video-js/video.js?1087 HTTP/1.1
+Host: assets.tumblr.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=151488169.469745280.1363561109.1363561109.1363572619.2; __utmb=151488169.8.10.1363572619; __utmc=151488169; __utmz=151488169.1363572619.2.2.utmcsr=imlikeadogtogetyou.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+Range: bytes=3103-3103
+If-Range: Sun, 28 Oct 2012 17:43:14 GMT
+
+
+PID:12283 just read 417 bytes from host
+PID:12283 just wrote 417 bytes to client response:
+HTTP/1.1 206 Partial Content
+Server: nginx/0.8.55
+Content-Type: application/x-javascript
+Last-Modified: Sun, 28 Oct 2012 17:43:14 GMT
+Accept-Ranges: bytes
+X-Varnish: 753352984
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=2039696
+Expires: Wed, 10 Apr 2013 16:50:12 GMT
+Date: Mon, 18 Mar 2013 02:15:16 GMT
+Content-Range: bytes 3103-3103/16550
+Content-Length: 1
+Connection: close
+
+è
+PID:12283 just read 0 bytes from host
+PID:12283 just wrote 0 bytes to client response:
+
+PID:12283 job done, returning to server main()
+PID12283 fork is ending cleanly

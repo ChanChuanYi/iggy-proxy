@@ -1,49 +1,0 @@
-PID:3588 Child:Fork has been created
-PID:3588 request:
-GET http://i2.cdn.turner.com/cnn/dam/assets/130313063931-valerie-harper-piers-morgan-left-tease.jpg HTTP/1.1
-Host: i2.cdn.turner.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Proxy-Connection: keep-alive
-Referer: http://www.cnn.com/
-
-
-PID:3588 wrote to host request:
-GET http://i2.cdn.turner.com/cnn/dam/assets/130313063931-valerie-harper-piers-morgan-left-tease.jpg HTTP/1.1
-Host: i2.cdn.turner.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Proxy-Connection: keep-alive
-Referer: http://www.cnn.com/
-
-
-PID:3588 just read 3472 bytes from host
-PID:3588 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Date: Sun, 17 Mar 2013 22:18:37 GMT
-Expires: Sun, 17 Mar 2013 23:47:10 GMT
-Cache-Control: max-age=7200
-Content-Type: image/jpeg
-Server: Apache-Coyote/1.1
-Content-Length: 13294
-
-ÿØÿà
-PID:3588 just read 3472 bytes from host
-PID:3588 just wrote 3472 bytes to client response:
-%šO4‘…Nyõ¯;Ø¶}ÆBö;;Ùİéíu$c<šË“•ÙŠJjèàµO‰‚ëQkK=îğç­PÈ3ï•Ó)ës†¦'•Ù+˜:î¬\î¬æ³—®ÉTŒ×M(tGJÜËT|ëñ·JxnÓÎGk[]
-;~ïà¥§+>O4£fª.§ğ²9ô¯\ÂmeKk„ LÈB†SÓ=3Í~‰ÃUÚ¥IuGæ|GA¼*ªô³=¢Ù²‚¿ItÏÉç1š°ÿ
-PID:3588 just read 3472 bytes from host
-PID:3588 just wrote 3472 bytes to client response:
-¼Ççù3¤ìşlº°QSùÿ
-PID:3588 just read 3079 bytes from host
-PID:3588 just wrote 3079 bytes to client response:
-â¯;IÊœ“;ùãk­´<'¬Áœ-%ÚÊa÷”ôé_):N[^&­§Ì‹kªGm)·“qç1²‘œ~5*“d{e5Ì‹‹â$™Fàcu“€~œQì™Š¨Ù5ÈÃIêUXU{65Uş R6®Õ9ÁÆG×Š=”ƒ=Ê÷zúy1Å÷·°8ÇéÚ§Ù3E4Ïı©¯mî4:æ0Ã,ä€¦öZôğ0j|§V®çÍz…Ê3‰°®ïÆ{ŸQ^÷#Ù‹¨­sÎ~<Iiqğ·[xc$ÀÍ€ï:1œcƒ‚kÛÉâÖ:ŸÏògJ3Ëê|¿ô¤rÑ-uÿ
-PID:3588 just read 0 bytes from host
-PID:3588 just wrote 0 bytes to client response:
-
-PID:3588 job done, returning to server main()
-PID3588 fork is ending cleanly

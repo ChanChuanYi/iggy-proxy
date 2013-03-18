@@ -1,0 +1,112 @@
+PID:12180 Child:Fork has been created
+PID:12180 request:
+GET http://25.media.tumblr.com/31a8772b061b602196d579d6b1af3114/tumblr_mfzpdwhUAJ1rnnnifo1_250.png HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12180 about to start writing to host
+PID:12180 wrote to host request:
+GET http://25.media.tumblr.com/31a8772b061b602196d579d6b1af3114/tumblr_mfzpdwhUAJ1rnnnifo1_250.png HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: X7/Yw4kqBewUr/7KlnHcqkOtTbXo7K3oqQILRWByDtnIcaw6gUqDnOncmQqSABT3
+x-amz-request-id: CFBF905C0006857F
+x-amz-meta-idata: v=1;i=0p8el4RTDV2C2yl2xr4XEA==;d=zm8xs2eBHwFDuDYPKFdf+bkefJXl4rPDoVgCisCFBmkn213no0DR5WtejOxHWYXfm5QJU8FtbwRCvGYgsjyWjQ==
+Last-Modified: Wed, 02 Jan 2013 08:39:35 GMT
+x-amz-version-id: xs8N10w71Fz6DYb18hPNRaVbSSc5cQUd
+ETag: "9312fdd234ca377220041174e3421797"
+Accept-Ranges: bytes
+Content-Type: image/png
+Content-Length: 136101
+Server: AmazonS3
+Cache-Control: max-age=28768579
+Date: Mon, 18 Mar 2013 02:14:20 GMT
+Connection: close
+
+‰PNG
+
+
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+vt–t]|XÙ]ÛSÿèVoãã–¾{ı÷Ú;tu?xzo¤qôÚXù³sÏ³_$ÇO„¼ÜûÊşµñõ·RïxßSßÿ™ü6õêCÏô­¥ŸR?ïŸq›5œ“şBû²õõóü“oßÏÿH]ˆøéºh¸$û‹{·¼°òfõÑÚ­ßeëi‘›î[Fd·9¶·ÿÉßAÓ1XQ^`NŒ`¸MF)>Ôv&1æ<V[;–ã0ç:w
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+º\.p¿»½ÙO¢§ÇŞ/çŞÏËEÕTÍ5ÌáÎDìpÊ{OD‡ÇCåuÆçÎëÀqÇòiÃİªğ¸`˜Â=\Uü¦Ç¯0y›x8M_~ñÕıãˆÕ-®ÊÌ‰…Y&˜G;t0¸»›»…3­‹ƒÇŸ8ï5‘‰
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+pæ„áÃ‰ÍíÒ{(¬ÈêªŞÁGAÚy [
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+6DS3¸‰„µBA <X…Ä˜—LQzÍLbnd iƒ^a€„Íòä+Vúi¥'\?XŞ¯Œå¸p3ï½»{W/;¸¥x˜™UOòH…BÜÉHØ5
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+p<>÷[!v3ŠÍ†¥/çóå²tµ‰Iö»ƒö‹A¯®®Ï§3Z[Âøè£Ëñáñİ,m8|ôÁÍ~~~ûìp}u57™&wg‡/LîA±9ÔŒ²ãfw_ºî¦ÆÄ#_fF7{óê›İnsuc‡=ôr{{=ß]1ˆÈ²À,†¸:KÖ°ˆ|=9îUŞ?ea¡…ñ\ˆaôHãµÿñb'‹È(Ò¦jGY7ÙÔ”ÆÔªN²3'’Hª&ÿ€œÑ
+!c°*îïÑø•üb{KÎ¬ÈaäÎ°¶i°Öµ´Ù)0âyMk¥Ê(*ÉM]êûA:"GÇËfåÕ	½/¦6ÏSg"ĞÊÈ¯£À=[Ö€™	ÅrEZa‚Ìı|>œˆ]­›«ãáx>]úõ~v(Ìƒa<–ã¥Ç¤z!»>ÌËòD¸ÌÇÇ«ışt:=>Ş_–‡çÏ_âé²œqØÏ/İÜİîîn>j	Ü¥”L+O0˜/äæ&’6…ÑÃÎ}i<=¿»ë—‹´Y¤=<<^v××ó³»OM5tê‘¢ÅˆÕ˜yÍ19”F.¤y-ğo<r:ƒ6¹Ş°‘?Rªæ¼*<ãß7à±J,ED®Ûæò+û8Ã‰3STË‰8?BŠ–¢Æl¼¾ vŠAs6÷˜ı]í¬ÅÒxr-å°yuå9â&%ØÃ¬)Ç§Ñ`62OÉbÑÀñ(™Ïªî\éB.
+ÔÍ:A¶ÉsÜ"ANÏŠJ£µÖ”¬.†ìrÔàxsÜ£Àç`<,Vúr<»ºdä°4«9Ìéx^îŸÎ‡ıX\;3©úùrV³ÖÚÒ/S[®öÔE>ùàåÕÕa5“ù²\…¹_æıü’İ?zñl·ÂlvafwffÁ•iŠ"@“Ñ‰§6rŒ±«7i´çI»´Y„quˆş »Ûk€bª«v"°ˆi6åNL¢1¼»†6yÎÎ¡Ìõ«DYdï^Äì
+~©r¾ºå1ä±òÚZŠj5à%ë‚êãlEœ0cÛH#Ú¬ìŸ­TI±$Ø¨5ˆ›’ã©oøòÄ³Ãï·]JÚÚ‡ª%rDóBŞåå=òÍ<F+8#F´+­QJ…àĞû² ˜
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+qw‘-Éš)¸©ÁŞ˜6OâÚiâX¿[)ŠÛÍíÕÔvK_¦éj¿#·yšÆ¤ÒÍx¶µŠÂUÒ@®Ş‰g“”J5B•µÁüeàÉJ…‘ŒæqG'Ú€Ô!ï5LÄ›nâÙ[DŠJcÎheBï‹PCÌÎDŒ¹ñ¶rq³xP,£ØÁˆñíQ:å÷†¼¿$`õ4
+Cå£ƒcãÄ¸p1e•d“eŒd˜×}•['‹ª<$W4FiÇsåÓÍoYê¯*™¨™[(††Õ€ò-CVÉÖ×«<ŸSk1V\S69FÈµ«Ì”O´†z±¼±X‡P?ç””©&nD(×BÖ‡m"T¡v"MZÄtIkË²œ‰İ”¬ªLg˜=»»™ç–"ªD T÷ÚGyhÛ¾RräœÔàõ8Ã,ïd¾ækîªš•»ÈßbW8b@Dl
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+yµËM)*²4.{zà÷kã%Ô÷AÔlw8cÎIö­	ÏL(Õú îK»ææ%™*›œÒ 1]aéÑbàµ_#°¬‹;œ2CÒÌ$^²1ˆ‰™—Ş™œD`Şš³©î0gg"¨»¹JL6µË]«ãª ¦Ö•Ø‰Üú2íf0©{cFô‘­{„(½p$á²8ÇQĞ¨oJîÒ om2úà„š’ºÄ?…óğœÙïCã–!“cM\‡¾ÌÒM1£œœñ0*bô²‚ÇQÉˆŸ­án-´¯°Bê•€BU‚Ëº‹L«¹Hé˜«Ä9ÜOX^cıt6³u‘Ïy™e­ÃiÅ"qÅœu-BŒèˆÃ×è]Ft"â,eu¡«s:ÿ4ÜR®œzgËÆ ŠxvS'ÁFÑ&½y­#Nî;^#*!¹’7¦›º»ih³MÍdff·1ÏÅğnÚj­5G¾¶åŒÉÈ2S2E5"aUR5Nª±˜A	©E5Ó”zÀ™Ù™¡
+ZT”>²ì[€Æ|uTé²ş3ä–ñC”ºÀšEí Şx5
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+ö~ø+6×«’ïã)¾_¶[OÎé–ê‘™×ª¬¸‡ÍÜSmïå}¥Ïò©9Ğ
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+$@÷Lb*[YˆcwÆq¹'´/ïŞ½ıîÕ7àöêûoOOÏ_~øøtÿÙg?ÿàùsÓ.ÒœFhÉŒ™99"Å$qvLVjşc†œIÕ.ç•vâÜšAÄËc—" 42Eœçj§š<–¦[µŒì¬«Îÿ4Ô`U(ÍzC@–C«jFé`¯½sf1jvÿps÷üçñ×ÿô»ßNJ²ï½ı±ßÿú×¿míŸ¾ıæ]iïÂ'À4Şñr¼/Ÿİ[œd6UVoï÷÷?¼ùáx<ÿõ_ıÕÜZ_Îº‚ãô´*;³–ã¤|ĞÄkd¯r„ êÑŒ©l j«È!åŠâEy#ÄYÍi€™âqm³Â)êpN¦ jÔ
+Ïªøê«/¿øâóeéÄ"³5¡^ÛÄ(šWÀ”Ÿ°2Ô,™QùL7™%ªA¡•'&¢ÉTİíêpEDïŞ=~ıÕw÷ÇGno-‹Îo~ö³¿djÕ¼fˆã§g¥R×¾¿å&vWx¬¤ˆ,”H–EçKïËår–ÖîİæEµ	sù°<¬™yÒ&ñ¸Õ«¯ª{EÕ\M±ÛÛi
+PID:12180 just read 6944 bytes from host
+PID:12180 just wrote 6944 bytes to client response:
+ÕÔ(µ†NxmÔ–ÒNùx.¯›)‰ÉF»‹ó³çÏöÙÏ‡Û‡§§W¯_½~óîb¼]‚œ’Ç„TÊ€`³3tbŞeš0ê»vZ‚Il¤"^{Ëy‚‘Û7b~õí·»\ç¿¹»9|ğüÙnnY"¦h³Òró5ğd 5"3ã¸ù 2ÅiT“u™E¤I&bn,CªÏ1<JÜ{b2‹Ş7yvsKBnNên¦Şİà‹u£ùO_÷õwßöÚ¨…À£ÿÜ´½"4qéÇ?Y•ºuÚÏª—İtŸ'<ÊOC
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+`HA¤_-ç¿úı_úßú¯—g±©¾yù-6³‹ÙÜabï	Ä“VÁWÁ×ÁÏ—ç³³ğMŸóîşU¿5zı
+ê:°ó³õúéùü1r¨‡˜RNw××yèVóÙÅå!w›ÓÈ¹³nOÀûı–
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+e{¼X5ì	ò‡WÏ–móÅË/ÎÎÎ?{ñÁW÷?œšo‘i¤Âdë³ó³óóÓ4?=i•ÍZ÷¯
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+uIJ¦1
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+~ñtã	Ğ*.Îå1Œ3KqtDC-N·8^€Zz[Ä‡õT£‡=˜‰ŒôÕ	G(m"S4Ëv¦²¤eÀéS“ØwˆN•H˜\ã\üÙÅ£!¥ËïŞİ<¾<[­/7»û”ãùùù£Ë‹7*ÈaÛ¥Šrİx
+PID:12180 just read 6944 bytes from host
+PID:12180 just wrote 6944 bytes to client response:
+Ÿ¾~w£fû¾[T@Uâçu›%¡¢H®ÚjÖV&™CÕºªB]9ïê¦Z,WUÓ’w9çœ2ƒjŠ‹Y“9[Apg«U¬Úcß'Ãıô§Iâ…gB`Î/¯
+PID:12180 just read 6944 bytes from host
+PID:12180 just wrote 6944 bytes to client response:
+FN=16šÕL$š3!6Ñ4•à;4dç‹k¬¡4NÍ¤ìØ¡ªª2–NF	xŠ›˜rñØ+ì $b"‘Ì`£Ü}ıS½üğMV¢"].×€¼¹»MY˜‘ŠsX!R*<¤œ¸åT+€¡+\€‘6ÙRÚ˜‰)ÿ^—
+
+PID:12180 just read 6944 bytes from host
+PID:12180 just wrote 6944 bytes to client response:
+j±¼Æ‚w×öi­
+PID:12180 just read 3472 bytes from host
+PID:12180 just wrote 3472 bytes to client response:
+2ãáŞ`×aî±˜/»³IyYJ-•ÿà÷»œZm¢íŠ#¼…aV‹š2sÓs"%™ıîŸ~wš
+³
+PID:12180 pipe error, probably done reading, preparing to end uncleanly

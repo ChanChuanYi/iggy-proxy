@@ -1,0 +1,49 @@
+PID:12725 Child:Fork has been created
+PID:12725 request:
+GET http://r5---sn-jvhj5nu-nwjl.c.youtube.com/crossdomain.xml HTTP/1.1
+Host: r5---sn-jvhj5nu-nwjl.c.youtube.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/watch?v=FNQowwwwYa0
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12725 about to start writing to host
+PID:12725 wrote to host request:
+GET http://r5---sn-jvhj5nu-nwjl.c.youtube.com/crossdomain.xml HTTP/1.1
+Host: r5---sn-jvhj5nu-nwjl.c.youtube.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/watch?v=FNQowwwwYa0
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12725 just read 1607 bytes from host
+PID:12725 just wrote 1607 bytes to client response:
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/x-cross-domain-policy
+Last-Modified: Mon, 02 Apr 2012 00:13:23 GMT
+Date: Mon, 18 Mar 2013 02:20:51 GMT
+Expires: Tue, 19 Mar 2013 02:20:51 GMT
+Cache-Control: public, max-age=86400
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 169
+X-XSS-Protection: 1; mode=block
+
+‹
+PID:12725 just read 0 bytes from host
+PID:12725 just wrote 0 bytes to client response:
+
+PID:12725 job done, returning to server main()
+PID12725 fork is ending cleanly

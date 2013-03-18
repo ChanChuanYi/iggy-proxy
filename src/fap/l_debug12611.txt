@@ -1,0 +1,43 @@
+PID:12611 Child:Fork has been created
+PID:12611 request:
+GET http://www.bing.com/s/wlflag.ico HTTP/1.1
+Host: www.bing.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12611 about to start writing to host
+PID:12611 wrote to host request:
+GET http://www.bing.com/s/wlflag.ico HTTP/1.1
+Host: www.bing.com
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12611 just read 537 bytes from host
+PID:12611 just wrote 537 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/x-icon
+Last-Modified: Wed, 17 Feb 2010 01:38:25 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 272
+Cache-Control: public, max-age=9254069
+Date: Mon, 18 Mar 2013 02:18:39 GMT
+Connection: close
+X-N: S
+
+‹
+PID:12611 just read 0 bytes from host
+PID:12611 just wrote 0 bytes to client response:
+
+PID:12611 job done, returning to server main()
+PID12611 fork is ending cleanly

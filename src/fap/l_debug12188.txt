@@ -1,0 +1,47 @@
+PID:12188 Child:Fork has been created
+PID:12188 request:
+GET http://25.media.tumblr.com/db55f6e2952be814f9a9a8767fb4e478/tumblr_miwqowAtzp1qd1hmno1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12188 about to start writing to host
+PID:12188 wrote to host request:
+GET http://25.media.tumblr.com/db55f6e2952be814f9a9a8767fb4e478/tumblr_miwqowAtzp1qd1hmno1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12188 just read 2850 bytes from host
+PID:12188 just wrote 2850 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: dKA1HHvKp4t2TAH6K5hJ8/GImJtZghCn10CKGYHiQCKj3Q0XjVwn+I4XPRsfnWPr
+x-amz-request-id: A5B365B2DD249687
+x-amz-meta-idata: v=1;i=4P4BmETLzOKeNOm9qr/6gg==;d=5Av4oWVfKXnussegQgdlYVWaRKTUzivGHj1EtfNKSfUu7L2Mov8W+IVsII72OOOLp9Je7ukMtrt4Ott2MDgL/A==
+Last-Modified: Thu, 28 Feb 2013 01:55:46 GMT
+x-amz-version-id: 4Qpn2OLNCyAFubfYvPG97DKJuw9dP72s
+ETag: "023a351632f1c30541d0e008c25e5f10"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 5402
+Server: AmazonS3
+Cache-Control: max-age=31536000
+Date: Mon, 18 Mar 2013 02:14:23 GMT
+Connection: close
+
+ÿØÿà
+PID:12188 pipe error, probably done reading, preparing to end uncleanly

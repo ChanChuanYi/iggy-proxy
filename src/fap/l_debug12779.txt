@@ -1,0 +1,67 @@
+PID:12779 Child:Fork has been created
+PID:12779 request:
+GET http://www.redditstatic.com/reddit.MDU8bbVC0uA.css HTTP/1.1
+Host: www.redditstatic.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.reddit.com/r/UCSC/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Range: bytes=16384-22476
+If-Range: "c706aa4102d60451bc830689948f7b0d"
+
+
+PID:12779 about to start writing to host
+PID:12779 wrote to host request:
+GET http://www.redditstatic.com/reddit.MDU8bbVC0uA.css HTTP/1.1
+Host: www.redditstatic.com
+Proxy-Connection: keep-alive
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://www.reddit.com/r/UCSC/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Range: bytes=16384-22476
+If-Range: "c706aa4102d60451bc830689948f7b0d"
+
+
+PID:12779 just read 481 bytes from host
+PID:12779 just wrote 481 bytes to client response:
+HTTP/1.1 206 Partial Content
+x-amz-id-2: sHC65IpISQa+Eg9fu83vDhGdHiM20JzKPomT3FtJyxnfzuxnFbvazIbdfPjaQTOh
+x-amz-request-id: 9C5526243D3661AA
+Expires: Thu, 31 Dec 2037 23:59:59 GMT
+Last-Modified: Wed, 13 Mar 2013 21:56:37 GMT
+ETag: "c706aa4102d60451bc830689948f7b0d"
+Content-Type: text/css
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Mon, 18 Mar 2013 02:21:04 GMT
+Content-Range: bytes 16384-22476/22477
+Content-Length: 6093
+Connection: close
+
+
+PID:12779 just read 3472 bytes from host
+PID:12779 just wrote 3472 bytes to client response:
+LËß»É<ìufÛ©¸İ­»\(8âW‘”R‘;ôïNF<ã=Çú¬]¶çC£â`Íi}`ôõpòiNFùîİÕµ¬ãiLäŒ=£#»ş+¦;ÕÆV ÌV[ÊDÍš=ÍØckµ«a
+PID:12779 just read 2621 bytes from host
+PID:12779 just wrote 2621 bytes to client response:
+.wï—İqõ•|Lå{)¢Ï{qØn„\(E.éŞ×ÁgµÖ\B÷°»rÈ'™ítW§İØ­0ŞÕÿ§îİØjü²á;{joî0º¨)àÉÄ¿Àx=E—nî[ô#sró¾Ìf¯Ÿ–$å}5ıü8Â^yQD—ÁíR^·şär¹]g¦ı?AwŒ§Ø«¦_Ÿÿÿ[î¾ş/w˜|I07¾N^µ.–¹¹£Û«zá ›ïW]®„ãº9³ñê®hNî_Ëô`ò_É÷êÿˆë_Ö¥!°”¿õ–yUWÂWÁ­IËå}£ü¨öÕñ>xDÁO¬±•ÔÙc2·pıä7ïÉı5L˜Õ1kâÓY»•¹¶[±
+—>ZfUËGŞ2ĞZ[pud…µ·Ä”í°ËU€ù›‚Jj7ÙÓºª¯RÍ|;TÚğ[™˜jıŒì·õ…ñªûxœ!-’és®Œ¼,¤à€íĞJˆÓ+;E.wh„µÔ+lgNí’¼ú3øÉ¢†AÙª6G¡ïVª>F&rcø	lnJ[ë@~ÿ¶ïî]f¿+I°ÚZÇÈåæ+
+^Ôñ¦õ~ìÃ—÷¯i¹ÈşöG©KÊÌkdk¿}%¸¨3´K$ÿ¨Î£ï–ç’öæBÏÓ:9ë&
+Ay½Îè<2cL¶£D ÌÉíú‘”’Úù*„¶5ê›ª|{”÷·tÙ+I[®óá<:·†*†Ä2E?½/?†G9«´ï±«•’Å¦E‡òÜ‹ƒ6"£•)°Œ\#KfEş‹±éÁã=aÜhÆ'±§UÍvõHÿÙÖyâ|:£§À:|Èú&2ªfãÇ;õvQu­×Ã$š÷Ò™?jUç
+zMùò|€İŸĞÛŞëkKv›[l9ıK±–{×¡`£ÌXö"¨¢s‡ošâxŞ+6-Wj
+ÆÅMS$Ğ©>ÿÌºC$£×cS¶b
+_¤ƒùhT
+¿S–Èz/´xD[p@É–;ÃüL©ğ£qnLáÉ°j'Æbœ´\5)¹ÂzÎA9"“®+Y´LWüûÈbh2½7‹åIf}<†s;ë«…ü™íÓäÒToÅiİÖ*û¼_ŒÆ4‰§†¸;6Hä˜cbpYøN(l9ÿ…Cï“	Ó„7‰ôKwÌ¦*0‰¯?Äõ6]ˆ«e=doâ|h¬÷ÈmØ`vÂ½—(ïrgãØ1s¼%^5„aª=Ù|çå"‹å€”I¤øîÒ¸'é±‚nâH1Ÿ“Ù$İ#•*ã7?£1WT“t_ÍŞÇ™÷`"*$y<’—Áª„Ÿ-ã( ÿ‰ñˆ!¨¹82ˆ5+I8®
+ÇƒO¨Cc.ˆ‹v|ƒ«– øº'nªåÃı¦:òåºÙÔı ÙõÄ˜ˆ¡ïÏttì_îy´c&§æn)›8~×$bè—B%
+PID:12779 just read 0 bytes from host
+PID:12779 just wrote 0 bytes to client response:
+
+PID:12779 job done, returning to server main()
+PID12779 fork is ending cleanly

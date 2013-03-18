@@ -1,0 +1,45 @@
+PID:12458 Child:Fork has been created
+PID:12458 request:
+GET http://i2.ytimg.com/i/-2Y8dQb0S6DtpxNgAKoJKA/1.jpg HTTP/1.1
+Host: i2.ytimg.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12458 about to start writing to host
+PID:12458 wrote to host request:
+GET http://i2.ytimg.com/i/-2Y8dQb0S6DtpxNgAKoJKA/1.jpg HTTP/1.1
+Host: i2.ytimg.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12458 just read 3144 bytes from host
+PID:12458 just wrote 3144 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Last-Modified: Mon, 18 Mar 2013 02:16:17 GMT
+Date: Mon, 18 Mar 2013 02:16:17 GMT
+Expires: Mon, 18 Mar 2013 08:16:17 GMT
+Cache-Control: public, max-age=21600
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 1768
+X-XSS-Protection: 1; mode=block
+
+ÿØÿà
+PID:12458 just read 0 bytes from host
+PID:12458 just wrote 0 bytes to client response:
+
+PID:12458 job done, returning to server main()
+PID12458 fork is ending cleanly

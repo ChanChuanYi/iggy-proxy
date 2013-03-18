@@ -1,0 +1,288 @@
+PID:11729 Child:Fork has been created
+PID:11729 request:
+GET http://25.media.tumblr.com/d2fee125a0e4b6d3f708919923644400/tumblr_mjm0wq8BAF1qd5hzfo1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11729 about to start writing to host
+PID:11729 wrote to host request:
+GET http://25.media.tumblr.com/d2fee125a0e4b6d3f708919923644400/tumblr_mjm0wq8BAF1qd5hzfo1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://deadpathogen.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11729 just read 4293 bytes from host
+PID:11729 just wrote 4293 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: WSZywP9/ojMMOqc610nCrd8fjI2uqCj/gIkhdDLpjGSj0eQ1DdfSdvZI/m3KsJCe
+x-amz-request-id: C473C4B52D96EE1E
+x-amz-meta-idata: v=1;i=+/ahONzuyqn1DslHkNKtYw==;d=HC69kRZviz+lj2RB3SNLH8OaEqKpekQCmZqKOwzmEXgyaYgFMiuPSRDCUyrrFcTMgSrct36g9tbxVi452F5RsQ==
+Last-Modified: Wed, 13 Mar 2013 17:36:28 GMT
+x-amz-version-id: UOMEMLUFN4ZGBSmtEq48xMn5TDsxSniW
+ETag: "7daf4088849bc68673a092252cc420b2"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 53281
+Server: AmazonS3
+Cache-Control: max-age=31340018
+Date: Mon, 18 Mar 2013 02:11:15 GMT
+Connection: close
+
+ÿØÿà
+PID:11729 just read 4344 bytes from host
+PID:11729 just wrote 4344 bytes to client response:
+¢ÜùQ„cíÉü_´¹˜3Ê;ŞÅôAy§ò/ËK|?BjØéDÚ¥,^Š½hb	Hå-ü‡'\ºî/&şBiwú“Ï¬j¯ú
+PID:11729 just read 2896 bytes from host
+PID:11729 just wrote 2896 bytes to client response:
+>{–—SQ&¦áÉí¾=ËMOP­~³%|y|8÷-9µ-A…æR<9œ>{–§©C¼WsFNçŒ?QÃÀ;’ºMcU•xÉw+
+×w=ppG¹PŒÅ‰,I'©;äÕn*ìUØ«±Wb®Å]Š·\UØ«x«°!ÂñWU¬)DiúîŸt—Vs4¡ªºš}ÄdeEdŸò³¼ĞcÍ‘@Ç¸§…†SùX"’{ÿ
+PID:11729 just read 4344 bytes from host
+PID:11729 just wrote 4344 bytes to client response:
+Ô`ŠéÊÄÀ^*áŞ?‡œt(Ur‰N@YÙ@	v™æFÂÆêØZ"-•Ùe@Í
+PID:11729 just read 4344 bytes from host
+PID:11729 just wrote 4344 bytes to client response:
+ÛÊÜÏ‰dãÇ˜¶S—ĞÒ‹2ØİXêOª\@"ÀÆ^uO€ò«rşğ|m'Äé‘‘ä¡k¡³³YÕÄ‚Xëu'÷ÁÉZ\ùtıœˆÜy±”¨§Ş`µ’0UÅEj6äN˜#=’JûVİyÒF¡f^§ˆêráL’İCZà&”™I¡÷ÜªSJD<ÍfÑ¼¼EÈâôpMAé±Û~™%xÿ
+PID:11729 just read 1448 bytes from host
+PID:11729 just wrote 1448 bytes to client response:
+))Ğ**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/ş050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e44Ø55M5‡5Â5ı676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEŞF"FgF«FğG5G{GÀHHKH‘H×IIcI©IğJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O
+PID:11729 just read 2896 bytes from host
+PID:11729 just wrote 2896 bytes to client response:
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xap="http://ns.adobe.com/xap/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON D3"
+   tiff:ImageWidth="3818"
+   tiff:ImageLength="1672"
+   tiff:XResolution="240/1"
+   tiff:YResolution="240/1"
+   tiff:ResolutionUnit="2"
+   exif:ExifVersion="0221"
+   exif:ExposureTime="1/250"
+   exif:ShutterSpeedValue="7965784/1000000"
+   exif:FNumber="11/1"
+   exif:ApertureValue="6918863/1000000"
+   exif:ExposureProgram="1"
+   exif:DateTimeOriginal="2009-06-27T12:16:36.66+02:00"
+   exif:DateTimeDigitized="2009-06-27T12:16:36.66+02:00"
+   exif:ExposureBiasValue="-10/6"
+   exif:MaxApertureValue="31/10"
+   exif:SubjectDistance="126/100"
+   exif:MeteringMode="5"
+   exif:LightSource="0"
+   exif:FocalLength="1050/10"
+   exif:SensingMethod="2"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="105"
+   exif:CustomRendered="0"
+   exif:ExposureMode="1"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:GainControl="1"
+   exif:Contrast="2"
+   exif:Saturation="0"
+   exif:Sharpness="2"
+   exif:SubjectDistanceRange="0"
+   exif:DigitalZoomRatio="1/1"
+   exif:PixelXDimension="3818"
+   exif:PixelYDimension="1672"
+   xap:ModifyDate="2012-05-23T14:26:18+02:00"
+   xap:CreateDate="2009-06-27T12:16:36.66+02:00"
+   xap:CreatorTool="Adobe Photoshop Lightroom"
+   aux:SerialNumber="2041879"
+   aux:LensInfo="1050/10 1050/10 28/10 28/10"
+   aux:Lens="105.0 mm f/2.8"
+   aux:LensID="138"
+   aux:ImageNumber="26869"
+   crs:Version="5.7"
+   crs:WhiteBalance="Custom"
+   crs:IncrementalTemperature="+10"
+   crs:IncrementalTint="-2"
+   crs:Exposure="0.00"
+   crs:Shadows="0"
+   crs:Brightness="0"
+   crs:Contrast="0"
+   crs:Saturation="0"
+   crs:Sharpness="0"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="0"
+   crs:ChromaticAberrationR="0"
+   crs:ChromaticAberrationB="0"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:FillLight="10"
+   crs:Vibrance="0"
+   crs:HighlightRecovery="0"
+   crs:Clarity="+21"
+   crs:Defringe="0"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="0"
+   crs:SaturationAdjustmentYellow="0"
+   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentAqua="0"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="0"
+   crs:SaturationAdjustmentMagenta="0"
+   crs:LuminanceAdjustmentRed="0"
+   crs:Lumin
+PID:11729 just read 3472 bytes from host
+PID:11729 just wrote 3472 bytes to client response:
+anceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="+19"
+   crs:ParametricDarks="+26"
+   crs:ParametricLights="+21"
+   crs:ParametricHighlights="-7"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName="Linear"
+   crs:CameraProfile="Embedded"
+   crs:CameraProfileDigest="D6AF5AEA62557FCE88BC099788BBD3CC"
+   crs:HasSettings="True"
+   crs:CropTop="0.02897"
+   crs:CropLeft="0.086133"
+   crs:CropBottom="0.97103"
+   crs:CropRight="0.974381"
+   crs:CropAngle="1.26304"
+   crs:CropWidth="3818"
+   crs:CropHeight="1672"
+   crs:CropUnit="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="True">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>500</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="True"
+    exif:Return="3"
+    exif:Mode="1"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:RetouchInfo>
+    <rdf:Seq>
+     <rdf:li>centerX = 0.424259, centerY = 0.862746, radius = 0.009333, sourceState = sourceAutoComputed, sourceX = 0.443609, sourceY = 0.906116, spotType = clone</rdf:li>
+     <rdf:li>centerX = 0.688514, centerY = 0.770661, radius = 0.009333, sourceState = sourceAutoComputed, sourceX = 0.688675, sourceY = 0.814914, spotType = clone</rdf:li>
+     <rdf:li>centerX = 0.698511, centerY = 0.789762, radius = 0.009333, sourceState = sourceAutoComputed, sourceX = 0.679511, sourceY = 0.789700, spotType = clone</rdf:li>
+    </rdf:Seq>
+   </crs:RetouchInfo>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                     
+PID:11729 just read 3472 bytes from host
+PID:11729 just wrote 3472 bytes to client response:
+                                               
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       
+<?xpacket end="w"?>ÿÛ
+PID:11729 just read 4640 bytes from host
+PID:11729 just wrote 4640 bytes to client response:
+éÈgÔéô°6§S HÔYf (RM
+PID:11729 just read 3472 bytes from host
+PID:11729 just wrote 3472 bytes to client response:
+Ø¼û©ÖœQ¯Rxä•+ü®«lÍ;'Ø±ôñ#VQ•¶R:0®ÚW),‹#õ²¶AÉ„Óg#ÄPò_ÖÁ×ú¯L†nŸÓº–ù™ĞÍ¦[?Ã
+Ì’I;»(Tˆ©v¡V5˜)	‘Qnô+zĞ49İ[U
+PID:11729 just read 3768 bytes from host
+PID:11729 just wrote 3768 bytes to client response:
+f8h)İ^ì{0·‚O–ŠµäI_±ÍÆ±qÈ’xÆ¥´Òõ¬I!=’ğEê?fmÂ‰ÅÏWj2p·ù$§¾âÊ•ébÅ¿p“›|¡_0lÅ0ı“Qš	4šKé•R)Têa‚RÑ»‰"Q&éåØ®«¹’ ©<–’ÜĞÆ®ÆÙ¬£?Í´î÷«Š8¾M*¶|}é}©YO\dòªº-“·9i|™£³U]¥º]0ÍQ^ÄÚ~	¼<|¼s8ˆâÎñgX¾T¯_¡ôŒˆVåêê~<êÚI'ÑÃ«˜¦ˆ´S3E
+»:°Pc/¾9Ù\
+’PÈ¬¡Á9Q4-ÓÇ¨Z]¤Qb(Ñk¯r€“Í‘‘_iôÄ×¨›Há¨½†˜“Ùt¸C#ãUñµš‰JÃƒô­dš!1;ÈöÅ³[ëZ!b£ÎG‰œèe	êWö‡ÕSJ:Œİ<ş‘•LrËÙ+r,læ
+PID:11729 just read 2896 bytes from host
+PID:11729 just wrote 2896 bytes to client response:
+¯)œ•TõáëSõ-GPı.’b	;Hòî³Ê°´b˜›2»(/ê”šZ*Ç&y”0ŞT BË`Û*t(Õ§ÃUápÖJ¨dŒ^l|òÓ˜)SŒ×ü™È>Ùx	¼i-8­v¿`pÚÀá{e‰ZúÌd$]³®­î]úÏàñ«Åy°é5}Tz}e™ M­r0 •_øq€ŞÍ¦zX
+çDk4Údx4ÑæÁ ¤m§joù¬%ÕrO3é‰%ğNùR¡-ÓµzôV*>GQ¬!”if<¬£¡Ÿ€‘±¼rÆ>ZÑ´H²•§ÃœÈÆ=lö=ûÉ"‘r„­Òô]Ğ7µT´4ds+)÷Æ@;‚¯¾ÔÊ)¬ÔHæFşRMSs´Šî(ŞâlĞ
+PID:11729 pipe error, probably done reading, preparing to end uncleanly

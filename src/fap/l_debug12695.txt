@@ -1,0 +1,64 @@
+PID:12695 Child:Fork has been created
+PID:12695 request:
+GET http://i3.ytimg.com/vi/FNQowwwwYa0/default.jpg HTTP/1.1
+Host: i3.ytimg.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12695 about to start writing to host
+PID:12695 wrote to host request:
+GET http://i3.ytimg.com/vi/FNQowwwwYa0/default.jpg HTTP/1.1
+Host: i3.ytimg.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12695 just read 3887 bytes from host
+PID:12695 just wrote 3887 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Date: Mon, 18 Mar 2013 02:19:20 GMT
+Expires: Mon, 18 Mar 2013 08:19:20 GMT
+Cache-Control: public, max-age=21600
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 3625
+X-XSS-Protection: 1; mode=block
+
+ÿØÿà
+PID:12695 just read 1068 bytes from host
+PID:12695 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Mon, 18 Mar 2013 02:19:20 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>Thatâ€™s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>Thatâ€™s all we know.</ins>
+
+PID:12695 just read 0 bytes from host
+PID:12695 just wrote 0 bytes to client response:
+
+PID:12695 job done, returning to server main()
+PID12695 fork is ending cleanly

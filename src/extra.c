@@ -10,10 +10,11 @@
 #include <netdb.h>
 #include <time.h>
 #include <sys/time.h>
+#include <signal.h>
 #include "extra.h"
 
 void error_print(char* message){
-	fprintf(stderr,"Error:%s\n",message);
+	fprintf(stderr,"\tPID:%d error:%s\n",(int)getpid(),message);
 	exit(EXIT_FAILURE);
 }
 
@@ -91,7 +92,7 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 int valid_method(char* method){
 	if(strcmp(method,"GET")==0)return TRUE;
 	if(strcmp(method,"HEAD")==0)return TRUE;
-	printf("PID:%d %s is not GET or HEAD. Returning FALSE.\n",
+	printf("\tPID:%d %s is not GET or HEAD. Returning FALSE.\n",
 		(int)getpid(),method);
 	return FALSE;
 }
@@ -128,8 +129,9 @@ int create_host_socket(char* host,int client_fd,char* write_pipe){
 }
 
 char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE* d_out){
-	//printf("PID:%d write_to_host called\n",(int)getpid());
 	int host_data_out,host_data_in, client_data;
+	signal(SIGALRM,sig_handle);
+    alarm(5);
 	
 	host_data_out = write(out_fd, read_pipe,PIPE_MAX);
 	if(host_data_out <0){
@@ -141,21 +143,21 @@ char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE*
 	memset(write_pipe,0,PIPE_MAX);
 	host_data_in = read(out_fd, write_pipe, PIPE_MAX);
 	if(host_data_in < 0){
-		fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
-		error_print("pipe error occured");
+		call_death(d_out,new_fd,500,"pipe error, probably done reading",
+			write_pipe,"Server error-pipe error occured");
 	}
 	fprintf(d_out,"PID:%d just read %d bytes from host\n",
 		(int)getpid(),host_data_in);
 	client_data = write(new_fd,write_pipe,host_data_in);
 	if(client_data < 0){
-		fprintf(d_out,"PID:%d pipe error occured, preparing to end uncleanly\n",(int)getpid());
-		error_print("pipe error occured");
+		call_death(d_out,new_fd,500,"client-data pipe error occured",
+			write_pipe,"Server error-pipe error occured writing back to client");
 	}
 	fprintf(d_out,"PID:%d just wrote %d bytes to client response:\n%s\n",
 		(int)getpid(),client_data,write_pipe);
 	}while(host_data_in > 0);
 	fprintf(d_out,"PID:%d job done, returning to server main()\n",(int)getpid());
-	printf("PID:%d job done, returning to server main()\n",(int)getpid());
+	printf("\tPID:%d job done, returning to server main()\n",(int)getpid());
 }
 
 int close_is_true(char* write_pipe){
@@ -172,8 +174,15 @@ void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* 
 	fprintf(d_out,"PID:%d %s, preparing to end uncleanly\n",(int)getpid(),err_msg);
 	send_error(fd,write_pipe,err,req_err);
 	close(fd);
+	fclose(d_out);
+	printf("\tPID:%d closed fd and debug file\n",(int)getpid());
 	error_print(err_msg);
 	
+}
+
+void sig_handle(int sig){
+	printf("\tPID:%d timed out, killing process\n",(int)getpid());
+	kill(getpid(),SIGINT);
 }
 
 

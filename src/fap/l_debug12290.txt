@@ -1,0 +1,54 @@
+PID:12290 Child:Fork has been created
+PID:12290 request:
+GET http://imlikeadogtogetyou.tumblr.com/ HTTP/1.1
+Host: imlikeadogtogetyou.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12290 about to start writing to host
+PID:12290 wrote to host request:
+GET http://imlikeadogtogetyou.tumblr.com/ HTTP/1.1
+Host: imlikeadogtogetyou.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12290 just read 3472 bytes from host
+PID:12290 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+X-Tumblr-User: imlikeadogtogetyou
+Link: <http://25.media.tumblr.com/avatar_f40c5cea42b6_16.png>; rel=icon
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Tumblr-Usec: D=502923
+Content-Type: text/html; charset=UTF-8
+Content-Length: 7639
+Date: Mon, 18 Mar 2013 02:15:10 GMT
+Connection: close
+
+‹
+PID:12290 just read 4537 bytes from host
+PID:12290 just wrote 4537 bytes to client response:
+‡¤jlwŞ›ÜÏæ IëŠ[BÑ5e²¥N¶°A:½Éÿ-pe.ôŸ§
+Qû¡lË]Â‰m˜ª‰Êfàv]±Û‰ê­,kÙ¡ˆóMd<¢+ïİùÈOx»S5#ÔŠås8P-]Çu—ó0¸(!zÁ‘Š*	)oÖK,Ç½(î%rF¸ÔRÌE{ú¾ˆ˜«gªjo-g@ŸŞ÷DÕÀ¯'¬’˜+óLyBS¾#'ÑôÁÌw]¶G„›õù¨–6›ÃÑ@U*vˆn*.èjÆ+WéExéF×Ó¹iQ-µ‡Ú
+tCá”®¨×óğ-!:BšæÀŞ\pFï8]…/B—¢ï°{gô9Õ­›`MËM]¨"æ¼7©¯Q7ïaKMeè:¿]ØV+Œ2©ìŸ„ı“h.Aÿ$èŸTö¯7æûUdgIùŞ)Ñ‡be¯t©Bõn®£œ«ˆ÷?Ê:k tÓüwZÇhøùY‡9Ôºi¨ƒAÇ:¸Î|\I‹˜‹@Fs§¶”diè¿ÑoĞŞ…¾¹ »X
+FAûŞ?h›¿‰şÊ46Wåî}C9ªâ>¹òiEB¿h2‡øjc›¦	ö1÷'Ğ'5¼Rd—o»—fìkšño60Ş±êŸüğnÇºa™¨f”›šº)Õà9ÌÂştÕ64ÇVM×Ó5Ë±½±cĞZó`9ŸÏO2-ÕµëˆÆÚ¨¢|™ÀŒ‰¸cdRÙ\(7¨“R±İ$M5Ô‘9´*E+{“òj»2%q®¦˜:İ(q]jÖØêOj¸J¥jµ“{û§Õ®’Ï.ÚfèÖm¨Îw¦©Llå­å-î?ş.7"e“Nm˜]›*ecæÇcoDµ¡gÚƒ±6Ö†C›üW­S¦<Û‘ön¦_GzB¯p¸ÏÎç:ĞƒYAœ±À¼ßcN³
+î”ô%drW?Ç¨æXÆ:ğdÆÉ”L‰J%™)UdJ™’¹£»âêóyD…Ø¯|—ÅÕÜâpÄÃ§QÅ›A{åØ-ÖjÄnƒb…Æ0p©£œğş”©jKØ,´™ÛÛ¶
+PEİÉ¿·B¾C»E‚“ˆ-‹éò)¿Wli<lUmW“1ùîÓÀÿíµ›ÀÍóÓĞİ;øêûn¿şv@ú-†í4ÛßßŒ†³¦#2£ÙE€<¶ãëmx\šS)†ù–õÏÊ#.Ú>â½	PÈ[ÑwàŞw«Ö{’º]İ¨è,%^°ë—kÃ©’ñ¿\ë:×ÏlÆXß„’áU¹—r7W[3n5šLï|[;sN«h¾ö\æ˜TQMÆÈñ,m0¸¶îŒjZ.bâØLV´Ô:ÏIB—~#E`–ğÅ¼¯m<p‡#•¹¶¡MÃôTwl³‘í:–áêZ“¥l¿â‰ƒOO–`Ğ¥2ÃVPF™~Óa®¡Y®7¶U#‘kÜ]ÒeV¨©ãÑD”†S'?9)E:<NCiÎVœ”2*BxÚöa/JX¥İ„áp’ğXBSQË7 V‚KÓm$pÿŠ—e_I~•ˆ:@ÌÆğlZ˜€˜¬á5X//Âq¦re?JRÑÒ¸Xx,¹Îù›YAµ“¥Ascnå]^Ÿ¿Qİ"üh›,¯¬„É`5JÑ¹šåzäl°¯tŸEš;[ÇYõ2¡Q£:ò¤¬Å0o¼°yGeı‡X&tjv¨bÖE¾‹z¯÷_8ì]\ÀP×:¶³ÁçÍ8÷tÜ¾-ˆÒõ‡4rXÀÛi¼È/ıâNSµ“úZ¼š¸³¹Ö‹ÜN%^‹ßÙ\é¨ùæJüÎ–Jt‘±ô‰;›k=†xÏXÔ¬Šµw¶tmFÓÍŠ;›kióµzX«¼³…Ğ"Åİ®È	-ïl®ø0NV„Ç\àªÜ’`.îµ;[1ˆÖqoXKÓºå3±-O¸T“waØ*lzØl®<¢Vê6éŠ¦÷º*\
+PID:12290 just read 0 bytes from host
+PID:12290 just wrote 0 bytes to client response:
+
+PID:12290 job done, returning to server main()
+PID12290 fork is ending cleanly

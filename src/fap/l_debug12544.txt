@@ -1,0 +1,51 @@
+PID:12544 Child:Fork has been created
+PID:12544 request:
+GET http://yahoo.com/ HTTP/1.1
+Host: yahoo.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: B=as90t5d8jsmuk&b=3&s=sv
+
+
+PID:12544 about to start writing to host
+PID:12544 wrote to host request:
+GET http://yahoo.com/ HTTP/1.1
+Host: yahoo.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: B=as90t5d8jsmuk&b=3&s=sv
+
+
+PID:12544 just read 439 bytes from host
+PID:12544 just wrote 439 bytes to client response:
+HTTP/1.1 301 Redirect
+Date: Mon, 18 Mar 2013 02:18:10 GMT
+Connection: close
+Server: YTS/1.20.13
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Location: http://www.yahoo.com/
+Content-Length: 211
+
+<HEAD><TITLE>Redirect</TITLE></HEAD>
+<BODY BGCOLOR="white" FGCOLOR="black">
+<FONT FACE="Helvetica,Arial"><B>
+ "<em>http://www.yahoo.com/</em>".<p></B></FONT>
+
+<!-- default "Redirect" response (301) -->
+</BODY>
+
+PID:12544 just read 0 bytes from host
+PID:12544 just wrote 0 bytes to client response:
+
+PID:12544 job done, returning to server main()
+PID12544 fork is ending cleanly

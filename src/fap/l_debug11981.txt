@@ -1,0 +1,56 @@
+PID:11981 Child:Fork has been created
+PID:11981 request:
+GET http://rdscvrbb.tumblr.com/page/2 HTTP/1.1
+Host: rdscvrbb.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11981 about to start writing to host
+PID:11981 wrote to host request:
+GET http://rdscvrbb.tumblr.com/page/2 HTTP/1.1
+Host: rdscvrbb.tumblr.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:11981 just read 3472 bytes from host
+PID:11981 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+P3P: CP="ALL ADM DEV PSAi COM OUR OTRo STP IND ONL"
+X-Tumblr-User: rdscvrbb
+Link: <http://24.media.tumblr.com/avatar_56c915c65314_16.png>; rel=icon
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Tumblr-Usec: D=307231
+Content-Type: text/html; charset=UTF-8
+Content-Length: 10259
+Date: Mon, 18 Mar 2013 02:13:33 GMT
+Connection: close
+
+‹
+PID:11981 just read 3472 bytes from host
+PID:11981 just wrote 3472 bytes to client response:
+óúõ{Ðž•à§_›–R4é£Š>½M_]ÚhTñ~w‰ˆŒÍTCü2UûO¶+fTG¯ÿ»¨¾M˜>]ÔŸ‡[ÃÅ’ÿùmq“ê‚ß¥<op,»ô´g®Öp¥ñï*Ê¯ÏÔÕ–«OÕU‹æmÛª²ÿn
+`4s»Ä	¹¯I
+’xJÚþî=)Ý¥À¶^hÃb0Q`¥à÷­Õ×õëÔ×u¢¾2*Xí>Œ-€ª0¼kÄQTNü©QŽ›’Ç•w>Ðcòå’Át‘C7R©´e¤2š­À,_¬ÐaªÊ´7õ¥†¹ýn•vjAF}sSm;íU@ÐD¼D
+PID:11981 just read 3676 bytes from host
+PID:11981 just wrote 3676 bytes to client response:
+ãK@ê›F9õËYètÊúE|Š=¨aLÆ-\]ö˜ LC¦À>ŸfKS‘2ÑùAXž)ˆ_"E:ž\Oº)I# ³)fÄá,L’#ä‚•I’±ÈPÒÍÓËUõ×žr„$†‡öGä9„.ÀôF˜]òÏ2çVbI'ÉaÂ(¶s19_¹‰œÒ˜Ä€#Ü÷Ól%Ê¸Í_cv©W†þcâUÑ3ÖÜOV>÷»ì94œY¦d¶ÉQí¦£”¡\Üé«Faº(¾@
+PID:11981 just read 0 bytes from host
+PID:11981 just wrote 0 bytes to client response:
+
+PID:11981 job done, returning to server main()
+PID11981 fork is ending cleanly

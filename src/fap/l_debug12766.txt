@@ -1,0 +1,49 @@
+PID:12766 Child:Fork has been created
+PID:12766 request:
+GET http://www.reddit.com/r/UCSC/ HTTP/1.1
+Host: www.reddit.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __utma=55650728.1995814612.1363572550.1363572550.1363572550.1; __utmb=55650728.1.10.1363572550; __utmc=55650728; __utmz=55650728.1363572550.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12766 about to start writing to host
+PID:12766 wrote to host request:
+GET http://www.reddit.com/r/UCSC/ HTTP/1.1
+Host: www.reddit.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __utma=55650728.1995814612.1363572550.1363572550.1363572550.1; __utmb=55650728.1.10.1363572550; __utmc=55650728; __utmz=55650728.1363572550.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12766 just read 3472 bytes from host
+PID:12766 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Server: '; DROP TABLE servertypes; --
+Content-Length: 14785
+Date: Mon, 18 Mar 2013 02:21:04 GMT
+Connection: close
+
+‹
+PID:12766 just read 3472 bytes from host
+PID:12766 just wrote 3472 bytes to client response:
+ãc¿ÈJ"°}Ñ¾Yv5¢÷;±hß´¦‰›e7x}Ó0Àêsu"@`§Œh»
+Á¿Ã«$”0$Rø&÷#Îlür„İIˆ0ŸÁ‡TˆÓ¡k3ûå{†(ef°H‘RØÂ~D%¥J „zÂ¦C±)aÌîáÛuğ`Y‚ñ²QH¡mO˜ W¡¬L8üZŒ×‚éşŠ|Éåóµ)¶)GôÆ1™X‰%ä2¤Ş€„
+òîÁİÆ2rŒÛa¥~I	8,Á?t<&r @ö710,C‚I–sWÉæ±5°¢Ù <êFúDv¥Á|jÙ¢¤ä‹É”Â˜Ğ
+/œ^…5FÔÑ¡ÙêMÙRq²<â*ÍÖ\FA5/ÚfÌH“C­8D…”XËĞ¡\CØHO ÅòQSªBÆ§µ‡¬gúXekR"™–aà)"%¸[ #j,Â –£2
+J*¸´”Œ¦i2Ä¿
+PID:12766 just read 1698 bytes from host
+PID:12766 just wrote 1698 bytes to client response:
+àµùBÃ¨Ü³Öõ'"`×™;S
+PID:12766 pipe error, probably done reading, preparing to end uncleanly

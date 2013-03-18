@@ -1,0 +1,68 @@
+PID:12789 Child:Fork has been created
+PID:12789 request:
+GET http://www.redditstatic.com/sprite-reddit.XJpb_z7IEhY.png HTTP/1.1
+Host: www.redditstatic.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.reddit.com/r/UCSC/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12789 about to start writing to host
+PID:12789 wrote to host request:
+GET http://www.redditstatic.com/sprite-reddit.XJpb_z7IEhY.png HTTP/1.1
+Host: www.redditstatic.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.reddit.com/r/UCSC/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: 6CPqfa19J0Eanljwvyjdd6pqDCulnbYtmckjYPTRiwf+LbMdDBqAEVe+RapVK6Bw
+x-amz-request-id: 5079990E4129E77F
+Expires: Thu, 31 Dec 2037 23:59:59 GMT
+Last-Modified: Fri, 15 Feb 2013 18:30:43 GMT
+ETag: "6147969b63ac6a0b9b96834c370dc23a"
+Accept-Ranges: bytes
+Content-Type: image/png
+Content-Length: 30560
+Server: AmazonS3
+Date: Mon, 18 Mar 2013 02:21:09 GMT
+Connection: close
+
+‰PNG
+
+
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+}î®0ªAæ€k`ÑzsÄçÍD¸N»cÇUJ¤è"Ğ¸*dkl»-â}&{¦Š¶iöŒ
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+cÁã·/âÔ1¸6îN 5¼o#~æ Â×ü“»™™Ğ´½¥nû
+ç÷Ú›nùã$Ü‰<ƒÉ_¼Ç€Ç¥#ë°gÖP,èÒ
+›¿_»~†›^c¶ï;šõ~ëİ¶Ü»7]‘{^«¿C„K?Ô&ÀĞAÁz‰ä’µX°Á€F=®Ç4‘ÉŸ	2%2¹3Ùê|aßdpóó”Á-+IÀ‰us°nh÷J·\˜G÷CpzË\,íÕùiGï3Îã?Á¢¿Ô7)fÎ€ûÖ*Àä†»+¹(°*--ıı‡8Y{Lí²¡–6G¬&ì¦Ú
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+7§µjHpäš{6àıÄ®ĞÓhù^ò¬85K=fbúÉ‰¶ÖW˜»^wj&¶Û÷d0GãFĞÆj•ê1Øjo‡pßøÕk%z±Ã…Øøró
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+›pNQ’– ,) “EnO0¨ÔUé]b•ˆö'@¶ğ4O‹½“I.¾ÑXµï,^Äôgs.¯
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+ÔWLG(b>BímY-ÁÍ¡²vÌºÁÚeáµ0ëú ûÑud$]Â…ñ$er íÚnÜ¹è€ãK:áäÂ–Øş=–öj‰ø^ˆO¸Bõ€3íázØcT7)ãôç(/ºÍàÎCaüLİÃ`î`€7²“ÒyÁ‘sé<~À\ô×ˆÛúÎGrÀ¬7… MÿüÓjÕİµ<º–n¬A‘{ÂA8„ØcAÈä•>-~X|¿îæğe˜t¶?æù„û=xk¶vÀşkßSWm–³÷U®S>k—ÁÚef†nÊƒ"d°çi
+p¢d¯ëGp.æ0BN8Âwí·¸2WÍ‚ßîéğÙ2¶taío[lİÇ‚œááğã34[ğ…´¼ß­7÷¦Q€Y7e±(IÛÃÚ¨ÉôLPmb'g%sÑ?ã„{LÛü3F¬é»%6è3ç£j€ß×Yİ]ÓûÕ
+PID:12789 just read 3472 bytes from host
+PID:12789 just wrote 3472 bytes to client response:
+ëş¾şù'ßEŠ[²op]ıÄ–>ôE©çé™§=òbbbò™%G0åÌjsÙc:ksóØ£kƒ)íÆöî½ã~÷î9İ»Ç:Ôaøp»„ñãGcÆŒÉ6Ì†ôaåõOgn„"vB°¾+0ƒœ¿5Âıípö›çï(­ÃbëŞÖ·hÛŞoGî•vwì`uª¬=‚í×é?3¸?÷@ÁŞİˆµëMpÓNÿğÓf´Õ¶]üåeİÿ‹z?ø¤CC7ß5Má½ê¸Ïl‚+[ÚcSÿ¿`Yç—pu}}Ü>Ô{F½™¬~bŸìŞµ§âèQ”-[{«3™[ÎcV[ÌÚÜ|v;{ü_CR•,BnÆ”Å"EËÌjŸ6Ôn	S‘¡€åõO>íÿánUÚÁ‡‚\­Ò:,ZWß>Há¿tíÚïû‚¤áPxĞ9¿ÍÇ½¡ı‘1°²ÏCÁİ¸1ğGœéÜ¤€ÁÕ:ñM[m¹eÇ¡)ÑqlvÃïÍj€+[›ánĞÈøA»şƒTÏ÷¹åclúf°ú‰-37·bÛ6T8²¾ZŸ_pkÅª2æ†=“’’Ş56¹ÎÀ~W­+ôt¦t-¸²şéÌ·Î,ØÅÚpv"J¦«Í”<êy°64Ui[÷®¾}H
+êûm¯+?µOëù2gOCözGA©3'áB×æ7½
+\-ÿ‹¦Ú6ÿŸ^ƒÎãĞ•‹>4¥Á¯‡&½ß•M·¯âœšãÔ¬÷°i`ı_Õ¦ğû.{Ê†@Å”)(îø2¿´9_XXø×Ú2#¯ºÔçõÁÃŞ-KŸÑY³ş·‡=ß®/<ñêøül¥uXJöQeıŞ6ï\ìÑz_¯/â}ü,ßç‡fù^İ>?Ó¥É¼ÓŞS<Ø ^Û:©~6;'ZCß`Ã¾ño=¿kÄ›s·~óŞúõ¬ë[ÿÜú¾õªLî'Ÿ}‘õf£=©û{nÊ_^Ùs÷¯¯~!>ÔÆ!¶Ë}ŞœÉ®òD1¾+œg°cÿym›Îãàş|À¿F­-õ™š3µÔ£†L²Ô>¬~ÀÌgŸ·ºÓ«kx+:ÕÃ¼ö+ìßü‹k
+PID:12789 pipe error, probably done reading, preparing to end uncleanly

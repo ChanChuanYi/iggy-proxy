@@ -1,53 +1,0 @@
-PID:3636 Child:Fork has been created
-PID:3636 request:
-GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/piers.png HTTP/1.1
-Host: i.cdn.turner.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Proxy-Connection: keep-alive
-Referer: http://www.cnn.com/
-
-
-PID:3636 wrote to host request:
-GET http://i.cdn.turner.com/cnn/.element/widget/hp_footer_dom/images/piers.png HTTP/1.1
-Host: i.cdn.turner.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Proxy-Connection: keep-alive
-Referer: http://www.cnn.com/
-
-
-PID:3636 just read 4096 bytes from host
-PID:3636 just wrote 4096 bytes to client response:
-HTTP/1.1 200 OK
-Date: Sun, 17 Mar 2013 22:19:19 GMT
-Expires: Sun, 17 Mar 2013 22:36:36 GMT
-Last-Modified: Sun, 29 Jul 2012 14:15:19 GMT
-Cache-Control: max-age=3600
-Content-Type: image/png
-Accept-Ranges: bytes
-Server: Apache
-Content-Length: 14099
-
-âPNG
-
-
-PID:3636 just read 4096 bytes from host
-PID:3636 just wrote 4096 bytes to client response:
-ˇo6ZeIT9™Üú	u‘=¸c‘¢	-©*ó€C—CzF<nÌ*ƒL‘e†¸8áô∑5éÀ.0kh¥(in9É™ıúK˚ÄÄ˚˝ê°ÓûqgÌMc_W¸πõèµûyÊô·≠≠Ô˝«óvÿ≠4g–:ï1≠n
-PID:3636 just read 4096 bytes from host
-PID:3636 just wrote 4096 bytes to client response:
-å°≈L–‹≈¥l®êù†âL(çèxÃX≥ﬂ~°+Å$ëË*œ–ΩTè∆4TJDM—~(âûk∏°Rw∏à
-PID:3636 just read 2068 bytes from host
-PID:3636 just wrote 2068 bytes to client response:
-|æìg|ﬂ2.IæÙ“K∏s‹*< è’jö¶·A’HÙ"•ãÜ´ƒ;ñ[˝4e£Ã¸-DàõÕ¿´ñVr¡KÃäˇf˜∂ØüÀÊg21[£œ∏Aˇ˘L yµÓˆçoø˝∂≈}s∑;”jR&\≠t9€⁄Uø˝O?¸ùó˛~¸Ωä}{"˝‹¯õøﬁy˜˝%ÑbG{óe	á{kßY^R¥*	®å¸ö[êC5ç+,¶èe
-ÈóË°jG◊æ´¸⁄˛ˆˆßsœ˙¶òo7ºUªí,\‚*„{ﬂ}yÙÍè;˝∏hFT)Aò‹ï‚p;tÔª˝åÂ,>»ÛoÕg]œ«,fkÓO˙pÒ„ç7
-PID:3636 just read 0 bytes from host
-PID:3636 just wrote 0 bytes to client response:
-
-PID:3636 job done, returning to server main()
-PID3636 fork is ending cleanly

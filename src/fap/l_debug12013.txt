@@ -1,0 +1,275 @@
+PID:12013 Child:Fork has been created
+PID:12013 request:
+GET http://25.media.tumblr.com/671e051acfa4c700cee364945a5e795c/tumblr_mivxgiEl5t1rmaa62o1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://rdscvrbb.tumblr.com/page/2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12013 about to start writing to host
+PID:12013 wrote to host request:
+GET http://25.media.tumblr.com/671e051acfa4c700cee364945a5e795c/tumblr_mivxgiEl5t1rmaa62o1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://rdscvrbb.tumblr.com/page/2
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: zKoVb/i/fL3ANfui+HBbTx3MskLotWmjPWOuMPzF2rxJQ1eHhDyx/KZgIoiwvHib
+x-amz-request-id: 65F66C55C1A071B1
+Last-Modified: Wed, 27 Feb 2013 15:24:20 GMT
+x-amz-version-id: Qw5f1Gb_8QPszrUWjhpfigr7QpU._dfc
+ETag: "321e9970044f9e54cbb08bb62dce0626"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 93394
+Server: AmazonS3
+Cache-Control: max-age=31156640
+Date: Mon, 18 Mar 2013 02:13:38 GMT
+Connection: close
+
+ˇÿˇ‡
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+]jMö|†ua¥~<T~Ÿc¬0!v÷›+öüñäóπKcUÕB∆∫NqÀS-
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+m:unit>pixel</stDim:unit>
+				</mwg-rs:AppliedToDimensions>
+				<mwg-rs:RegionList>
+					<rdf:Bag>
+						<rdf:li rdf:parseType="Resource">
+							<mwg-rs:Extensions rdf:parseType="Resource">
+								<apple-fi:Timestamp>889252839</apple-fi:Timestamp>
+								<apple-fi:ConfidenceLevel>339</apple-fi:ConfidenceLevel>
+								<apple-fi:FaceID>3</apple-fi:FaceID>
+								<apple-fi:AngleInfoRoll>270</apple-fi:AngleInfoRoll>
+							</mwg-rs:Extensions>
+							<mwg-rs:Area rdf:parseType="Resource">
+								<stArea:y>0.402</stArea:y>
+								<stArea:w>0.144</stArea:w>
+								<stArea:unit>normalized</stArea:unit>
+								<stArea:x>0.344</stArea:x>
+								<stArea:h>0.188</stArea:h>
+							</mwg-rs:Area>
+							<mwg-rs:Type>Face</mwg-rs:Type>
+						</rdf:li>
+					</rdf:Bag>
+				</mwg-rs:RegionList>
+			</mwg-rs:Regions>
+		</rdf:Description>
+		<rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/"><xmp:CreatorTool>Microsoft Windows Photo Viewer 6.1.7600.16385</xmp:CreatorTool></rdf:Description></rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                     
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+                                                               
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                           
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+                         
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                   <?xpacket end='w'?>ˇ€
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+JJÅ'êEQQ
+Ó{ìN⁄kc7±˛ôzm)Q˛øx˜´¬ô
+PID:12013 just read 4029 bytes from host
+PID:12013 just wrote 4029 bytes to client response:
+ë…öZcÙåë¿à≈&‡ÄDà‚ie¯`§\„ô1U–»Ifyê;éÙãì@äYsø&ê^„í>téãÉÉ%985z©Q
+PID:12013 just read 2896 bytes from host
+PID:12013 just wrote 2896 bytes to client response:
+=ÒJ"dd´∏4í@IÖRâJßÀÍQD8ëF˘A‡G14òIè1$‚=©D °X¿˘St ¿í6Ä4™JF2?zMN”ôÔJ&vë{ûh4ÿó `$ÃˆÌF
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+√™1ë#ÅF&8âƒ~Ùi&}8©DΩP¸åh∆òﬁ¥YŒyÕÉ
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+GÀö{£µ/ﬁπ	 ÿ˘ü÷´WwÔj>"jÆd∑h”6‡"I$˛ÄUªBBø”}\∏µ´û¿¿˝´T•Q)áÓ,!µ¬Dn˙bÆçBPFj£“o úô=Í÷^iînu–6ÚN*•Ú?lxïBDq9û‘§¬
+§ê{M6∂πb·$0‡«qK•j
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+oTA›f”MnBˇ
+PID:12013 just read 2616 bytes from host
+PID:12013 just wrote 2616 bytes to client response:
+ÁRmjÕ≤`®IOÔYõ,≤ÙÕ˙›∏©Cj`
+—zm¬Jgò¨?E‘î˝‡@VwI5±Ù≠¿}?d#_ïvSû7Yoﬁ
+πŸˇ
+PID:12013 just read 2896 bytes from host
+PID:12013 just wrote 2896 bytes to client response:
+5√∫ÔZ≥—Õ´Rπ∏ChLòRÚHÌÛ¶Z€/F∂g·Ω™¸ Ä0§ì#¬…/π|òKVwS⁄Dk €Í⁄ïu∏‰?lÖ‘UQﬂº!ºÍK]@t6éã´7€∫∂yÜCkmƒ+rH)å»ÆVgÌì“´Oƒˇ
+PID:12013 just read 1448 bytes from host
+PID:12013 just wrote 1448 bytes to client response:
+L˜OÈÈRå≠*IOÎ»®ï«
+ë$íò‰w4ì–†≥œ"åGòƒDR
+)Å3è^*d_h˝¬N°Ô'€öèy(JH&=©√ä'*‡AögpwÔT˘£˜¨±´4ø¿≈iÛp¶;W©ÇãÑâ?Zı]Ê|õØôF7vŒ;Q°∏(˙40©"D©2úÔÕvN&êö»ƒåbõ≠Q0ûÛ⁄ïY)c÷fiíp;˚ä=t6qR|Í¶wDâ@<RŒ®Å¿T˙‡”;Ö3ˆú–øÄléæzAQ'èß¸÷‘WäM¿ì¿9öª_*I?ïg]PΩØÄ{ûrqQ•‚4.Œ˚R‹≠~]≤aˆU3Õ\jnñ£‰Y'“b~uÿiıÖ¯q{)óQÙj„4®∫¨8ÇìﬂΩWç/CcïﬁÓaD®¿ è€⁄í˚√ãI)8'ÉöI)'‚ ˛.¯¢§Ö∑
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+l¿ ÒPl8„äJP§«oüıÆ¶LΩÂ9ŸΩGˇ
+PID:12013 just read 2320 bytes from host
+PID:12013 just wrote 2320 bytes to client response:
+∑ÇbñR›ﬂcóÆS*kx
+V@f£n^	$Ô>\Ä:IÀ‘8ÿXP*ë1Ô4—«í•TíìÃz“5[≠]Q%Ç£èsE
+öu;÷ÉÇGj±¯a“⁄∑VuNõkm”◊zç™o˚‚Xl©?p‹I‡c‘ˆ5“i›,È˙wGt7HÈ6ñoÄÌ√Ã•¥æÍ“|≠†sÛœ•VÚS§O91M°D§òPÇIöH6•6JHX'nDˇ
+PID:12013 just read 2896 bytes from host
+PID:12013 just wrote 2896 bytes to client response:
+›’yT íSí{fù¸D>;z„µF]ΩπD8HAœ◊öëTWoﬁE÷†Í‡PJ Ds⁄GÈNlØ)`∆ÿï™x"†Zp˚≈@C™^r}"îE√AL©J#‚ùÀ
+PID:12013 just read 1448 bytes from host
+PID:12013 just wrote 1448 bytes to client response:
+ê;ü|
+]ˆ¡Âf˘‡ÁÜVΩ%¶±˜>ë”ﬁø
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+ dâ˝jJ—JaIOc$UUõÚÿ⁄êN@&ßlÔ√ÏnÄøo9¸˝)hKt[¥€ê∑ÄT$$ÛÎÈVΩ!{Ä*Â'”ÁT]1ˇ
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+ö◊Ø¥BÊ·lÚíÍ'Ú¨x9pœ'ˆçúÆN,TÂ”∏êP;OÂMùxÖÓ[à‡◊ã≥3∑–&i∫îú‰cVÿÎg?O°•ì
+YÇOoZQáT§O9"õ:∞£
+PID:12013 just read 4640 bytes from host
+PID:12013 just wrote 4640 bytes to client response:
+ì¶öj˝ö>w}¶˙≥SÍÌRÀ\÷Ææ#Œ∏Ê∆“¨!
+PID:12013 just read 2896 bytes from host
+PID:12013 just wrote 2896 bytes to client response:
+◊NƒÇR0=+’âˇ
+PID:12013 just read 3472 bytes from host
+PID:12013 just wrote 3472 bytes to client response:
+8ÚpÒxœ˘</™r1Û2yAu£üP'Á40H◊V¯c£¯K®Îi⁄ßJY•ßx}ÙÇíÆÿÌ]#ßx·	E≈«Ü˙CÕ- ÖñíA˜Æƒsy3ç(∏ˆ|¬ÿbf1˘WÜ‚†`◊’∂~œˇ
+PID:12013 pipe error, probably done reading, preparing to end uncleanly

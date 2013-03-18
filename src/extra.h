@@ -3,7 +3,7 @@
 
 #define FALSE 0
 #define TRUE 1
-#define PIPE_MAX 4096
+#define PIPE_MAX 8192
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
@@ -32,27 +32,33 @@ int create_host_socket(char* host,int client_fd,char* write_pipe);
 
 /////
 //	prints errors to stderr
-//	pre: valid char* message
-//	post: will print error to stderr and exit with status(1)
+//	pre: 	valid char* message
+//	post: 	will print error to stderr and exit with status(1)
 /////
 void error_print(char* message);
 
 /////
 //	grabs next string from buffer
 //  pre: assumes incoming buffer ends in a \n
-//  post: return buffer will contain next string
-//	NOTE: this will return buffer with a start regardless of it being a string 
-//		  or not. User should check string size via strlen() to validate string
+//  post: 	return buffer will contain next string
+//	NOTE: 	this will return buffer with a start regardless of it being a string 
+//		  	or not. User should check string size via strlen() to validate string
 /////
 int get_next_string(int start, char* search_buf, char* ret_buf);  
 
 /////
 //	forms an error HTTP request that will be sent to the user
-//	pre: requires write_pipe, error type, message to 
-//       user
-//  post: user will be alerted of error type
+//	pre: 	requires write_pipe, error type, message to 
+//       	user
+//  post: 	user will be alerted of error type
 /////
 void send_error(int new_fd,char* write_pipe,int error,char* err_msg);
+
+/////
+//	catches the raised alarm signal
+//	pre: 	required SIGALRM to be raised
+//	post:	the process will be killed
+void sig_handle(int sig); 
 
 /////
 //	sets the content headers

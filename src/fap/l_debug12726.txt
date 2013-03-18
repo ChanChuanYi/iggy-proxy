@@ -1,0 +1,62 @@
+PID:12726 Child:Fork has been created
+PID:12726 request:
+GET http://r5---sn-jvhj5nu-nwjl.c.youtube.com/generate_204?mv=m&ms=au&algorithm=throttle-factor&key=yt1&expire=1363597791&ip=76.103.154.220&ipbits=8&newshard=yes&fexp=919113%2C912505%2C914073%2C916613%2C901467%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C906938%2C931202%2C931203%2C931401%2C908529%2C904830%2C919373%2C930803%2C920201%2C929602%2C930101%2C930603%2C926403%2C900824&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&signature=BAD82C5E2ED53013D36323D00C818DE0799E07A1.B871DA4A21AF6308B1D4DE74BC8564353C08038B&upn=De9uIhuxS_E&id=14d428c30c3061ad&itag=34&cp=U0hVSFVUVV9OS0NONV9NTllIOklaQ1d0d3JZbl9K&sver=3&factor=1.25&burst=40&mt=1363573214&source=youtube HTTP/1.1
+Host: r5---sn-jvhj5nu-nwjl.c.youtube.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/watch?v=FNQowwwwYa0
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12726 about to start writing to host
+PID:12726 wrote to host request:
+GET http://r5---sn-jvhj5nu-nwjl.c.youtube.com/generate_204?mv=m&ms=au&algorithm=throttle-factor&key=yt1&expire=1363597791&ip=76.103.154.220&ipbits=8&newshard=yes&fexp=919113%2C912505%2C914073%2C916613%2C901467%2C920704%2C912806%2C902000%2C919512%2C929901%2C913605%2C906938%2C931202%2C931203%2C931401%2C908529%2C904830%2C919373%2C930803%2C920201%2C929602%2C930101%2C930603%2C926403%2C900824&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&signature=BAD82C5E2ED53013D36323D00C818DE0799E07A1.B871DA4A21AF6308B1D4DE74BC8564353C08038B&upn=De9uIhuxS_E&id=14d428c30c3061ad&itag=34&cp=U0hVSFVUVV9OS0NONV9NTllIOklaQ1d0d3JZbl9K&sver=3&factor=1.25&burst=40&mt=1363573214&source=youtube HTTP/1.1
+Host: r5---sn-jvhj5nu-nwjl.c.youtube.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.youtube.com/watch?v=FNQowwwwYa0
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; PREF=fv=11.6.602&f1=50000000; recently_watched_video_id_list=a707e695f9f258bb745a86290d561011WwIAAABzCwAAAEZOUW93d3d3WWEwcwsAAABZTWNNcGgtVFc5SQ==
+
+
+PID:12726 just read 140 bytes from host
+PID:12726 just wrote 140 bytes to client response:
+HTTP/1.1 204 No Content
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 18 Mar 2013 02:20:51 GMT
+Server: GFE/2.0
+
+
+PID:12726 just read 1068 bytes from host
+PID:12726 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Mon, 18 Mar 2013 02:20:51 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>That’s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>That’s all we know.</ins>
+
+PID:12726 just read 0 bytes from host
+PID:12726 just wrote 0 bytes to client response:
+
+PID:12726 job done, returning to server main()
+PID12726 fork is ending cleanly

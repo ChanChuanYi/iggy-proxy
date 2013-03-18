@@ -1,0 +1,55 @@
+PID:11928 Child:Fork has been created
+PID:11928 request:
+GET http://cdn.sstatic.net/Js/user.js?v=174fe9d632ff HTTP/1.1
+Host: cdn.sstatic.net
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://stackoverflow.com/users/222908/daniel-vassallo
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11928 about to start writing to host
+PID:11928 wrote to host request:
+GET http://cdn.sstatic.net/Js/user.js?v=174fe9d632ff HTTP/1.1
+Host: cdn.sstatic.net
+Proxy-Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Referer: http://stackoverflow.com/users/222908/daniel-vassallo
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:11928 just read 6944 bytes from host
+PID:11928 just wrote 6944 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:12:59 GMT
+Content-Type: application/javascript
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=604800
+Last-Modified: Fri, 15 Mar 2013 10:34:09 GMT
+ETag: "15d269a06821ce1:0"
+Server: NetDNA-cache/2.2
+X-Cache: HIT
+Content-Encoding: gzip
+
+3584
+‹
+PID:11928 just read 3472 bytes from host
+PID:11928 just wrote 3472 bytes to client response:
+Kèlcõfe…2¶O¹‡Cp¦9ªNù›gØ”êÍ’ªÂv)kÄ€r
+PID:11928 just read 3783 bytes from host
+PID:11928 just wrote 3783 bytes to client response:
+šŞš=<q:P@ÌæE9oñ8HÜfRµ°ª>ÔĞ\¬¹É*p§ Ç®\Ñ')ëªTù-"¥RøHë“‡Ø¯ÔˆHÔ¹¤/ˆWe™7“Š¯;ÿW*f'Pµİ6²ìF³ñß©j$İ¢PŞoó¢¶“º”hPÂæBŒSâ·eÛÀíÄ™J§¤ˆŞ[}:>·‚´‚îâ8…•^‰aØ½hÓ-ùMr»á$¶1OcÃòè*A,'-bÒŒYÜ·bSÅ­#»1É¡%vÎqæqk Y˜:ã)9Ñı/?Üí]ğx8$œ´"Ñ—Æ	ğ!¥hŸR
+Ÿ´<³‹'Œ*£6—Uí›dT–µÍõé¨3“2vn>OPªĞTò{Ï”0õNühçöc¼,ö®Êe_ÑyÂAó›æ¾!Hješ)ò’†Ú‘şûXÿ}â)å8ÌË¶´¯hC¡r’L”&ò5@ëp@šp=r[ê_˜6£
+Íâè”©ÄAVq«lÙh¢5ÄToª²Wãt¥s¢1Œ7>Dä!N…V’zK|%æ»
+PID:11928 just read 0 bytes from host
+PID:11928 just wrote 0 bytes to client response:
+
+PID:11928 job done, returning to server main()
+PID11928 fork is ending cleanly

@@ -1,0 +1,55 @@
+PID:12278 Child:Fork has been created
+PID:12278 request:
+GET http://25.media.tumblr.com/dc3d5539388a35f1dcf958318036af9e/tumblr_mjoilgxqhp1qh2x67o1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://imlikeadogtogetyou.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Range: bytes=3288-3288
+If-Range: "831ac6d50e0363de06d110e60c90eba5"
+
+
+PID:12278 about to start writing to host
+PID:12278 wrote to host request:
+GET http://25.media.tumblr.com/dc3d5539388a35f1dcf958318036af9e/tumblr_mjoilgxqhp1qh2x67o1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://imlikeadogtogetyou.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Range: bytes=3288-3288
+If-Range: "831ac6d50e0363de06d110e60c90eba5"
+
+
+PID:12278 just read 499 bytes from host
+PID:12278 just wrote 499 bytes to client response:
+HTTP/1.1 206 Partial Content
+x-amz-id-2: ear4P2cFhGfpWO/XNH5fhdss1DovDPNg5685y7vCpSI2HCXJI8LUSpk/aL2J5IsJ
+x-amz-request-id: 109FC085D72A0F09
+Last-Modified: Fri, 15 Mar 2013 01:53:41 GMT
+x-amz-version-id: Q_KfpOAUav4M9jrnaKJ9NsJt92_fEDyo
+ETag: "831ac6d50e0363de06d110e60c90eba5"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Server: AmazonS3
+Cache-Control: max-age=31275723
+Content-Range: bytes 3288-3288/44466
+Content-Length: 1
+Date: Mon, 18 Mar 2013 02:15:16 GMT
+Connection: close
+
+Ž
+PID:12278 just read 0 bytes from host
+PID:12278 just wrote 0 bytes to client response:
+
+PID:12278 job done, returning to server main()
+PID12278 fork is ending cleanly

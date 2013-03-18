@@ -1,0 +1,44 @@
+PID:12614 Child:Fork has been created
+PID:12614 request:
+GET http://www.bing.com/fd/ls/GLinkPing.aspx?IG=b05a0a65db3c4e3a9c4d9ff25fcc8141&CID=02D42AD714146B0A254B2E4315076BEC&PM=Y&&ID=SERP,5083.1 HTTP/1.1
+Host: www.bing.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.bing.com/search?q=request+Host+format&go=&qs=ds&form=QBLH
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _HOP=; _FS=NU=1; _SS=C=21.0&SID=5E52D974455042A48AFCE0CF707CB1A5; DUP=Q=crIq3JS18SfGk7T9KiJT&T=164427518&IG=b05a0a65db3c4e3a9c4d9ff25fcc8141&V=1&A=2; SRCHD=MS=2740458&D=2740446&AF=NOFORM; MUID=02D42AD714146B0A254B2E4315076BEC&TUID=1
+
+
+PID:12614 about to start writing to host
+PID:12614 wrote to host request:
+GET http://www.bing.com/fd/ls/GLinkPing.aspx?IG=b05a0a65db3c4e3a9c4d9ff25fcc8141&CID=02D42AD714146B0A254B2E4315076BEC&PM=Y&&ID=SERP,5083.1 HTTP/1.1
+Host: www.bing.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://www.bing.com/search?q=request+Host+format&go=&qs=ds&form=QBLH
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _HOP=; _FS=NU=1; _SS=C=21.0&SID=5E52D974455042A48AFCE0CF707CB1A5; DUP=Q=crIq3JS18SfGk7T9KiJT&T=164427518&IG=b05a0a65db3c4e3a9c4d9ff25fcc8141&V=1&A=2; SRCHD=MS=2740458&D=2740446&AF=NOFORM; MUID=02D42AD714146B0A254B2E4315076BEC&TUID=1
+
+
+PID:12614 just read 471 bytes from host
+PID:12614 just wrote 471 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: image/gif
+Expires: Sun, 12 Oct 2003 00:00:00 GMT
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Content-Length: 42
+Date: Mon, 18 Mar 2013 02:18:41 GMT
+Connection: close
+Set-Cookie: _FS=NU=1; domain=.bing.com; path=/
+Set-Cookie: SRCHD=MS=2740458&D=2740446&AF=NOFORM; expires=Wed, 18-Mar-2015 02:18:41 GMT; domain=.bing.com; path=/
+
+GIF89a
+PID:12614 pipe error, probably done reading, preparing to end uncleanly

@@ -1,0 +1,44 @@
+PID:12378 Child:Fork has been created
+PID:12378 request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_next_active.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_navigation_bar.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12378 about to start writing to host
+PID:12378 wrote to host request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_next_active.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_navigation_bar.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12378 just read 358 bytes from host
+PID:12378 just wrote 358 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:51 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Thu, 23 Jan 2003 02:43:44 GMT
+ETag: "2a0e1b4-6d-d75b7800"
+Accept-Ranges: bytes
+Content-Length: 109
+Connection: close
+Content-Type: image/gif
+
+GIF89a
+PID:12378 just read 0 bytes from host
+PID:12378 just wrote 0 bytes to client response:
+
+PID:12378 job done, returning to server main()
+PID12378 fork is ending cleanly

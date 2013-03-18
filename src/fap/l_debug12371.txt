@@ -1,0 +1,63 @@
+PID:12371 Child:Fork has been created
+PID:12371 request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0053_background.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0053.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12371 about to start writing to host
+PID:12371 wrote to host request:
+GET http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0053_background.gif HTTP/1.1
+Host: users.soe.ucsc.edu
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://users.soe.ucsc.edu/~pohl/Winter03/STL%20Overview_files/v3_slide0053.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12371 just read 6944 bytes from host
+PID:12371 just wrote 6944 bytes to client response:
+HTTP/1.1 200 OK
+Date: Mon, 18 Mar 2013 02:15:50 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Thu, 23 Jan 2003 02:43:45 GMT
+ETag: "2a0e1f0-49a1-d76aba40"
+Accept-Ranges: bytes
+Content-Length: 18849
+Connection: close
+Content-Type: image/gif
+
+GIF89aÜew
+PID:12371 just read 3472 bytes from host
+PID:12371 just wrote 3472 bytes to client response:
+N4×LèË/ç|SÎ#s3“N0‰ssO<ÿ<2¦-ÿÓ$óN5ûdTÏ;RÎG‘´RJ/µ4Ó ÓSÒ"ø4ü*¦~"0®ûHTğÅS1<ÊTş´ï·YM•ÖRÊĞ²IuM¨¦¨Z•Ä`K•±Ö	sË.¤ŒíQYĞ€}uÕ^mE•"is<vÓ!·Õö«¿è<p¿W\ƒ:}¬\é–“¹Û¨£ò>pCêÌİ9¿e·{÷52¡ãè[y¯ûWŞ}ÙõwM€Ë-áÓú­·/¾ò²ÙE*\ƒCß~C˜a0=Æx6yÖ8º9O#Xa>É˜J„!æ—\ƒÌ¥Y]’q¶9ç›Eî¯ŒûôÀŸ~¥0XQù[úh
+[$«&PÿqzUÙa×¨ñ«µÀmı/¤]Í5il·®6Y¿ú­hy,öê¶»>;î]¹ÆÚXƒæ›[°
+ğ=ÿ]&—ËwÍ“¡ìRÑèj‹ŒO™»Äxe?788ßsŞ‚ı²A§3òÍk®8_~•3ÔÍx£‹óÚWŞH½ÄwËç­XñÌ?Ÿ¼Ï‚+QÑ<ù„ïwyåi¾ ‡›>%ê!Rİ¢aZ6*Ë‹¥RÁïCÍLëé±Ã>9§§»Ö£ÔÑÒ•Uàº±A§VJÿØÖ¤ê.féÏÑûĞc êÑ|Ï±ÜIö×=«4h~lË«N¿ëµ2ºC2ˆÿüQdƒ´^«§®æÕŒ„5C—Vç.Ú
+PID:12371 just read 2724 bytes from host
+PID:12371 just wrote 2724 bytes to client response:
+İİeààmàvà†à	îİ®`	¾`
+¶àÆ`Öàáá&a.á>á6áFaVá†á–á¦a®á¾á¶ánáöá¶Üb
+PID:12371 just read 3472 bytes from host
+PID:12371 just wrote 3472 bytes to client response:
+óå½•Œ3Ÿ‘büÒÖ¾F1İ‹Æ”—DÎ
+PID:12371 just read 2490 bytes from host
+PID:12371 just wrote 2490 bytes to client response:
+7‚8Ü÷Û2øz78E;ø|Cø:KørS¸ÔZ¸†G8‡Wx‡gø‡c¸ˆ?8‰Ox‰_ø‰o¸‡¯8ˆ³øˆ›8Œ£xŒ«x‹×ø‹Ë8ÓøëxŠ‡x»øÛÿ8t+x‚9‘9¼E·’/9“7¹“?9”G¹”O9•W¹•_9–g¹–o9—w¹—9˜ƒ9’¹‘—9™çØq§ùz«ù|³ùr»9œ¯¹œ·ùœ¿yÇ9ç¹ë9ï¹Ÿ÷9 ß¹ óù ÿy¡:¡'º¡+:¢/º£7:¤º¤3ºœ¯ê©²ê¥gzªbú¦kº¥w:¨º¨wê¨j©‡*©§º©«:ª¯º«·:¬«*«Ëú«Óz¬Sj˜çº®G÷	ëz¯ïú•Cí¯;±»±;²çú™ƒÛÍŠœeÂ£N‡®™O»fÚ7€Ó7x¶cûµ‡7Ôvû_÷	ƒû€“û¶·°?°—ÿûºŸ{¸k»¹Ç{»Ë;¼Ï»½×;¾sû½óñöf¯¿÷;À7ò`r¯"àİè¦ü¿Wl‚òÂ+|ÀC¼õ><ÅG|ÅO¼Åkj²o|Ò2!¯k dú3r{¼rò	_á%ó,É«|üëºü	/Bûó°s¼Íß<Îç|˜ËêJÛ³Q_!ÿêİ8:¢´bö	½>ÛôÚ39.3–£'}NVîÿ^1%V}_/;×Ë¦Îcyº/"ÍgğÉ—=A¦<r›|Ê·¼@·ğü22«½rñ:´ÛÇ°Êû3$§ûÙ4Ú=à¾à½Æãºá>âƒ*ĞÂéâ—­nÎ!P=-à%çÿï>rãİÁé:~¾æâg~Ñ6¼õåS^ò*½QgrçO#æ<6>éß©Ş±|áºäFæŞ2şáç)%¼À>-À%,âï¾î'şñ?òsşÜ&¿ó3îC?ğO¿ñKõ7¿õ/?öÃóàKy/RâŞgpø‹¼@“?º‹?#ÿºÙã=AÏı%‡¿?ût=ó}İ×ü”/ü~tû>ÿw?@Ğ8`Aƒ&T¸aC‡!F<˜ˆ–"Z1V¼¸‘¢ÅŒ9nôrdÆ’"C‚Ìˆà‚X¶l¹ñÁLE3jb¬9#cM—9QRôYçxrÜytÆM ‰–ÒŠY±ÿ¦Q©5iÚ,Ê*P§-‹zŒ:4fT“)5~LKk‰¦%pà¸åç7të¨$‰ö¤Ş³jû®ı»0_Ã…V<˜qĞÅû…<Y2H‰—1;¬Šu3Áª‡‚9ĞgÙƒŸi…N=š4k²XE?ˆ={µlÚª_Û^àªîĞ¨7óÎLë.\ão–,nÎ’äÃ¡G—>zuë	)
+Ì¾QûÀíß½‡ï>{yğäÁ—å3©@ö1YdßÙıµKòïkÆ=c|Qñ—ÚJ |zi¦DüëÌ½à“)ZÔ®*õ@³o·‹&Ï<¿ƒ‹’»’Ûn	Jàø°ô8LÅ7dñ¼a|ÿQFc¤qFmÌÇk$ïºB-&á*‹µ[.Ã‚Œ$É"3Ì &=›¶—m½+Õn´Ğ†¬î.%‚ë9 ÑLSÍ5Ù,H/WƒóÍ8éœÓÎµäÄ³N=ï)O?÷´Ïş$4P©h“%Ş(*´ÑC´Ñ°•4QH/µÔÑLùìTPO+5RQ9ıÔÔPO5ÕRQmUUWY}UVVÛ¬ÕÖ[§ÜLµ[wÅÕ×_VÍ{,–Øcu46YdydÖXŒlOÙfiœÊÙk—Í–Úm§í[n¿õV[q¹ÖÜsÑMWİuÙm·!ğòì.ŞPåİpŞQë…×Ş}õíÿ7¼{9Í÷_~öWàƒéM_…fà‡	Fxá‰¦bƒ8cŒ-Ö¸c+ùâ‚I–¸awQNYå•YnÙåpa7fpe®™æ›ÉÍyfmæçî9èŸÇuÙè£‘NZé¥Úç§Zè©‰®jª¯¶Zj­±Şúi¦Á[ì±É¾Õë³»N›ëµ³nm¶ßv[m¹á.ºì»ñÎ[ï½á$¯ïòşŞ.ğ¨ğKıÖğğÅo<ñÇw<rÈ—¼rÊ	·<sÌ×¼sÎŸ\ôËGß¼ôÏOôÕMgu×Uo]ö×göÛmÏqÈ÷îİ÷ßg9îáç&¾îãéNÿŞxå‹oy¯ƒ^úé©òïëMÇuíCçŞûìÁß>üîÇÿ^üóÉGßüôÙ_ßıòáW?şöç_şûéÇßşüùßßÿú¨¿ñU€4à²<:yÏcàÁN‚_Cà1˜Aàı 4]âAÔĞ "	bB†…%la
+_ˆB~†#¬á	o¸Bî†<œ¡ˆÃ ê°‡Eü¡‘HÄ#*1‡1l¢ŸhDN‘ŠU[+4„Eòh±<\ÜFˆ‘d4cÑ¸Å4vq_lcß8Æ8–qgTãÙˆG7ê|”£éH;æ‘{,dÿùÇDr‘ƒ4ä#	IEJ’‘†´â%1™IMn’“ôä'AJNV”4¥K‰ÊSRp•©l›(aKYÎ’–µ´å-q™Ën‡ ¼ÔP/'LƒøÒG¿4f1‘Y`S˜njæ2ÉLiF“šĞ´æ1•‰Mbf3™Ûôæ3µ	ÎnŠ“›åüæ4¯9Nt†sê¬&;uOyj©§AîY|dŸé§@şI‹€ÔÅ§Aõ‰P~*ÔŸ¨C
+Q‚”¢	­èB/ÚĞŒ>t£íèD-RŒŠT£$å¨I=ŠR”¥%méI_šÒyÎ”¦¿ã"AnŠHœ$§ŠÜ©AzÊÿÈŸ$¨EåéQŠT¢*u¨MÕéS}
+U¡JÕ¨IµêR¯êÔ¨nuª\­*VÁªÕ®õ«b-+U™ŠÖ¬ª5¬R­é[áº´•º”®0­«Lï:W»î¯|Õk_ûWÁJ”°-¬JÓÁ–±ˆm¬b›×Èúu²qµìeÁvV¯¦u³kíl[?kVÎ’u´š%­gOÚÔŠµ¦umiaÛÚØªöµ²µ-mgËZÌî–·F[¬cÙÇJv¸”-n`+û[á—¸Ì5®s‘{\å6w¹Õ¥îuŸkİŞn—»Ábâ^(ŠWŠä]bx“ˆŞï¦w¼ì-¯{ÏÛŞõÎW½õ•¯}ßKßû`î7¿øï{»`£iºÙÅnt¡[`kwÁVğƒ“aéJ8Áf0„'œáo˜Ãöğ‡AbËÕÂ.±QÜàc¸Â¾ğ‰Uc¿ØÅ&®ñŠ+;bï˜Ç=îp@
+PID:12371 just read 0 bytes from host
+PID:12371 just wrote 0 bytes to client response:
+
+PID:12371 job done, returning to server main()
+PID12371 fork is ending cleanly

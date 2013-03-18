@@ -1,0 +1,67 @@
+PID:12256 Child:Fork has been created
+PID:12256 request:
+GET http://googcloudlabs.appspot.com/images/ex10/1.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12256 about to start writing to host
+PID:12256 wrote to host request:
+GET http://googcloudlabs.appspot.com/images/ex10/1.png HTTP/1.1
+Host: googcloudlabs.appspot.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://googcloudlabs.appspot.com/codelabexercise10.html
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+PID:12256 just read 3472 bytes from host
+PID:12256 just wrote 3472 bytes to client response:
+HTTP/1.1 200 OK
+ETag: "TgEX3g"
+Date: Mon, 18 Mar 2013 02:15:06 GMT
+Expires: Mon, 18 Mar 2013 02:25:06 GMT
+Cache-Control: public, max-age=600
+Content-Type: image/png
+Server: Google Frontend
+Content-Length: 72126
+
+‰PNG
+
+
+PID:12256 just read 8192 bytes from host
+PID:12256 just wrote 8192 bytes to client response:
+¹ã±Î/T'Y'¼œ|Õ4uöuàíiæéµ·½3Å³aï´æhçæß·Ìg~p\ZØ^ì_*ùº¬¹B³²ğ©cõüçà5ƒ/<ë`}æëÃoÕg6ã¾{mYnkşŞáÛeÙ£ü‰İ‡ö÷ÿåäcÔt F+ˆ#Á}#™ÂŞ%k ¯£¨¢¬ ª¦®§i¡í¦¤Ã°Ê13³ˆ±ê²¹±'qs¶rMrçeçÓä÷È¼&4*¼)Ê!¦+,q^²]jV#+&g+¯PªØ¥4§‚UT3QÔ8¡Y­Õ«=NlúJÖ†!FÇ/™´˜™}0ß³¤µ±Ö¶q²¶;f_èpÍ±Ëé…óŠp¥wq×ğ°ó ¤xó¾êsÇ÷©ßŒÿ·@lK°xˆV¨M˜Ox,1#"^s[£ûb&bßÇ­'€Dò$–dÁÙÃGŒÚsOH‹HO<q:óÂ‰Ò“•Y×³›Nİ=İ}¦ÿìhÎä¹·¹Î¯ÂkàN²_DSÌ\ÂU*xQâ’B™úeı+fåv.•^Wƒª"«jÕ¨Ë©/¼Vv½úÆ†–›÷oõŞjœhšnşĞ²ÚºÙö³s—¢ƒáÇ}âò]jõºMY÷8öºõy=öÒOˆŒ{š0”4œ<’<šô,a,îyô8q"ø…ï¤ÇKÇW–S¯UßHMó½eœ!™Ù™]†×”ş÷móW?œ[H^ô_²ú¨´Ì±‚ZYü4°Zÿ9kÍÿ‹ö:Ëúì÷ÜMáÍµï[QÛRÛË?®ìØÃkFó×OŠŸmûn¿üÏÒ .è:B1†ôGáPåh}ô2&k
+PID:12256 just read 2224 bytes from host
+PID:12256 just wrote 2224 bytes to client response:
+E_¸áø«íøÕJ»ô°7ÖouÚ°ùğN1[“~Şÿ9±Î®,Ş$|¨:—ÙiG‡¾7‘ğ_!}¼ıTk×ú‚¼« 4iD{v\F1 ä6zIüÎÏöeJû!˜…ïo¼4cèWDaÿ¹?/à§’i@5Ä`²ûvâoßa“’Ö¼ÊÓTÓ#¨@+îm\0n#ÁB¤Ğ÷oJd÷°Ã'B9\Øéµ0íH‹5ïİë¿fëĞ´‰ïjI>‚Ÿî•2È2·±:{óWFÄôkK½2€Ò~¢ÁïÅ´ã._Ï™öùÛ„#L¥7¾Ø"²‹?ziÉ¾{£>{0O[òYÔgK(œ>Rö-oÔÂÑ»I€Ğ‹[N·we›•’Ÿ@˜|ùò°ƒß|i
+}ı³¹ñK?™åùó–ñÁ°(…q¼=òRğ³]çº9ÖÕjë;‹$+“¿¹BÌî-ù+zç§ããÂ´
+çY)[‹£'?Fª¨¹½è­ªaXæ@Jâ?ÿBX/^dl–N§
+…¬ü|ö¯Ö­=\œE0¹X*ºRVSù0_×©ƒ±eKµZÍøV'JÜX–É+ßïÑÊÉİÏQäëPY0›!-VTæÕÖy¾Ìò	o\¼X•­r¿»ÈİİÙÑá$“Š
+yY¥ª§×+ş"»µ3¶1Œ
+PID:12256 just read 3472 bytes from host
+PID:12256 just wrote 3472 bytes to client response:
+>ûÚíü”{Ş5r@ç‘Ã_€ºI8À`0Œ
+PID:12256 just read 3472 bytes from host
+PID:12256 just wrote 3472 bytes to client response:
+Ê/‚X‘´ä\:p	ÀKJ{dZØ©R€'H£"×<*\§u¡9ZêtpOC·g}ÿ/ñÈ$CÈÁ›ÎHyxP(×5P,ö…Ïõ*³¢­ÓººcËŞ_¼×Õ?7‰0¸·LöÁÜ0Å· {ÔêmoG-ø¥Üh¼ysw’YL
+PID:12256 just read 8192 bytes from host
+PID:12256 just wrote 8192 bytes to client response:
+¦Â+F;vìœãÆcÔÃH«}sòŒJ#êJ$¬¾‚ZOşdJÇÆËôÚª¤ãIÃÚuBMÅ¨ÁLÔeY»õbiÿÉÆ¶!~T)KÖ;oq¤WÍºº´#G”Ã‚ŸÔCÕ¤oûb±hBÇşYÔH®œLJJyH²K¼“kè¬„hÿÇVcnµéS[uíÈÜ5Ü†n{©+Ş“°æBıŞüp`[ò—R–ıÓ6?@ßY4æ©­°­ÍŞuåí#ßì¸Øºÿä)±mUÁ¶%ëøcç‰ô²'bE×oKXs×ŠD\´~é)Ñ/8ÖÕUc¬mÇÀ"OCHùéãÃè¥O¦D;"CöŸk6ŸqgÑÀ°òæoÎ¶XøŠnÕú?Nÿ¤O€¨®†
+îBïUÆÊÄ?ĞÀO¾|AøDFÔë¬+[¹j8ãË>O¤ÉJHSzå‹ÕÚ:¡O0Q@BİúEO?D­ª!.)ëVë6{±¿³ª2ïúÍ;wo_|Èşé;Q"«âæŸ¿ï9›Åb!¸OZEë\Uú÷])5{Q_¾ìØêZÏ]2ĞãÉœı–Q ˜É­ûêÛ%¸Á—ˆ¹¼™Ÿz-Ü¢ÄwöP›‰fÃ`şzšşf”J¥à¡RÆ@Â¥@…¿eee#a®^'
+PID:12256 just read 5696 bytes from host
+PID:12256 just wrote 5696 bytes to client response:
+#!ß¤Ã¨Ç€Ç§Ñwº2e9ÊvA
+PID:12256 just read 3472 bytes from host
+PID:12256 just wrote 3472 bytes to client response:
+S7<Ã®×ßøÕ+êv_šû}x[ŠzÅŸxáG£_üÇwhÆI·İ?Zÿ­y¹§ÖíşæäÔ#´æ¶¯VŞî1ißÖœØüÂ÷}ñ¡w™ û‚qI°˜•Ud`»èOn~~ãÛ÷ÿÓL×?ÍğúvÿªÇ^Kói.[¥ÊW2Ÿc<¹¼ôêßşäüg:Ñü“ºí›W>-t3Û¿ñÂ_
+PID:12256 pipe error, probably done reading, preparing to end uncleanly

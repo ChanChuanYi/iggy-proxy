@@ -1,0 +1,102 @@
+PID:12184 Child:Fork has been created
+PID:12184 request:
+GET http://25.media.tumblr.com/cfff6ec7a1e92325763950c2f09fcfbf/tumblr_mj1zg76ZzT1rl6d2qo1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12184 about to start writing to host
+PID:12184 wrote to host request:
+GET http://25.media.tumblr.com/cfff6ec7a1e92325763950c2f09fcfbf/tumblr_mj1zg76ZzT1rl6d2qo1_250.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://optemino.tumblr.com/archive
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+PID:12184 just read 4292 bytes from host
+PID:12184 just wrote 4292 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: K3n4hjuA/viXRdcqOnbLwn2HprCcAYox7fxzcqKJKkxdUxm7pJDiC2TVV6wXGQqC
+x-amz-request-id: DD7305BE1315907B
+x-amz-meta-idata: v=1;i=CKovEfcSy9N6IVJjglnqhQ==;d=Z8ea6fpDgPWbFIgVMgD4mGbKQ9Vyd1W2fKGoIVXwFTRBQfgQIM7uMVh6r63KcZSGw/V02wcBw/Q2fy3/12N/3w==
+Last-Modified: Sat, 02 Mar 2013 21:52:57 GMT
+x-amz-version-id: NmsJfKcPUUi8BkIwLT63MTvsRpuzwSak
+ETag: "b2c45a67f80215bf27b3c79ed4e7ccc6"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 73275
+Server: AmazonS3
+Cache-Control: max-age=30308497
+Date: Mon, 18 Mar 2013 02:14:21 GMT
+Connection: close
+
+ÿØÿà
+PID:12184 just read 3472 bytes from host
+PID:12184 just wrote 3472 bytes to client response:
+†º¾mE.§Ë-oéK˜Ç	ÒÆ9ßô\Ùÿ
+PID:12184 just read 3768 bytes from host
+PID:12184 just wrote 3768 bytes to client response:
+K]¤«?ÕqŞòv®ö:{B°Û½:ôö PÇ¨\ƒƒLWÕSg«taÏŸ©MkO¹Åbç¸×k^ï¢ı'ÏÁj^şäÊÌÊÛcK%§”î
+£iic\G3ñóUs
+PID:12184 just read 4344 bytes from host
+PID:12184 just wrote 4344 bytes to client response:
+¤VãºÛq=ŞÏ¡¿ü>ÿ
+PID:12184 just read 3472 bytes from host
+PID:12184 just wrote 3472 bytes to client response:
+¶ÁËÕàëõ
+PID:12184 just read 3768 bytes from host
+PID:12184 just wrote 3768 bytes to client response:
+7,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;B9B5FE038EC223F302BE42CA422C8FBC"> <xapMM:DerivedFrom stRef:instanceID="uuid:A4394408E3D7E111B75D84CBDACD4068" stRef:documentID="uuid:A4394408E3D7E111B75D84CBDACD4068"/> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end="w"?>ÿÛ
+PID:12184 just read 4344 bytes from host
+PID:12184 just wrote 4344 bytes to client response:
+»ºKZa§sŞšeéı&â¡QQK1ûÄ}?_·s¸wÆZğÄD!–å´ÇIr@LÑ+Á\Çu$ıøWÜ”~-ä{?¤k›Ú—Ş¯ıcûG æy?=të¶TÉ˜"?\ÔÇè¶²S|¡¿Z³†Ş­cp2êWâƒ"ÏxÏM‚^W ‡#6Bb…Âûcºá¯ÃY}S·¸{Šw@Õ
+Ğ‘’CSÉÇ™ì±í=…QuB³R&•LRcIb1ÄÆq&@›Cñ…­ËëKbÖ¬o7÷ì_nòddÍÏ^}6ŸØ¬YXè‘9z¶$ø’9ˆüàªyb±$\ŞÄé¶ëVª-$¨Í"we€
+PID:12184 just read 6944 bytes from host
+PID:12184 just wrote 6944 bytes to client response:
+¬ÒxÃ£ä:õÒúÇ‹RÈÎ'ê4•í*‚Ú¤¬	æ]]9S(2Ü'Â6£’)[5&Ï•x ÍkI©†ÁŠ¾ wÔs$‹Û~Ø—PªÀzj°¦â¥Ò€İ2?hÒI*ªKş4¯}‹–IT¡BûEA 7‰,¬G_™=~ÿ
+PID:12184 just read 1744 bytes from host
+PID:12184 just wrote 1744 bytes to client response:
+™Œ»Çñ®ç©ƒ‡,-‹å/¨Lª[Äm{\¹æOÖñÓäqo1j5«PØ³Ğ»R´–Ğ^Áô:>Êô[Ş½Ô6­{õ5H­Í]¬Ê˜9òÑ0@^]í-ın­|½Ò›tÛiPàx	ÜD
+Ó
+PID:12184 just read 2896 bytes from host
+PID:12184 just wrote 2896 bytes to client response:
+æDhR{D>Øôj"¥î	$‘3ÏIÀïñ<³Áš·.ìÿ
+PID:12184 just read 3472 bytes from host
+PID:12184 just wrote 3472 bytes to client response:
+¹ÄÃÊhb!UzEŠ]]Ü_Wsö;eó¬œ¼îX Ì¤G÷Lsmİ¾¡6®GÌã·kÜë¼ğ®rÜTß‰pzîï&]#[Ö›•Öî'áu¸—’²c¤µëÅªtõìn+‹Ú­cëÖı6§No­½;£RiÖ¯±‹¨6†!vıå$J€Y›Ê ¥KúUÔ±ªöÀÖô•€@y*ä3wnP
+PID:12184 just read 3472 bytes from host
+PID:12184 just wrote 3472 bytes to client response:
+aú‚ËÏË¶9?·ïÉ#1eH]Ÿå)aØèuä
+PID:12184 just read 8192 bytes from host
+PID:12184 just wrote 8192 bytes to client response:
+×ï\ŒÑ¸g–¹BM'ƒ<Öï¬mX,7%¥ÉÉ;L½Ì{î·CY5éãjo¯ªS«¸çãØàÀ``«c]¯½‹³#kÓúÍ«Vêë§QßÔè:¥Exƒ°¨uÉ@şA;&âd†Å÷Kk.-k]±hq_ï0iŒ@
+PID:12184 just read 792 bytes from host
+PID:12184 just wrote 792 bytes to client response:
+qiAêâsCR4µˆW›Õe–I"‘T'·bH&„·³ô©Vê
+›6Õ(ĞÓ«•ÙhôÚ»Á`î¤ü2#çØë:÷>$ãNÕø?tĞs|YˆÈmºæÅs™1œmz„y_£I_?{`›O5=7j¶j¦Âc™,Ê¶¾É¼°«½íı½ÿ
+PID:12184 just read 5792 bytes from host
+PID:12184 just wrote 5792 bytes to client response:
+Kê÷J•ÊT­FÉÆÒ±nİwÿ
+PID:12184 just read 2896 bytes from host
+PID:12184 just wrote 2896 bytes to client response:
+«Ô¦]€‰æq$â
+¢«-»Í
+PID:12184 just read 4344 bytes from host
+PID:12184 just wrote 4344 bytes to client response:
+§»)¦kÖ$•eîY%
+ª´–¿´µê=3f-é9€Ì0Gº8ùŒ=t]¨{gn¯qt÷5¶±"™=”îdcÁhyuKÔù³ZŞrôøû„¸wÆú2İÆåö¼õ¹Û/³ä ×œZÅÑ—!öëØ—!UòÚ°ª%1û,7¯`öëŞ\
+õÌÂ‚Ğ¸†9÷³êô¯®E—cöK&"]ÀŞÀ6Ê¹@f$Ãa`tÇiv¬I³$ÜxÅQrÄ¨$3jî’ä–ögşHé\§DvD! ©<IùcüşŞš£Öî©i§å¢­ù’PD€/j²8'ı¿‘‡? t?’@?ïéºFÅ'™?¦–Ãnò~Ï‰×´|‰XäOtÆX)'Äöÿ
+PID:12184 pipe error, probably done reading, preparing to end uncleanly

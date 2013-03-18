@@ -1,0 +1,48 @@
+PID:11999 Child:Fork has been created
+PID:11999 request:
+GET http://pixel.quantserve.com/pixel;r=2005039399;a=p-19UtqE8ngoZbM;fpan=0;fpa=P0-400392261-1363561106071;ns=0;ce=1;je=1;sr=1600x900x24;enc=n;dst=1;et=1363572801947;tzo=420;ref=;url=http%3A%2F%2Frdscvrbb.tumblr.com%2F;ogl=title.Rediscover%20Bodybuilding%2Curl.http%3A%2F%2Frdscvrbb%252Etumblr%252Ecom%2F%2Cdescription.Diary%20of%20a%20boy%20trying%20to%20get%20big%20in%20a%20small%20world%2Ctype.tumblr-feed%3Atumblelog%2Cimage.http%3A%2F%2F24%252Emedia%252Etumblr%252Ecom%2Favatar_56c915c65314_128%252Epng HTTP/1.1
+Host: pixel.quantserve.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: mc=51464a92-f36db-3ff67-04221; d=EBQBEgGBDIqsMKiylw
+
+
+PID:11999 about to start writing to host
+PID:11999 wrote to host request:
+GET http://pixel.quantserve.com/pixel;r=2005039399;a=p-19UtqE8ngoZbM;fpan=0;fpa=P0-400392261-1363561106071;ns=0;ce=1;je=1;sr=1600x900x24;enc=n;dst=1;et=1363572801947;tzo=420;ref=;url=http%3A%2F%2Frdscvrbb.tumblr.com%2F;ogl=title.Rediscover%20Bodybuilding%2Curl.http%3A%2F%2Frdscvrbb%252Etumblr%252Ecom%2F%2Cdescription.Diary%20of%20a%20boy%20trying%20to%20get%20big%20in%20a%20small%20world%2Ctype.tumblr-feed%3Atumblelog%2Cimage.http%3A%2F%2F24%252Emedia%252Etumblr%252Ecom%2Favatar_56c915c65314_128%252Epng HTTP/1.1
+Host: pixel.quantserve.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+Accept: */*
+Referer: http://rdscvrbb.tumblr.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: mc=51464a92-f36db-3ff67-04221; d=EBQBEgGBDIqsMKiylw
+
+
+PID:11999 just read 523 bytes from host
+PID:11999 just wrote 523 bytes to client response:
+HTTP/1.1 302 Found
+Connection: close
+Location: http://pixel.rubiconproject.com/tap.php?v=4939&nid=1902&put=Dxol2g5KKN4XTSLaXkk831xNJ9sXGyXeCBqlx_X-
+Set-Cookie: d=EF0BFwGBDMujC--DCospcA; expires=Sun, 16-Jun-2013 02:13:22 GMT; path=/; domain=.quantserve.com
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAo PSDo OUR SAMa IND COM NAV"
+Cache-Control: private, no-cache, no-store, proxy-revalidate
+Pragma: no-cache
+Expires: Fri, 04 Aug 1978 12:00:00 GMT
+Content-Length: 0
+Date: Mon, 18 Mar 2013 02:13:22 GMT
+Server: QS
+
+
+PID:11999 just read 0 bytes from host
+PID:11999 just wrote 0 bytes to client response:
+
+PID:11999 job done, returning to server main()
+PID11999 fork is ending cleanly
