@@ -1,76 +1,0 @@
-PID:11885 Child:Fork has been created
-PID:11885 request:
-GET http://themes.googleusercontent.com/static/fonts/ptsans/v4/LKf8nhXsWg5ybwEGXk8UBQ.woff HTTP/1.1
-Host: themes.googleusercontent.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.emposha.com/javascript/fcbkcomplete.html
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:11885 about to start writing to host
-PID:11885 wrote to host request:
-GET http://themes.googleusercontent.com/static/fonts/ptsans/v4/LKf8nhXsWg5ybwEGXk8UBQ.woff HTTP/1.1
-Host: themes.googleusercontent.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.emposha.com/javascript/fcbkcomplete.html
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:11885 just read 6944 bytes from host
-PID:11885 just wrote 6944 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: font/woff
-Last-Modified: Tue, 20 Mar 2012 19:55:31 GMT
-Date: Mon, 18 Mar 2013 02:12:18 GMT
-Expires: Tue, 18 Mar 2014 02:12:18 GMT
-Cache-Control: public, max-age=31536000
-Access-Control-Allow-Origin: *
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 60332
-X-XSS-Protection: 1; mode=block
-
-wOFF
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-xÑ¿‹#&ZN—Ïò,áñ[cZ¨á”—XıE0K0Ã.šl¯ô¬î_rµÜúÇêF0Çêkfa5µ÷-^0ß,¯^ø‚"ß2Øº²½Ğá˜k·snubÜş
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-e¶ˆ…,?1‹4Ó!É,mìäê—aíqZÖOÕ9ˆª˜¯Ó
-¤ÿÆü{ÆsEÎ·ÍXcwˆ—ğÒ:ìcBh·÷‹}V
-6”Ş~:ømf±Å–“•IÍ)¶ôÃÎÌ<àÏ¡/ÿğ;ÀŸÕ9íKĞmj¾´>¤nåŸu–QÆ„­–0şô—YKäK¬òw¦¦z¯’íå²cåÔ¿şË’ˆùÙÏ”>k“¯¬¿Íòó+>åY©@ª•ºå#‚’!ú«èJğÑĞIíã¦”
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-~µ@_
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-ÑK#–CD‰n¡)&âœâg	Ñ2Ó"‘Û š9´âî¢ı~´Rºu÷³nÌÿ2v=É®WÜo»?tézXrc\İW7ÆÕquc\İ’e„™åøæ¼Ø-D+¹YÎ„ƒ“hÍöb"º1İ˜ˆnLD7&¢3Îç–¬ ºŸÉ
-o¹'™É`b‡‰7¸oeÇUŒInƒEYb´ı\H}˜N¿ÓYgéô³°cQ‹dŞCÄÅ š›¨hQ?ÑyboÖŠ,®ÎjfÁËO]ÏÃ<nQÿòc†£ì47û=C´3ìˆ‰‰wØz(`ìÇTÛ«fb¨,
-PID:11885 just read 6944 bytes from host
-PID:11885 just wrote 6944 bytes to client response:
-¨ƒÄ…ü|×õ‹rx¬µĞ_0T ²WàTˆÊQ¹×¨ÛTÁL¼³DÆÔ}¦ğ¼øu×íØÜzMø_êgy²šæ^é)L(OŸ+ˆ}å«wŞ“ã‘¿İÚğ§síºŠ¹uùRú7Räï(’”/½/ØÃøsŒ6^‘D´‰Õ=™©º4ıã“ÃÆ^´š9*ÌºÖ|ÌŸè+œG‘×šÇKëdŠ«ëÈ(Ï¸Ãc„4XıÈø‰¢}^cÉh=ùãÉ|œ•¿6S¾záG¼¸rƒùNIaµQm\õğò°É•á‹ª\ÈéÈÔ&¿SxUM{_CxÓPİœ¼p¸5öuoI[¼´-P”.ë¹®cûİ^OÛûLyOS,[Ô$àr}|P*‘Œ•7.f;0Ä)R>—õåÒê+Ó>AœfêÜVÉ,…€±,Eï5¯ W‡‹®5Ø{‰¸$›?ÛáOxE1Ø1şDåVaê#ÚQvéÏdFü’d™ŸQ¹4µÛbxfâ§CHÕò/Ps‡µ—h.i¸‰*&kØÓÃqË&¢åL	î)X^ K˜õåÅƒÅ!§ùŠlÔTâà75°ÔGS&­F‘ÿY±5MÁÅ7^·u}Yu¤ïÅ†Ng ¶¼g‰»pæ–UÎ+©ıÛ];vÚìãŸımSóÇ×57VõÖüßâ%ĞsT1]µcSºf;Ä	[Ù:Á"{‰mLo%>–rS}g‰-‰Ö…:khF%¦Ó÷Ò$8A´—›¢ŞÇ‘tú·H|c†otœÅZbP}¥ÿ_æìÙ¿öëâVVPë–£	ı™èxÂemtSTËREîo!YòTşÉÅßqˆ„eyw¹00TÎ¼Á]Ì´zÂôúˆ2ËMÌ±]NTN´h³Á¥Œ2/ÆÑO,JkQzZ©àUåòS…×4´]İœ;²¾xns±eêX ü²Åsı_ï˜gı¸½2'¿¬gmç]Şø]E•3æ&"9>yÕ¬E‹/¯ÊÃZ£üßöÃ×†ªšK_K2×øéğúdÍ°/™=¡?’d¦ú>f
-³«±Y¬2z˜êÀ€:0 Œ”ò´ øÁ´¼	}iŞš<‘n°÷Ûxp„¿ÿ–ùvbR]"B'"e¦[6rÒiS‘¿ˆ¯.r9ÈÂü]È_g…Ä¢v¢­üNëÍBR÷
-!ğ¹
-d2-(üË^â-n®ŒÍÌ„«¹nuçÎ¾%òd~íÜêÍ9ÇañEk
-=½SWÉŸ™+3ä_ÊŸIRµ\!î]æŠAÎàLºZJ”àæŞô¨ŠŸ#JÅ,,
-[ò•¥Lİ"ÚH”âÕÛÈ¼µİ^qæX¹WuGÍ4õçbhr/áQî‹§kâ¿´×ò0T1«ñ»Os((j€ó‡n8Œ,ŸË’Ş†±\T¬–SÔ½w»2.µÜTßí>HB¤ÄİFÒ¢°½šrYh¯ø½_V³dúßŠ¸‘#ÈŞ•h›Ñ›Nú»L¾„—‘“ùË3Œì—7v.È…[kâM1—)8«~pÍ¶ÛÚ®ŒohwUÎš»ÄSX¾îZ¯k®İç-i)¯+ˆşíÎ;®©kše)ëÚëã½õ´¯
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-Ò¯İ¹Ù;`¡Õ×ÂS"‹ìg8‰ÿÿ7~’ut|›ûA÷Aj‚fSÍØaùW´b4ºØ˜mnœT­KjÚ•%3OsêÃÑÌ…ãëã{ñKÓÒKÓÒKÓÒKCèW^£u®ˆ8Şñ“Â³HÑq_en#zè Ñ1¢§ˆ#2Ó‡Ãå—Â‡80(˜i%¦@’D]DDˆ¶í&z„è8ÑÓD(9ñ*QÙˆ|'yEKGÇß° QíaFƒĞhİœKqá æŒÜòÑ;
-´ã)º÷q"2˜…×‰Ş&ú€¡e½†å,c®°a‚¼vS£ôÔ(=5JOÒS£ôÔ(=5J/üŒè—D™I¶èzi”¡ôôõôõÔN=µTØ€léé‘éé‘éé‘é¯‚D{ŠèZ—Êë1¼lÑß‡á¥ÌóşeÌròOp&efÓ‹w;Àôâ#XpnÀò1lÜE»å_r¾†o•0j´`½3eæ(spÛÄ”‘¨eô@©\Û
-¿*Úb˜SâĞ$»ĞFÔO´VQ¬|µ}Eép
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-'ˆN+À£—ôÓ
-PID:11885 just read 3472 bytes from host
-PID:11885 just wrote 3472 bytes to client response:
-kSj
-PID:11885 pipe error, probably done reading, preparing to end uncleanly

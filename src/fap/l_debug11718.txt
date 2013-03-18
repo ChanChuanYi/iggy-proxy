@@ -1,77 +1,0 @@
-PID:11718 Child:Fork has been created
-PID:11718 request:
-GET http://24.media.tumblr.com/5f1de5bb5e88ccd04b4e4c271898f756/tumblr_mjpv0cYaUC1qa92hfo1_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://deadpathogen.tumblr.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:11718 about to start writing to host
-PID:11718 wrote to host request:
-GET http://24.media.tumblr.com/5f1de5bb5e88ccd04b4e4c271898f756/tumblr_mjpv0cYaUC1qa92hfo1_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://deadpathogen.tumblr.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:11718 just read 4380 bytes from host
-PID:11718 just wrote 4380 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Mon, 18 Mar 2013 02:11:15 GMT
-ETag: "79cf53f82e67b29d8a27a39b4d585703"
-Last-Modified: Fri, 15 Mar 2013 19:19:27 GMT
-Server: ECS (sjc/4F8F)
-x-amz-id-2: 6MNw8Mx9nkJZgqBpZ6LR1a9bJsM18LPm+aqlxXwf1MC36VNG/O6wimGWkFoJ9Luv
-x-amz-meta-idata: v=1;i=HwM5PwxMKWYd5PaZdDblcw==;d=obsOwIV05WIUo7hiHhvtI/n+TPAnj02qzSinlbVww6RLNIt8qZpKFIFWBY1kkL2DNnnpTr74X1vyc2eng70f1Q==
-x-amz-request-id: 0181E6A26030BE68
-x-amz-version-id: 2pRN_WLPuBtLzyxhr1Xo.TFlWQMVaFpO
-X-Cache: HIT
-Content-Length: 71845
-
-ˇÿˇ‡
-PID:11718 just read 6944 bytes from host
-PID:11718 just wrote 6944 bytes to client response:
-~)(h≤ÿˇ—Û∆¥áÈ°ÒG5=«wèo$7
-PID:11718 just read 3276 bytes from host
-PID:11718 just wrote 3276 bytes to client response:
-Î¢ÜöùﬁüÖFU>´`⁄√Ì–è˙ü§∑˙u8µbåÏ™ÜCh¢∫&∞ÛÙ≠»íﬂ—˛c+¸˜¨?´ñz]D–F«ê˙ﬁ#Å<.ã®øf„b∏
-PID:11718 just read 6944 bytes from host
-PID:11718 just wrote 6944 bytes to client response:
-∏óœHZ©ı‘pÜ\xÔ›}Äë2>D~*.{Iá7‚BIa'≈$Ò_âI$˝ˇ–‡+”˜| >Méké≤øq˛¥xˇ
-PID:11718 just read 3472 bytes from host
-PID:11718 just wrote 3472 bytes to client response:
-2E3</rdf:li> <rdf:li>uuid:4C6D2C5308B4DE11911093BCD516A626</rdf:li> <rdf:li>uuid:B2AC11F69FB0DD11B806B63ED9A87E12</rdf:li> <rdf:li>uuid:BC8A28683654DD119FB0D1799FE00AD6</rdf:li> <rdf:li>uuid:D749C84525BCDD119CE0E5CCAFAEAFDD</rdf:li> <rdf:li>uuid:FB9CA9256E70E2118D80A395FFB1D913</rdf:li> <rdf:li>xmp.did:0180117407206811869682D255E05EB8</rdf:li> <rdf:li>xmp.did:018011740720681188C68B8943270846</rdf:li> <rdf:li>xmp.did:018011740720681188C699720AFF2C29</rdf:li> <rdf:li>xmp.did:018011740720681188C6BCF2499A3B7C</rdf:li> <rdf:li>xmp.did:018011740720681188C6D7BD949F61BA</rdf:li> <rdf:li>xmp.did:018011740720681188C6DD92E04403CD</rdf:li> <rdf:li>xmp.did:01801174072068118F6286DB4575E7B8</rdf:li> <rdf:li>xmp.did:018011740720681191098DE27152CEC1</rdf:li> <rdf:li>xmp.did:018011740720681192B08FAEDE082CD9</rdf:li> <rdf:li>xmp.did:018011740720681192B0A1BDD9D30B97</rdf:li> <rdf:li>xmp.did:0180117407206811BE588147FB3B7656</rdf:li> <rdf:li>xmp.did:028011740720681180838F3CFC17A3A7</rdf:li> <rdf:li>xmp.did:0480117407206811871FF019BBAD3292</rdf:li> <rdf:li>xmp.did:048011740720681192B0D9FAD76CF2BC</rdf:li> <rdf:li>xmp.did:05801174072068119457DAD600232CB9</rdf:li> <rdf:li>xmp.did:2F41A0221E9ADF119C43BF69DFBECF5C</rdf:li> <rdf:li>xmp.did:33E4DB5D1FE8E111A84482C3D6D51CBB</rdf:li> <rdf:li>xmp.did:3423242B5EF7E111942AED826DE9ED7E</rdf:li> <rdf:li>xmp.did:37455E35C330E011BA488B2025BF3B64</rdf:li> <rdf:li>xmp.did:3DBD23B5E2EFE111BDED8E1713C30E1F</rdf:li> <rdf:li>xmp.did:40BD23B5E2EFE111BDED8E1713C30E1F</rdf:li> <rdf:li>xmp.did:4445A9D15DE8E111A84482C3D6D51CBB</rdf:li> <rdf:li>xmp.did:4EF29671E76DE211B91BF0737BB4066B</rdf:li> <rdf:li>xmp.did:569B41783BE7E1118EA1CF36C5D7D50E</rdf:li> <rdf:li>xmp.did:6C90BFC86E6811E284A58CADEB8B471D</rdf:li> <rdf:li>xmp.did:9030101B0D206811871FBC806F42A1C2</rdf:li> <rdf:li>xmp.did:91883C7C877AE211839DDEB6D0AE2AAA</rdf:li> <rdf:li>xmp.did:93A6EBD21866E211A484AD9B87D3B221</rdf:li> <rdf:li>xmp.did:978A344756E2DF119977D923502371C1</rdf:li> <rdf:li>xmp.did:B221465ACDE8E11192D2D8A5CB576347</rdf:li> <rdf:li>xmp.did:C79914B007E8E111A84482C3D6D51CBB</rdf:li> <rdf:li>xmp.did:E8BF79A80920681188C685DB677F1164</rdf:li> <rdf:li>xmp.did:F0934D17E4EFE111B11D838D435948DC</rdf:li> <rdf:li>xmp.did:F77F11740720681188C6DA481A529596</rdf:li> <rdf:li>xmp.did:F77F117407206811925B87BB4D9476E5</rdf:li> <rdf:li>xmp.did:FA7F117407206811B10797E124DEC116</rdf:li> </rdf:Bag> </photoshop:DocumentAncestors> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-PID:11718 just read 3472 bytes from host
-PID:11718 just wrote 3472 bytes to client response:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <?xpacket end="w"?>ˇ€
-PID:11718 just read 3472 bytes from host
-PID:11718 just wrote 3472 bytes to client response:
-EX?H™mv™„>˝œ:U∫∆Hj÷®Åëä%OJº+Á6¶ ÜíxÁüüç2◊·)¯zª'Q€Ö“®OpÄ4ŒFdXëÔﬂæO:-Ú…kNI
-PID:11718 just read 8192 bytes from host
-PID:11718 just wrote 8192 bytes to client response:
-{ì˛˘–§Ùzö"6Ì•≠È)¨∑m0U≈pÜ≠UauFès∫0 ÿ⁄}è$|5FºIô€üÁËòí1¡ßØÁ˜X∏ÙºˆÀu%∆∏˘r∫Ö;Àå‰ndpS™ƒÒ+»§aâõè(øOSEo©2[gêÜçëõn“Uóks¡çkD——gJ„xV5®ÅKu$ä9
-Û`wœo˛¥Î@U¢
-PID:11718 just read 5696 bytes from host
-PID:11718 just wrote 5696 bytes to client response:
-Qöß$eƒh>Os˙h;qe[vi#Â7˝Z≠{©¬ù«_Y:ANÌ,
-PID:11718 just read 6944 bytes from host
-PID:11718 just wrote 6944 bytes to client response:
-+«P#ü`HÌˇ
-PID:11718 just read 3472 bytes from host
-PID:11718 just wrote 3472 bytes to client response:
-Gë∆»¬®UDç@;úúÎ∆u˛Å\˘^ì¡<1⁄hƒ⁄ÉG†=::˜

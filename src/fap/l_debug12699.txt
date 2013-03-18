@@ -1,57 +1,0 @@
-PID:12699 Child:Fork has been created
-PID:12699 request:
-GET http://i4.ytimg.com/vi/kOZNEc6zS2U/mqdefault.jpg HTTP/1.1
-Host: i4.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-If-Modified-Since: Sun, 17 Mar 2013 17:15:58 GMT
-
-
-PID:12699 about to start writing to host
-PID:12699 wrote to host request:
-GET http://i4.ytimg.com/vi/kOZNEc6zS2U/mqdefault.jpg HTTP/1.1
-Host: i4.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-If-Modified-Since: Sun, 17 Mar 2013 17:15:58 GMT
-
-
-PID:12699 just read 3472 bytes from host
-PID:12699 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: image/jpeg
-Last-Modified: Mon, 18 Mar 2013 02:19:25 GMT
-Date: Mon, 18 Mar 2013 02:19:25 GMT
-Expires: Mon, 18 Mar 2013 08:19:25 GMT
-Cache-Control: public, max-age=21600
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 11417
-X-XSS-Protection: 1; mode=block
-
-ÿØÿà
-PID:12699 just read 3472 bytes from host
-PID:12699 just wrote 3472 bytes to client response:
-ëL©Û½Ÿ•Èì”Ñóÿ
-PID:12699 just read 5850 bytes from host
-PID:12699 just wrote 5850 bytes to client response:
-U¯2.!º) c—D’æ)bˆŸ5L•v¯i·¯
-½’3‰,ªGPd"<ƒàpÆ»5Ø’m¬a.ÚÛi)g{ÇÑàŠ=£ğ¯µ}]/3_,6–å3ßtœí•IÛïk\;ƒJmdâY£HÜ¬h¡yn	HİïúÖ&ã°Ö©Ùå¿ıPU¹2äî¯&“3:Nä*§¶œMR~ÏñG…n]­¼líŞx°r¬5fPsYe«±/‹³_&j¦ÖÜ¾éüÒı«ì÷Ú•—¥¸–ˆ“[C2®£ÀÖŒ§KŒ‘õ€í´=Nšæ«§¸eäüË®&'¦O_APı“å½½âàÁÒ3Ä-ay(åA.¸ÙqçšÉØÈ­ux¯jnµÌw*šçnñÈÏ~UÁõ[³9}¿ğêh4Œßqùá–\sµö¯‘ƒ…mZ2ì©Á8è§$W8ã|N7ÎŒ«ÇËÖµ¿áA#
-¨ˆŠùB‡n÷Ÿˆ…a8ı·{)°€.ù>lzjÜ~5ƒETÜvõJ?
-2œa‹H•Ÿ';´L=7üêœYC–
-€Ù`GãÒ®/¥ÒÁgÏÌıj“È¸Æ}+ÑPŸcƒz\É‹°Û˜Ës$‰†Òb]ldÛ@>K×J§¾½q=ÜìHõ¨·.­ŒUy:[V|zÁøŠéÂ<¹Ï’Û†q$V9S¸ÆzÒç¹ÔİNÊ©å¸Ôs°>CaGö†QçùSâ„6XK0Û¯_Â ]ÈŒIQááM33¾=<)¢tíœŠjØS9Æß_ˆNõ7O}MF”…@1—MG(¤(¨çÊŠ”â“DQ,‘æhãøyRc, ã¡;·Ï¥*"1½(ZTÛtÕ×ô¨Ğéä}[e@õ5àXQ¾)å"£0>O¦i.¸úĞ8°”‘bg#o_…IK¾éğòşüê˜Ë¨äíüªZtê½>Cõ qA©\œŒxÔ„¸8>yëPìŞ5Î¦Ü`“Ÿ/*z"ì†'IÑ‚0§Ì‚;Ã ’Hd[cÌìÃÎŸ²ˆêu'Eõøÿ
-PID:12699 just read 0 bytes from host
-PID:12699 just wrote 0 bytes to client response:
-
-PID:12699 job done, returning to server main()
-PID12699 fork is ending cleanly

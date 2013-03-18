@@ -1,64 +1,0 @@
-PID:11954 Child:Fork has been created
-PID:11954 request:
-GET http://www.gravatar.com/avatar/d458bc475f0e0cc0a8d11325db2d9621?s=128&d=identicon&r=PG HTTP/1.1
-Host: www.gravatar.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://stackoverflow.com/users/222908/daniel-vassallo
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:11954 about to start writing to host
-PID:11954 wrote to host request:
-GET http://www.gravatar.com/avatar/d458bc475f0e0cc0a8d11325db2d9621?s=128&d=identicon&r=PG HTTP/1.1
-Host: www.gravatar.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://stackoverflow.com/users/222908/daniel-vassallo
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:11954 just read 3472 bytes from host
-PID:11954 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Access-Control-Allow-Origin: *
-Cache-Control: max-age=300
-Content-Disposition: inline; filename="d458bc475f0e0cc0a8d11325db2d9621.png"
-Content-Type: image/png
-Date: Mon, 18 Mar 2013 02:12:59 GMT
-Expires: Mon, 18 Mar 2013 02:17:59 GMT
-Last-Modified: Mon, 30 Aug 2010 10:44:17 GMT
-Server: ECS (sjc/4FC0)
-Source-Age: 3979
-Via: 1.1 varnish
-X-Cache: HIT
-X-Varnish: 4125440136 4120671169
-Content-Length: 29115
-
-‰PNG
-
-
-PID:11954 just read 6944 bytes from host
-PID:11954 just wrote 6944 bytes to client response:
-rè50Í1?ÙàcÊÆ£1Fº˜¦e¹ëh ^K@uv­ë·€Ç?:º9×ÃÃb¹ò)oLJqÜ—G9zän£ªrxxƒ.~Î‡şŠŸÿÁ˜DNnœ²[®ùì£Oøú«ÏyzyÉ.%Î.—üê×¿¦ög¯£şÿù’bLV®MqÇuù³ÛÔñá?ş:‹œ]½âoşæ/ùâ‹O¸}ï”ñßÿ1á¨A\*0z_YåäØÔN°ı¾@4ÇqSp–QÆÜ\Ê¡´öÖw-m¢ûwÚ¿×˜U¡ë:‚w.»K£š}ŒºÒ®ƒ<åïûŒ´Ü¥Ë)Méf(RQÀ‹•~ˆ0£1îg ¹G0™Îyÿ'¿ÇW_~Å¯õ+Dr)y¼¸Á£‡ùîòŒeÊèÓí’Æ„¦4wÜhá˜T¶KÿŸÀ€J„˜3®x–)J¤ÑûÀF·¼<{J»¹âüÕK¾øì+¼õ€““ê¦b”iéJ©ıuŸxZô$+
-PID:11954 just read 4184 bytes from host
-PID:11954 just wrote 4184 bytes to client response:
-F÷ƒ‘Ú<™,ÅÂØ=¦}gĞ0‹ˆw™ R$Jp¥œ°’|ˆ"Z:OìµüÊ| s>[¬‹ˆ(³ºaµºÈi4ØGİÀ	0sBM¦w-&ÕdF3?¤®f8	8	9Eñ4uUD«ÑfÉ‚¾Tõ»&ƒ8ÖÕË*ßY/!.Wıxµ˜!1G;—…´Í”ªÊM]—ò;(›ÊI¦ƒÇ4Ï!­T"p\O	“šİ\¡±_m
-nï¨]…IÊ=Ó2»(,F†é—ÇÄ¢%T\)ä2<›s
-PID:11954 just read 3472 bytes from host
-PID:11954 just wrote 3472 bytes to client response:
-¬rëæ-¦õ·HÔuÍbq@šœç¦¦•’ÉU9ê»p]×¡IY¯wœ½xÆùÓG|üñï£[üôƒŸò›Gyãş}fóæaqÀ¿ú×ÿ;›OyòéÇl|lY^,™Zb6™àÒ/_a>—h­:6­"®a±˜°8}ƒß<Y²ñ—¼ı{ïóÕ—¿Ãí&üÑÿø'<ùôSşæoÿš·ßy‹wŞ{—ã›78™ßbz°È¼ñ8´ˆp”9M“aïÉ½bWÎrÎC¬Ö-&Zp+‚Rû–ğU¦‘¦”§ƒéûtI
-÷¿——ı!IV„ÅÍW8€.¥"ûƒN%ƒBÉÃ–ˆ‰PŸ0¹y1csvÆòù.yñÔŞ¸{Êé)ËÈâè€ªªğ®ÎÆçÊ_ÿŸ­]SGj[v«ëË+®^¾àÅwß2qÊ{ï½ÅüŞ›|ûí;üío>âyTŞ}ë]~ÿ§ÿwnŞf'C	|çİòó©ÇùÈvİ²˜*)µøv‹T\)3˜wÛ-N„:ÔŸ²89å÷—Ÿ<å·¿ü$ñG?û€?üƒ_ğ£Ó[¬/.øâ³Ï¹}û§§ÇÔÍ„ «ÏÒû€ùRów9©snÀ^zÚ»öÇì”ŠVaâLÆ	zŠxØ!ïl`y2¨_Ha{ß×¤²­X]t=ÅHñZN“‘ª4Ez*UôBªî`ÎÁ½{øÙ!¶^3«¦Ü<½ÍÉéºîŒÍvÅí›‡œÏY-Ïia2­`#G˜<8"eŒ-ÏÔvI„ÃéNn2û½7iĞfÎ¶]ñ§¼Ïûo¼Ár½åÁ[ïğÁÛxüÙ'œ?zÊó'	(óé‚z8<¨9ñŒ®ëh·Û¬Q y¬9FGÚnóÜ~Œì6[/Ÿq ğ?üÁïóíÃo˜/füñ/şjYóàî}jºk±®¥vÇÄMGÚµ„f’î!¢Ú^ß§è-_'ÉŞ3£8S‚Zz3šò¡ÚM Š|ìH B‡8n&Êõª§š†6ëp”û5·Âô¹ÖÓÍMç}a>å3qè|ÎfLÊ°…ÇÍ˜-æ¸´fùjÍ­[w°fÉO~ú‹ãÇ'f“I±ÜBÔ”½·ÊS°>PˆÃOÀã‘™c:£§;"‚4SZñmy'	!Ô4“)»ósÚ˜X]]p¸˜Sáp8œVW/@
-M®ëËBMæw¨9¬Íƒ˜jOUM
-PID:11954 just read 3472 bytes from host
-PID:11954 just wrote 3472 bytes to client response:
-î5vRÎQ0e¤õôåë£ej•¦¢°¼ÓŸÌêÄ9;Ù•çÙ},¢2%­cõÖÛ9óz»#ŒÕ$ö£çéóWì_}ÄÛŸ½ŒÜÊ±©P)
-8Ú˜â6’UXVRÉ«â•ËIfzN/BA+RjB ÷=Ù÷¨8†Íõk›tNh'Å¢ãì±Õ´²ê6V*Z!­eˆt‡uUcŒEë@¶•°ıÄ,»kejYUr…" 	Ÿ¾ö“êÿS>Góga-—ûš	L…á±¾³eŞ#L¡\0q“‡¯P­¦#m
-Gïô~·÷Ş:eT	z0÷D §cË#ØH—I%×"q¥wó¹·QûÍ¡Çƒ^=dñÆ[¼úÙ{ì7{Ú³•Ìàµ&Æˆ™²sÉX'ÙWGÿ|E9xÉY&“/İˆXİs„î@èè vlo®	ı…5XS£•ãĞÄ˜¨•®Ä±›Y‹2¢WXÖcü‡î@ÊĞ.(ÈJ-bÄÇÈ!å™$Ù§‹xÏá;ÙÜSˆ³ü^Ò»UÂ:(³BjREW ÓÀ˜$ô*æŒB"(ãÒ9ç÷„áú¥Ï”‹ÉS˜5G‚…¾çP½Ÿ'hgêõD·‚Ì¨ªm¨šÕM2B*ÉuCİ6?’}””-#[Eb1ùş™M›J :§€N¡¤f%´vÅ·'s8ŒıØáXıáÀØmXÔ5ëÅ¥Ä¡BÂÇ .

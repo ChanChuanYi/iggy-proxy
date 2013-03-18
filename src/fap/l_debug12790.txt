@@ -1,53 +1,0 @@
-PID:12790 Child:Fork has been created
-PID:12790 request:
-GET http://www.redditstatic.com/welcome-lines.png HTTP/1.1
-Host: www.redditstatic.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.reddit.com/r/UCSC/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12790 about to start writing to host
-PID:12790 wrote to host request:
-GET http://www.redditstatic.com/welcome-lines.png HTTP/1.1
-Host: www.redditstatic.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.reddit.com/r/UCSC/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12790 just read 6944 bytes from host
-PID:12790 just wrote 6944 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: x8rKRaz4ocHZCk6hTb1xAvrY3/kfvTyh/oSr0+9MBmhbhtZsUXS9DhoFUQyhxqiG
-x-amz-request-id: F579A47F7A86D009
-Expires: Thu, 31 Dec 2037 23:59:59 GMT
-Last-Modified: Wed, 09 Jan 2013 22:17:09 GMT
-ETag: "26722fe3c747d10a368095a2f53f934a"
-Accept-Ranges: bytes
-Content-Type: image/png
-Content-Length: 9256
-Server: AmazonS3
-Date: Mon, 18 Mar 2013 02:21:09 GMT
-Connection: close
-
-‰PNG
-
-
-PID:12790 just read 2716 bytes from host
-PID:12790 just wrote 2716 bytes to client response:
-£Y}u<f¬#%C3x°f^( ùó=4nxá1¬&©dÆ7¼ğ˜˜”i.Û£¹~xBÀ³ÏÔĞxl÷Â2M’O?õ…Æ/<1²£ãb4ÇmĞ¸!Â“í…©Ï¼ó‚ƒfg¥í·Lì¶xÌL2EzF¼>‡ÕWp°-¾æ.ÌH£Âûg®ÑˆW¸x,Í©§˜ãŞ?$AãÆ5Ö§¯a5I%’„Ò‚Ís†wñ¸h:²Ş?S¾„¥ïä“wñ˜Àó/@Pó‚wñ„L“¿ÖàXŒÆÏû1OÌ°ÉÎŠ+İp|àL¼ˆ¢l7|òGñÏm.y¢qÃÅ½GZJ	Í°QŒÇĞ/¨ie[\nÍÓ8×X¢cÙDêM¢cÏ	w
-ZšfF¥;¢‘î$<öC°•ÚAóVïÀ(»Ôœe¢¢ğ.šºÎÌœá<ÿRRªàŒi4ŠX†‰•È~ñ¥p¯ÇØ‹?ƒÆaTõpò]Dç>n;pĞ¬)çœRÁ¹n˜/£asÉY¦£3*/ÅÚkm4
-PID:12790 just read 0 bytes from host
-PID:12790 just wrote 0 bytes to client response:
-
-PID:12790 job done, returning to server main()
-PID12790 fork is ending cleanly

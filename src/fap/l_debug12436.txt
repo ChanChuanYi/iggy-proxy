@@ -1,52 +1,0 @@
-PID:12436 Child:Fork has been created
-PID:12436 request:
-GET http://i1.ytimg.com/vi/dKi5XoeTN0k/mqdefault.jpg HTTP/1.1
-Host: i1.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-If-Modified-Since: Mon, 11 Mar 2013 20:15:07 GMT
-
-
-PID:12436 about to start writing to host
-PID:12436 wrote to host request:
-GET http://i1.ytimg.com/vi/dKi5XoeTN0k/mqdefault.jpg HTTP/1.1
-Host: i1.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-If-Modified-Since: Mon, 11 Mar 2013 20:15:07 GMT
-
-
-PID:12436 just read 6944 bytes from host
-PID:12436 just wrote 6944 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: image/jpeg
-Last-Modified: Mon, 18 Mar 2013 02:16:17 GMT
-Date: Mon, 18 Mar 2013 02:16:17 GMT
-Expires: Mon, 18 Mar 2013 08:16:17 GMT
-Cache-Control: public, max-age=21600
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 12785
-X-XSS-Protection: 1; mode=block
-
-ÿØÿà
-PID:12436 just read 7218 bytes from host
-PID:12436 just wrote 7218 bytes to client response:
-ƒí54¸½µ4ëÓZ«ˆF¡"µ.aNzZrÓÆ)´_ë­öÛ*ttÜ—aR¥¾æ±)¶ §¨UÊS®)–¥TT9¥-Í^G§¢ÒŸJ–Cu°Û©°­´ŠılQUE:jqQDÕ¥Q4éÉ–Øg1œç,	ÃKºGXpe7Ú}š¿• ¥Cö44{=šÛ6·ìz®×áv¹B¸t—ˆ1%Â¥wµ
-Twš]šˆĞÜ)ÄŠª¦œHTR©C¼­Z¼¾m÷]iFŠÉ[B•V¶Ş‰zEn‰8ŠíÙ§´¦S,ËŸšr‰üÈÍ%¤Ã8òÑ\ì9KiV™A§ÚÑ§N+&J$äV§¬§A"”Ç\Ó1˜ó·JqË–4ÚD.6dBáİ&¨×Vm×.Ôuæ…ñ]&/Ã7:;ZkK„Ê@µÎœE2¨EÈÔ&ANíF¡Ô™JE.iÇaÚ‚M¢BÖå!è·)ÁãÈÈ¸0İzq!í@$±¼	±:è…r¸w¢ı˜hÀÑWœÂu¤©¦¢
-(CÕíG™ÙDuûƒ?4^O.MQ<¤'³$Ç­º=o4EÑåOùWªIT			'Ä#½ú±«ÚŠ…Q4¼Q‹ŞÙ´š>ÿ
-PID:12436 just read 0 bytes from host
-PID:12436 just wrote 0 bytes to client response:
-
-PID:12436 job done, returning to server main()
-PID12436 fork is ending cleanly

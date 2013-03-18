@@ -1,51 +1,0 @@
-PID:12595 Child:Fork has been created
-PID:12595 request:
-GET http://www.bing.com/ HTTP/1.1
-Host: www.bing.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: MUID=02D42AD714146B0A254B2E4315076BEC; MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _FS=NU=1; _SS=C=20.0&SID=5E52D974455042A48AFCE0CF707CB1A5; SRCHD=MS=2740446&D=2740446&AF=NOFORM; _HOP=I=1&TS=1363573101
-
-
-PID:12595 about to start writing to host
-PID:12595 wrote to host request:
-GET http://www.bing.com/ HTTP/1.1
-Host: www.bing.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: MUID=02D42AD714146B0A254B2E4315076BEC; MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _FS=NU=1; _SS=C=20.0&SID=5E52D974455042A48AFCE0CF707CB1A5; SRCHD=MS=2740446&D=2740446&AF=NOFORM; _HOP=I=1&TS=1363573101
-
-
-PID:12595 just read 3472 bytes from host
-PID:12595 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Cache-Control: private, max-age=0
-Content-Type: text/html; charset=utf-8
-P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Date: Mon, 18 Mar 2013 02:18:21 GMT
-Content-Length: 14960
-Connection: close
-Set-Cookie: _FS=NU=1; domain=.bing.com; path=/
-Set-Cookie: _HOP=; domain=.bing.com; path=/
-Set-Cookie: _SS=C=20.0&SID=5E52D974455042A48AFCE0CF707CB1A5; domain=.bing.com; path=/
-Set-Cookie: SRCHD=MS=2740458&D=2740446&AF=NOFORM; expires=Wed, 18-Mar-2015 02:18:21 GMT; domain=.bing.com; path=/
-
-‹
-PID:12595 just read 3472 bytes from host
-PID:12595 just wrote 3472 bytes to client response:
-Ø{>,`@}eYû=±ô]ÄŸU§“¾²¼Ò€-&Œ‰)0£ÌÁdO#œ‚ÈğPıAL°5©6¢W¼˜{Zá_AF¸NcµF{À¥¡Ñú
-NT˜h¡EI&k.­úÔğL%4SZ½™¼É³GuG@Zœ “­B	hz`Xû£v;jQH2cm=zmFdàDÀööøÓ+}µ’¢mÃr²‡Ë ÛÓ“
-PID:12595 just read 3472 bytes from host
-PID:12595 just wrote 3472 bytes to client response:
-”¸êáhíõ+jÃqÅ±j‰w‚I@'wÂZ%Nt–Ëİ´nÒ(
-PID:12595 pipe error, probably done reading, preparing to end uncleanly

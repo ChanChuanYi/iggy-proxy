@@ -1,79 +1,0 @@
-PID:12131 Child:Fork has been created
-PID:12131 request:
-GET http://24.media.tumblr.com/37706a034807dcd23257c012117c7d4e/tumblr_mj9x14INAm1s4x2jbo3_250.gif HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://optemino.tumblr.com/post/44764349239/photoset_iframe/whimsiesandmusings/tumblr_mj9x14INAm1s4x2jb/400/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Range: bytes=1589203-1643156
-If-Range: "b7fa101bc3458d038e33c4d59b25ff1e"
-
-
-PID:12131 about to start writing to host
-PID:12131 wrote to host request:
-GET http://24.media.tumblr.com/37706a034807dcd23257c012117c7d4e/tumblr_mj9x14INAm1s4x2jbo3_250.gif HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://optemino.tumblr.com/post/44764349239/photoset_iframe/whimsiesandmusings/tumblr_mj9x14INAm1s4x2jb/400/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Range: bytes=1589203-1643156
-If-Range: "b7fa101bc3458d038e33c4d59b25ff1e"
-
-
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-HTTP/1.1 206 Partial Content
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Range: bytes 1589203-1643156/1643157
-Content-Type: image/gif
-Date: Mon, 18 Mar 2013 02:13:57 GMT
-ETag: "b7fa101bc3458d038e33c4d59b25ff1e"
-Last-Modified: Thu, 07 Mar 2013 04:41:48 GMT
-Server: ECS (sjc/4FCB)
-x-amz-id-2: Q8oh+xK3yFux4ObxBe6sTZoHVqYErgtyDF1LDeAFlDRDG2uzszO2QzL2rWaqlHmT
-x-amz-request-id: 6B8F86A304ACC40D
-x-amz-version-id: esWuXu58.6D8KNJHtSZbjs9j_mWpy3It
-X-Cache: HIT
-Content-Length: 53954
-
-f $à‡¡ý•Ç‡x–HNAY¨$’&ûç‘ÉD¸äŸŽ–>š¡,¥­r¸z]ÿHƒ.³®Ž©rÝ\o)õÚ\(‹Ènª‘°›Rj¬‘úÓÚvÛÙ2)êèEg'¤cJ
-k˜W–à‚à €
-hœ9¡\Ñ†ÁX\=X´˜“t¡â$3~x…“=æY(Vÿ1[qB„â×_wýŸ0$09ØˆxÍ1gÿ!!¢D˜‰¡¤™¾¤#~©O–êyk'+§6Ë­³ª‡Ë¾«"’*û…zaÈû,Úls{2	.¹5P*“!Ú9ë-üD€DÐ!œ$é#<¸@5	%
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-§ ¼sÔJ6ì¿€xÀ­ÀSeQKzô€E„$BÈ
-PID:12131 just read 7656 bytes from host
-PID:12131 just wrote 7656 bytes to client response:
-BÑ€PK…³µ­ÿDV0°¢–é˜‡oiT—Ó#žâ”Õ\fªêfNõÈ€€öÌ§<AÛ+ÕZµUçÈ8Ö¡0¿,@©|k\Ë !|Cßàg<âG—Ü3¯ùmÀô¥:H!NÇÜtšÊG^òš’”:A64n”˜ÕÓB‡7¹©˜ì
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-!4­x¶Âö‚«p \
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-¯ˆ¿öIwb@•	üCÑ—Ý!¢€†X€QØ©P-P$oÂËë	ÀQ é*Nm>á‰5þ‘žPºMZ’ýµÃŒÏžø©&ƒ‘‚"(·ªtƒòGÎþ)d×’ê†’)¯Vª×T~'C¬bì…8ë0çÅÙ˜ÝÛf2›ÙÚ+p@™âˆ$ÛF/è›ÿñt:+$¿ÿöQH´¡`Üä™?éÖ8
-$ªàž÷6Iõ6·EÁ€;ÀCžlI¤Öˆ°-€K¡GÔq-à®°M,ÇTË
-"ñ*wÙtÀj`0AÐ&Çßþñr*D‘ŠT?öÖ¾!ç`œ¥‚í @®AËšbdp´X†@A×þÇ¶¯Ý…j+¤ÿèBbÐ…ßÛímHñóŒæ…¤;ëBGw\+‹ø
-TÍT^„ÆS‡#T€GØ‚¢"Ô|Péz¦p„ð`+RØ÷óH\a˜±<£¿¶ÒS¹¡F"Š¶¿
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-`ÄÿHˆ"9°Á‚…ƒ0
- ú$@
-PID:12131 just read 3472 bytes from host
-PID:12131 just wrote 3472 bytes to client response:
-uøñ¿÷ýã1õ‹ºÖƒÎüÍŽò“ß4¥yüCp!bÈy
-PID:12131 just read 2172 bytes from host
-PID:12131 just wrote 2172 bytes to client response:
-ˆ¬ÊÜ¦ÊÚ‚ÐnxÜYÐc(ZFw67¤:Ð`ÿUšËÇømP™Eaš<»ÿU
-PID:12131 just read 3472 bytes from host
-PID:12131 j

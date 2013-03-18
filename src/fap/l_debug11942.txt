@@ -1,55 +1,0 @@
-PID:11942 Child:Fork has been created
-PID:11942 request:
-GET http://stackoverflow.com/users/222908/daniel-vassallo HTTP/1.1
-Host: stackoverflow.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Referer: http://stackoverflow.com/questions/2077438/zip-postal-code-country-to-geo-coordinates
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-695544641-1363570361070; gauthed=1; __utma=140029553.1983631188.1363570414.1363570414.1363570414.1; __utmb=140029553.4.10.1363570414; __utmc=140029553; __utmz=140029553.1363570414.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
-
-
-PID:11942 about to start writing to host
-PID:11942 wrote to host request:
-GET http://stackoverflow.com/users/222908/daniel-vassallo HTTP/1.1
-Host: stackoverflow.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Referer: http://stackoverflow.com/questions/2077438/zip-postal-code-country-to-geo-coordinates
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-695544641-1363570361070; gauthed=1; __utma=140029553.1983631188.1363570414.1363570414.1363570414.1; __utmb=140029553.4.10.1363570414; __utmc=140029553; __utmz=140029553.1363570414.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
-
-
-PID:11942 just read 6944 bytes from host
-PID:11942 just wrote 6944 bytes to client response:
-HTTP/1.1 200 OK
-Cache-Control: public, max-age=120
-Content-Type: text/html; charset=utf-8
-Content-Encoding: gzip
-Expires: Mon, 18 Mar 2013 02:14:58 GMT
-Last-Modified: Mon, 18 Mar 2013 02:12:58 GMT
-Vary: *
-X-Frame-Options: SAMEORIGIN
-Date: Mon, 18 Mar 2013 02:12:58 GMT
-Content-Length: 9298
-
-‹
-PID:11942 just read 2843 bytes from host
-PID:11942 just wrote 2843 bytes to client response:
-©:J¢’(á²RğŠWl€¼ª`É¢ÕjÄš{4õªN¸û2kœÖèÆÇµt+öt¡§Ö#¹À˜àËÃğ‘ÕƒXà%>ÇHõ3BùÛÇÎù+6ğÁWš‘€Qà]­=Z4üwëqòÀ#eî4â:rµ3uäÂp$;éÆ$ô]¼DGÉ~ÒEş‚aš£r¨ÄÀ}uç'×h³Ã¼VìéBO­ÇµcØ“„]ùW48b ÁRàØ’le¨Ä£7)	`š$%+naró‚,EÎß|“_ÉmÅ.´kíR!¹îM…X“uÂøí{tHµĞ¥AP!Õ¾¸/±îG­C_eiÅ.ôÔzÜP;ú$ıĞ§<ä~Å_ß…«’]|…G›„ï!û‚_Z‡vk£­´OåtrAy†¸¿5İ)ßïŸZ\ùëŒ¼ıÒÚğ!òª[‡‹kÓIüê~ÔÒj5ÖŒºñ=<Û`8r¨µ™:“oêì»
-®TÃp–ˆÜÆİ)?"ŸX5g²Ş%»AmÎóI¿´PŠ³y„õm‰3 ¸m¼öIİıÉ±ö¯cv5{27‰¶x‹Ú1*¼<5,¹ñÓš__ºƒnÿ¶ù8yâíÀü·[˜~Z¾
-I¬ûŞá¤nõ.ÛÚÓœÔ= M„(1Që–¬|)­ÈÿIÜù­W•ğÛè,"~£`ÇŞüŞRŒ»÷ºè.•é¹)K¼)—I¼º¢ğ¡€Üõ!©Á9Ü«±¸kÔÁµGqiµƒéÌsË.îıÈİ°ÏÁıBL'<^ßíàMR\¨Fá>jh3l!"“FŒˆİ7
-úåL>âú4Ö¦/{ŞO1u±“r…ŞC³
-|vä&5tèWCª94pı-I³³Ú…€ynÚš°6­Ä«ÇRw´ØÅ<[+×¢#ºHÒÏUÍìO¯WPøıùûªÚšıÒÙš*ú •RGèE×]èö `YNz½
-á÷çnV$5o~7k\/$>+’Z1æ)üPIQq+EÁ·ë$ˆ))7ƒ¹,]FLA—'q†Ê½A˜á•O™áKùDO¼ÍÑ¶[††¬ÀÉ«Õjxk?«SxY\‹c´¬›Ÿhzó«×º_ø¿ãÇ«_'°›òµÏÿòûñšeÏÎr{ï_¹…Í§¦·<{şâ·ç/°:Ak£ò{Ñ“Òs•İtJ…ï…Å©„ò‘JµzĞRI-ë‘-^‡ı¬gËS“™H¤^'4–stP`ÄvÍ<E¨X„‚…>æ8Jä×v‰šå-àß­9ó³Ë Z·~¶–—ènHí£„¡I(díù£Æ÷ÑiÒğhq¨_FJâ¥Ñ*>	Øš‚ıçw¤2‰ÿŠº7J¾Nş›ˆßÃ©ó!l|Ü§-~Š–Üg:„×~ÈÆÔû™%ïù™p%}˜
-PID:11942 just read 0 bytes from host
-PID:11942 just wrote 0 bytes to client response:
-
-PID:11942 job done, returning to server main()
-PID11942 fork is ending cleanly

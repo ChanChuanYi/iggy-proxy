@@ -1,52 +1,0 @@
-PID:12641 Child:Fork has been created
-PID:12641 request:
-GET http://www.youtube.com/ HTTP/1.1
-Host: www.youtube.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; recently_watched_video_id_list=4d1af5e4784f7fcf43525a3df7e9413bWwEAAABzCwAAAFlNY01waC1UVzlJ; PREF=fv=11.6.602&f1=50000000
-
-
-PID:12641 about to start writing to host
-PID:12641 wrote to host request:
-GET http://www.youtube.com/ HTTP/1.1
-Host: www.youtube.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: VISITOR_INFO1_LIVE=LCDUuvmVk_M; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; recently_watched_video_id_list=4d1af5e4784f7fcf43525a3df7e9413bWwEAAABzCwAAAFlNY01waC1UVzlJ; PREF=fv=11.6.602&f1=50000000
-
-
-PID:12641 just read 3472 bytes from host
-PID:12641 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Date: Mon, 18 Mar 2013 02:19:04 GMT
-Server: Apache
-Cache-Control: no-cache
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-Content-Encoding: gzip
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-Content-Length: 16175
-Content-Type: text/html; charset=utf-8
-
-‹
-PID:12641 just read 4847 bytes from host
-PID:12641 just wrote 4847 bytes to client response:
-”¿Õ?äJC6*ù­ÓŸyõ»PHWÊŞ©Ac£Ét,ÃßPS
-'»,ÚUüÅùáìÅWÏŞ¢Õ”æ¾öcë°U¹Î›‰z¶1Ì&½Vsa£nØ‰Çè¬ÌäQ3áÃŠ¿8?œ™XŠõí¢[k]_¥õıï'ÙÆ\n/Q›Hw3Ñ¤;i(„šF8©•i<je_q~8Ópuë-ZGı[·¶{uÚ5Ù?îßæv¯Ì×:Ê—U4átV¦ñ¨iğQÃ_œÎ4,Åz‹v‘È\Å³NªYØ3µûz¿üMıúÍ‹¦N¡aäN2AfáÄVÆñ¨qğ#q~8ã`´kny“£´€àY¹óîe‡.úxHN×ò“ÌrP:AÏÃ?bé¡¦f|ÄÒl¡ÏX
-PID:12641 just read 3472 bytes from host
-PID:12641 just wrote 3472 bytes to client response:
-³ƒ”ü }/â¦çw)½_h˜ÊşÕ!evu2"2¤älf)ŸR>ÍIøBJ¶Ç8HùLa ô<t…«áÈ?KÄ…ïõĞì³¡ÅéŞ«—B‹‡•Í==½ûíîg×¼
-‚ˆM¢„Áçd÷úsáC‹ÚKÃ°)Ã{a3®KùBğà.+¢;Îk´H(Ë2 UC'hÑ.=”¡ oŠÔ˜h†’(Bô‚¥ ì—nëß.³‡Ç[Õì—NÅÓ››ñT¦° üKo§çØÛÇ1÷Zğï6šgü+n½øç™Qddş·şYÁ¿¨ğ³™ü{!øÑIøÂ?¶Ç8ø·¯_ZœÆóÂ:odY²+x‘İ4ad·(ı§#Y6…¦²Q: ÇĞ¡Ú½…n;$LiEö»óÛo'Ê÷Úğ ìÜd¡˜çr™Ãz~;5Ç¹I³×
-ëj´ïÛ¼û°î™ÕadÿÊaèÌ*¬GëœÍ¬Âú…õˆNÂ7¬³=Æ…õ`O^
-|õ¼A˜K‹Àit‡ñ-wÒIxÉ}e¦¾ë»şa7ç«0dTÑ…»`){¬\+_Õ@yO%TÀSˆveá£]êõ$å— øÜÈûg›‰o™£°‘7ù¸h!^(ŒĞ©í\>z„æx{­mŠ¤ÿ‹ĞŒì_9BYEè¨š³™U„~¡ÑIøFh¶Ç¸ıdW_zjÉçï òÖ"<÷ÓoõÄùe‘
-ãzÏ,jèd2cšÈm¦¤6;K/ª½êC– ‰äõô…Í±ÔÓ…!¦¹È{ë1†èŸô>)°².YZ“”şNLQ‰Éê]K•îd'fê#L¬É¢À!¸­‡§:k?î?/²ls:ŞÛ==İï„Zàq;Ğ7”@—ª.‹®‚ÏÜíÍyæÎC×i‰w)'’ô c0R¬6Oë!Pñ›`
-PID:12641 pipe error, probably done reading, preparing to end uncleanly

@@ -7,6 +7,12 @@
 #define BACKLOG 10
 #define DATE_FORMAT "%a, %d %b %Y %H:%M:%S GMT"
 #define LINE 1024
+
+extern char forbidden[1024][1024];
+extern char safe_host[1024][1024];
+extern char safe_url[1024][1024];
+extern char safe_port[1024][1024];
+
 /////
 //	aux function that will print an error message to the process debug file
 //	then will close the file descritor, followed by terminating the child
@@ -21,6 +27,14 @@ void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* 
 //	post:	if Connection:close is found, return TRUE else return FALSE
 /////
 int close_is_true(char* write_pipe);
+
+/////
+//	creates a connection to the main machine
+//	pre:	assumes the host is localhost and port supplied will be free to 
+//			connect
+//	post:	connection to the host at port supplied will be established
+int create_socket(char* port);
+
 
 /////
 //	creates a socket for transmission to remote server and returns the socket
@@ -39,12 +53,19 @@ void error_print(char* message);
 
 /////
 //	grabs next string from buffer
-//  pre: assumes incoming buffer ends in a \n
+//  pre: 	assumes incoming buffer ends in a \n
 //  post: 	return buffer will contain next string
 //	NOTE: 	this will return buffer with a start regardless of it being a string 
 //		  	or not. User should check string size via strlen() to validate string
 /////
-int get_next_string(int start, char* search_buf, char* ret_buf);  
+int get_next_string(int start, char* search_buf, char* ret_buf);
+
+/////
+//	opens and fills the forbidden list and safe list
+//	pre:	files secure-sites and forbidden-sites must be named exaclty and
+//			follow the format supplied by project spec
+//	post:	char* arrays will be filled with forbidden sites and secure sites
+void load_site_files();
 
 /////
 //	forms an error HTTP request that will be sent to the user

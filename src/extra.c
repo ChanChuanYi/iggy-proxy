@@ -11,7 +11,13 @@
 #include <time.h>
 #include <sys/time.h>
 #include <signal.h>
+#include <netdb.h>
 #include "extra.h"
+
+char forbidden[1024][1024];
+char safe_host[1024][1024];
+char safe_url[1024][1024];
+char safe_port[1024][1024];
 
 void error_print(char* message){
 	fprintf(stderr,"\tPID:%d error:%s\n",(int)getpid(),message);
@@ -31,13 +37,12 @@ void send_error(int new_fd,char* write_pipe, int err, char* err_msg){
 <title>%d %s</title>\n\
 <p><b>%d</b> <ins>%s</ins>\n\
 </html>\
-",
-		err,err_msg,err,err_msg);
+",err,err_msg,err,err_msg);
 	strcat(write_pipe,buff);
 	int data_size = write(new_fd,write_pipe,PIPE_MAX);
-		     if(data_size < 0 ){
-		     	error_print("unable to send to client");
-		     }
+	if(data_size < 0 ){
+		error_print("unable to send to client");
+	}
 } 
 
 void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
@@ -66,7 +71,6 @@ void set_headers(char* write_pipe, int status, char* status_msg,int close_bool){
 }
 
 int get_next_string(int start, char* search_buf, char* ret_buf){
-	//printf("get_next_string search_buf:\n%s\n",search_buf);
 	int char_count = 0, end = 0;
 	for(end = start;;end++){
 		if(search_buf[end] == '\0') break;
@@ -83,8 +87,6 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 	}
 	
 	start = ++end;
-	//DEBUB PRINT STATEMENT
-	//printf("new start:%d, next char:%c string:\n%s\n",start,search_buf[start],ret_buf);
 	return start;
 	
 }
@@ -92,8 +94,6 @@ int get_next_string(int start, char* search_buf, char* ret_buf){
 int valid_method(char* method){
 	if(strcmp(method,"GET")==0)return TRUE;
 	if(strcmp(method,"HEAD")==0)return TRUE;
-	printf("\tPID:%d %s is not GET or HEAD. Returning FALSE.\n",
-		(int)getpid(),method);
 	return FALSE;
 }
 
@@ -113,7 +113,6 @@ int create_host_socket(char* host,int client_fd,char* write_pipe){
 	if( (rv = getaddrinfo(host,port,&hints,&servinfo)) !=0){
 		fprintf(stderr,"PID:%d host:%s port:%s addrinfo:%s\n",
 			(int)getpid(),host,port,gai_strerror(rv));
-		printf("returning an address error error\n");
 		return rv;
 	}
 	  
@@ -157,7 +156,7 @@ char* write_to_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE*
 		(int)getpid(),client_data,write_pipe);
 	}while(host_data_in > 0);
 	fprintf(d_out,"PID:%d job done, returning to server main()\n",(int)getpid());
-	printf("\tPID:%d job done, returning to server main()\n",(int)getpid());
+	//printf("\tPID:%d job done, returning to server main()\n",(int)getpid());
 }
 
 int close_is_true(char* write_pipe){
@@ -175,17 +174,47 @@ void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* 
 	send_error(fd,write_pipe,err,req_err);
 	close(fd);
 	fclose(d_out);
-	printf("\tPID:%d closed fd and debug file\n",(int)getpid());
+	//printf("\tPID:%d closed fd and debug file\n",(int)getpid());
 	error_print(err_msg);
 	
 }
 
 void sig_handle(int sig){
-	printf("\tPID:%d timed out, killing process\n",(int)getpid());
+	//printf("\tPID:%d timed out, killing process\n",(int)getpid());
 	kill(getpid(),SIGINT);
 }
 
+void load_site_files(){
+	memset(forbidden,0,1024);
+	memset(safe_host,0,1024);
+	memset(safe_url,0,1024);
+	memset(safe_port,0,1024);
+	char line[LINE];
 
+	FILE* forbidden_fp;
+	forbidden_fp = fopen("forbidden-sites","r");
+	if(forbidden_fp > 0){
+		int x=0;
+		while (fgets(line, LINE, forbidden_fp) != NULL) {
+  			if (sscanf(line, "%s\n",forbidden[x]) == 0)break;
+  			x++;
+		}
+		fclose(forbidden_fp);
+	}
+	
+	FILE* secure_fp;
+	secure_fp = fopen("secure-sites","r");
+	if(secure_fp > 0){
+		int x=0;
+		while (fgets(line, LINE, secure_fp) != NULL) {
+  			if (sscanf(line, "%s %s %s",
+  				safe_host[x],safe_url[x],safe_port[x]) != 3)break;
+		}
+		fclose(secure_fp);
+	}
+	
+	
+}
   
   
   

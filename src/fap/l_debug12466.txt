@@ -1,50 +1,0 @@
-PID:12466 Child:Fork has been created
-PID:12466 request:
-GET http://i3.ytimg.com/vi/NeGe7lVrXb0/mqdefault.jpg HTTP/1.1
-Host: i3.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12466 about to start writing to host
-PID:12466 wrote to host request:
-GET http://i3.ytimg.com/vi/NeGe7lVrXb0/mqdefault.jpg HTTP/1.1
-Host: i3.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12466 just read 3472 bytes from host
-PID:12466 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: image/jpeg
-Last-Modified: Mon, 18 Mar 2013 02:16:21 GMT
-Date: Mon, 18 Mar 2013 02:16:21 GMT
-Expires: Mon, 18 Mar 2013 08:16:21 GMT
-Cache-Control: public, max-age=21600
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 18866
-X-XSS-Protection: 1; mode=block
-
-ÿØÿà
-PID:12466 just read 3472 bytes from host
-PID:12466 just wrote 3472 bytes to client response:
-¶|%Æ~Şn¼Ãs&u‚At@ú†¦Šˆª9›ÌKAƒH–å¸:(2®æ/ôéÃk!Š?kW]ø:5¿Mâí—q°lôæa”h>19×ZŒèqÊ š¾Ëª8´L" ú_]h‡•ƒ'@‚?lÌ5
-+Ö\uæa´Œ´ãä$ê¶$JD)Ê‹ŠhaJC¼"Cğt»í£ªÅä Üâ§g/úYıRSà­¼+Ëò.v{ä°“:ØëDÛ€Ôv„š,ÁÜ8¶„(BÉ"¨ëå¨wş½”Õ İÀrérŞù'·ËFó{|i>ÒWF3ÓtI»0Æ!^²—ÙˆÕü­öÃ¶ÆºFƒ‰’Xq©´ÀîºÃî4çúÜÄÖz{ÉW¸·¦dc¤ÄfÙÅ¡'VØDì"÷h'à)uu˜/[g4ì'Z¸°šu‚&¤¶Ê/ äœPsÍŞ£ ‡^·‰×IÓmcß³å\²,ŸœbÀ+Oé§0¼È¢vÇuUÆ~°°À÷†kŸé.gøt°äIíÜãıæÑ*Û'1"ÀµÓóNÆ_ê©”ğcaÍm„ÖŞÓšeùm]ş:àÎPKŞÔíµºÕ\¥\$ø³C4fÏ„ûº¸Q .8°£Ê..µ¼ı½µÜ®V­’ük…wlŸòR ÊLNó€µÁÏ7v›kÎÀÙp¤ÉµÛ¤¾æ™¾üHÎºxˆˆäf*¥ ˆ§O©)WŞVÏÃkkm1aF /Fhp^’é‹h‰®-
-kìJfê8¨9æ#sa8w»£4ä©1ØlŞ}Ò×ÚÔŒ±E]S^Ší·„ËY Íê1¾P¥@#+#uX4lGVôÕO¢õÚ4q¤6°øN´x“n&„$=¤_USÜŞËVÅjÿ
-PID:12466 just read 3472 bytes from host
-PID:12466 just wrote 3472 bytes to client response:
-*ŠÎÌñá>N|K^AA-|Ë—Õwy0]Ûàİ«
-²5çÙ8ÆéLójíS“Ñ¸Kˆî:ä+“;Yyh‡¨DãådºñìôWpn6{ï0íîÿ
-PID:12466 pipe error, probably done reading, preparing to end uncleanly

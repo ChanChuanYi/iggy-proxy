@@ -1,67 +1,0 @@
-PID:12603 Child:Fork has been created
-PID:12603 request:
-GET http://www.bing.com/search?q=request+Host+format&go=&qs=ds&form=QBLH HTTP/1.1
-Host: www.bing.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Referer: http://www.bing.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: MUID=02D42AD714146B0A254B2E4315076BEC; MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _FS=NU=1; _HOP=; _SS=C=20.0&SID=5E52D974455042A48AFCE0CF707CB1A5; SRCHD=MS=2740458&D=2740446&AF=NOFORM
-
-
-PID:12603 about to start writing to host
-PID:12603 wrote to host request:
-GET http://www.bing.com/search?q=request+Host+format&go=&qs=ds&form=QBLH HTTP/1.1
-Host: www.bing.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Referer: http://www.bing.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: MUID=02D42AD714146B0A254B2E4315076BEC; MUIDB=02D42AD714146B0A254B2E4315076BEC; OrigMUID=02D42AD714146B0A254B2E4315076BEC%2cccd1e4483a1f43eda20975f2d3793a45; SRCHUID=V=2&GUID=A40830A964CB4519866A20F0DE586BC4; SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20130318; _FS=NU=1; _HOP=; _SS=C=20.0&SID=5E52D974455042A48AFCE0CF707CB1A5; SRCHD=MS=2740458&D=2740446&AF=NOFORM
-
-
-PID:12603 just read 3472 bytes from host
-PID:12603 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Cache-Control: no-cache, no-store, must-revalidate
-Content-Type: text/html; charset=utf-8
-Content-Encoding: gzip
-P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
-Date: Mon, 18 Mar 2013 02:18:38 GMT
-Transfer-Encoding:  chunked
-Connection: close
-Vary: Accept-Encoding
-Connection: Transfer-Encoding
-Set-Cookie: _FS=NU=1; domain=.bing.com; path=/
-Set-Cookie: _SS=C=21.0&SID=5E52D974455042A48AFCE0CF707CB1A5; domain=.bing.com; path=/
-Set-Cookie: DUP=Q=crIq3JS18SfGk7T9KiJT&T=164427518&IG=b05a0a65db3c4e3a9c4d9ff25fcc8141&V=1&A=2; domain=.bing.com; path=/
-Set-Cookie: SRCHD=MS=2740458&D=2740446&AF=NOFORM; expires=Wed, 18-Mar-2015 02:18:38 GMT; domain=.bing.com; path=/
-
-00001A4E
-‹
-PID:12603 just read 5438 bytes from host
-PID:12603 just wrote 5438 bytes to client response:
-¯WÚÏí
-PID:12603 just read 438 bytes from host
-PID:12603 just wrote 438 bytes to client response:
-000001AA
-kÒèp;u#rçÄ„ éª¬€"ëäïg†ñÅÅÑ‰°%Isÿgô‚î5d”ûÁË‚æp€ªvUµÆ¢IÙE0¬Üí®ÉöG#=UGÃRáì[&úâƒìW_ïß®‚˜îìÊígàÍ6¥ú‚x0ˆ]•ÒWõË,ªëMœG,ÕÕ=7¼‘€c†P]7›*yŸ4qxökUóŠÃU\­v[{ÄóãÌİ6ğ”ù«MØcî~|pìÇ÷ öŠŒÈı‘ÈÇÍ<qê;›aõ<ùÆ]‚Ğ'×wè¬ºúÁ`‡ÅØóË÷Eãn¶	dyøı‹íDCûªÙ@dIuUo¯R|0YöwäœGd(át¾úşt’8‹Ê§Dpd½ öcƒ`ÊÉ—fWì>„STÍKFÎ÷¾ Ëb¸«·ÔòJBæìpHj‡²’rEÊƒÑq±C"]òÜû&ªÿÒi÷£SÖ0÷ì£	^ UkS†äe5O—Ñœ;æƒñé ß‘ÛñœÙø"Ã½f:árjŸúÿp€
-e>jß	ÿ
-PID:12603 just read 3472 bytes from host
-PID:12603 just wrote 3472 bytes to client response:
-00002574
-¼}‹vÚH“ÿ«(ú¾Á°È ‰«!²öØÛaŒ“Ìn&ÇG	4I‘„	có?ÿ§ÙÛ'Ùªjµn€'™=3Áºô¥º»T]]]ı«—‰˜“›“A[ÚD/ŠL±õ7w‚VOÏ¢.Ê 	v°iñ6Šªæ¦ÍVFåh×‰ÁÁä¤ì¶=mÑš‰„M«f¢º*~Ì:^®aŒÑu9’¤ÒÈüYl±à~ñ3'g	Ÿiiã[Õ¶¥]ió(Õ›9®ÜÀÿxæ,=c-Ë
-2øKPÛ–€‚†·3;ÿ&ß„äh¢?f4¨Æ/ßsèèÒìq5Šxt
-PID:12603 just read 3472 bytes from host
-PID:12603 just wrote 3472 bytes to client response:
-‚ÓG£Y­€òÔ®U•£§<7ç®¿*ã¸”—v8"BôùË~"-š´/œ}–eÇb¹á8Q” Cšé[Ë²Ñ‰\øŸÿÿßÏ|´¿Ã±(x#ÿ… ?ÌÈó€‡È¸UAßù©”âå?·üfû-2Y“Å€yˆä_ú(ÓÎÀÄ'ÀjY†Ø‘ã`¹¹4ıtzrÉb	…»B*o/Ù.è{>Ìoéò¯¶ÚáOMí¦b¡‡¿’â+ì£¨õ&ç˜æ¨|<¸È±F³9D	ğ[óc†œ_¿‹O›­ŸÁ§ƒÖ?%bÛÊN›r[£“ôdÂ:¼1a‘ø`yÿÊJ»Æû7âÎKøpáá"qÜ=–‰’ ÊŠúL¦:*
-PID:12603 just read 2690 bytes from host
-PID:12603 just wrote 2690 bytes to client response:
-yéHèA*nõ1ìñş£¼®À`ùª!>è3•™ı`’Ù…Wå/¤:_y¬Ädƒñ	 ş$úëMİĞí¼ƒL·p‡øÉ¶QõŒ{M)˜_´–*,ş³à>
-PID:12603 pipe error, probably done reading, preparing to end uncleanly

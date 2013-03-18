@@ -1,83 +1,0 @@
-PID:12175 Child:Fork has been created
-PID:12175 request:
-GET http://24.media.tumblr.com/tumblr_m8ahrdvAUR1qgfmtdo1_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://optemino.tumblr.com/archive
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:12175 about to start writing to host
-PID:12175 wrote to host request:
-GET http://24.media.tumblr.com/tumblr_m8ahrdvAUR1qgfmtdo1_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://optemino.tumblr.com/archive
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:12175 just read 1460 bytes from host
-PID:12175 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Mon, 18 Mar 2013 02:14:19 GMT
-ETag: "69b4379b582d7bbd603b4becbee96106"
-Last-Modified: Sun, 05 Aug 2012 15:59:38 GMT
-Server: ECS (sjc/4EF5)
-x-amz-id-2: 8E+9f4BdZywBezs5f5iZT3usqgpftIY8jPjExk+xKvardUoVOJ2KuqkQAVdGAZfz
-x-amz-request-id: 8C0038A3270885B0
-x-amz-version-id: S26aHLDdJh40.T.rJZx1lrUoEV.9q2xf
-X-Cache: HIT
-Content-Length: 65341
-
-ÿØÿà
-PID:12175 just read 6944 bytes from host
-PID:12175 just wrote 6944 bytes to client response:
-¹§>°F+Éð]–ëÅÙAäŽ+v†Š<Ñµ)$*LþØýç°‚I=»õ5VÔ±A][W±4îñWŽ8ŽWæylI‹,gä)/ÆYcvô‹{Û¼úÏVýºõM%¼’=H¿‚W’{QÃþÝ¡/Èî"Aß!Uí
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-?»ë<Êÿ
-PID:12175 just read 6944 bytes from host
-PID:12175 just wrote 6944 bytes to client response:
-~æBjŸTÐ·X$ô«$Í4fÄ.Œ„ÇÁ‹5œÇ_2]Iƒý*ç2¿€ÿ
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-Ú¾ªÑ†*ÔµœGV¢+$PU¬Rõ
-È£…D‚‰ñÆ
-PID:12175 just read 6944 bytes from host
-PID:12175 just wrote 6944 bytes to client response:
-åÇL-Í’'·8–‰0}T“•îbÝ¹ïîÛ¬ú§D½ÂôO©ÝTÊbrý"é÷N7ÜßPúm´@ÖpÛ>¹‘ÍkxMƒc¿Vkðcõ]k%°¥¼BÇübµœ¥nx#¯©[}Êþ¡_¥žÇ=<—Aö,•-¶VÃ×ÌÝ¥£YÔºo‡×°¸É«GG^ÔkéøYïå.Ý³XO²5$ïƒòÙ¿ž¹äÆÓéÿ
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-jgi0À¶~¯ƒžåÄíXI‚ÜÑÆ".«ÝV
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-Ý’Þ¾øŒ¶lN##k‰ÄMI3b*Ùxç§rUkÒ¥mèRÖî®õqÚU±’é¶SÂërcµ•ÛcÎk$Ym³%c•úÌ}A»–žLU	j<ú¬˜Û8,=è'‹#rÓufžW'R}²¥	êä.ÖšŽK7¹®F”°Y–)*dT-ÚÎ¦K’D'InÈÌCÊFl,}?ÎL°œ·o•ù-ÉV«M‹Ž°øZ2ö*¨ö$kHÖ¯p™rmû1iËTéæk)ÁW­.•jÞÜdµ1ªãä¾µ*Ðšÿ
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-bõ½—QRÕ°akWØš<æÅU’,¬)V¸Ô-Úôr= ;,}ÃâQ(ŽëL4,Œ“^}U‡:åvË+äžÜUbÇS[Òbž¦_s#ZLÖNœi¼Ç¢ë9åÆi»f?ÃÉ‡Â^lý<lø„-z©—+…5,½‡aí­,ß+	YÕŠÄÊðÆÛ‹?‰@ãàHÙH)å[îfÁ ä–$}¼
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-ë^5žÑ—žÿ
-PID:12175 just read 6944 bytes from host
-PID:12175 just wrote 6944 bytes to client response:
-$V$´žà·¯'Úï¹«®Æ?mE»•D0ÏÅùÜqôJŽ'’;¸ð
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
--K]¾R°zËúùþžÈ<ÝGÚãˆIKÎG
-PID:12175 just read 3472 bytes from host
-PID:12175 just wrote 3472 bytes to client response:
-¿•Écãið˜JòÜ‚¡»$uÔßúŒ¶AÖ: 8’Äá!Ya*ô®õZ{®%VHÔv*»#Á<ÿ
-PID:12175 just read 3472 bytes fro

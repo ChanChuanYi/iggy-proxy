@@ -1,9 +1,0 @@
-PID:12304 Child:Fork has been created
-PID:12304 request:
-CONNECT www.facebook.com:443 HTTP/1.1
-Host: www.facebook.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-
-
-PID:12304 received a method not implemented, preparing to end uncleanly

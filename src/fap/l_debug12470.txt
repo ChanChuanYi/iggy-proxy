@@ -1,50 +1,0 @@
-PID:12470 Child:Fork has been created
-PID:12470 request:
-GET http://i4.ytimg.com/vi/kxIGlMrrhQM/mqdefault.jpg HTTP/1.1
-Host: i4.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12470 about to start writing to host
-PID:12470 wrote to host request:
-GET http://i4.ytimg.com/vi/kxIGlMrrhQM/mqdefault.jpg HTTP/1.1
-Host: i4.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12470 just read 3472 bytes from host
-PID:12470 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: image/jpeg
-Last-Modified: Mon, 18 Mar 2013 02:16:17 GMT
-Date: Mon, 18 Mar 2013 02:16:17 GMT
-Expires: Mon, 18 Mar 2013 08:16:17 GMT
-Cache-Control: public, max-age=21600
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 17789
-X-XSS-Protection: 1; mode=block
-
-ÿØÿà
-PID:12470 just read 3472 bytes from host
-PID:12470 just wrote 3472 bytes to client response:
-¹3‡ÜXœ>Áì¡P1§g£«İøKûØóìuşõí_&/÷íÒvÏÓíë÷ùêOü4M8ı¿Ş½«äÅşıºOÙÏÙ×ïóÜ¯øhš›ÿ
-PID:12470 just read 3472 bytes from host
-PID:12470 just wrote 3472 bytes to client response:
- ÆÆ,q5ª§+ˆC¿}h±§–ºUj8r—bKs:>º(3‡z)f?´]#G47á±Ä{|û¾ÙëÇŠ¦¨£LŠ|)qT© ÈrÆ Çœ=…OÅZh%º Yo6¢·‡VEÂWQ™%QŒÚ˜KÄ-Y
-PID:12470 just read 3884 bytes from host
-PID:12470 just wrote 3884 bytes to client response:
-DE14{k]Û‹~ eêZ¤FTËTÈ#-¦„5¯·½dÑQ¿†C¬!Şµ3¶´İË¥—,gf8ğ„H­’®–ÖÛK¼1[îŠûqz+ äÔïós2šê7~ÈÙÿ
-PID:12470 pipe error, probably done reading, preparing to end uncleanly

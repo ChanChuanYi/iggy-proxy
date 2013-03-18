@@ -1,254 +1,0 @@
-PID:12319 Child:Fork has been created
-PID:12319 request:
-GET http://25.media.tumblr.com/75778fb113eb13e858cec67c6faf1d90/tumblr_mjdnxgk59a1rblcabo1_250.gif HTTP/1.1
-Host: 25.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://imlikeadogtogetyou.tumblr.com/post/44917856740/photoset_iframe/danaykroyd/tumblr_mjdnxgk59a1rblcab/500/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Range: bytes=761633-1039693
-If-Range: "060d98e02465386199b6ab82848942cf"
-
-
-PID:12319 about to start writing to host
-PID:12319 wrote to host request:
-GET http://25.media.tumblr.com/75778fb113eb13e858cec67c6faf1d90/tumblr_mjdnxgk59a1rblcabo1_250.gif HTTP/1.1
-Host: 25.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://imlikeadogtogetyou.tumblr.com/post/44917856740/photoset_iframe/danaykroyd/tumblr_mjdnxgk59a1rblcab/500/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Range: bytes=761633-1039693
-If-Range: "060d98e02465386199b6ab82848942cf"
-
-
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-HTTP/1.1 206 Partial Content
-x-amz-id-2: 7eVmzc2LTk8s6kkYd4uIHuPSDk/pSSMZcjfym8vUo2etaEyCrGNJVugSszGjtZzr
-x-amz-request-id: 162269FD35479491
-Last-Modified: Sat, 09 Mar 2013 05:15:18 GMT
-x-amz-version-id: 6xuZPcJlmmRkT2K7nhCXlD7Vm44kGAhF
-ETag: "060d98e02465386199b6ab82848942cf"
-Accept-Ranges: bytes
-Content-Type: image/gif
-Server: AmazonS3
-Cache-Control: max-age=30769295
-Content-Range: bytes 761633-1039693/1039694
-Content-Length: 278061
-Date: Mon, 18 Mar 2013 02:15:17 GMT
-Connection: close
-
-å°‡Š9{YXC—çã?Ä Jª•	Ğ:‰;­¦O¸™ |î>rİø€@>¥OYíQÇk¼|>îhÊSéJÎ‡!•¾êäà,Ä¡¡¤à°€Æ XÁÂ/™`8=èÀ	ÖÀ€Kp›KúÛ6`AĞ_îPé[2"¿–3@{xÂ6h
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-­v/©hAŠapnĞu 
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ƒ 2¨0‚¸xE„	‚;@›p±Ú‹“I8A9!Í’4)”ü•|Å¸C!˜ô±İú)®. ¢É6»€n„7è€	«³Èâ–!LÅÔjÚ6ª{Ê=RµxåÑ,‚Ø@è`®©ƒ]y#õÓ+_™'_áƒVûúšƒ¡ÿ€G¹l˜‡é¿7ğ?”\¹,˜¿
-’<øG,ğËÀ‚ˆ/1h!hèc´ËÍ³€àI°
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-‘&Q8ÿ}À2“`F0¹0t`
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-´@—$š¦U(BãàÀ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-Ã=‚Í"àlc4¢c(‚f¥>
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-y	´¥®N)cèVabMåB@eŒ`¿yšÑ!mÒ‡½µ)¦qÊÆ½¨!hç¿îJÌ×5
-PID:12319 just read 8192 bytes from host
-PID:12319 just wrote 8192 bytes to client response:
-ğh@ÿÒº]#¦+q!’(P1 wÙ
-PID:12319 just read 5696 bytes from host
-PID:12319 just wrote 5696 bytes to client response:
-á’ÿ$(INcyä­®áI³s»Q$,Iã¢ŸôaÈÂU!aÊ à¨r(Ò­P¥*ìéYôc=}™Å]Ût
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-C`Á~ „,¢½Vš2ô¡ù‰ækDPˆ&dÁ‡hğü<ùÉ7Ğ/ÌL«"|cÎØ&rŠ@•—ä°I€‰®âåğ`Bu!€$¸€¸º¯(é¦†Y@rH1Šı @
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-Í	iPÂ×±˜uí0mU‚ŠÖ#¤ëi	,,kJ&h
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-`g*à'
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-G,IY¬´B+Åe
-ØÂÿŒ`RĞBø
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-%Z¦³³Š@d{K€2˜# ‚V[
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-XõLÂ@ÉL	mÎBôW59Š¤Á`ÄùWô@Šm!‰1â’ØI®‰m˜!‡¹ÜBÄœ¦üÑ8€ï4Nâ½"À×å`%¡láB°W.D¨ZĞ:¶d
-ùa¡ĞœùÁáÑÜ5nE× ±tM#M
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-XôBˆ#*)˜aO©
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ôX¶â–+±,Rd€Î{É¢|§­5R,jàœTÕw€€6&a
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ÀÖæ%å¤ä“qEŒáÔÈ7_ØE`Ä¯7A#!@	k ˆ´@í
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-8¡Dƒ(P´pY¨D‹I"LâSgÒOŸúyhRŸŸI•mcÔhÑ¦•NMêP*U¬I³ü$"‚ÆÏI+Lº² ÂØŸ(E€‘Ip'åPš ÆÏ	¦$U$çg„(7&™hğÂÄ€“ €MJ$À$l¦JşIy7Œ²R]iMAE'4É Ä‡¥Y‡Ï?ÕĞ9)‚ÿˆ"´øSHP€LpÅ“Jmğ`§R‰¥'jƒğ§ô«›µkwºk¢IDäpÀ`ŒIæÍÃ¸¢t&$E ò¥A&İ½s‡jIyã(A60ì
-DPn
-~‚Á¼¤¼Ğ!;ª4sÃ»¤.È9D‹C¢@>L
-5¥J¨::à?ğøc%6Ğ¡…t¨¡„Tj@z¬¡˜>pÒ)¥”n;„9dIé£¢0LJ„`ëƒ±Â‚B,¥*o¾°¸Jj¯¤é§
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-h„ÊL®ÙÌŠÿ0ôÍØÉÛË¨ù
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-öá×V½¹®/-ñ5}¸ú¾êLöBŠDÿà‚ ¢­!,˜É9À’²T‡Ã×KÍ†‚^B)H&‚\60Ó
-PID:12319 just read 6944 bytes from host
-PID:12319 just wrote 6944 bytes to client response:
-Às>8SJe5#ªô@Ÿz†ñ¿ÿ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ah;CÏFĞƒ3H t¸‚
-Ñ+
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-0PrÀªñlo°uğrâUQ	€¹jGè±™}“™$»RÁ3%lÊœè‰¢I’+\&œ¾¬ÿIQ–İÑCKP:0H s7€|aƒ;Ó³Ú›(°~ƒ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-„>h?`ƒA„9ˆƒ ´x
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-¡:‰„|ºC|0Ä~¥€‚/Ì0	µÙVÿ4´ğArŒPÜ'ˆñ0èĞâWLãW	°_åAG\Ù=É„ì×1ä8ILa®d0„`_-)XaK"Ğ$`R"Vå½ùFÑ¯	#(ñ@€@md½	Ö­q	š¥-QB“L0Aq&(ğ
-PCŒÁh°„20ÁÄ00ÂF¢ÌQˆ"g!’Ç2'bc¬×)À§
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-uørªÒg"³hG/ZĞô*£!‹Ôïü&A©FÛôç6¶*M.šÕf~7ËÅ7¢_€•À][
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-³fâÍB³3Êü¼d¼¡ÂÉ&±s
-X ‡µÌ<VKPjB(‘¾¸ƒJ\½ysÀßª¤#Aƒ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-9	BŒc‚ æ$t–bUEb„ŸF
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ş‰_pÕrÜ[°½uç5p\A Fpëkrğíˆ´„š–5ºså
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-AØ £){åp¤ãeşÀÎõ.y<çx®;>"‹hƒäqÕµ@|s°CjÆ›Õ&ÕQ¤Ìx·”xÃÒéÙä!\?	æ"XuÉ@~=ıt}à7qåbÂÿnØÒ_w˜Db­˜Å*Æ·«·.‰†0$Òişƒì$‘ƒ°r‘ÕÈN6øõ„Ğx•á	µˆŒIÜİâ9¶Ûïf	bõ ÌúÉQ¤Ú†„€<aÏş—>øª9¨âƒ>(–IH
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-4hL‚Á7:†É BA†ITnØ€'&Æ™~,^THcE£H}…1‰ï‰…¶®Ù¼ñ2$Ëk­”uQŸ>uøø!4ˆá6›³òW»Yv¼Q_|2_€í0Ç`RXqvÑaû™7×\“Ôñ‡±!HnôqHY\adŞˆõaX!"±A˜†QB!uãEğÔÑF·a‚mÍ@Ã¼õFCI˜4	q
-x1	(e @s„"Ì ÛØ-4AB	)ÿÁu0 ô3xÄ$‡dµÑ®‡l¬(}ü±â †İGaV]±1‡ÈÁFvx×]mÈ >ØUñ˜†mVˆ‡º„lQÅU¥)VØ ŠÜ1IC}`Ñ]7‘<fä¶õªãD4°€ÁH0á:`0‘ƒ9L¢€LrGxDPCG@ò)&BÌzİ:0àÀº³~
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-xF¬aoèÅZìÆöDqÄÎ°ê¨Íu$ÕnLBÂ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ˆM4e>ù *)@1«‘‡V”`
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-¾
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-Ğc†CC°% PŠc€a
-PID:12319 just read 7672 bytes from host
-PID:12319 just wrote 7672 bytes to client response:
-2AÂu
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-!äÄÿøe"p ü“NDŒpğr[2Zƒ`Á(šå£¯ˆL°Û€ÕR\\òª0â¾‘€–Ú|.•0A’R…<HTkÄqD
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-çÉˆDà”„^4“âÍ€:J‚4¤ô‘@è™øv&¯l–tB×3¹>
-ğ‚[R¶*IûÛÚ3{Ç¥É~KàG[Ë1<	HóÖ‹Âö¸ë¾ n‡É
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ÇKiH¦áA£>#‚·¢¯I Á
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-PÌ7òyi¹j™vƒÄ™vm0’r 
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-øØB¢
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-t€ŒÁìß$€ø@\@	€
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-ì¤9âHĞ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-¨ z(¸¦6@^à]#–
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-Pğ‚‚„	E~8“øĞ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-¨A$4&Ñ¢†5ÎˆË¦
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-˜Õ×SÙ„I|
-£$Ó!=$@‚÷z8
-
- €ø<€"€,µ#8‰%5=”xNB@F:‰šz§ç¸§^[
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-`[û’‡t¹(Ä‹P]Ó°è&R†1šù Œ´××
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-"àyÔŠGÀöví|jÆ¹Â'ù®Ó´{ÔDÁIÌÀ8´	`îŠ:è;V Aÿi‰´4ü	d0Ö4ÒĞ@ğk¬jx,Û×uD[€]³}C?
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-3ñŠ¢óĞ±8ñÃ8K&'¦Ğ€â3s¢:©3F€t>@c
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-Ù€ï?ÄÆW0¾ä.@­ê,ÄÈ3Ğ8ì°÷+\pÁd8Ù^J
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-*Ø€ÿ¨¤Gb
-PID:12319 just read 1744 bytes from host
-PID:12319 just wrote 1744 bytes to client response:
-L‚ øP‡`€ğEV%Q:ÁÜÌiJL€‹Ø
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-MbI
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-8DfW¬»€µ>ˆÀäD¥)ÿŒ²Àãƒ‚LˆDL9]:H´ìFˆ?HdAxwç5	‹¸ :	Ï¹2:Gå€g#™÷ò¤^yó%$&x@øğ\àAÈ#ĞL€s¨~ !¹r¯p€ÿsœRÔ)P€)“Pë™VSäE>ÈK² Ó>¸làCˆï„'¤
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-?xtá¼æ‰Œ2Šásƒ"E*ğ`T"Œ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-MG-u•}“@òÂw&ŸU!CzµóJ¯{(Xó@@:À:€‚«/
-PID:12319 just read 8192 bytes from host
-PID:12319 just wrote 8192 bytes to client response:
-IĞ_*Z8³Š‚ma°ãÇÀ’¦&Â
-Ñ‡,Ô LD
-ÑÜCu‘pò›Ö´B7A¢5Wnƒ	çVl@Xˆ"È’İÛÍ@9HïšØDˆpŠ7
-Œ'Q$ÿJh@l¦@s™'Bô£à¤ú@u*¬‚–òÏ 4‘Áôš%òU„0ñ£x"£†3@„Î–’¥„ ˆb62´ıªGÉ7P&Áµ&ºbmÑŠ†K¤ƒ`<&‡S
-PID:12319 just read 2224 bytes from host
-PID:12319 just wrote 2224 bytes to client response:
-$g@ÁÅMÂTÊÀ2¶ˆÇS`ˆ¥q²¥)NüA>Î6ANB BgÚŒZÁ
-PID:12319 just read 3472 bytes from host
-PID:12319 just wrote 3472 bytes to client response:
-L(#&™Ó#YdƒqA`]˜ãÀpf°®»Cİä&DĞ‰N!"q’(Ş¹€wI\¢oÒ(xÁë S¬ÁƒçMb¤ÁâAªwKæó/¨Ğ2ø8È)J¦2ÅçEz‘(áˆ	Ğ#ŸúEQBˆP3x¢|t¶ÌÃ$A;]ÊÉ—½@0É†¬f•˜i
-PID:12319 pipe error, probably done reading, preparing to end uncleanly

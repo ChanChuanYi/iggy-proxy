@@ -1,81 +1,0 @@
-PID:11745 Child:Fork has been created
-PID:11745 request:
-GET http://24.media.tumblr.com/7494b02be67a0abf67e77b4820b4d59d/tumblr_miyn1mHAfj1r1w416o2_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://deadpathogen.tumblr.com/post/44299057298/photoset_iframe/staceythinx/tumblr_miyn1mHAfj1r1w416/250/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:11745 about to start writing to host
-PID:11745 wrote to host request:
-GET http://24.media.tumblr.com/7494b02be67a0abf67e77b4820b4d59d/tumblr_miyn1mHAfj1r1w416o2_250.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://deadpathogen.tumblr.com/post/44299057298/photoset_iframe/staceythinx/tumblr_miyn1mHAfj1r1w416/250/false
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: __qca=P0-400392261-1363561106071; __utma=189990958.333417166.1363561105.1363561105.1363572424.2; __utmb=189990958.1.10.1363572424; __utmc=189990958; __utmz=189990958.1363561105.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-
-
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Mon, 18 Mar 2013 02:11:21 GMT
-ETag: "00d29aa04339bd5fd6b443c55e0aa9a2"
-Last-Modified: Fri, 01 Mar 2013 02:32:19 GMT
-Server: ECS (sjc/4FBD)
-x-amz-id-2: GRgDbv8YixRfGZBbkvFv4UIbcc8OYdepYodSaNVEO5mBJnKw/m9oF3xu8/Oqlj1S
-x-amz-request-id: B0E2CA1903060CBF
-x-amz-version-id: jsVwRyBiG0p9JRQSOTqlVLNeEngxsdL7
-X-Cache: HIT
-Content-Length: 45630
-
-ˇÿˇ‡
-PID:11745 just read 6944 bytes from host
-PID:11745 just wrote 6944 bytes to client response:
-
-PID:11745 just read 4184 bytes from host
-PID:11745 just wrote 4184 bytes to client response:
-k III
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-	
-
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-]∏yN>˚^·˝hVÎ¬©£‹“OõâT∆ﬂ/˙J’[ø≥ˇ
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-tRed="0" crs:SaturationAdjustmentOrange="0" crs:SaturationAdjustmentYellow="0" crs:SaturationAdjustmentGreen="0" crs:SaturationAdjustmentAqua="0" crs:SaturationAdjustmentBlue="0" crs:SaturationAdjustmentPurple="0" crs:SaturationAdjustmentMagenta="0" crs:LuminanceAdjustmentRed="0" crs:LuminanceAdjustmentOrange="0" crs:LuminanceAdjustmentYellow="0" crs:LuminanceAdjustmentGreen="0" crs:LuminanceAdjustmentAqua="0" crs:LuminanceAdjustmentBlue="0" crs:LuminanceAdjustmentPurple="0" crs:LuminanceAdjustmentMagenta="0" crs:SplitToningShadowHue="0" crs:SplitToningShadowSaturation="0" crs:SplitToningHighlightHue="0" crs:SplitToningHighlightSaturation="0" crs:SplitToningBalance="0" crs:ParametricShadows="0" crs:ParametricDarks="0" crs:ParametricLights="0" crs:ParametricHighlights="0" crs:ParametricShadowSplit="25" crs:ParametricMidtoneSplit="50" crs:ParametricHighlightSplit="75" crs:SharpenRadius="+1.0" crs:SharpenDetail="25" crs:SharpenEdgeMasking="0" crs:PostCropVignetteAmount="-19" crs:PostCropVignetteMidpoint="50" crs:PostCropVignetteFeather="50" crs:PostCropVignetteRoundness="0" crs:PostCropVignetteStyle="1" crs:PostCropVignetteHighlightContrast="0" crs:GrainAmount="0" crs:LuminanceNoiseReductionDetail="50" crs:ColorNoiseReductionDetail="50" crs:LuminanceNoiseReductionContrast="0" crs:LensProfileEnable="1" crs:LensManualDistortionAmount="0" crs:PerspectiveVertical="0" crs:PerspectiveHorizontal="0" crs:PerspectiveRotate="0.0" crs:PerspectiveScale="100" crs:AutoLateralCA="0" crs:Exposure2012="0.00" crs:Contrast2012="0" crs:Highlights2012="0" crs:Shadows2012="0" crs:Whites2012="0" crs:Blacks2012="0" crs:Clarity2012="0" crs:ConvertToGrayscale="False" crs:ToneCurveName="Medium Contrast" crs:ToneCurveName2012="Linear" crs:CameraProfile="Adobe Standard" crs:CameraProfileDigest="87FB0EDC503E332309FB5DE5C5C65125" crs:LensProfileSetup="LensDefaults" crs:LensProfileName="Adobe (SIGMA APO MACRO 150mm F2.8 EX DG HSM, Canon)" crs:LensProfileFilename="Canon (Sigma_150mm_F2.8_APO_MACRO_EX_DG_HSM ) - RAW.lcp" crs:LensProfileDigest="467DEA079A6054F28D85EDB096BDF41A" crs:LensProfileDistortionScale="100" crs:LensProfileChromaticAberrationScale="100" crs:LensProfileVignettingScale="100" crs:HasSettings="True" crs:CropTop="0.185484" crs:CropLeft="0.002392" crs:CropBottom="1" crs:CropRight="0.816908" crs:CropAngle="0" crs:CropConstrainToWarp="1" crs:CropWidth="15" crs:CropHeight="10" crs:CropUnit="2" crs:HasCrop="True" crs:AlreadyApplied="True"> <dc:creator> <rdf:Seq> <rdf:li>Detlef Knapp</rdf:li> </rdf:Seq> </dc:creator> <photoshop:DocumentAncestors> <rdf:Bag> <rdf:li>xmp.did:B1FCA94A8BD6E1119127AED6F7AE2D6A</rdf:li> </rdf:Bag> </photoshop:DocumentAncestors> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:8A21F9AB60D6E11198F88CF7663AE2F2" stEvt:when="2012-07-25T21:01:36+02:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 6.7 (Windows)" stEvt:changed="/metadata"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/x-canon-cr2 to image/tiff"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:B1FCA94A8BD6E1119127AED6F7AE2D6A" stEvt:when="2012-07-25T21:02:33+02:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 6.7 (Windows)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:81884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:11:36+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:par
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-ameters="from image/tiff to application/vnd.adobe.photoshop"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/tiff to application/vnd.adobe.photoshop"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:82884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:11:36+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:83884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:18:11+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:84884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:27:13+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:85884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:36:01+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:86884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:36:56+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:87884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:37:15+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:88884F8E8CD6E1119D24A249E035E1DF" stEvt:when="2012-07-25T21:37:15+02:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:87884F8E8CD6E1119D24A249E035E1DF" stRef:documentID="xmp.did:B1FCA94A8BD6E1119127AED6F7AE2D6A" stRef:originalDocumentID="1E1AFC5502860DB4D5A4A8B0EFD18B1C"/> <crs:ToneCurve> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>32, 22</rdf:li> <rdf:li>64, 56</rdf:li> <rdf:li>128, 128</rdf:li> <rdf:li>192, 196</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurve> <crs:ToneCurveRed> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveRed> <crs:ToneCurveGreen> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveGreen> <crs:ToneCurveBlue> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveBlue> <crs:ToneCurvePV2012> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012> <crs:ToneCurvePV2012Red> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Red> <crs:ToneCurvePV2012Green> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Green> <crs:ToneCurvePV2012Blue> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Blue> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                         
-PID:11745 just read 3632 bytes from host
-PID:11745 just wrote 3632 bytes to client response:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <?xpacket end="w"?>ˇ€
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-π–H„¿öÙt9ûF”Ó¶|⁄,1Tó˛¶C;àΩ¿enpŸ=´Ú7/Ÿa‚¨=à è≠}fü4s√|t~5Æ“‰—fx≤u_4˙?yX∆∫Nl‘
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-á3º;i*]~∑πä‰NÎ°m"Ü—"‡ÄOˆAÒÎZœ˘&˚é◊ä2I5–¡e3óŸ9ÆÆfE
-Ω<
-PID:11745 just read 3472 bytes from host
-PID:11745 just wrote 3472 bytes to client response:
-ûÒ‹uÜøï:&Q‚Œ√˚√Ø·Iø¢´©7ì¯)C«zuKÃı
-√'(Ô”µﬁæ?©aêÃ4÷ÊiÊ∫ÓÂoµ›)]˝yâÖc¥é¨ﬂÜÂj˝ç}lŒôÏA,ç#∑àÁê/_˚$WbîóS…î|1ã{xée∂àyGO}•V‚vó˘ª∏!ó≥ü]Ai'?˘jw‡Ø°}Ñ„‘∂◊wÈ"ûöâe?èxÑT0ñõwEÙ4Èï¬\2	'*	‹
-BÔÀe@¨•t8·q|˛eo„2∑±À>2‚‹.∂çˆµøUXÂQ“ë≥R„ÊxœÓBu{©Ø(Í5)ÇdáóØÅMj§ë¶<û*è‚/’“\ ëÚ§°äê”	
-PID:11745 just read 3546 bytes from host
-PID:1

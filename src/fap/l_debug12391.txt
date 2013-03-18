@@ -1,61 +1,0 @@
-PID:12391 Child:Fork has been created
-PID:12391 request:
-GET http://answers.yahoo.com/question/index?qid=20110409200845AAjJZnf HTTP/1.1
-Host: answers.yahoo.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: B=as90t5d8jsmuk&b=3&s=sv
-
-
-PID:12391 about to start writing to host
-PID:12391 wrote to host request:
-GET http://answers.yahoo.com/question/index?qid=20110409200845AAjJZnf HTTP/1.1
-Host: answers.yahoo.com
-Proxy-Connection: keep-alive
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Cookie: B=as90t5d8jsmuk&b=3&s=sv
-
-
-PID:12391 just read 4460 bytes from host
-PID:12391 just wrote 4460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Mon, 18 Mar 2013 02:15:59 GMT
-P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
-X-Frame-Options: SAMEORIGIN
-X-Content-Type-Options: NOSNIFF
-X-XSS-Protection: 1; mode=block
-Imagetoolbar: 
-Set-Cookie: answers=KkmlJbfYb_Rg9V_kwI4CFHrkkLgQsHZ4fgolzkia0JAWgjLCeQTRbnW_X06IcG1UKtbUeENIq..odOMcJrmPAVWSuUTX4Hyiz8n5G9zeC4jb4_9bmdehQKg3dTBHEJRa_dcIyJhXsJTbUydxFlf2HzvRWWQr4CxB8vJwmy1Rv6uTug2mPMbCdPRmIR3SM5_aKDTn3uIYHM6s2NoGLs8E8pVzfnEyW6Rawkpz9hkUcWgpHcTxI_xEbiyBUgCIBTsb7.R0cloqwIfm0eyLE_BJqRUatx4jNexf2pdTiaJhQSwbbiVGkoHSIcNMZmpwFU1I5yQN4kNPgrtFqZJUP7pD6FXUMjiI_De6gq_gMBP.SQLgI4MkrDynoHCZPwhwMhFj3vPPZJ3Cwq_HIoEoyw8tUEK.k9c1TE7_BLZcLfMqUbbAdcwS2d3VmT1vnyf90qJ4yshzOoD7_.PwI3nzJFakDeOPe5YC7hWT5wBdhhQ23d_VlN09I_B_Kuk-; expires=Tue, 18-Mar-2014 02:16:00 GMT; path=/; domain=.answers.yahoo.com
-Vary: Accept-Encoding
-Content-Type: text/html; charset=utf-8
-Content-Encoding: gzip
-Cache-Control: private
-Age: 2
-Transfer-Encoding: chunked
-Proxy-Connection: keep-alive
-Via: HTTP/1.1 r03.ycpi.lax.yahoo.net (YahooTrafficServer/1.20.20 [cMsSf ])
-Server: YTS/1.20.20
-
-0004d93
-ã
-PID:12391 just read 4344 bytes from host
-PID:12391 just wrote 4344 bytes to client response:
-s:ì=!áT®~è´Tk
-∆<t°)[Çç ßlÂõô¿ùÜ6÷W!ò1 ±˛Ç9öOï=≠J˙f∂iÆ˙zO@]ˆ–PÚk&ºÖWÁµÄ∏ñÍ
-#q Ûõó∂›úãgÛ/a0]G|F!µCa≥>Ñ\z÷+ñbkvñÑr/ãÿ4™ﬁêf]6›ì$¯ñ&p£µ∆~"R>≠=˜Ñ§{n≠Äh‹âDÚÙ’iJõ◊rπä¥Ï\?÷ö®ò´Î]©Yéı‰Y^ôô≥7˚z^ëòÆËŸˆ.4U}]ª	*pµÁ’ø’°.Ñ◊˝HoY -ò<•$ˆWøÇ•,⁄“õaå’v°GBx%‚Ç£˜+Y$¬‚d»ó√5KsÉó q#I‡o√1ê‰wÌ∫◊[V¡0∑k‚ég9ñI⁄t∑»4˙#¡C∑ÄÆÎç⁄©ßÚƒoÒ∑ÙÔƒNT0.âMÛÊaÎñ˙ıh≈øe;pﬂ$votΩÆ¯≥Ö&Ú¶ËSƒ>'˙™}âÌo&èÕ¢#åß|i\õ¶û≥Î(3(Ï ¥˘1qrbq&†íÜ√`¸~ÖÏ[Rb…7^:‚ÇåñÜ-LºÜz“¡È≠[é√õ\ÁÁ˛B^^§B’ƒq·@]¯ßß
-PID:12391 just read 4344 bytes from host
-PID:12391 just wrote 4344 bytes to client response:
-qZwÓT[€ÎÊåH°nH⁄∑6á7Ë9ﬁ*âP"º; ÚŸx^|…ç;˜àåõÂ–|æÊû¬ôjj≤˚:Uﬂæ˛zÀ&ØÕü6Ø¯6€rï»ßo; Kß^Â’áŸË~ıtnÍñ˙0÷ySåj!D0¡÷N§Ê£ƒÚN]ﬁÍ√Ã†QΩøÎ5ïAà∂gÙ$%úHc9”©wBR†ôO\o‚.l˜o˜∂≈®“Î	dÓqY¯}“Öek∆o‰Íp≈å.eó˘ëùçôZ„lä[ºöˆ∆}íœÕ~sÂu	n¬ø?ôü∫œƒá–û«1Øy€π?ÏÛ*>hwäH@t∏Ôƒyk`f7´áüîcó°J˘Î©ÎfΩ∂i”Â<›”/˘çÆ⁄lò´¬98Ç˝:êrﬂ$6@‚ÕÕ	≥◊|îá›¥¥Ï±h"’8mo>+ZsßPŸ)À6R∆tQ2¿'<-uG…ß»sí'û}˜qºA≠ÂgpÛp`¸
-ùˆzï·Ìq6ÛS@∏’∏y&‚S=(˜≤0ásQ¯I!±l≤Ê†ÿUT“ë”S”ﬁC/{ƒñrTAxÑ%Ç¥∑ﬂPêrBt≤Ø=NïR„)3π§oj˘á“ıcZõÿaç$”ú,¡Â≈SÍ÷+›¿i_±ÔÎDGNÔÖz{2êÓ¨ôÈtÓ¨NGÔ˜Í¿ìF*^sø|Wí|ÿ>Ö÷B∆=<»K∏ÇπÌãå ÀÔ‰á∑Î›€Ón",a’\êÆGeß÷5Ø'7äj¯éfÏ”¢#òY@4<ûÂΩS‹]'Ÿ<†@4«·M∑Æm4‹ﬂO„&äN—[⁄?Ì˜Û((ßÇéSS≠èp´ó@f8Ú/Çmw‘^\‡∏H_W…ßÁœCÂ∫T 'ö9ëŒh|+éﬁ5
-1oª,yqóR™Ë›†¸|E|x;)«Ú∏ê	⁄!cƒ$!N0Yú«À∆Ÿ…∂˘z/†F%∞°Ë@(¥˚•Èº{Ï’˜D¨˜D¨èÔâXª{"ÜNS^©7∑ÈﬁîÏâ¯¸Äs∫JÈTÓ%˝âù¥?qb∞‹*√≠8∏
-PID:12391 just read 2896 bytes from host
-PID:12391 just wrote 2896 bytes to client response:
-ˇ√É≤Áyé˝O–¬Ç~h–Bd$A]ßÄ‰ÊxZ⁄F6‚u3úycâ√‡Ó⁄[a√km¿™xAM‘

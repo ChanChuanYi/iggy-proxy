@@ -1,44 +1,0 @@
-PID:12686 Child:Fork has been created
-PID:12686 request:
-GET http://i2.ytimg.com/vi/UD8tGWIqA-c/mqdefault.jpg HTTP/1.1
-Host: i2.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12686 about to start writing to host
-PID:12686 wrote to host request:
-GET http://i2.ytimg.com/vi/UD8tGWIqA-c/mqdefault.jpg HTTP/1.1
-Host: i2.ytimg.com
-Proxy-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
-Accept: */*
-Referer: http://www.youtube.com/
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
-
-
-PID:12686 just read 6944 bytes from host
-PID:12686 just wrote 6944 bytes to client response:
-HTTP/1.1 200 OK
-Content-Type: image/jpeg
-Last-Modified: Mon, 18 Mar 2013 02:19:25 GMT
-Date: Mon, 18 Mar 2013 02:19:25 GMT
-Expires: Mon, 18 Mar 2013 08:19:25 GMT
-Cache-Control: public, max-age=21600
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 21446
-X-XSS-Protection: 1; mode=block
-
-ÿØÿà
-PID:12686 just read 7356 bytes from host
-PID:12686 just wrote 7356 bytes to client response:
-Œ³%ûÊ´áQzQwÖR§êŞÎÜ§Açd|-ŠŒy0à\ÒNü–“ä%2ò'ªY2ÊÓâj%Õ¸Q¦‹è	–¾HU¡`.–#8çÅ±.ó¤EÕ'›/µiÕ	ty²kŸ[¹İVÏ‘¦¨.[ìaC.â¾/£Om˜	1Vç÷TRÚùÑn±pÖGSsà%wAÕK˜5«TÈäÁõqi„ö·ÁœùItúZ º´À9)£´Fa¤|²ê¦’Ñ2İ©vë	z¥an¬L=~`Ä¼Më^ğé‡/!=Âï®»6Z(æ‰,bG¯ÙaØgşÓüZIğâ¤îH§T°•hêJ‘²B\@ˆWŠ/e©ìˆ¶J^ì?uÓ%Ö	uœb]ñva{m©··µ)ØSõ` ,I–‰fK5ÂœË™·œå™)×KMW!À,ŒÎ´1GPurÍ3â,|“³HØ•½ãÕ«Š«´”•wn•|^v†ïµÖb;õ]£N”9ôÁ›-slª
-PID:12686 pipe error, probably done reading, preparing to end uncleanly
