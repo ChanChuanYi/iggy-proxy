@@ -176,12 +176,6 @@ void load_site_files(){
 	memset(safe_url,0,1024);
 	memset(safe_port,0,1024);
 	char line[LINE];
-	
-	//start the log
-    FILE *tmp_out;
-    tmp_out = fopen("log.txt","a+");//open output file in read-only
-    if(tmp_out == 0)error_print("unable to open log\n");
-    fclose(tmp_out);
 
 	//load forbidden sties
 	FILE* forbidden_fp;
@@ -232,8 +226,6 @@ int check_secure(char* _host){
 void close_all(int client_fd, FILE* d_out,int exit_status){
 	close(client_fd);
 	fclose(d_out);
-	system("less p_log_*.txt > log.txt 2>/dev/null");
-	system("rm p_log_* 2>/dev/null");
 	exit(exit_status);
 }
   

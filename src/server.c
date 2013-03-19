@@ -66,14 +66,10 @@ int main(int argc,char** argv){
       	int child = fork();
       	if(child == 0){
       		close(sockfd);
-
-      		//method log
-      		char filename[LINE];
-      		sprintf(filename,"p_log_%d.txt",(int)getpid());
-      		FILE *d_out;
-    		d_out = fopen(filename,"a+");//open output file
-    		if(d_out == 0)error_print("create debug log\n");
-      		
+			//start the log
+    		FILE *tmp_out;
+   		 	tmp_out = fopen("log.txt","a+");//open output file in read-only
+   			if(tmp_out == 0)error_print("unable to open log\n");      		
       		
       		//child variables
       		char method[LINE];
@@ -92,7 +88,7 @@ int main(int argc,char** argv){
 			memset(read_pipe,0,PIPE_MAX);
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
 			if(data_size <= 0){
-				call_death(d_out,new_fd,500,"initial read pipe returned <= 0",
+				call_death(tmp_out,new_fd,500,"initial read pipe returned <= 0",
 				write_pipe,"Server error, unable to read from pipe");
 			}
 		     
@@ -103,67 +99,67 @@ int main(int argc,char** argv){
 		    //grab string from request
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	call_death(d_out,new_fd,500,"did not read a proper line",
+		    	call_death(tmp_out,new_fd,500,"did not read a proper line",
 				write_pipe,"Server error, not a valid request");
 		    }
 		    
 		    //parse 1st line  	
 		    int n = sscanf(line, "%s %s %s", method, url, http);
 		    if(n!=3){
-		    	call_death(d_out,new_fd,500,"not enough tokens read",
+		    	call_death(tmp_out,new_fd,500,"not enough tokens read",
 				write_pipe,"Server error, unable to parse request");
 		    }
 		    
 		    
 		    //printing request information into log
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
-		    fprintf(d_out,"%s\n",buf_for_time);
-		    fprintf(d_out,"\tMethod: %s\n",method);
-		    fprintf(d_out,"\tHTTP Version: %s\n",http); 
+		    fprintf(tmp_out,"%s\n",buf_for_time);
+		    fprintf(tmp_out,"\tMethod: %s\n",method);
+		    fprintf(tmp_out,"\tHTTP Version: %s\n",http); 
 		    
 		    //checking for valid method
 		    if(!valid_method(method)){
-		    	call_death(d_out,new_fd,505,"received a method not implemented",
+		    	call_death(tmp_out,new_fd,505,"received a method not implemented",
 				write_pipe,"Server error, not implemented");
 		    }
 		    
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	call_death(d_out,new_fd,500,"unable to parse host",
+		    	call_death(tmp_out,new_fd,500,"unable to parse host",
 				write_pipe,"Server error, host line read error");
 		    }
 		    
 		    n = sscanf(line, "%s %s", arg,host);
 		    if(n!=2){
-		    	call_death(d_out,new_fd,500,"initial read pipe returned < 0",
+		    	call_death(tmp_out,new_fd,500,"initial read pipe returned < 0",
 				write_pipe,"Server error, not enough tokens in host line");
 		    }
 		    if(strcmp(arg,"Host:")!=0){
-		    	call_death(d_out,new_fd,500,"read something other than host",
+		    	call_death(tmp_out,new_fd,500,"read something other than host",
 					write_pipe,"Server error, no host detected");
 		    }
-		    fprintf(d_out,"\tHost: %s\n",host);
-		    fprintf(d_out,"\tURL: %s\n",url);
+		    fprintf(tmp_out,"\tHost: %s\n",host);
+		    fprintf(tmp_out,"\tURL: %s\n",url);
 		    
 		    
-		    check_host(host,new_fd,d_out,write_pipe);
+		    check_host(host,new_fd,tmp_out,write_pipe);
 		    
 		    int index = check_secure(host);
 		    if(index != -1){
-		    	//out_fd = create_secure_socket(index,new_fd,write_pipe,d_out);
-		    	//write_secure_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
-		    	secure_and_send(new_fd,read_pipe,write_pipe,index,d_out);
+		    	//out_fd = create_secure_socket(index,new_fd,write_pipe,tmp_out);
+		    	//write_secure_host(out_fd,new_fd,read_pipe,write_pipe,tmp_out);
+		    	secure_and_send(new_fd,read_pipe,write_pipe,index,tmp_out);
 		    	break;
 		    }
-		    out_fd = create_host_socket(host,new_fd,write_pipe,d_out);
+		    out_fd = create_host_socket(host,new_fd,write_pipe,tmp_out);
 		    if(out_fd < 0){
-		    	call_death(d_out,new_fd,500,"unable to build host socket",
+		    	call_death(tmp_out,new_fd,500,"unable to build host socket",
 				write_pipe,"Server error, unable to connect to host");
 		    }
 		    /////
-		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
+		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,tmp_out);
 		    close(out_fd);
-		    close_all(new_fd,d_out,EXIT_SUCCESS);
+		    close_all(new_fd,tmp_out,EXIT_SUCCESS);
 		  	break;
 		}
     	close(new_fd);
