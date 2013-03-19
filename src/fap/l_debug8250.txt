@@ -1,0 +1,68 @@
+PID:8250 Child:Fork has been created
+PID:8250 performing initial read
+PID:8250 request:
+GET http://www.bbc.co.uk/ HTTP/1.1
+Host: www.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://us.yhs4.search.yahoo.com/yhs/search?p=bbc&fr=sfp&fr2=&type=__alt__ddc_linuxmint_com&hspart=ddc&hsimp=yhs-linuxmint&iscqry=
+Connection: keep-alive
+
+
+PID:8250 about to start writing to host
+PID:8250 wrote to host request:
+GET http://www.bbc.co.uk/ HTTP/1.1
+Host: www.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://us.yhs4.search.yahoo.com/yhs/search?p=bbc&fr=sfp&fr2=&type=__alt__ddc_linuxmint_com&hspart=ddc&hsimp=yhs-linuxmint&iscqry=
+Connection: keep-alive
+
+
+PID:8250 just read 8192 bytes from host
+PID:8250 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Tue, 19 Mar 2013 01:52:31 GMT
+Cache-Control: private, max-age=60
+Etag: "0b389ea94f3577bf7c9a9c1ca12dfb59-00a61b3cde9d06997fc53c3566474768"
+Content-Encoding: gzip
+X-TraceId: 18da8122-3c4d8841-0bf78f10-traf135
+Content-Type: text/html
+Content-Length: 24831
+Date: Tue, 19 Mar 2013 01:51:49 GMT
+Connection: keep-alive
+Set-Cookie: BBC-UID=c57114f7dcf4db15824d37a891a16d91bee2c783e4f491aeea41e4f40cf499ac0Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20x86_64%3b%20rv:19.0)%20Gecko/20100101%20Firefox/19.0; expires=Sat, 18-Mar-17 01:51:49 GMT; path=/; domain=bbc.co.uk
+X-Cache-Action: PASS (non-cacheable)
+X-Cache-Age: 18
+Vary: X-CDN
+
+‹
+PID:8250 just read 496 bytes from host
+PID:8250 just wrote 496 bytes to client response:
+Äßé…¥%’(KA¬wîBòR_˜¦ál¥0%$l„áUˆ„†ÎÃl £3äzè%&ÏßÄ*‹²&¹M–eò0x9tyÎ~}#1¤le„¯Ô/
+ a9Ah÷ô] §¡ƒfs3@ƒÈ¶MRõÕéE×ˆÊ¨(àH6\ÄCÏÒú™éµÌĞ3|¨†åvÂú2Íx–ôëÕƒ‰Ûs¹*ÓÈ†ŒjÚ¦Pß
+yAg`øÑ ¹øÑblPx¾ÛLÌ‚›j‘DÉUã1;¶‘ÕTû41¥KÍğ2?IÆ‹é2.¤Gò‘!;²0XÖˆmÏ$€Œm"·î²ã~Œ™ãfâ#fGf$	­&™µ_¿I
+¸JgÛ~wHœÊ¤Ùæ.ƒa·yUô¨6®'&ÑQ•2UnGºBŒÏÜ¥Hœ"OaAÃğGëôj—d9YMÕJÏ¾ms¶ê“
+jĞÆp5ãN{}»7YÙø­^â·y·~SUà$jFIèsŸm‹Ö~3ó„|ªóòÅ
+­×U0–]×´Op³Lª¹¤ÿÓè~e9ÿ¤Í%¾“=÷hC¤H}‡…´ï`¶OŠ-ş¥úD/)Ÿ$ê{!mßäoFnnL’r hL˜+‘K¹Úá™Wwy¯‡
+PID:8250 just read 4380 bytes from host
+PID:8250 just wrote 4380 bytes to client response:
+‹_c™”ÑÃ’¯ÂõÆWå¾ò_¯°ë_áìÏÉåFj¡]¢KÛhø¥\õÕäâcíã,‡6.æÚ.®ØD|ÎÇàz…ÌÔ0:CBO(„¡ F*©¦J>-–3@D|à€Á"ˆYB™aicO>ªû;óõ_8G™f“µNSYx¦Ü¨¯77š0­ÚÙ‡ô›6<Š"¸=Áö†àÚùLË)‹î§±İÖõˆ…'—0€qV§U:¬”Î¶&¡ÓÂrÊf¦8âš^‡Ã«Çqí\†°
+PID:8250 just read 7300 bytes from host
+PID:8250 just wrote 7300 bytes to client response:
+^6]G6¦H:…ã‰8€Iâ%i—xN<¦–t¥öXèz®yMb©\ÇoOÒÔóï‡*YÃÃ”8£F¯şÆÊzâ
+PID:8250 just read 5232 bytes from host
+PID:8250 just wrote 5232 bytes to client response:
+ ³7ì' u‹e?R]ÈMt²¿À5³Pı·×ÌNºfz÷Ûkf{Í,ôílï¿›a÷ÇË(—g†ÜWùÎn_•3Ô~ª¦yÂìËÕÁô?•ÙbÂœéZñ«èÿõÚ%èÿĞsêÿõÚ¾X*üVãOÒøĞŸßjüÅj| éÛ¿X<R ‹½|#RK6šå	Ÿiõ%L_Nûe¨¯mÓæèKq-·ûÍ;6®r¤Ãæ¦ê‘wI? ¸xa.JcB7|ù”õM»²¸&BÃ€b•&=zlAS8Y˜­\U<ß^ı³kã§ÆQ¢œa9AÈ½òº¥Ã.­Ü³@ r¹ˆÎ¿µ¶GL¢~×ÔoS:U\L*1uÒJÕ‡¥•6Ÿ].IÚ];pR ÖÎ
+"UZ5;CÖCíU Ômvöq…€.ä+Éc¶‹—OÈI2Ç(:¨ZrÌ3^¼ê:?7…Õ£kÀjF“!ã¾z›H F=ã¶;~*ôô6ü”s8¼îHHÛU™w‚7Ùû¡à'Ødä¤ “/Á{(¼ÀôcGW½'ggÉêxÎ–tbK|LòÌ¿¦}â“h…¿W¶õh%\çÃB!EˆîÌ£X¶.[½nÓEkW(Àî&Wcu¹¹¶ÜTÜp…\#•‹âÊZì¡ˆÏäÒx‡nK{Ê.¾&‘”ôªÄ…#CK¹UªJk••J}e%¼_—š(H¯qlè7Û+«m™&¬¶mµ¥ƒe§W­7*=£GÕÔ‰BI±11òkôÅÀÁM¾¨¡©U/iİ5¬T2È¨+vE…ËåıÅ´şµ¹X€’,»Ã–—>¨¯­níMÎ)¡77dÆ’UŒgìÔÄ-‚,Ñç‡xs}ş)ÿf{¦ÄaLSi—Ûëkgéô‘ñ>ÃüùÔøèYàÏÏÊ3A‡²å™%eíË«Y)4â=ûVE¡9¯(¬QbœCxåS¡§åbLßxÅøÍ‘‘ÕóÊHó&#õyedy~‘·˜ñ1Í¨u:#œu&.+	![ß”§uÎLh_ZÎ;r;#_å¡9ggJÌÅ¸'¹†“6¢E³ÔVF˜:rÍhòïL—µûkr¸Y¾n…WÀœÙU«]…üá‡ğ*WÍ8¦ğEnóeNX¸v§G·»ÏŞ!#<·¹|zZÜš„ÄéÖdDÏ{ëâŸãrÖlÇ^Ö:¡¾Å]Şšı›ï2×ä§e8ÅF?O-sÆb
+;zÃ†iĞ`Âñ¸¬o>Ni»“Æñ®4lÎ¯sÔÒ°‹^ÇİEöP×·º|¨–¸;û2ü
+PID:8250 just read 0 bytes from host
+PID:8250 just wrote 0 bytes to client response:
+
+PID:8250 job done, returning to server main()
+PID8250 fork is ending cleanly

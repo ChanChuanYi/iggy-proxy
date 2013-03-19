@@ -1,0 +1,57 @@
+PID:8008 Child:Fork has been created
+PID:8008 performing initial read
+PID:8008 request:
+GET http://www.freewebarcade.com/imglib/sbarbg.jpg HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/stylesheet.css
+Connection: keep-alive
+
+
+PID:8008 about to start writing to host
+PID:8008 wrote to host request:
+GET http://www.freewebarcade.com/imglib/sbarbg.jpg HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/stylesheet.css
+Connection: keep-alive
+
+
+PID:8008 just read 2920 bytes from host
+PID:8008 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:39 GMT
+Server: Apache
+Last-Modified: Thu, 24 Dec 2009 00:50:06 GMT
+ETag: "700007d1-2118-47b6ed1f8caef"
+Accept-Ranges: bytes
+Content-Length: 8472
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/jpeg
+
+ÿØÿà
+PID:8008 just read 4380 bytes from host
+PID:8008 just wrote 4380 bytes to client response:
+¢²ƒ&D“TdEÂ£t6ÒUâeò³„ÃÓuãóF'”¤…´•ÄÔäô¥µÅÕåõVfv†–¦¶ÆÖæö7GWgw‡—§·Ç×ç÷
+PID:8008 just read 1453 bytes from host
+PID:8008 just wrote 1453 bytes to client response:
+                                                                                                   
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       
+<?xpacket end='w'?>ÿî
+PID:8008 just read 0 bytes from host
+PID:8008 just wrote 0 bytes to client response:
+
+PID:8008 job done, returning to server main()
+PID8008 fork is ending cleanly

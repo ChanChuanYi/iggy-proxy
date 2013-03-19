@@ -1,0 +1,42 @@
+PID:9030 Child:Fork has been created
+PID:9030 performing initial read
+PID:9030 request:
+GET http://ad.doubleclick.net/adj/amzn.us.sr.aps;sz=160x600;sn=507846;u=6b5c285106df4e31bc95c24de5978b57;s=i0;s=i1;s=i3;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u14;s=u10;s=u2;z=2;s=3072;s=32;s=1009;s=1543;tile=1;ord=B965B4496363463AAB0B? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/aan/2009-09-09/static/amazon/iframeproxy-19.html
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:9030 about to start writing to host
+PID:9030 wrote to host request:
+GET http://ad.doubleclick.net/adj/amzn.us.sr.aps;sz=160x600;sn=507846;u=6b5c285106df4e31bc95c24de5978b57;s=i0;s=i1;s=i3;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u14;s=u10;s=u2;z=2;s=3072;s=32;s=1009;s=1543;tile=1;ord=B965B4496363463AAB0B? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/aan/2009-09-09/static/amazon/iframeproxy-19.html
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:9030 just read 1460 bytes from host
+PID:9030 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Server: DCLK-AdSvr
+Content-Type: application/x-javascript
+Content-Length: 231
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 02:12:16 GMT
+
+‹
+PID:9030 just read 0 bytes from host
+PID:9030 just wrote 0 bytes to client response:
+
+PID:9030 job done, returning to server main()
+PID9030 fork is ending cleanly

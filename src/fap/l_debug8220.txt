@@ -1,0 +1,55 @@
+PID:8220 Child:Fork has been created
+PID:8220 performing initial read
+PID:8220 request:
+GET http://24.media.tumblr.com/054c9c2cdf241718cc4bbe5d05314631/tumblr_mgwqh3S7lc1qb8k6uo1_r3_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8220 about to start writing to host
+PID:8220 wrote to host request:
+GET http://24.media.tumblr.com/054c9c2cdf241718cc4bbe5d05314631/tumblr_mgwqh3S7lc1qb8k6uo1_r3_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8220 just read 8192 bytes from host
+PID:8220 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:51:25 GMT
+ETag: "c4fd3177bd7e924207be06badf565249"
+Last-Modified: Sun, 20 Jan 2013 04:47:49 GMT
+Server: ECS (sjc/4FAD)
+x-amz-id-2: JC7P9/aeGjanPXBloWFvLgk/OcgBqc+tiDIpmOGlRHcLNGJEuQMhjOpJPm4UKKFh
+x-amz-meta-idata: v=1;i=gse3wcNXCm7wUHyKNu290g==;d=HvMML45C5APOh+SmSm9AHt/ABehoUjTwWAEzny1GhX57MyNTVbkQYtuO6chda3H+lT4UQjqt0D3UE1sEMtnqPw==
+x-amz-request-id: 34D9146C0B605C7F
+x-amz-version-id: f.W8cIyKgvez4cj7G8YRYQ1hL3AlCUNy
+X-Cache: HIT
+Content-Length: 55638
+
+ÿØÿà
+PID:8220 just read 6408 bytes from host
+PID:8220 just wrote 6408 bytes to client response:
+šsÂvf/OÆvVu­Æ¡œÙa'è±¿œûù•³Þô”ÓËmg30XÍÍ~> ÚÒA±Þ¶SYNK˜Ë6â½ÿ
+PID:8220 just read 4380 bytes from host
+PID:8220 just wrote 4380 bytes to client response:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <?xpacket end="w"?>ÿÛ
+PID:8220 just read 8192 bytes from host
+PID:8220 just wrote 8192 bytes to client response:
+
+PID:8220 just read 2028 bytes from host
+PID:8220 just wrote 2028 bytes to client response:
+¡Ý½Û£o7vâf¸ÛÍÇýÂ¯Ñ·]{~¹mÝ’®Í¥ª+ö‹}[ùOMMÁ¨Œ‘yÉ—rG¯ÇwÆñ5)ÌGmjbb˜Š§2¶ä’4rÆ¯NjÕTnzã®¡Ú}ŽüGm¿Ôë'ê0™7:õyËç^¯9^¸C—híÙÓx·'y4~îí&´Òú~»IZ–šžkªLù£ªï¦rHÖ$Ææð™SOôðRÕ«ÔÑFÚ–lÝ¢Š&Šã9iýîæúÜµÌÛº›‡O¨®q¨êiiíô±C|\~úÎîÕéÑ½$EN‹ÓÄµES†9¯Z¢ÜFê#„ÂÚ»ïöíêÁ]ÕºkE©

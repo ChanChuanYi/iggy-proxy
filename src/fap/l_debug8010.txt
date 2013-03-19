@@ -1,0 +1,49 @@
+PID:8010 Child:Fork has been created
+PID:8010 performing initial read
+PID:8010 request:
+GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=600&slotname=8424566143&w=160&lmt=1363657834&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2F&dt=1363657835292&bpp=13&shv=r20130311&cbv=r20130206&correlator=1363657835368&frm=20&adk=1984998403&ga_vid=1650897843.1363657835&ga_sid=1363657835&ga_hid=745518610&ga_fc=0&u_tz=-420&u_his=9&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&fu=0&ifi=1&dtd=107&xpc=I7WxleUGAb&p=http%3A//www.freewebarcade.com HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8010 about to start writing to host
+PID:8010 wrote to host request:
+GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=600&slotname=8424566143&w=160&lmt=1363657834&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2F&dt=1363657835292&bpp=13&shv=r20130311&cbv=r20130206&correlator=1363657835368&frm=20&adk=1984998403&ga_vid=1650897843.1363657835&ga_sid=1363657835&ga_hid=745518610&ga_fc=0&u_tz=-420&u_his=9&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&fu=0&ifi=1&dtd=107&xpc=I7WxleUGAb&p=http%3A//www.freewebarcade.com HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8010 just read 8192 bytes from host
+PID:8010 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 01:50:39 GMT
+Server: cafe
+Cache-Control: private
+Content-Length: 9012
+X-XSS-Protection: 1; mode=block
+
+ã
+PID:8010 just read 2299 bytes from host
+PID:8010 just wrote 2299 bytes to client response:
+ ∆ W3\ò}º4=6 ¨Chñk°£∆EJ?[X^bo¿b	Ωü’A6==µ—ûxÍÉx•ﬁNI«úN#2tÿoÀ„&Mõ*∂˜ci¯uô–EﬁD◊lÕS}3∞éM±óhÔoÓ–Õí¡ﬁÅj&ÔΩÌ¨’Ë∏´˚}ÈîìÿqëÂcY·Pt÷Ê6E©ú≤[çáqÀîvÕD[éÿ5À…Jû∞«∫Ó•›"“"—qw¶ÄÒG-–«:d∞R6rELC∆◊'ßIÉ°%µ8pe 5Uò¶LÇ£É©Ç®õÈÅ≤˝£MŒÃhv¢ |d L⁄Õ¸‘≥3jWÁ‰≠2≤ O`¿-IÅvºÍÃ„Å’≥±Xìñ˝û∑ﬁ!Ÿ—x\È-QÚF€Òf@Hçb\7µ\uú‹Éiu∑÷n <“˜dë3ò±Ãn=€XDΩ÷v∂4óßÒ\\Ë3=oÚTØÀ)dhãÏ∞àõ{xè9£∂≈µZÒ‚®Ñ¥µJÑ»EJ⁄⁄∫ÌdChèÛ˝]Ç®=¡pÍpΩZC≈Z:¶dŒ!ŸèG£>ÜÛJé»√§}TTÅ;0ŒûŒNNüÛ)JR§Å…ázß~re£3J≤îÀ•!œÚ√^€ôπ∏dwÀÊ∏Ìâî9p¢(÷˜ΩÉ-Ã˙§)áîlo”‹m°Ùƒø—ƒ$=I†ˇÉ9Båàﬁ à!C‚∏>ß:¯a¬åF…Ê82‡ΩŸ3xôØ˜ÍÄ“Yq@iò(B‘Rt»j∑uQÎ’H«ı¬ßp+Øs‹>ÌòÌv∆”≠,_ª¡2JÍu±’o≥$+Ü{∆‘èGçAîU04®@òΩ^¡ì<≥Oπ«ù9⁄wı˘q´Ú0"®}ê>´N$®	*∑ı„
+PID:8010 just read 0 bytes from host
+PID:8010 just wrote 0 bytes to client response:
+
+PID:8010 job done, returning to server main()
+PID8010 fork is ending cleanly

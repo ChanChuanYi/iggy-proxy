@@ -1,0 +1,125 @@
+PID:7937 Child:Fork has been created
+PID:7937 performing initial read
+PID:7937 request:
+GET http://www.freewebarcade.com/stylesheet.css HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7937 about to start writing to host
+PID:7937 wrote to host request:
+GET http://www.freewebarcade.com/stylesheet.css HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7937 just read 1460 bytes from host
+PID:7937 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:35 GMT
+Server: Apache
+Last-Modified: Tue, 03 Apr 2012 23:24:15 GMT
+ETag: "90110c41-20ef-4bcce9af0d827"
+Accept-Ranges: bytes
+Content-Length: 8431
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: text/css
+
+body
+{
+	background-color: #1D2E59;
+        background-image:url(http://www.freewebarcade.com/imglib/bg.jpg);
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.wreg   { color: #FFFFFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; }
+.wbold   { color: #00000; font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, sans-serif; }
+.wl { color: #1D2E59; font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration:none; }
+.wl:hover { color: #1D2E59; font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration:underline; }
+.gimage { width: 80px; height: 60px; border: 1px solid #000000; }
+.lgstyle { width:250px;height:80px;border:0px; }
+.gintro { width: 250px; height: 250px; border: 1px solid #FFFFFF; }
+.gamecell { width: 16.6%; height: 110px; margin: 5px 0px 0px 0px; float:left; text-align: center; }
+.cma   { color: #000000; font-size: 11px; font-family: Arial, Helvetica, sans-serif; }
+.result   { color: #000000; font-size: 12px; font-family: Arial, Helvetica, sans-serif; }
+.mma   { color: #000000; font-size: 14px; fo
+PID:7937 just read 1460 bytes from host
+PID:7937 just wrote 1460 bytes to client response:
+nt-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+.mmalink   { color: #38508E; font-size: 11px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;  text-decoration:none; }
+.mmalink:hover   { color: #38508E; font-size: 11px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;  text-decoration:underline; }
+.atitle { color: #000000; font-weight: bold; font-size: 20px; font-family: Arial, Helvetica, sans-serif; }
+.gtitle { color: #000000; font-weight: bold; font-size: 28px; font-family: Arial, Helvetica, sans-serif; }
+.ctitle  { background-color: #004B90; text-indent: 5px; color: #FFFFFF; font-size: 12px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+.cfil { width: 16.5%; margin-top: 10px; height: 140px; float:left; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-align: center; }
+.mc { clear: both; width: 615px; margin: 10px 0 0 0; }
+.copyright   { color: #8A9DD2; font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.inst { text-align: left; padding: 5px; width:600px; font-size:12px; color: #000000; font-family: Arial, Helvetica, sans-serif; border: 1px solid #A9AFCC; background-color: #BBC3E7;  margin: 10px 0 10px 0; }
+.sebox { width:90px; height:20px; font-size:12px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-weight:bold; border: 1px solid #FFFFFF; background-color: #1D2E59; }
+.sestyle { border: 1px solid #FFFFFF; color: #FFFFFF; f
+PID:7937 just read 4380 bytes from host
+PID:7937 just wrote 4380 bytes to client response:
+ont-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size: 12px; background-color: #1D2E59; }
+.pnum { padding: 5px; height:200px; width:600px; font-size:13px; color: #A9AFCC; font-family: Arial, Helvetica, sans-serif; font-weight:bold; margin: auto; clear:both; }
+.platest { padding: 5px; height:20px; width:600px; font-size:13px; color: #A9AFCC; margin: auto; clear:both; }
+.numr a { float:left;width:34px;height:18px;padding:2px;background-color:#BBC3E7;margin:2px 2px 2px 2px; }
+.numr a:hover { float:left;width:34px;height:18px;padding:2px;background-color:#A8AFCC;margin:2px 2px 2px 2px; }
+.numrb { float:left;width:34px;height:18px;padding:2px;margin:2px 2px 2px 2px; }
+.prne a { float:left;width:118px;height:18px;padding:2px;background-color:#BBC3E7;margin:2px 2px 2px 2px; }
+.prne a:hover { float:left;width:118px;height:18px;padding:2px;background-color:#A8AFCC;margin:2px 2px 2px 2px; }
+.prneb { float:left;width:118px;height:18px;padding:2px;margin:2px 2px 2px 2px; }
+.rxfp { width:220px;  background-color:#000033; border: 1px solid #FFFFFF; padding: 3px; margin: 4px 0 0 0; color: #FFFFFF; font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+.rxads { width:170px; height:620px; background-color:#E3E4E8; border: 1px solid #FFFFFF; padding: 3px; margin: 5px 0 10px 0;}
+.rsads { width:170px; height:250px; background-color:#E3E4E8; border: 1px solid #FFFFFF; padding: 3px; margin: 5px 0 10px 0;}
+.rxlnk { color: #1D2E59; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-decoration:none; }
+.rxlnk:hover { color: #1D2E59; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-decoration:underline; }
+.rxlnk:visited { color: #243561; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.ralnk { color: #FFFFFF; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-decoration:none; }
+.ralnk:hover { color: #FFFFFF; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-decoration:underline; }
+.ralnk:visited { color: #FFFFFF; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.outerbg { height:100%; margin:0px 0px 0px 0px; }
+.innerbg { height:1200px; text-align:center; background-color:#E3E4E8; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; padding: 2px; }
+.titlebg { height:30px; background-color:#E3E4E8; background-image:url(http://www.freewebarcade.com/imglib/headbg.jpg);background-repeat:repeat-x; text-align:center; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-top: 1px solid #FFFFFF; padding: 2px; }
+.ctbg { height:30px; background-color:#E3E4E8; background-image:url(http://www.freewebarcade.com/imglib/headbg.jpg);background-repeat:repeat-x; text-align:center; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-top: 1px solid #FFFFFF; padding: 2px; }
+.colbg { height:100%; text-align:center; background-color:#E3E4E8; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; padding: 2px; }
+.colna { height:140px;padding:10px;background-image:url(http://www.freewebarcade.com/imglib/catnewbg.jpg);background-repeat:repeat-x; }
+.colag { border-top: 1px solid #FFFFFF;padding:10px;background-image:url(http://www.freewebarcade.com/imglib/catnewbg2.jpg);background-repeat:repeat-x; }
+.gtbg { height:100%; background-color:#E3E4E8; background-image:url(http://www.freewebarcade.com/imglib/headbg.jpg);background-repeat:repeat-x; border: 1px solid #FFFFFF; padding: 2px; }
+.smallbg { height:24px; background-color:#E3E4E8; background-image:url(http://www.freewebarcade.com/imglib/headbg.jpg);background-repeat:repeat-x; text-align:center; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-top: 1px solid #FFFFFF; padding: 2px; }
+.mainbg	{ background-color:#E3E4E8; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; padding: 2px; }
+.gamad { width:728px;margin:10px 0px 0px 0px; }
+.adtop { width:468px;height:60px;margin:10px auto 10px auto; }
+.btad { clear:both;width:728px;margin:25px auto; }
+.rxout { width:33%;height:110px;float:left; }
+.rxin { height:84px;float:left;padding:5px; color: #000000; font-size: 
+PID:7937 just read 1410 bytes from host
+PID:7937 just wrote 1410 bytes to client response:
+13px; font-family: Arial, Helvetica, sans-serif; }
+.rxit { height:84px;padding:2px; color: #000000; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-align:left; }
+.rxse { width:170px; height:50px; background-image:url(http://www.freewebarcade.com/imglib/sbarbg.jpg); background-repeat:repeat-x; border-left: 1px solid #FFFFFF;  border-right: 1px solid #FFFFFF;  border-top: 1px solid #FFFFFF; padding: 3px;}
+.rxnav { width:170px; height:20px; background-image:url(http://www.freewebarcade.com/imglib/catbg.jpg); background-repeat:repeat-x; border-left: 1px solid #FFFFFF;  border-right: 1px solid #FFFFFF;  border-top: 1px solid #FFFFFF; padding: 3px;}
+.rxnab { width:170px; height:20px; background-image:url(http://www.freewebarcade.com/imglib/catbg.jpg); background-repeat:repeat-x; border-left: 1px solid #FFFFFF;  border-right: 1px solid #FFFFFF;  border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; padding: 3px;}
+.rxb   { color: #8A9DD2; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.regxt   { color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+.gxtop   { width:720px; margin-top:5px; background-image: url(http://www.freewebarcade.com/gbl.gif) }
+.gspace   { width:720px;height:10px }
+.gltop   { width:720px; height:600px; margin:auto; text-align:center; background-color:#D9DAD9 }
+.adspace { margin: 10px 0px 200px 0px }
+PID:7937 just read 0 bytes from host
+PID:7937 just wrote 0 bytes to client response:
+
+PID:7937 job done, returning to server main()
+PID7937 fork is ending cleanly

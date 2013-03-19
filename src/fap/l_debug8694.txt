@@ -1,0 +1,73 @@
+PID:8694 Child:Fork has been created
+PID:8694 performing initial read
+PID:8694 request:
+GET http://connect.facebook.net/en_US/all.js HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Connection: keep-alive
+
+
+PID:8694 about to start writing to host
+PID:8694 wrote to host request:
+GET http://connect.facebook.net/en_US/all.js HTTP/1.1
+Host: connect.facebook.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Connection: keep-alive
+
+
+PID:8694 just read 2920 bytes from host
+PID:8694 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript; charset=utf-8
+ETag: "a9197707edb5ea57eb07815448b673ea"
+Content-Encoding: gzip
+X-FB-Debug: fpJd3jP9AJIOLZBIjSDV08URxW8Dqb9Awe7kydhrU64=
+Content-Length: 59093
+Cache-Control: public, max-age=215
+Expires: Tue, 19 Mar 2013 02:00:08 GMT
+Date: Tue, 19 Mar 2013 01:56:33 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+‹
+PID:8694 just read 2920 bytes from host
+PID:8694 just wrote 2920 bytes to client response:
+Ú5´z*ºH{××FÂì?€Âèê&£O¬T5Æ)AAÇpuéÎaRÛİ†ewWªMî¤|Ôê©¥?ß4 â
+*?²Êk}¥ÕnÒ8JÈÔ‰<’ıšê_2O¯‘IH<ÛèùU'i iµ‘ÿyıLPòî™2Wµ6Š…A(Ëúë81éú(¡x}œláBè7Mİ¨§©DĞÁ¸¢Dgæ`N:i¬T XL0Õ^²…ÄXÚj¬%X@eTU¯ÜÆ 
+Ï€µ"ÇØµÆ’K¶–È*•N²¸¸Oğ·FĞû+üŞ*ÚwŠÕ¢ã{å2dtq#SÆíˆÉÅï˜Æ`Ä‹;½ ›ı¤:°å1L [q¬OZ^tò˜YvŠÕ“¤:J¤›'ÒM”å=ÄÜœ$xÇP±²°`İÇ'NĞıA‚—tŒFÇOã=ÌåÒÒ(ÙÙˆŞXXĞWd¹Ì
+”Ôğ•µÊÕü.`û Æ»:b½E½8A/Ğ´L/œ*lÈ¾£WèìÚ
+ŠöØCüñ­ı?fîô“Ñˆ¦İO
+PID:8694 just read 8192 bytes from host
+PID:8694 just wrote 8192 bytes to client response:
+5mMZ„íÙoj©%ÌĞqÒK:‡-+—_Q<®k/ß‹¹şíu4È¿µ0òé m/Ÿ·v“Q³ÇíÚğp¸	whÆÏ4VŸ¢Ño»Éø°X¿*ág‚—d8ëÛËÛËyc¾½<öXËöòéêöòÅîl/?üzòş?¯¼ş¯	ÕÙ~ñ¦ZœÛ¯Z0P¨Gš.ˆ¯¯ÿ5´	'ÙWŒØÑbP‘'¯à…:y?8øB
+_‡í~µZlS„ı9é·ºäëĞÖ‘<|¨ŸùÜtúŸ;pÎ·j0ï,…(.Ğ³dD	DÙIN7XN[ÅWIÿ4ã®^Ô>Úûmxß´iA™¹WKZ­¯2™_Úc¸ÿìñì™-…XW¸ûJ,\¾‚RpAúœ´ßõ÷é«‡p“áÓmÓÉ7}2Ş¡¢oAYÔıb:ür}P¬=y=è·ß’Æ·	…¿v.ƒÏã–„Œ`ØÃñáàlN&ÉHÜÛ‚ñOCwÇE‚ïñIô^{ÌÁ”Ÿ'SxÛG?êgI‡“Ç¼şÄù~¹oNuäom<mb:MöCïLûá½Ó1öà>ğèj3Ù;FI½ÛéËõÇ¸İoáÇçäÂFÙ®\)÷3¶o‡Që3†€ôàã0ÌŞtä<á7m~y—y/j2/†CüüííËïİßÚ8‚õĞ¶JÀkòeÂÏI‘œGˆÌóeäĞ'5lµŞ:ÚYnjËîÅ'çÛà¸ÍAçéäËxˆñ%ÜÁnëô¹¾§œDzËÁ)ñİk\Û0vY
+PID:8694 just read 568 bytes from host
+PID:8694 just wrote 568 bytes to client response:
+Tƒn¨¡t„ ¸İa‰î"Q²ÀRm®…%–˜Ÿ¬[~Eu„¿ƒ>7I¢Hé·7
+PID:8694 just read 4380 bytes from host
+PID:8694 just wrote 4380 bytes to client response:
+ ¿Ÿ-n÷§eM]Ü;i<xP^F»?4Ûù9x.ŒüO¼˜Ñ7%=Ó[—ù»Rÿ˜|d‰Ã…¿ÄÜ5:•Ã”†÷q6_l­eê[³úğl=ólİãÙÃÌ³‡i;Àcéä¿‚æ¹à÷`¦|Ÿ6º‹……ùıÑ£¿Û`ßôú°Ñi¯<–{è/2&ò_K(KÎ¦·`«`«¶»“]0h%I8IBçR‚°f½R2kßïYé>fèã¶1‹u—'¶×è7VF˜‚³Æ5?)2f[	'ÍíÇsŸÕ:á0…"ûºQæÕ‚]_¥¸I‰ágH”4gË¼* c8Ğ>P‚r›¢/“œV÷d:çÕCƒ²iãyEpNVã¹y®â0›Î-
+PID:8694 just read 8192 bytes from host
+PID:8694 just wrote 8192 bytes to client response:
+¡gÊ°ÍÚ6pDq£Œhå‘UœL¾&î~´Á¯·äèë˜‰>ŸºŞaYXõğ>ñép_€v¢ò ts_Ğœà“/Fb÷ˆNÇ¥Îg<Ø˜ë5Œ=Ê¸Ñ„~à37÷‹NkwúíØ¥fVÏëŒsÌ»ìGF‚‘Ø0Â€ÕWî±\ñÙSÒ¹ LHÓúÑŒ& JÓÊtÎùîXÂQ¬íÇ”´.İœ4~?xñ„ÍqÂcàÔÖ¢‹_{8¶\t7”µğ ô(ŠSãM*‹SÙNŞÚ4bÅ<k@
+PID:8694 just read 568 bytes from host
+PID:8694 just wrote 568 bytes to client response:
+t¥>=æÒÒJ6 Á¶¡±*§B×du©H‰åæ•€š²¶Pß\*—z>ÂWpë 
+PID:8694 just read 2920 bytes from host
+PID:8694 just wrote 2920 bytes to client response:
+Ä²Š.FÈØ.—8ZNÄFC@—©R
+PID:8694 just read 2920 bytes from host
+PID:8694 just wrote 2920 bytes to client response:
+'¡’qh W!\0¹í	œ/è"-˜ÀîçoRvzä{¤~úTÇp3k¿ÄÂğ¡—S©¤û¦[ewD6³gÙ OHjÄ0‡y
+Ww‘1øìİç¤õI	[˜f5úl§ÒëÉ lÿë'å°¨HGòI‰©àsÄm—ãëªÅ¤8¸€¦Ó˜|9	|ĞÚ«»t´ß=?¨óê°¡¢xqš¡¥<éğjfAÜá7hAO÷±’zBK°–p[‰vH]ÊğÂt÷=1‡}M5º£JdƒR³Ô$„4èıåÅ»pÔıøjÃ”Zc|Ã52‘yğk™„úÂŞ;ıWĞ&¬º‹ß9KXdf
+PID:8694 just read 4380 bytes from host
+PID:8694 just wrote 4380 bytes to client response:
+ß8h!£³dí"sÕA.Áòÿ8ğn &H‰gšÈ˜Qæ$ÈV

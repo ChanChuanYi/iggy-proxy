@@ -1,0 +1,53 @@
+PID:8613 Child:Fork has been created
+PID:8613 performing initial read
+PID:8613 request:
+GET http://www.iana.org/_css/2013.1/screen.css HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.iana.org/domains/special
+Connection: keep-alive
+
+
+PID:8613 about to start writing to host
+PID:8613 wrote to host request:
+GET http://www.iana.org/_css/2013.1/screen.css HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.iana.org/domains/special
+Connection: keep-alive
+
+
+PID:8613 just read 4381 bytes from host
+PID:8613 just wrote 4381 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:55:30 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Mon, 04 Mar 2013 22:24:59 GMT
+Content-Length: 6042
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: close
+Content-Type: text/css
+
+‹
+PID:8613 just read 1460 bytes from host
+PID:8613 just wrote 1460 bytes to client response:
+şdÄ¿Ôà£¸±@²Â,ÏXpõ)î´¡–k9——ÆŞ_/ã[^!q‘“x2 çÑ:< §ıÂ}ªØÅĞYâv,u¦æ5iÙS˜îQP:$k«û 0é°ŠôåzHu­VxVí„êõ9Á‰#Á(ÆPÇÂ¬\êâ\¼••	÷[¨’©ÚlñÁS±¿p¼Õ\k²Nâ†±JGõdÍ"}¹Èò»\ü!ÔW¼XCH–Ùš,‘Yi:#étf±LaM¸’p¸Ã1,µÆşC$g—‘…9£ˆÁH
+g¶!­1×@ºe'C¼ô’®QE.¯ù2i‡ÙO€ĞKB> 9–ÊÊpdİn•Pì¾gE·#Å¹ŒÀšL°*fGæÖĞvPÒ±Z JÑERçxL·á5 6Ä›]^Ø7ğ©ÉÓ²·Ş2æw«4&Ş
+Eu\¯ŞÇM
+ƒfˆí 6LØåÂ+³K¬¸±:kÑÁàå<ˆì‰Á¹Î^£“…—¸Öa›?a”D;­kô,ob-Ø­gØ0]p²CAáÌ»§
+PID:8613 just read 446 bytes from host
+PID:8613 just wrote 446 bytes to client response:
+ñ¼C]†ú!kö2òõ±æÀ½8Ê2S5ôÕ*áuøP\«…/ìğß"c—'Ïó}¬H§ü’l‡>çEºh­ìã5Ñ¿bêÃÙr}‘gs3›ÎèbÃíê›4™Mçä^&¥™-CÇÈ¹mUé
+¯	úyìÿºü‰Áë¦µg¿Î†>³‡_êtÑ„—Ó'`ò¡í¿±£L)÷†ÙâÑÙ§Ç[´p‚ô²Ğ;€ù¬aˆÍ%ä>¡ìBÈıÔu;Ğ'º:.fìä·VŠP×úu-ø*~h/²‚!ŞÎ‡gVÀ¼…o ¡xW/yFª¬ïÜ@æîSPa03‡9Ğrš—Ò †ííóè™iö$»×—D@º”ƒXj,T@zdá¶¯…tØ–âÄJtíásÆÄ½o«¯{†S‡ìÁpêu"àùœBêö³4*%³…–a½!µ1Â{îF“-„uĞa"í}Í'ó±J¹0
+PID:8613 just read 0 bytes from host
+PID:8613 just wrote 0 bytes to client response:
+
+PID:8613 job done, returning to server main()
+PID8613 fork is ending cleanly

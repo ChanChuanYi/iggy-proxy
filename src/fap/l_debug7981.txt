@@ -1,0 +1,91 @@
+PID:7981 Child:Fork has been created
+PID:7981 performing initial read
+PID:7981 request:
+GET http://www.freewebarcade.com/imglib/bg.jpg HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/stylesheet.css
+Connection: keep-alive
+
+
+PID:7981 about to start writing to host
+PID:7981 wrote to host request:
+GET http://www.freewebarcade.com/imglib/bg.jpg HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/stylesheet.css
+Connection: keep-alive
+
+
+PID:7981 just read 2920 bytes from host
+PID:7981 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:37 GMT
+Server: Apache
+Last-Modified: Thu, 24 Dec 2009 00:49:52 GMT
+ETag: "700007c7-2423-47b6ed12e156a"
+Accept-Ranges: bytes
+Content-Length: 9251
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/jpeg
+
+ˇÿˇ‡
+PID:7981 just read 1460 bytes from host
+PID:7981 just wrote 1460 bytes to client response:
+!1AQa"qÅ2ë°±B#$R¡b34rÇ—C%íS·Òcs5¢≤É&DìTdE¬£t6“U‚eÚ≥Ñ√”u„ÛF'î§Ö¥ïƒ‘‰Ù•µ≈’ÂıVfvÜñ¶∂∆÷Êˆ7GWgwáóß∑«◊Á˜
+PID:7981 just read 2920 bytes from host
+PID:7981 just wrote 2920 bytes to client response:
+          
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                 
+PID:7981 just read 2232 bytes from host
+PID:7981 just wrote 2232 bytes to client response:
+                   
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       
+<?xpacket end='w'?>ˇÓ
+PID:7981 just read 0 bytes from host
+PID:7981 just wrote 0 bytes to client response:
+
+PID:7981 job done, returning to server main()
+PID7981 fork is ending cleanly

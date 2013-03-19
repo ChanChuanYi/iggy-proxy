@@ -1,0 +1,46 @@
+PID:8337 Child:Fork has been created
+PID:8337 performing initial read
+PID:8337 request:
+GET http://sa.bbc.co.uk/bbc/bbc/s?name=home.page&ns_m2=yes&ns_setsiteck=5147C4D1527F013B&geo_edition=us&pal_route=default&ml_name=barlesque&app_type=web&language=en-GB&ml_version=0.16.1&pal_webapp=wwhomepage&bbc_mc=not_set&screen_resolution=1366x768&blq_s=3.5&blq_r=3.5&blq_v=default-worldwide&ns__t=1363657936575&ns_c=UTF-8&ns_ti=BBC%20-%20Homepage&ns_jspageurl=http%3A//www.bbc.co.uk/&ns_referrer=http%3A//us.yhs4.search.yahoo.com/yhs/search%3Fp%3Dbbc%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D HTTP/1.1
+Host: sa.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: BBC-UID=c57114f7dcf4db15824d37a891a16d91bee2c783e4f491aeea41e4f40cf499ac0Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20x86_64%3b%20rv:19.0)%20Gecko/20100101%20Firefox/19.0; ckpf_ww_mobile_js=on; s1=5147C4D1527F013B
+Connection: keep-alive
+
+
+PID:8337 about to start writing to host
+PID:8337 wrote to host request:
+GET http://sa.bbc.co.uk/bbc/bbc/s?name=home.page&ns_m2=yes&ns_setsiteck=5147C4D1527F013B&geo_edition=us&pal_route=default&ml_name=barlesque&app_type=web&language=en-GB&ml_version=0.16.1&pal_webapp=wwhomepage&bbc_mc=not_set&screen_resolution=1366x768&blq_s=3.5&blq_r=3.5&blq_v=default-worldwide&ns__t=1363657936575&ns_c=UTF-8&ns_ti=BBC%20-%20Homepage&ns_jspageurl=http%3A//www.bbc.co.uk/&ns_referrer=http%3A//us.yhs4.search.yahoo.com/yhs/search%3Fp%3Dbbc%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D HTTP/1.1
+Host: sa.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: BBC-UID=c57114f7dcf4db15824d37a891a16d91bee2c783e4f491aeea41e4f40cf499ac0Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20x86_64%3b%20rv:19.0)%20Gecko/20100101%20Firefox/19.0; ckpf_ww_mobile_js=on; s1=5147C4D1527F013B
+Connection: keep-alive
+
+
+PID:8337 just read 361 bytes from host
+PID:8337 just wrote 361 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:52:17 GMT
+Server: Apache
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache
+P3P: policyref="http://www.nedstat.com/w3c/p3p.xml", CP="NOI DSP COR NID PSA ADM OUR IND NAV COM"
+Content-Length: 43
+Connection: close
+Content-Type: image/gif
+
+GIF89a
+PID:8337 just read 0 bytes from host
+PID:8337 just wrote 0 bytes to client response:
+
+PID:8337 job done, returning to server main()
+PID8337 fork is ending cleanly

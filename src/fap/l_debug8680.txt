@@ -1,0 +1,140 @@
+PID:8680 Child:Fork has been created
+PID:8680 performing initial read
+PID:8680 request:
+GET http://www.teliasonera.com/Static/js/textarea_maxlen.js HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8680 about to start writing to host
+PID:8680 wrote to host request:
+GET http://www.teliasonera.com/Static/js/textarea_maxlen.js HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8680 just read 1460 bytes from host
+PID:8680 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: private
+Transfer-Encoding: chunked
+Content-Type: text/javascript; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:31 GMT
+
+8be
+var CSSrules = {
+    'textarea' : function(element){
+            element.onkeydown = function(event){
+                return doKeyPress(element,event);
+            }
+            ,
+            element.onpaste = function(){
+                return doPaste(element);
+            }
+            ,
+            element.onkeyup = function(){
+                return doKeyUp(element);
+            }
+            ,
+            element.onblur = function(){
+                return doKeyUp(element);
+            }
+    }
+}
+
+Behaviour.register(CSSrules);
+
+var detect = navigator.userAgent.toLowerCase();
+
+// Keep user from entering more than maxLength characters
+function doKeyPress(obj,evt){
+    maxLength = obj.getAttribute("maxlength");
+    var e = window.event ? event.keyCode : evt.which;
+    if ( (e == 32) || (e == 13) || (e > 47)) { //IE
+        if(maxLength && (obj.value.length > maxLength-1)) {
+            if (window.event) {
+                window.event.returnValue = null;
+            } else {
+                evt.cancelDefault;
+                return false;
+            }
+        }
+    }
+}
+function doKeyUp(obj){
+    maxLength = obj.getAttribute("maxlength");
+     if(maxLength && obj
+PID:8680 just read 1023 bytes from host
+PID:8680 just wrote 1023 bytes to client response:
+.value.length > maxLength){
+           obj.value = obj.value.substr(0,maxLength);
+     }
+    sr = obj.getAttribute("showremain");
+    if (sr) {
+        document.getElementById(sr).innerHTML = maxLength-obj.value.length;
+    }
+}
+
+// Cancel default behavior and create a new paste routine
+function doPaste(obj){
+maxLength = obj.getAttribute("maxlength");
+     if(maxLength){
+        if ((window.event) && (detect.indexOf("safari") + 1 == 0)) { //IE
+          var oTR = obj.document.selection.createRange();
+          var iInsertLength = maxLength - obj.value.length + oTR.text.length;
+          try {
+          var sData = window.clipboardData.getData("Text").substr(0,iInsertLength);
+          oTR.text = sData;
+          }
+          catch (err) {
+          }
+          if (window.event) { //IE
+            window.event.returnValue = null;
+     } else {
+            //not IE
+            obj.value = obj.value.substr(0,maxLength);
+            return false;
+        }
+        }
+     }
+}
+
+0
+
+
+PID:8680 just read 505 bytes from host
+PID:8680 just wrote 505 bytes to client response:
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Tue, 19 Mar 2013 01:56:31 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+PID:8680 just read 0 bytes from host
+PID:8680 just wrote 0 bytes to client response:
+
+PID:8680 job done, returning to server main()
+PID8680 fork is ending cleanly

@@ -1,0 +1,49 @@
+PID:9021 Child:Fork has been created
+PID:9021 performing initial read
+PID:9021 request:
+GET http://g-ecx.images-amazon.com/images/G/01/icons/icon-offsite-sl-7069-t4._V171196157_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9021 about to start writing to host
+PID:9021 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/icons/icon-offsite-sl-7069-t4._V171196157_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9021 just read 1840 bytes from host
+PID:9021 just wrote 1840 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 730
+Connection: keep-alive
+Date: Fri, 07 Oct 2011 01:19:35 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Mon, 31 Jan 2011 08:09:43 GMT
+Age: 77823961
+X-Amz-Cf-Id: Vkl97PpsggGFXJzvea3j_JaX9lRC9jqvvmKkpp5dhZkmu8qTWjM1Kw==
+Via: 1.0 97c6b55b57150154266d7abbac95b9d5.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:9021 just read 0 bytes from host
+PID:9021 just wrote 0 bytes to client response:
+
+PID:9021 job done, returning to server main()
+PID9021 fork is ending cleanly

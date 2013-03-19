@@ -1,0 +1,86 @@
+PID:8131 Child:Fork has been created
+PID:8131 performing initial read
+PID:8131 request:
+GET http://assets.tumblr.com/javascript/application_tumblelog_jquery.js?14c56df298a97c317a49696618513d76 HTTP/1.1
+Host: assets.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8131 about to start writing to host
+PID:8131 wrote to host request:
+GET http://assets.tumblr.com/javascript/application_tumblelog_jquery.js?14c56df298a97c317a49696618513d76 HTTP/1.1
+Host: assets.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Server: nginx/0.8.55
+Content-Type: application/x-javascript
+Last-Modified: Mon, 18 Mar 2013 20:30:07 GMT
+Accept-Ranges: bytes
+X-Varnish: 4231773474
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=2572805
+Expires: Wed, 17 Apr 2013 20:31:20 GMT
+Date: Tue, 19 Mar 2013 01:51:15 GMT
+Content-Length: 60241
+Connection: keep-alive
+
+‹
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+µ˜XØ]hèm[<ûƒÏ"í!'şRJÚg¤L(CíQµH¤¢^†é|Ìe[añz*•òá"	ğ6L24•Ï$ ÷!}L"È…Y´
+)_”†fÃ$Â.§ğ!³ê­¨ß«Uö
+Ä×ñr/6L%µzjÁb°K‚ïÁ2>+°ªuÕ
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+u%b½Æ$ö„i(ÌjĞ-+İšL†•õõûû{äë®«Ã²´~;±‰Cà‰Iİ±ké0õì^
+Ÿ•º¦S¤çaİğG!n'¯ÃØSX„ºöc
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+ˆ=lÎZvÀL*7|HeaB¦h™ÊhøCMBõ
+ÕŞ
+PID:8131 just read 8192 bytes from host
+PID:8131 just wrote 8192 bytes to client response:
+E"h_™ÿE¾Xñ§$EÌ5ÚVÙ½†¬^Æx®qUä$öÉx¦O†Ü#/lßµç1‡&n&UØfnñ¤‚½#-%íÍƒÉÇÎşñ°^!äiJÃ«[‘ıƒğê
+U>äc\W	|é­;û:â?ƒF¬Ò¼AâZø”^å¸/µ*Yjê±é\D5’búp6ŠœVR;B!Åâ×ÏµÅ
+¨ùB'¥è™ò
+PID:8131 just read 568 bytes from host
+PID:8131 just wrote 568 bytes to client response:
+—x¬™SgßõÂPÙSçûğd>Z{s1Y š[ö“£€µ†°Sù"{ÇE/ŞªU)=¤«1ó5
+ş#¤7â­,Ö¶Ø:rO©F£µºŠ¦àÙ=FïÍ$°µµ
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+!ïeq]Ğ
+gšÍná~—£–ÊÓ?#a„ê¶n<)
+PID:8131 just read 8192 bytes from host
+PID:8131 just wrote 8192 bytes to client response:
+ì«%ÆXàz9Ïtógøµ¸ìh(Ëÿà?x9ç9Ç~†ü$bß
+PID:8131 just read 568 bytes from host
+PID:8131 just wrote 568 bytes to client response:
+8×ñİçÈ½éĞ7xè'rPgô¤İÉPÃÖ,5|æÏÑFËi²ù>\ıXşùs™ş·şøHaã_VãKYË¢«¹dëÖ(˜øÅYæ£pì¶Â'àPÓÈUƒjõcµJ¶–shá0oõğ—Ê^õòÏUÏjİÁˆ‡±ñÜÚ.¿í/µvŞª£çŸŒêJ>=7AùW¬Ö‰ñ\³I“zkÖœòÛÖ1òÒz¨‡H»(VAï
+PID:8131 just read 1460 bytes from host
+PID:8131 just wrote 1460 bytes to client response:
+º² >ÁyZ[†‘=ŸMhí©s¬•±›rYä£Qê¡ø·)µb?(½rĞl¥öò ™GÒiSG,—es×kLoRa½†˜Åê÷}WaDÙá’¬â'
+PID:8131 just read 8192 bytes from host
+PID:8131 just wrote 8192 bytes to client response:
+²´¸À‰:€hÆê~8œÕ"ÀWK¯œ©ğƒgù)òŞè–âl„«ëÖGw'Ø–ªâŞ»wÅ=k7ÿ¼àwmw10vÅÂûñ§2‹ÓÃ;æREu”â¨™í0%‡²â·z+ªeƒ7ÑWMÉ‡Ş£]9ô.Ûjê4<9gúÉİO¿âê?uGZœ>†ğ	¿æ.Ÿ?ÅÊxİ\¾­âÁÇğIù\ñ‰·-¸}_A·²¼%V¶ÖrÔ~şvğ—Ú¥¿Ô&ı¥š©ŞâS®~»t}m m­|ÒµSíÍ™ê¸"Ui½LPÒo,¿¼ï®ÉÖWu#€¾]ÎàÉPĞy*”,ÂÅŒØê® öúm.ş¼­ßÒï·àm~¶ñ³,U¸;SóÅ®¼OQ¿ºRUëß=ôo•Åœ5‘Vké5é~¬YŸ¼^+f2™ï³»“Şá—É¹¥WH³•©!ñÎkù¹ùèŸµ¯¾ó-”8õà¡ÿŠõëï—'§®&BİRk‹¤ZÕ‘¨°åÙ?©B;EDê#
+¬ÛèG©±Óqf®C_;$}¥ø‡ê4pHÚKØÑÇ_Â~c¤Üv\—#?Í dÓv¸öÀ¯KáÎâŠP‡óı‰~ÜS«çdæzœ‰é¥Ş|Î~ÆËú¢
+{P}
+HãÚC¬ŒĞ]Êl9ogm®J¿•9OµªÊ‘'rà¾¸„J'ù¹’Ó+*»ÆkRş0‰T¤r«¢tñü@´uv«¢õ@}©‹2bwş,Ğ²§óYR~zôë`şTxM4I«£9°ØÚı5(}}yâôšah†b÷S`„†úc&È¯úF8,Êgz§¢ÖºŸ8\ wà1½HS—ÃéşJã›ÁÁ…ÃĞÀ:-³Óëší2Š¯œyM`fÏ5å´ãš
+PID:8131 just read 2028 bytes from host
+PID:8131 just wrote 2028 bytes to client response:
+tËÅC³x@_¼°\Ü3Kå®é†åîÄôœòs¿¼O<•Ø.,+¡‚Rµ|§\JÏ1›¾#şNRâ3ıìƒ·H´"ùÖ¡ç¶ÉÜ¿Ìh&ôrşß-`¯J‰'–D:Ìäğw%‡}¯+=äÏTáfúÌUµ'f‡ZéIyÓF,*®	Û+ûG¦û¹ÜËrÁ|*?:<|BÇKü)ÑëfùÇ/óœ½:ß©e/.{g¦

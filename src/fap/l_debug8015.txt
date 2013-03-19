@@ -1,0 +1,51 @@
+PID:8015 Child:Fork has been created
+PID:8015 performing initial read
+PID:8015 request:
+GET http://www.freewebarcade.com/collections/match3.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8015 about to start writing to host
+PID:8015 wrote to host request:
+GET http://www.freewebarcade.com/collections/match3.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8015 just read 1460 bytes from host
+PID:8015 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:40 GMT
+Server: Apache
+Last-Modified: Wed, 23 Dec 2009 20:00:07 GMT
+ETag: "f00f2470-165b-47b6ac4ea6689"
+Accept-Ranges: bytes
+Content-Length: 5723
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8015 just read 1460 bytes from host
+PID:8015 just wrote 1460 bytes to client response:
+tpÊ*–BÊ*‚dÂˆ&—HFeUHv€ajŒÁFw°Ñ€ìˆUHæH
+PID:8015 just read 3083 bytes from host
+PID:8015 just wrote 3083 bytes to client response:
+Es“;Ğ@/¸‡vÀB²x…+Fı
+eĞ‚”XG€'ğAĞ:ô¡è7ªnğêmˆÖ Ñî0GNna¼`Å(J!‰P`âŠP2!a„Ã‰à-taŒWˆÚ¶u5f¡t$ âH	:Å‡Æy	Lbb#Ì4\ƒrã»Ã4¦yBWf8Ú*´ø¤O¤bJUj„&4¡pÌ½XÆ/~ŒWØââ£v0`o<€Äà€	øà©?oT¥ÿ’·Ş
+PID:8015 just read 0 bytes from host
+PID:8015 just wrote 0 bytes to client response:
+
+PID:8015 job done, returning to server main()
+PID8015 fork is ending cleanly

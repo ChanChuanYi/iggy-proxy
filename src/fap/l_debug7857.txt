@@ -1,0 +1,69 @@
+PID:7857 Child:Fork has been created
+PID:7857 performing initial read
+PID:7857 request:
+GET http://www.linuxmint.com/img/ads/info.png HTTP/1.1
+Host: www.linuxmint.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/download.php
+Cookie: __utma=244176024.99583986.1363051997.1363112458.1363657721.3; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=244176024.1.10.1363657721; __utmc=244176024
+Connection: keep-alive
+
+
+PID:7857 about to start writing to host
+PID:7857 wrote to host request:
+GET http://www.linuxmint.com/img/ads/info.png HTTP/1.1
+Host: www.linuxmint.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/download.php
+Cookie: __utma=244176024.99583986.1363051997.1363112458.1363657721.3; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=244176024.1.10.1363657721; __utmc=244176024
+Connection: keep-alive
+
+
+PID:7857 just read 1460 bytes from host
+PID:7857 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:47:26 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
+Last-Modified: Mon, 05 Apr 2010 09:29:05 GMT
+ETag: "1d6065e-5803-48379f5cd5a40"
+Accept-Ranges: bytes
+Content-Length: 22531
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/png
+
+‰PNG
+
+
+PID:7857 just read 1460 bytes from host
+PID:7857 just wrote 1460 bytes to client response:
+²›Üü=¬É®©Œ2îYuvõìÄ[Î{Û®þá9óãê›®²
+PID:7857 just read 4380 bytes from host
+PID:7857 just wrote 4380 bytes to client response:
+?½õÇ
+PID:7857 just read 4380 bytes from host
+PID:7857 just wrote 4380 bytes to client response:
+.4.ŽçìgVcÏr+°ó#}ÕØëJbñ½þºtÀ-Ylg¶9æÜfa-Ù€ˆ”³»Ø[Î.À°X(X½ò]I]¦ÝIýmŒÅnfÒk0,v9+4æ˜ß1ûû©½†l˜œèžáç3‘ÒxS¯¶än)»^«X>ØKæ7`´:ˆî¾!47³ÂoRH¯o¼éüóÓ4¾kS•‹¹áÐ+UV;+sÄ®a”zQŒì¨b‚67ÑÕ;ˆÑjË*"7#ù¨XÎ3¢llÝ¶ÇÈ9{HµcÃŽ¯™ÏW2Ö ™<ðL¹F„ù×cŒð²ÒóÚ*Ãòg¢>gÏêl#ý6f¶÷-½´t3Cá¼8’[@æ‹§C0ÎˆXú£n[á|"g.@8	8ÛmÉ®XvµÎ&«]q‰e8&×Þìkeûˆ'.j‘Éw,f·ærdVÚÝŒ}¿ÖƒÕ.´Ìg’ÝÌY…Ž9ê{øÂ"ˆÝý˜9uBºcû%pì!¼ä–AçýûF¬w[iX*6ÍŽ†"¯GlÚC}¡vFå-EÒ9 FKcoÛBÂ8laÑÎ‘ÔÆ&f5ž"ßuo‰ÒÛXÍ±)Èù–/lœ{.Î™ïìštâæ'YoÒ¨E=/¾H¿ÄØï³{>»÷;Ûñ¾‡ A»£²Á"#ŒiÂxF,l>jè…pnºßJ—ElëÖÍ}S“Ù¹|"n•ï'p8Éô^©ÜXæ˜CÈbU&ûNö0yŸêòhi$,™[ÄÖÎÔXKTj¤i¼Ž@„åÂD~Ä­ÿÂ–]xß—oUw´e×€ÝY¹ÌðÄ{”ÎÉ×ÒTÀØÝÝ%óJhntn¡ÏGÎ2€!¨]5_œØds¼5Ù÷+<º¤rÜòç.æ¡¶ýÌÈ^+1/¼X— ]TØy‘ÇÕ*<bÔñ+{À˜%TRT ù7«a›ß¬Q˜tüUCxÁð=Wç>pÄ¶ë¹¸ƒ-ÐDú	Ræ€¨ïÌ]Î<4uŸaíW2Áso€ø$?#—õPÉ¹àÏ?º_ýE†FÊh×ˆÁáòž¥iÈ¢þÙG†D¡2îzd{ü3îñ˜ÀÓž¥sÆ·4`px]Ý}xÍ‹Z]L+
+PID:7857 just read 2920 bytes from host
+PID:7857 just wrote 2920 bytes to client response:
+S7¸X( P$gÄÅ
+VyÎÛ‚‰@‘œ^<W“ÇnrŠJ‚<´ŸcN/s%&ÏÍæ0¤Ò1›Ð&g—Ì2yN¹¨û&ÔZaB)"=¶ñ+ÚÑ’©™ßôˆ#UäcE°¾|œysî÷
+Œk­Ê‘²-‚ä/"¬qò¨}üdâBQèd*6FMÿ®VRcM×¨Ÿ«ƒrµŠÛW”pÃ]ãP6„–æfŒkna´b02Z	wÚ§y	Šh(&0ÌÂÀÐ0‹g7ˆ“–VP*¦;f¡dqi!5Ìb‚bRãÌwÜ$]S•Å	×èk17&âÛøáP OÙ‹…´K0§)ŒÕ•”Š7Uk{þ\•iØ=3|É¢Zk©hù(²D½X2Â¼’
+PID:7857 just read 4380 bytes from host
+PID:7857 just wrote 4380 bytes to client response:
+YìÊÊS!Fïåa‘îŠn8îuÙfµîóªEì7ÉÁk°k­J®Ö9ÑÂwÝ)QEã¯ŽóËIÇ„ªQ’Ûõä‚åX¿3‹¬àð;Âk@Déîª¸ŒGØ8z!ðK‘fÙ¨^¤y£2áó©T¢A}HM¦OœsÈ1-i÷Êª‚Jä\åæßÖöZuÍÊ“712Y…ËxÇˆ #ÛgøÞ8¨¨!á–Ùé!‰ôªU¢Ó±Qõ€^Ë ™ç!vÈ®_¹E¦…ãíú7ÇŠ1¢Ð[ö¬(ƒß4”Tþ<ñ*Ë†ñ‰žQbµ'+žAád7±–’D#åŠÙuJ÷×gû¨ž1ä‰™«|š‰°ÊjHøí)g:±9gK$Y)çE</ƒhÂ»
+¾@FµÍ´ß›çÿ­L‘Ç@Ù"_üœrì€¼Ž$2	¢ëDîÚ;Â©Å’"ÓA+¼0GTà‚‰ÎM.Juü´#»âa¥+“¥…Yé…+VŠ¬Öq» Øæ}ô•C^‹KH)òk™ÿðºñøX1
+PID:7857 just read 3885 bytes from host
+PID:7857 just wrote 3885 bytes to client response:
+ùk|úc×áÊÿ¸7\ó
+PID:7857 just read 0 bytes from host
+PID:7857 just wrote 0 bytes to client response:
+
+PID:7857 job done, returning to server main()
+PID7857 fork is ending cleanly

@@ -1,0 +1,60 @@
+PID:7938 Child:Fork has been created
+PID:7938 performing initial read
+PID:7938 request:
+GET http://www.freewebarcade.com/imglib/logo.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7938 about to start writing to host
+PID:7938 wrote to host request:
+GET http://www.freewebarcade.com/imglib/logo.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7938 just read 2920 bytes from host
+PID:7938 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:35 GMT
+Server: Apache
+Last-Modified: Thu, 24 Dec 2009 00:50:03 GMT
+ETag: "700007cf-2458-47b6ed1cac507"
+Accept-Ranges: bytes
+Content-Length: 9304
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aú
+PID:7938 just read 1460 bytes from host
+PID:7938 just wrote 1460 bytes to client response:
+E‡ØB}¬aÅ(E+
+PID:7938 just read 2920 bytes from host
+PID:7938 just wrote 2920 bytes to client response:
+D€
+Ã	–Êà
+ª0&ˆŒ6ğ‡w]àS¤ÛIdÿPPP KÊÀ€m0ºğg¹€gK‰dpEà
+R
+PID:7938 just read 1460 bytes from host
+PID:7938 just wrote 1460 bytes to client response:
+¸z±´-0ƒÎë©gé+Ê9çœ˜ÀŒ28Ï¯H‚‘`¤)¶Èj˜ùA”Oz ¸İéd†lÀDâ1ÆH@æ=÷|ie “Bê%8Û¢¢—OD1…eà`–f˜“ÏPÑyÛÈ)94Ğ¤|˜…Š,¶€@3¶™`‚k¤8Â” h¢eŞòl0ÑƒaA
+>à´q¿à%kÀ€0Yyí ƒ8Èğÿ2°nÊà"
+PID:7938 just read 824 bytes from host
+PID:7938 just wrote 824 bytes to client response:
+ÿàòÔËõ|èÀ®^x<\`|àƒéMPxÌsİ÷ÈG¼8€÷Âg ˆ—~ËS¯z‡·~!È{6ïú˜ ñ_<¼¿ûx õv÷ıäsú=t Xp?‰ü¾
+PID:7938 just read 0 bytes from host
+PID:7938 just wrote 0 bytes to client response:
+
+PID:7938 job done, returning to server main()
+PID7938 fork is ending cleanly

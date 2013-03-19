@@ -1,0 +1,49 @@
+PID:8858 Child:Fork has been created
+PID:8858 performing initial read
+PID:8858 request:
+GET http://g-ecx.images-amazon.com/images/G/01/gateway/csw/notch._V156949262_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8858 about to start writing to host
+PID:8858 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/gateway/csw/notch._V156949262_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8858 just read 1466 bytes from host
+PID:8858 just wrote 1466 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 356
+Connection: keep-alive
+Date: Mon, 23 Jan 2012 18:47:42 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 21 Jul 2011 20:40:59 GMT
+Age: 36390165
+X-Amz-Cf-Id: qBitOJ1u1H40OkLqr6eTw7XqWTD3kYeAmZrB3mgyK0gUC8io6jH6JA==
+Via: 1.0 ad99536ff403d2cc3683fe48b64e4400.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:8858 just read 0 bytes from host
+PID:8858 just wrote 0 bytes to client response:
+
+PID:8858 job done, returning to server main()
+PID8858 fork is ending cleanly

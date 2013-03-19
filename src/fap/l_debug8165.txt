@@ -1,0 +1,91 @@
+PID:8165 Child:Fork has been created
+PID:8165 performing initial read
+PID:8165 request:
+GET http://25.media.tumblr.com/5bcfe4a3b6b98340c308f8be32147257/tumblr_mj8rxjQAlr1rqpa8po1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8165 about to start writing to host
+PID:8165 wrote to host request:
+GET http://25.media.tumblr.com/5bcfe4a3b6b98340c308f8be32147257/tumblr_mj8rxjQAlr1rqpa8po1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8165 just read 5781 bytes from host
+PID:8165 just wrote 5781 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: KW1w1h+pJ3yjesjMsKnU1skFmVOmPZjNLlBqyvvEnhbSxuWvhkDGzauYEcwBV2ZX
+x-amz-request-id: FE43F7E919930EDE
+x-amz-meta-idata: v=1;i=Is31ubySlTNg9gmlzvQT1g==;d=adqaZ5+larIxx4UA0P0hcxWE7fGW0DpSK7JhNdV7vX4ll2xV+U4D5ZZw49ndFJMN4tI3VsRirKbkVgKIhhXHDw==
+Last-Modified: Wed, 06 Mar 2013 13:53:46 GMT
+x-amz-version-id: K7cdzCRy7nMzp0y6TK3SI03amOvAqktl
+ETag: "676186d96f4731ffe855c240138e9ab5"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 113384
+Server: AmazonS3
+Cache-Control: max-age=30456143
+Date: Tue, 19 Mar 2013 01:51:20 GMT
+Connection: keep-alive
+
+ÿØÿà
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+E!YS-4aø
+Ã’xÓ`¤ŠCŸ{şúµh“vÂÇÙÉÒ*(;psôÑCÜÈ‚’
+PID:8165 just read 568 bytes from host
+PID:8165 just wrote 568 bytes to client response:
+aÚwíé£ß:ª¯wN¦ioJ{wSĞAi›m4ïS$~0%rÁ®“¸Éò©
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+áğ
+PID:8165 just read 2028 bytes from host
+PID:8165 just wrote 2028 bytes to client response:
+	qoŒ‘á±Ş.s	§»_-” ƒà›‰j™pAÃ•%"SŒ]ÌA>eí©•}4µ‘„KíşA’³Cr0ÉÉ©B§Øï©&[­~µEÂ
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+CKºYˆîxÈ¤áGrF¡Íc—¨`•:š%£œsi8’—ÚrF&?Ñ#ÃÍÚ‹aé+LÅ4”}EWz¨™¥–òQç‘s•ŒM)D^Ê¥\\uoOxJ…¤¬¦–©ÁØÄ˜ïá¸Ê¿¿v;¨ÕUz	åùğG§²¥½DVYZ‰B%8éÀ
+PID:8165 just read 4948 bytes from host
+PID:8165 just wrote 4948 bytes to client response:
+·Å%“IúBê¨õ
+,C2è¹á‰ãsãÍŒ(M„µD¥sš	%;~]ÏhØşá<!ô$!ı“«%ÛÇ~2x÷×¦Š9•£$xİJº0á”ŒG¨:İÇ¶¸Ì»A$÷ÉÈíªÚÊ©n%ªß&wCWU´#˜„Odœ·—T©{™¯ÓtÍV'§§Z£p1¶ÓN[
+Ë¦©xÜ;¬e%#-h ‚
+XRššŠ(†ÔEà(öÿ
+PID:8165 just read 1460 bytes from host
+PID:8165 just wrote 1460 bytes to client response:
+Üªå-ÖåëfMß¬MÑÃpeqûC¸Uı£Ç`ÄCéÚHlÑÍÓÂG‘©?]’d'k³æe*c'Ù° jÎ†×%nÒ‰¦¨üIç1•ñß² p«è¹$ÓuîÍÒ–é:Úíq¥¤‚Á•UO,Ê€ÒğfCç
+¬¿ÒEúèYò ãÌÉöRÏ%Ò¯n>bá*)'9HBÂ§óÏã«?2ÄpAÀíÆ³–[ßOÛ¬”Uu%ª9D,„×CË·ëı¯Şc©ßË–Ùá§PPÊÍæ)|Sê¥(ÉËqi.K…Qœœ5àû-ôÎ©×ªlò'‰N×
+…c€`µÕ¾~ïÕv×›¨äEcê	=|¶ÖAùÈSKd»|KåË/8ãxªmHÉµL—{£"éK—>³OK\x¤ÿ
+PID:8165 just read 4380 bytes from host
+PID:8165 just wrote 4380 bytes to client response:
+OR--Æ#Æ01SGƒ´ãÌ3†\©È$iÖéÚ›E¯b§‚a
+¤±Ædb’?#¨
+Ü
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+Ç•FßîÑ§–š	*êHXaF’SØQ–?:Œ•SHdù ¥ró_ Q:²6©²›ZJU®“C@?fGCÿ
+PID:8165 just read 1625 bytes from host
+PID:8165 just wrote 1625 bytes to client response:
+kÚ÷ã¯Ï×@úëÇ'^Ç××IÏ¿>Ú
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+”ñÆ¥"óY@ì¾Šƒ·œúq Fäãß¿û4xÑ™Ç˜ë­×dØFÔãŒ}µ#G¯×LTÚ
+PID:8165 just read 8192 bytes from host
+PID:8165 just wrote 8192 bytes to client response:
+ˆ®3?°Ó&q'”¨9¯¾u¾Æê+h®M™ £ic
+PID:8165 just read 2596 bytes from host
+PID:8165 just wrote 2596 bytes to client response:
+"9xızÕM=\u~%U-E_ˆÛäñ$/“ÃFBÀB1ªOÒ±¥éilvÈg’•®’\¨æ©¦¬§ôe¯¹Û	\È²¶³´VŞ ²Ş%»ÓÒOâø^z—Ş—ÎÆ&Pv³)'œ•J7nÙ¡§ëºIZ‡ª(g²Ô#²”‰©[´*„Œx¢3ÏmP\­Stä†ëÑ—Å‚„ÏPS”’„ç–y›f=Ú6V':¬êÿ
+PID:8165 just read 8192 bytes from

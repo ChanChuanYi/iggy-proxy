@@ -1,0 +1,55 @@
+PID:7962 Child:Fork has been created
+PID:7962 performing initial read
+PID:7962 request:
+GET http://www.freewebarcade.com/game/raze/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7962 about to start writing to host
+PID:7962 wrote to host request:
+GET http://www.freewebarcade.com/game/raze/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7962 just read 1460 bytes from host
+PID:7962 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:36 GMT
+Server: Apache
+Last-Modified: Fri, 26 Feb 2010 00:59:40 GMT
+ETag: "500007dd-1428-480766a0821fd"
+Accept-Ranges: bytes
+Content-Length: 5160
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:7962 just read 1460 bytes from host
+PID:7962 just wrote 1460 bytes to client response:
+‹,ÕD)e”OÊb3À˜ƒÎg‘5Ä"ÒÉx 2
+¬ @³´BË/<’ÏDüä£€#Èáˆr@§#|òi§#‹è)(Ÿ!>å1ˆ&šè”V6£¥p+ÄO#Î C‹š
+ Ï#Ÿ@J+«œa8Ø4âİi®ğ©¶ªê?ª¾ÿº*Z¢«£ë®»"ÊK”ƒåqüA÷Ë,7júHStÑÅ
+±°"Š!¨p†Mş$’H¶¦¢m"Vu{já"€&˜“«1Ì´Ûî2Ë¸«+/¿–â‰}Â‚!(²‡'­Tr€fXÑ…ÿXpJ,¦ÔÂ	&²8CˆH¨¢Š#áX¬±*‘tìñÇ c².3ğÂ«ÌÉÊ”¯®«TCK3¥Üwœ¾š 3J(ŠØAnùl5A}4ÜÊ(³ğQ	Å‘\l1ÈLGÒ‰Óâ…—ë»(ïbõÕ»œ/3Æğ2Ê­Õ +¶Œ¡ÄÂ	< ñÈ=r@ „_(„	Îò!ˆ”ñÉª(ÿ‘›¸İøàƒ›	8»ËTK.Å£6/uÊÌ´Bò(˜r£(¡°ÒË.<ˆQÇ
+D`!BÁF]°ÒÊ‚GğÉ&n@âêí·Ã
+€ÉÊìÂøãÄ1Éóx1‹ç¢Œ)»ˆ#)Ğ›ÂŠ)±ÄâJ,dØÀÅàƒEdñE^qÊë¿2ˆ´Cà¶ÁŸÛüô'ŞûïÄH£ÿ4ÓHM4Å{äb¡êMïÌ«…0„ñ‰QĞ"G
+PID:7962 just read 2520 bytes from host
+PID:7962 just wrote 2520 bytes to client response:
+ZVB¶ 
+PID:7962 just read 0 bytes from host
+PID:7962 just wrote 0 bytes to client response:
+
+PID:7962 job done, returning to server main()
+PID7962 fork is ending cleanly

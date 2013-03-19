@@ -1,0 +1,67 @@
+PID:8124 Child:Fork has been created
+PID:8124 performing initial read
+PID:8124 request:
+GET http://assets.tumblr.com/stylesheets/compressed/global.css?cbf3f0c1f6e9adae0d1faa41ce102a6d HTTP/1.1
+Host: assets.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8124 about to start writing to host
+PID:8124 wrote to host request:
+GET http://assets.tumblr.com/stylesheets/compressed/global.css?cbf3f0c1f6e9adae0d1faa41ce102a6d HTTP/1.1
+Host: assets.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8124 just read 5840 bytes from host
+PID:8124 just wrote 5840 bytes to client response:
+HTTP/1.1 200 OK
+Server: nginx/0.8.55
+Content-Type: text/css
+Last-Modified: Fri, 15 Mar 2013 20:55:08 GMT
+Accept-Ranges: bytes
+X-Varnish: 4068027254
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=2315096
+Expires: Sun, 14 Apr 2013 20:56:11 GMT
+Date: Tue, 19 Mar 2013 01:51:15 GMT
+Content-Length: 19313
+Connection: keep-alive
+
+‹
+PID:8124 just read 1460 bytes from host
+PID:8124 just wrote 1460 bytes to client response:
+õ–½Ùˆñ¦ ›){>~4²õ8b¦C0=á­ÇÈ‘}ç{òásZ{˜şc4–·êYçÜˆ‰I·ù;Î4ğ.d¬½Ôb®À6h÷Ù«.¶Ê@5Lù`¥`È\<Íà{®¸AÌöaí
+¸İŒİ-z
+È!W•wğX„h4”Ÿ²ƒ¦o‰Ãprxí|Ü!ûÎ/hS©	‹}X7,AF®³Ê-Ÿx>„§EY7/€sào{ÏËÎıÎõ"Olo°®Ö˜ÜäF³°(l—&¶1êÖıõKw±¿­iòêHI±P(‹[ağµó¿K
+PID:8124 just read 4380 bytes from host
+PID:8124 just wrote 4380 bytes to client response:
+Ï;›A™I8c&0ÆğšbYÛ³oYgàÍwÖ°v¿
+âÊŞ¾úæª?Î›½Í(<ù!@4èg)~\QøRˆ’¼-[¾ 4\fæÜõ±;ğ×?²eô‡î=é¶Û/Hè?_ÿ:Ô5®|™úo4pœb4l^çÊâZŞÃRV²Ûˆ1e6Âx8‡Ò%e9³•W^š5nPõI×“UøH7òºinBú8¿å4‡`Q‘=“Ş”É«št^Úü•G ñkÕ¯Îû#9,¬˜u–
+PID:8124 just read 1460 bytes from host
+PID:8124 just wrote 1460 bytes to client response:
+ÜˆÁh°Öa+‡gWWì%y¡eø˜ø*ÔQñ;ƒé \w1õ.9‚=SD²xÄ™F7£Ä6ˆ!şÏçîÔØ’PT„Tí¼‘‚¦<êv“‘ à¢§¡ş/Kc‹aé!†NÙa{ÿùı@v)~½`ùØíz£>¨ëºæ¿QâÿìñÂˆË{L¾v¾qÓ¡£AŞ¸Í­ŠÂB/<¬v*¢¥[Èyù#w[p\„¡ú>·*–b~÷#ÓH? ¥p£½Ê¬«	o<=¸&qGô ¾)òÉ·£"¼3WîBÒ„]†$à"æHóšQŒZQøŒ(¤6Q„~)aqêNÖŞiõ U
+PID:8124 just read 1460 bytes from host
+PID:8124 just wrote 1460 bytes to client response:
+³_”g›ğûÖA;aµ—yÈäèY·Çî+pR”I.‘^ÀóÎÀîo’FDÆ_ÈaòêßŞS‡÷vÿ•±ğ«ÍÒ¹ë™Ï	åzvg"«Æîseéñ›gÑ@€÷öp—“ú³×B}(v‹ÛçX:SŸ`—9¦vÿÚ[4¯­|…>…ƒÁ©ãcQéLA6S1ÔØşš3ùMZø›Tí×êÓ™Ò ßÉt×º‰Å–Æh…+ÊÚ]ÄÎ§®"Ç|vkN×gU9&‹ì“E©Ä‡eıÙcšà{oåFµ,ek*L†ÍEù2#­áî>Qa"ƒ^°/f&ó½øgÅéKşêÎª„ÈoZ›)dçe—=pµ8–ÌçŒ÷hÔÆÂ†3¯ùÜ>ÊğFŒ »®2—IK‚ãgxtışñ¼ië*úi·&o,İ¿¡ÕT:ª+åûâ‘åÿ¦ˆìÔéş×æ›!
+=g»§j÷KõUpûá={^áÜgsŸ¹Å}æûø¶R/`%àşÖÄ’À¢ştìö/“á÷Z}­ÀSåƒ sn·Nê™-U•gÕ#©
+£Êé¡¨XÏbå1éI.>öcväu›Q3ÒVºíÊ•mŠù,Ù…©zÅgô bã© qò¬öı§û4+“·>JgË7•y"­’söR¸\i$KdDğÊâ#QÆ^;“5ß¿ZäR»ùş;·Ş{ï¾oÛİÔlñ{60Å0#u¼$gîcG#$ş˜ÔÍËcCl¾€ßÿñc–°'ı§æ—¥é÷ÿàßapïÛ’Vû®ğ±lŞ÷là{wóNFËqyh´—”¦Sh(Ôâ5Ş¢}hÉ.°`P)7ãìÍª;4{¨¤Ì˜èëˆé<¹7­®»ÁÇ"9ß	4†ú>°¿\l+J
+PID:8124 just read 1460 bytes from host
+PID:8124 just wrote 1460 bytes to client response:
+¡ÆVZ×t:âDç=3°.cËbNra”Ä)Ë($T‡ƒCÿs•‚—gĞéø¾’AÍ%*…]vÅ&Ÿ[vÒx‹çÈıâ¦_a€bèví8²VAE9ğé´SL±%	Fmsì»‰ÅÀà
+PID:8124 just read 1460 bytes from host
+PID:8124 just wrote 1460 bytes to client response:
+¤Å8/iŒó‚õÎÒ%u¢œ›#ÖÄãŸG¦/¬*Æ! `8¬Pè‰›Jd76ƒ¨ˆÌÍ\”æ©ïw(ğ=V'xÿ«¥sCæSŞ:®5çâ,#,Úá8ëF"ğå
+Gïñ¹÷MÈ±lÄLzº…ïğÇ éX­´˜‹|VÌßøå{DcêMÒn`—­»Rƒlo¸/óY""–Zi2X+KcLè¦€£D³s]8,bÖ¥•áø0–éÊçz6RáŠ²:¥§‰UËDÄ®•¿125lzÛ6ğõ¨Ì<seMSe)Pæzo,ÆâÕ	bš–Û²-G.ìÖE¤¸„ƒ…o7bùÚ^_Ùì1´C¼y`Û=Ş„R>ô}¡úÃØÜ7zÒÂ¼º¢rFpcOÀ%¢Òµ_Ó½öÿœ{i
+[5goZ":,nG^lgKïäk€ á{Á¼sVçı‘°gœèå© õÖ"ÎWz¦%Sé ˜ğæ0n°Q‰',mÙmrÆ‚m I‘A!¨	ôlÜ("dŒÍÁ:ñN7w–V•Püå³]—w-+ ü¨µkÚâ˜U“efî¢aÈş ‰4Šb©0ËÓ5ÑÕ»» 4£áo4"‘ÂC2”Åá‹yŸ£D-t¹CHnÓå@èÆUÍ.Ì®r`OâóÙ™Q{2™Y„ÆBÙE¨ØmÌüÌÆKİAÀ½4õJ0Ü(l[Ô,$ÖyšiØ	m§Ø˜Î î0wMÎš–ö-½bËqÚ|&Œ¡<ŠÑUü(ãqFGÑÅ

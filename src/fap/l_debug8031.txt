@@ -1,0 +1,62 @@
+PID:8031 Child:Fork has been created
+PID:8031 performing initial read
+PID:8031 request:
+GET http://server.cpmstar.com/view.aspx?poolid=1619&script=1&rnd=258100&test=1 HTTP/1.1
+Host: server.cpmstar.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: USER_ID=)%2b%e3%90%ab%f0%3b%19%2b)%b2P%aa%ee%14
+Connection: keep-alive
+
+
+PID:8031 about to start writing to host
+PID:8031 wrote to host request:
+GET http://server.cpmstar.com/view.aspx?poolid=1619&script=1&rnd=258100&test=1 HTTP/1.1
+Host: server.cpmstar.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: USER_ID=)%2b%e3%90%ab%f0%3b%19%2b)%b2P%aa%ee%14
+Connection: keep-alive
+
+
+PID:8031 just read 1661 bytes from host
+PID:8031 just wrote 1661 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: n1=0,1619,85246,212843,1363657864,0; domain=.server.cpmstar.com; expires=Fri, 19-Apr-2013 01:51:04 GMT; path=/
+Set-Cookie: d0=t=1363657864; domain=.server.cpmstar.com; expires=Thu, 18-Apr-2013 01:51:04 GMT; path=/
+Set-Cookie: sm=t=1363571524; domain=.server.cpmstar.com; expires=Wed, 20-Mar-2013 01:51:04 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Tue, 19 Mar 2013 01:51:04 GMT
+Connection: close
+Via: 1.1 ID-0001544140306215 uproxy-5
+
+var cpmstar_str;
+cpmstar_str = '';
+cpmstar_str += '%3ca%20href%3d%22http%3a%2f%2fserver.cpmstar.com%2fclick.aspx%3fpool';
+cpmstar_str += 'id%3d1619%26subpoolid%3d0%26campaignid%3d85246%26creativeid%3d21';
+cpmstar_str += '2843%26url%3d%22%20target%3d%22_blank%22%3e%3cimg%20border%3d0%20width%3d728';
+cpmstar_str += '%20height%3d90%20src%3d%22http%3a%2f%2fcdn2.cpmstar.com%2fcached%2fcre';
+cpmstar_str += 'atives%2f212843%2ftwz_fgi_grey_zombie_zoomout_728x90_3';
+cpmstar_str += 'i.jpg%22%3e%3c%2fa%3e%3cimg%20style%3d%27display%3anone%27%20src%3d%27%2f%2fp.bril';
+cpmstar_str += 'ig.com%2fcontact%2fbct%3fpid%3d1FFD15D9-3EFE-4FF0-B0E6-02D';
+cpmstar_str += '75C011D7B%26_ct%3dpixel%26publisherid%3d302%26traffic%3dcpmsta';
+cpmstar_str += 'r%26REDIR%3d%2f%2fserver.cpmstar.com%2fbrilig.aspx%27%20width%3d%270';
+cpmstar_str += '%27%20height%3d%270%27%20%2f%3e';
+document.write(unescape(cpmstar_str));
+PID:8031 just read 0 bytes from host
+PID:8031 just wrote 0 bytes to client response:
+
+PID:8031 job done, returning to server main()
+PID8031 fork is ending cleanly

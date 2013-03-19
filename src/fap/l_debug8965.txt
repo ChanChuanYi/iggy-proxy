@@ -1,0 +1,50 @@
+PID:8965 Child:Fork has been created
+PID:8965 performing initial read
+PID:8965 request:
+GET http://ecx.images-amazon.com/images/I/51cgiZi5d0L._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8965 about to start writing to host
+PID:8965 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/51cgiZi5d0L._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8965 just read 8192 bytes from host
+PID:8965 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 8022
+Connection: keep-alive
+Server: nginx
+Date: Wed, 06 Mar 2013 03:10:28 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Wed, 06 Mar 2013 02:38:39 GMT
+Age: 1121299
+X-Amz-Cf-Id: _xzoDay7Be7q6-6YVNhNUvk3aRbJD8emERL4qsmluZDAMOXAKiEW5A==
+Via: 1.0 cff9911a0035fa608bcaa4e9709161b3.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:8965 just read 940 bytes from host
+PID:8965 just wrote 940 bytes to client response:
+]Ş•&…¹\U½>‡\Áâ/Û†ÅTõ$zúB}•Sí¨÷|tfÙÚ˜Ñk1µÈ^ÊLÂ0ÂL(õğ4ÊUp|œjm¿¹mÒWe¸FGf4Zk¡.Ûqfb{DAÒ“£¹§1:«/tçr¼°Y]Úb1…@=şıoKZ´¶é–’hÄ@¨óí3z‡Ö¶ı¡»n…c§ÛõG#L‡'íÑîÍüŸ7MÎtší"PAê;¶4{4§½®è‚:Œlqp(V‚ª{|QSÆÓÌã¤".I']gàÖÖ]·´`I¡é®CNÍõ¾ò×ÃÏ6æÎ…–œOT3H2~Í
+PID:8965 just read 0 bytes from host
+PID:8965 just wrote 0 bytes to client response:
+
+PID:8965 job done, returning to server main()
+PID8965 fork is ending cleanly

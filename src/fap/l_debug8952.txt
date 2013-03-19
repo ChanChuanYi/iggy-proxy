@@ -1,0 +1,58 @@
+PID:8952 Child:Fork has been created
+PID:8952 performing initial read
+PID:8952 request:
+GET http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V373508385_.gif HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8952 about to start writing to host
+PID:8952 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V373508385_.gif HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8952 just read 8192 bytes from host
+PID:8952 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/gif
+Content-Length: 22636
+Connection: keep-alive
+Server: nginx
+Date: Sun, 03 Mar 2013 12:22:14 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Fri, 01 Mar 2013 21:25:24 GMT
+Age: 1398543
+X-Amz-Cf-Id: Qvy_WG5DVLfjMXxmCbDE6ylrH_afQ8LrGBqp0589gWh60ILLX-acTQ==
+Via: 1.0 dac6748f3b37696f23e09a9c9b599059.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+GIF89a´
+PID:8952 just read 8192 bytes from host
+PID:8952 just wrote 8192 bytes to client response:
+l
+PID:8952 just read 2596 bytes from host
+PID:8952 just wrote 2596 bytes to client response:
+è3:cqÄC4÷€2Ë³È3=°<ß³ôóAÇ³>oq@ï3;W4;“sIòCóXt<ÈƒG4H+°Gû§<ñ
+0²< qJë
+PID:8952 just read 4766 bytes from host
+PID:8952 just wrote 4766 bytes to client response:
+­XëXSÄ†ª­c5ä/RA
+Œž‚§YãÊV¸†õ‡©ÐªWû0Mœb°c%$)Ú×f2 š© $eY0@¯lCOqT¶Š$šx¥¤f9ÛXÐj1±­Ø& «ZÙÎ–¶µµímó*×îVa‹¨Æ)k[à—¸Å5îqþ‘{ÜÛ·Ðãísÿå·j”¢Ç¥îu±›]ín—»Ýå®uKQÇA—¼ýúÙYH‘^õ®—½íuï{á_ù’B¼Q+ï}é„±M$"ˆðï`˜À6p5!2ü.˜Ávðƒ!a	O˜ÂŽÊ%$±‰rmŒÃöð‡Ab˜Ä%61ˆÇµ1N<W–ÊÏQOÌ˜Æ5¶ñqœcï˜Ç=öñE.ûº˜"—ØD&<A	%/™ÉMvò“¡e)O™ÊU¶²’=‘‰M´˜È
+PID:8952 just read 0 bytes from host
+PID:8952 just wrote 0 bytes to client response:
+
+PID:8952 job done, returning to server main()
+PID8952 fork is ending cleanly

@@ -1,0 +1,42 @@
+PID:7943 Child:Fork has been created
+PID:7943 performing initial read
+PID:7943 request:
+GET http://www.freewebarcade.com/favicon.ico HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:7943 about to start writing to host
+PID:7943 wrote to host request:
+GET http://www.freewebarcade.com/favicon.ico HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:7943 just read 1688 bytes from host
+PID:7943 just wrote 1688 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:35 GMT
+Server: Apache
+Last-Modified: Fri, 12 Mar 2010 00:50:26 GMT
+ETag: "901320a6-57e-4818feacc9c1c"
+Accept-Ranges: bytes
+Content-Length: 1406
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/x-icon
+
+
+PID:7943 just read 0 bytes from host
+PID:7943 just wrote 0 bytes to client response:
+
+PID:7943 job done, returning to server main()
+PID7943 fork is ending cleanly

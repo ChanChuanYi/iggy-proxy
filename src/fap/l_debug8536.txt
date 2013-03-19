@@ -1,0 +1,44 @@
+PID:8536 Child:Fork has been created
+PID:8536 performing initial read
+PID:8536 request:
+GET http://us.bc.yahoo.com/b?P=BqrHJmKLtJ2PF5rrUT6GpAOCTGea3FFHxT8ABU9c&T=17vc6epkp%2fX%3d1363658047%2fE%3d2023538075%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2765974020%2fH%3dc2VydmVJZD0iQnFySEptS0x0SjJQRjVyclVUNkdwQU9DVEdlYTNGRkh4VDhBQlU5YyIgc2l0ZUlkPSI0NDUyMDUxIiB0U3RtcD0iMTM2MzY1ODA0NzM3MTM3OSIg%2fS%3d1%2fJ%3d08CB8962&U=12c4jeb33%2fN%3dl_4uyWKL5Rg-%2fC%3d-1%2fD%3dSTRM%2fB%3d-1%2fV%3d0&Q=0&O=0.6455770804441917 HTTP/1.1
+Host: us.bc.yahoo.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.yahoo.com/
+Cookie: B=8u5sqtd8jt1l4&b=3&s=fi
+Connection: keep-alive
+
+
+PID:8536 about to start writing to host
+PID:8536 wrote to host request:
+GET http://us.bc.yahoo.com/b?P=BqrHJmKLtJ2PF5rrUT6GpAOCTGea3FFHxT8ABU9c&T=17vc6epkp%2fX%3d1363658047%2fE%3d2023538075%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2765974020%2fH%3dc2VydmVJZD0iQnFySEptS0x0SjJQRjVyclVUNkdwQU9DVEdlYTNGRkh4VDhBQlU5YyIgc2l0ZUlkPSI0NDUyMDUxIiB0U3RtcD0iMTM2MzY1ODA0NzM3MTM3OSIg%2fS%3d1%2fJ%3d08CB8962&U=12c4jeb33%2fN%3dl_4uyWKL5Rg-%2fC%3d-1%2fD%3dSTRM%2fB%3d-1%2fV%3d0&Q=0&O=0.6455770804441917 HTTP/1.1
+Host: us.bc.yahoo.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.yahoo.com/
+Cookie: B=8u5sqtd8jt1l4&b=3&s=fi
+Connection: keep-alive
+
+
+PID:8536 just read 428 bytes from host
+PID:8536 just wrote 428 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:54:12 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: image/gif
+
+2b     
+GIF89a
+PID:8536 just read 0 bytes from host
+PID:8536 just wrote 0 bytes to client response:
+
+PID:8536 job done, returning to server main()
+PID8536 fork is ending cleanly

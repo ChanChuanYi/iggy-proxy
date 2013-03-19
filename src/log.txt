@@ -1,0 +1,1857 @@
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=60&slotname=0451934756&w=468&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657720341&bpp=35&shv=r20130311&cbv=r20130206&correlator=1363657720687&frm=20&adk=4029742545&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=262&ady=620&biw=1271&bih=600&oid=3&fu=0&ifi=1&dtd=556&xpc=8BPZOhXBcU&p=http%3A//www.linuxmint.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/css/minty.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/thumb_arrow.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-wrapper.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/logo.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-nav-hover.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-body.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/948x270_inner_shadow.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/topstories/transparent-000.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/btn-search.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/buttons.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-ads.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=15&slotname=6400026666&w=468&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657720913&bpp=6&shv=r20130311&cbv=r20130206&prev_slotnames=0451934756%2C8979440097&correlator=1363657720687&frm=20&adk=406280369&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=262&ady=1213&biw=1271&bih=600&oid=3&fu=0&ifi=3&dtd=1136&xpc=pqfCCiGZyN&p=http%3A//www.linuxmint.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=15&slotname=8979440097&w=468&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657720702&bpp=20&shv=r20130311&cbv=r20130206&prev_slotnames=0451934756&correlator=1363657720687&frm=20&adk=3836239791&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=262&ady=931&biw=1271&bih=600&oid=3&fu=0&ifi=2&dtd=766&xpc=77h4FbUzgE&p=http%3A//www.linuxmint.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: pagead2.googlesyndication.com
+	URL: http://pagead2.googlesyndication.com/simgad/1335300035874258424
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657721122&bpp=19&shv=r20130311&cbv=r20130206&prev_slotnames=0451934756%2C8979440097%2C6400026666&correlator=1363657720687&frm=20&adk=2938775854&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=897&biw=1271&bih=600&oid=3&fu=0&ifi=4&dtd=1235&xpc=SXJxtxgcW2&p=http%3A//www.linuxmint.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-repeat.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/bg-footer.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657732&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2Fdownload.php&dt=1363657732439&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657732494&frm=20&adk=3956674848&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=1114486751&ga_fc=1&u_tz=-420&u_his=3&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=652&biw=1271&bih=600&oid=3&ref=http%3A%2F%2Fwww.linuxmint.com%2F&fu=0&ifi=1&dtd=116&xpc=RMlufUhWJd&p=http%3A//www.linuxmint.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/pictures/screenshots/nadia/mini_mate.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/pdf_icon_small.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/img/ads/info.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: linuxmint.com
+	URL: http://linuxmint.com/img/sponsor/logos/507.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: pagead2.googlesyndication.com
+	URL: http://pagead2.googlesyndication.com/simgad/10619110049491808138
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: linuxmint.com
+	URL: http://linuxmint.com/img/sponsor/logos/216.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: csc.beap.bc.yahoo.com
+	URL: http://csc.beap.bc.yahoo.com/yi?bv=1.0.0&bs=(136eh4u62(gid$SmymUM6.J4uPF5rrUT6GpAvnTGea3FFHxA0AB_IW,st$1363657741559153,si$4452051,sp$2023538075,pv$1,v$2.0))&t=J_3-D_3&al=(as$12rinrrsa,aid$mGTJwWKLc2E-,bi$1698407551,cr$3281492051,ct$25,at$H,eob$-1)(as$12r7008ph,aid$6JPIwWKLc2E-,bi$1619776051,cr$3139815051,ct$25,at$H,eob$-1)(as$12rqn6abg,aid$FMjIwWKLc2E-,bi$1411654551,cr$3302211051,ct$25,at$H,eob$-1)&s=0&r=0.3890292782767676
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: youtube.com
+	URL: http://youtube.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.youtube.com
+	URL: http://www.youtube.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/cssbin/www-home-vflHysgm_.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/jsbin/www-home-vflkYvb1V.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/cssbin/www-core-vflqE8zl1.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/jsbin/www-core-vflNudvV1.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/imgbin/www-refresh-vflCSRCiZ.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/imgbin/www-hitchhiker-vfl8wHZBm.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad-g.doubleclick.net
+	URL: http://ad-g.doubleclick.net/N6762/adi/mkt.ythome_1x1/;sz=1x1;tile=3;plat=pc;dc_dedup=1;kauth=1;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_3;ord=742647543634950?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad-g.doubleclick.net
+	URL: http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kauth=1;kbsg=HPUS130318;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2340511289616765?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/imgbin/www-guide-vflW6DCQE.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/879366/iframe_buster_200_18.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: pagead2.googlesyndication.com
+	URL: http://pagead2.googlesyndication.com/simgad/14037213758874105556
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.youtube.com
+	URL: http://www.youtube.com/watch?v=rFzvMndx--w
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s.ytimg.com
+	URL: http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: r4---sn-jvhj5nu-nwjl.c.youtube.com
+	URL: http://r4---sn-jvhj5nu-nwjl.c.youtube.com/generate_204?newshard=yes&algorithm=throttle-factor&burst=40&signature=A819E36D4D050F95FB618C101467531BBC604E71.55B4983A9989262394EAE684614C5B8469594AE6&sver=3&id=ac5cef327771fbec&ip=76.103.154.220&mv=m&ms=au&expire=1363678255&factor=1.25&mt=1363657757&fexp=912510%2C914079%2C916611%2C922911%2C920704%2C902000%2C919512%2C929901%2C913605%2C906938%2C931202%2C900821%2C900823%2C931401%2C912512%2C908529%2C930803%2C920201%2C929602%2C930101%2C930603%2C926403%2C900824&ipbits=8&itag=34&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cgcr%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&gcr=us&upn=d41ZY6cks-k&source=youtube&key=yt1&cp=U0hVSFZSVl9KT0NONV9OTFpDOkdFcDdiMVJQMElk
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/stylesheet.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/logo.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/topads.html
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/epic-battle-fantasy-4/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/tactical-assassin-mobile/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/swindler-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/pour-the-fish-level-pack/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/jonny-backflip/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/counter-terror/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/koutack/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/cyclomaniacs-epic/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bearbarians/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/renegade-racing/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: rd.apmebf.comhttp
+	URL: http://rd.apmebf.comhttp//media.fastclick.net/w/get.media?sid=19312&m=1&tp=5&d=j&t=n&vcm_acv=1.1&c=0.9768814354441647&vcm_ifr=1&vcm_xy=-1..-1&vcm_vv=true&vcm_vm=false&vcm_pr=&vcm_tr=http://www.freewebarcade.com/topads.html&vcm_cr=&host=media.fastclick.net
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/hex-empire/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/steampunk-tower/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/ragdoll-avalanche-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/plazma-burst-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/swords-and-sandals-3/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/band-of-heroes/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bubble-struggle-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/cyclomaniacs-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/double-wires/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/uphill-rush-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/raze/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/gunblood/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/splitter/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/apple-shooter/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/sushi-cat/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/penguin-diner-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/dummy-never-fails/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=600&slotname=8424566143&w=160&lmt=1363657834&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2F&dt=1363657835292&bpp=13&shv=r20130311&cbv=r20130206&correlator=1363657835368&frm=20&adk=1984998403&ga_vid=1650897843.1363657835&ga_sid=1363657835&ga_hid=745518610&ga_fc=0&u_tz=-420&u_his=9&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&fu=0&ifi=1&dtd=107&xpc=I7WxleUGAb&p=http%3A//www.freewebarcade.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/shotgun-vs-zombies/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/bg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/topbg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/bottombg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/catbg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/headbg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/flight/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/happy-wheels/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/carparking.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/ducklife-3-evolution/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/dirtbike.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/deadswitch-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/raft-wars-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/mouse-house/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/star-squadrons/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/eisydian-saga/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/sbarbg.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/controlcraft-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/divbg2.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/sniper.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/sticky-blobs/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/roomescape.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/match3.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/distance.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/cf/decision2newcity.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/ragdoll.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/collections/towerdefense.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/imglib/divbg1.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: server.cpmstar.com
+	URL: http://server.cpmstar.com/view.aspx?poolid=1619&script=1&rnd=258100
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.google-analytics.com
+	URL: http://www.google-analytics.com/urchin.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: server.cpmstar.com
+	URL: http://server.cpmstar.com/view.aspx?poolid=1619&script=1&rnd=258100&test=1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=240&slotname=0733118533&w=120&lmt=1363657844&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&dt=1363657845030&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657845089&frm=20&adk=352925541&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=809581564&ga_fc=0&u_tz=-420&u_his=10&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=47&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2F&fu=0&ifi=1&dtd=112&xpc=gCuisgPJLj&p=http%3A//www.freewebarcade.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: c.statcounter.com
+	URL: http://c.statcounter.com/t.php?sc_project=4433122&resolution=1366&h=768&camefrom=http%3A//www.freewebarcade.com/&u=http%3A//www.freewebarcade.com/game/jonny-backflip/&t=Jonny%20Backflip&java=1&security=37aae61f&sc_random=0.5139039484155549&sc_snum=1&p=0&invisible=1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.google-analytics.com
+	URL: http://www.google-analytics.com/__utm.gif?utmwv=1.4&utmn=298927671&utmcs=windows-1252&utmsr=1366x768&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmcn=1&utmdt=Jonny%20Backflip&utmhn=www.freewebarcade.com&utmhid=809581564&utmr=0&utmp=/game/jonny-backflip/&utmac=UA-1389557-1&utmcc=__utma%3D23314797.307730954.1363657845.1363657845.1363657845.1%3B%2B__utmz%3D23314797.1363657845.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: p.brilig.com
+	URL: http://p.brilig.com/contact/bct?pid=1FFD15D9-3EFE-4FF0-B0E6-02D75C011D7B&_ct=pixel&publisherid=302&traffic=cpmstar&REDIR=//server.cpmstar.com/brilig.aspx
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/jonny-backflip/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: c.statcounter.com
+	URL: http://c.statcounter.com/t.php?sc_project=4433122&resolution=1366&h=768&camefrom=&u=http%3A//www.freewebarcade.com/&t=Free%20Web%20Arcade%20-%20Free%20Online%20Games&java=1&security=37aae61f&sc_random=0.06261523383685108&sc_snum=1&p=0&invisible=1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: rd.apmebf.comhttp
+	URL: http://rd.apmebf.comhttp//media.fastclick.net/w/get.media?sid=19312&m=1&tp=5&d=j&t=n&vcm_acv=1.1&c=0.848634683380166&vcm_ifr=1&vcm_xy=-1..-1&vcm_vv=true&vcm_vm=false&vcm_pr=&vcm_tr=http://www.freewebarcade.com/topads.html&vcm_cr=&host=media.fastclick.net
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: server.cpmstar.com
+	URL: http://server.cpmstar.com/brilig.aspx
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/driving-and-racing.php
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/18-wheeler/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/action-driving-game/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/4-wheel-madness/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/3d-rally-racing/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/ambulance-rush/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/atv-destroyer/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/4x4-rally/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/54-dead-miles/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/american-racing/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/atv-offroad-lightning/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/autobahn/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bombay-taxi-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/atv-extreme/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/big-truck-adventures-3/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bmw-parking-3d/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/big-pixel-racing/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/atv-offroad-thunder/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/big-truck-adventures-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bombay-taxi/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/big-truck-adventures/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/beetle-buggin/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/buggy-run/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/buggy-run-3/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bumpercars-demolition/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/braap-braap/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/car-dump-parking/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bush-rampage/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bumper-cars/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/buggy-run-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/busted-parking/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/bulldozer-mania/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/congestion-chaos/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/commie-crush/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/crazy-mustang/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/crazy-orcs-racing/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/dead-paradise/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/death-racers/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/carbon-auto-theft/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/car-park-challenge/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/classic-car-parking/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/car-park-chaos/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/3d-car-driver/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/carnage/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/coaster-racer/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/carrier-truck/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/coaster-racer-2/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: c.statcounter.com
+	URL: http://c.statcounter.com/t.php?sc_project=4433122&resolution=1366&h=768&camefrom=http%3A//www.freewebarcade.com/game/jonny-backflip/&u=http%3A//www.freewebarcade.com/driving-and-racing.php&t=Driving%20%26%20Racing%20Games&java=1&security=37aae61f&sc_random=0.29769022599943895&sc_snum=1&p=0&invisible=1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: googleads.g.doubleclick.net
+	URL: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-8046695057946442&output=html&h=600&slotname=9754933164&w=160&lmt=1363657856&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fdriving-and-racing.php&dt=1363657856775&bpp=10&shv=r20130311&cbv=r20130206&correlator=1363657857019&frm=20&adk=3404664712&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=267695247&ga_fc=1&u_tz=-420&u_his=11&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&fu=0&ifi=1&dtd=329&xpc=cbwSpXH6SH&p=http%3A//www.freewebarcade.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/cone-crazy/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: rd.apmebf.comhttp
+	URL: http://rd.apmebf.comhttp//media.fastclick.net/w/get.media?sid=19312&m=1&tp=5&d=j&t=n&vcm_acv=1.1&c=0.20122222691131797&vcm_ifr=1&vcm_xy=-1..-1&vcm_vv=true&vcm_vm=false&vcm_pr=&vcm_tr=http://www.freewebarcade.com/topads.html&vcm_cr=&host=media.fastclick.net
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.freewebarcade.com
+	URL: http://www.freewebarcade.com/game/central-parking/thumb.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: tumblr.com
+	URL: http://tumblr.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.tumblr.com
+	URL: http://www.tumblr.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.google-analytics.com
+	URL: http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=1&utmn=559479335&utmhn=www.tumblr.com&utmcs=UTF-8&utmsr=1366x768&utmvp=727x584&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=Tumblr&utmhid=1921414115&utmr=-&utmp=%2F&utmac=UA-97144-8&utmcc=__utma%3D189990958.53830950.1363657878.1363657878.1363657878.1%3B%2B__utmz%3D189990958.1363657878.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: bbc
+	URL: http://bbc/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: bbc
+	URL: http://bbc/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: bbc
+	URL: http://bbc/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: bbc
+	URL: http://bbc/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: us.yhs4.search.yahoo.com
+	URL: http://us.yhs4.search.yahoo.com/r/_ylt=A0oGdMqwxEdRm2cAvYMPxQt.;_ylu=X3oDMTBsZDdmM2M5BHNlYwNzYwRjb2xvA3NrMQR2dGlkAw--/SIG=119m9kl5t/EXP=1363686704/**http%3a//www.bbc.co.uk/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.bbc.co.uk
+	URL: http://www.bbc.co.uk/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.bbc.co.uk
+	URL: http://www.bbc.co.uk/survey/pulse/conf.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.bbc.co.uk
+	URL: http://www.bbc.co.uk/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.googletagservices.com
+	URL: http://www.googletagservices.com/tag/js/gpt.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=wallpaper;sz=1x1;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;keyword=;tile=1;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/viewad/817-grey.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=leaderboard;sz=728x90,970x66,970x90,970x250;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;keyword=;tile=2;dcopt=ist;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sa.bbc.co.uk
+	URL: http://sa.bbc.co.uk/bbc/bbc/s?name=home.page&geo_edition=us&pal_route=default&ml_name=barlesque&app_type=web&language=en-GB&ml_version=0.16.1&pal_webapp=wwhomepage&bbc_mc=not_set&screen_resolution=1366x768&blq_s=3.5&blq_r=3.5&blq_v=default-worldwide&ns__t=1363657936575&ns_c=UTF-8&ns_ti=BBC%20-%20Homepage&ns_jspageurl=http%3A//www.bbc.co.uk/&ns_referrer=http%3A//us.yhs4.search.yahoo.com/yhs/search%3Fp%3Dbbc%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sa.bbc.co.uk
+	URL: http://sa.bbc.co.uk/bbc/bbc/s?name=home.page&ns_m2=yes&ns_setsiteck=5147C4D1527F013B&geo_edition=us&pal_route=default&ml_name=barlesque&app_type=web&language=en-GB&ml_version=0.16.1&pal_webapp=wwhomepage&bbc_mc=not_set&screen_resolution=1366x768&blq_s=3.5&blq_r=3.5&blq_v=default-worldwide&ns__t=1363657936575&ns_c=UTF-8&ns_ti=BBC%20-%20Homepage&ns_jspageurl=http%3A//www.bbc.co.uk/&ns_referrer=http%3A//us.yhs4.search.yahoo.com/yhs/search%3Fp%3Dbbc%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.preview.site.test/adexchange;slot=leaderboard;sz=728x90
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_00008;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=3;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_0002l;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=4;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_000a5;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=5;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_0006i;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=6;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_0001f;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=7;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=mpu;sz=300x250,300x600,336x850;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;keyword=;tile=8;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: um.simpli.fi
+	URL: http://um.simpli.fi/rb_match
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: connexity.net
+	URL: http://connexity.net/c/cse?a=Q&B=17
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: pixel.sitescout.com
+	URL: http://pixel.sitescout.com/dmp/pixelSync?network=Rubicon
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: sync.mathtag.com
+	URL: http://sync.mathtag.com/sync/img?mt_exid=9
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_spotlight21;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;title=bigdreams;is_module=true;keyword=;tile=9;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_spotlight22;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;title=runningabusiness;is_module=true;keyword=;tile=10;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_spotlight23;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;title=frombbcnews;is_module=true;keyword=;tile=11;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: pixel.sitescout.com
+	URL: http://pixel.sitescout.com/dmp/set?provider=1&audiences=&r=http%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D7430%26nid%3D2238%26put%3Da38049e5-e1ab-48dd-b923-4b0da6df6f7e%26expires%3D360
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_00029;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=12;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_00080;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=13;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/879366/flashwrite_1_2.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/2553623/_2553623_skoovy_bbc_88x31.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=mpu_bottom;sz=300x251;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_mpu=true;keyword=;tile=14;ord=29395519870007?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/viewad/2051106/FedexLogo_creative_running_a_business.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/bbccom.preview.site.test/directresponse;slot=mpu_bottom;sz=300x251
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: secure-us.imrworldwide.com
+	URL: http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-804789h&amp;cg=0&amp;cc=1&amp;si=http%3A//www.bbc.co.uk/&amp;rp=http%3A//us.yhs4.search.yahoo.com/yhs/search%3Fp%3Dbbc%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D&amp;ts=compact&amp;rnd=1363657996543
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www9.effectivemeasure.net
+	URL: http://www9.effectivemeasure.net/v4/em_js?flag=0&v=&vt=&hl=&sv=0&pv=&pn=&p=aHR0cDovL3d3dy5iYmMuY28udWsv&r=aHR0cDovL3VzLnloczQuc2VhcmNoLnlhaG9vLmNvbS95aHMvc2VhcmNoP3A9YmJjJmZyPXNmcCZmcjI9JnR5cGU9X19hbHRfX2RkY19saW51eG1pbnRfY29tJmhzcGFydD1kZGMmaHNpbXA9eWhzLWxpbnV4bWludCZpc2Nxcnk9&f=0&ns=_em&rnd=0.5111572787377929&u=&sf=1&
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: us.bc.yahoo.com
+	URL: http://us.bc.yahoo.com/b?P=BqrHJmKLtJ2PF5rrUT6GpAOCTGea3FFHxT8ABU9c&T=17vc6epkp%2fX%3d1363658047%2fE%3d2023538075%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2765974020%2fH%3dc2VydmVJZD0iQnFySEptS0x0SjJQRjVyclVUNkdwQU9DVEdlYTNGRkh4VDhBQlU5YyIgc2l0ZUlkPSI0NDUyMDUxIiB0U3RtcD0iMTM2MzY1ODA0NzM3MTM3OSIg%2fS%3d1%2fJ%3d08CB8962&U=12c4jeb33%2fN%3dl_4uyWKL5Rg-%2fC%3d-1%2fD%3dSTRM%2fB%3d-1%2fV%3d0&Q=0&O=0.6455770804441917
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: csc.beap.bc.yahoo.com
+	URL: http://csc.beap.bc.yahoo.com/yi?bv=1.0.0&bs=(136b93vf1(gid$BqrHJmKLtJ2PF5rrUT6GpAOCTGea3FFHxT8ABU9c,st$1363658047371379,si$4452051,sp$2023538075,pv$1,v$2.0))&t=J_3-D_3&al=(as$12rah0hia,aid$TGOYLWKL4Js-,bi$1698407551,cr$3281492051,ct$25,at$H,eob$-1)(as$12ri6oa5r,aid$sKaWLWKL4Js-,bi$1619776051,cr$3139815051,ct$25,at$H,eob$-1)(as$12r03r93v,aid$1xWXLWKL4Js-,bi$1411654551,cr$3302211051,ct$25,at$H,eob$-1)&s=0&r=0.29680305399528295
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: fonts.googleapis.com
+	URL: http://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,700,700italic|Ubuntu+Mono
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: var
+	URL: http://var/www/syscpwebs/lm/planet/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: var
+	URL: http://var/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: var
+	URL: http://var/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/domains/example/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/domains/example
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/domains/special
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/screen.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_img/2013.1/icann-logo.svg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_js/2013.1/iana.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_img/bookmark_icon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/print.css
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_js/2013.1/jquery.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_img/2013.1/iana-logo-header.svg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/fonts/Inconsolata.otf
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/fonts/OpenSans-Semibold.ttf
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/fonts/OpenSans-Regular.ttf
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.iana.org
+	URL: http://www.iana.org/_css/2013.1/fonts/OpenSans-Bold.ttf
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/planet/rss.xml
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/planet/rss.xml
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: telefonica
+	URL: http://telefonica/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: telefonica
+	URL: http://telefonica/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: telefonica
+	URL: http://telefonica/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: teliasonera
+	URL: http://teliasonera/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: teliasonera
+	URL: http://teliasonera/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: teliasonera
+	URL: http://teliasonera/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: us.yhs4.search.yahoo.com
+	URL: http://us.yhs4.search.yahoo.com/r/_ylt=A0oGdNK8xUdRrG0ArdsPxQt.;_ylu=X3oDMTByZWgwN285BHNlYwNzcgRwb3MDMQRjb2xvA3NrMQR2dGlkAw--/SIG=11f2q5a77/EXP=1363686972/**http%3a//www.teliasonera.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/favicon.ico
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: us.yhs4.search.yahoo.com
+	URL: http://us.yhs4.search.yahoo.com/r/_ylt=A0oGdNK8xUdRrG0ArtsPxQt./SIG=11n640n83/EXP=1363686972/**http%3a//www.teliasonera.com/gateway/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ajax.googleapis.com
+	URL: http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/gateway/
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/jquery-accordion-menu.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/videolightbox.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/comments.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/gallery_functions.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/css/print.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/textarea_maxlen.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/css/superfish.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/superfish.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/jquery.fancybox-1.3.4.pack.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/ScriptResource.axd?d=6my6toRWAnKLuaeSu-xv37qkGZKi4KjZ9hzl26yZzvg6kWA2r_6cXxjj1MWCi1J_snptAgcEkF8juDBPulPALj4hvSjEzsGbpchOWhE2RkBxmsF1pMIzJIwqdMKyYZ02MeQt7LA5vMSWJZIDEZ4LGwaTYI4zoVYrtaeTiDKQOj7_o6Gp0&t=4edbeeee
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Images/Logo/Telia-Sonera.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/behaviour.js
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/css/main.min.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/css/jquery.fancybox-1.3.4.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/js/main.min.js?epslanguage=en
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/WebResource.axd?d=d5MwaA2VhG-bP4rZ5YZMEZUy4Jvl82XJHaLbtVCjqH02LS6OIZkweUdvz253lUjQsxn9UgBk_Yxoy0d02WBNjOwDAWA1&t=634491594066304059
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/ScriptResource.axd?d=Kd6x_5iJM4AB1gs3CdsFI-AprneY4Qv-9SOXU7fX8DYAkC2wPS0OfvtczNHzC9_9Vr1zt6CyyJtZ9L9QOGWQjf7euSlzGrC9Ilj7ggATFTGImt7MhgVnEHh0ZSXl6shQyzS5zRKee3Pp9vQHZ7E8t3wOO_k1&t=4edbeeee
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/Static/css/newsroom.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/static/gfx/bg-footer.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/static/gfx/dot-vertical.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/static/gfx/bg-header.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/static/gfx/dot-horizontal.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.teliasonera.com
+	URL: http://www.teliasonera.com/static/gfx/bg-gateway-3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.google-analytics.com
+	URL: http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=1&utmn=860807136&utmhn=www.teliasonera.com&utmcs=UTF-8&utmsr=1366x768&utmvp=1366x602&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=TeliaSonera%20-%20TeliaSonera&utmhid=509729562&utmr=http%3A%2F%2Fus.yhs4.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dteliasonera%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D&utmp=%2Fgateway%2F&utmac=UA-11974385-2&utmcc=__utma%3D109543040.1894221794.1363658193.1363658193.1363658193.1%3B%2B__utmz%3D109543040.1363658193.1.1.utmcsr%3Dyahoo%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dteliasonera%3B&utmu=q~
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: us.yhs4.search.yahoo.com
+	URL: http://us.yhs4.search.yahoo.com/r/_ylt=A0oGdNtPyUdRkQ0AJ8cPxQt.;_ylu=X3oDMTByaDc2aWY5BHNlYwNzcgRwb3MDNwRjb2xvA3NrMQR2dGlkAw--/SIG=13c4dhhbd/EXP=1363687887/**http%3a//www.amazon.com/s%3fie=UTF8%26keywords=meep%26page=1%26rh=i%253Aaps%252Ck%253Ameep
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/planet/rss.xml
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/traffic/right-column/goldbox_editorspick_300x75._V375649276_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V397411194_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/kindle/merch/gw/2012/GW-dual-hero-v3._V395596879_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/left_over._V396355240_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/tri-down._V155542082_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/right_def._V396355241_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/right_over._V396355241_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-large._V192238965_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/left_def._V396355240_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gateway/csw/notch._V156949262_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/gno/gnoPhoneVert._V375434829_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gno/beacon/merch/browse/gno-family-440x151._V389693769_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/81uzsOcWcSL._SS100_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/sports-outdoors/flyout/3-11_four-graphics-toV3_flyout._V372585078_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/beacon/1677_sherlock_beacon_DB._V395001278_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/books/flyout/0219-bookself-faves-50_flyout._V374727333_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/toys-games/flyout/easter-toys_flyout._V374823585_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/digital-video-games/flyout/bioshock_infinite_flyout2._V373769465_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/Corel/VideoStudio-GNO_v3._V372362092_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2013/GATEWAY/SPRING2/FLYOUTS/FO_women4._V373490839_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/automotive/detail-page/3-1_performance-parts-flyout_ver2._V373668872_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/movies-tv/flyout/0308-hobbit-pre-flyout._V374084014_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/grocery/flyout/eastercandy-health_flyout._V375139025_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2013/GATEWAY/SPRING2/BUNKBEDS/BUNKBED_DRESSES_STATIC_030113_B2._V375227395_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2013/CLOTHING/SHOPS/EASTER/VX_V1/EASTER_SWM_2._V372419570_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/amzn.us.gw.atf;sz=300x250;bn=507846;u=8afbec8fdd42445e9c0e6c622173dd6c;s=i0;s=i1;s=i3;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u14;s=u10;s=u2;z=3;s=3072;s=32;tile=1;ord=0X5FMDCCJK2QT6YGW7SZ?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: s0.2mdn.net
+	URL: http://s0.2mdn.net/2217633/Quickbooks_Static_300x250_v3.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/music/2013/gno/iPAD-flyout._V373519506_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/home/flyout/3-4_furniture-cat-redesign_flyout2._V374035253_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img12/digital/flyout/AIV_GNO-Flyout-Hobbit_OwnBeforeDVD._V374086010_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/digital/video/merch/bunkbeds/AIV_BunkBed_PIV_Justified_660x180._V373494533_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/AmazonMobileApps/gateway/bunkbed/venezia-realracing3_bunkbed._V375139228_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img12/other/seller_services/halligrimur-helgason_bunkbed._V373513395_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/bunkbed/bunkBedPhone._V394981639_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/digital-video-games/bunkbed/3-16_dsw-dotw-graphics_bunkbed._.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/BunkBedAds/KOLLPrimeBBWinterFT._V374769242_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/mp3/bunkbed/YourMusicEverywhere_NewCustomerA_bunkbed._V375237489_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/img13/mp3/bunkbed/2-22_mp3-2013-march_bunkbed._V372438290_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/bunkbed/ADBLCRE_1669_perfecthopeA_Bunkbed._V394928617_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: www.linuxmint.com
+	URL: http://www.linuxmint.com/planet/rss.xml
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51-Ikz2ylBL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51RjVoQqOWL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51R315VlQFL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V373508385_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/sprite-best-flag._V402348176_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51cgiZi5d0L._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51kqdNTmBKL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/41KWGchzMoL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51Aed7HL%2B%2BL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/417qCqiJHvL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51eL1d4b65L._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/41BtaoPfM%2BL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/71DDK3PVVZL._AA160_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51zAYTP5XAL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/61g%2BICBuiWL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/61Mld5mjwJL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51XBhfcT58L._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-yes._V192545584_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-no._V192545588_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-no-inactive-ns._V192545588_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-customer-service-btn._V192250723_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-yes-inactive._V192545585_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loadIndicator-large._V192195480_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/search-browse/powered-by-a9._V192216971_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-yes-inactive-ns._V192545585_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/buttons/btn-no-inactive._V192545591_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/nav2/dp/btn-submit-sm._V192545553_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/yourstore/bluebox/bluebox-corners._V192187813_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/yourstore/bluebox/bluebox-sides._V192187807_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51RjVoQqOWL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51R315VlQFL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51ywNjimylL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51rzP0RzOpL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51nVuKDNVkL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/icons/icon-offsite-sl-7069-t4._V171196157_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51ciPxwunML._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/51RvGwj1soL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/amzn.us.sr.aps;sz=160x600;sn=507846;u=6b5c285106df4e31bc95c24de5978b57;s=i0;s=i1;s=i3;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u14;s=u10;s=u2;z=2;s=3072;s=32;s=1009;s=1543;tile=1;ord=B965B4496363463AAB0B?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: POST
+	HTTP Version: HTTP/1.1
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/313zOI%2BhbWL._AA160_.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ad.doubleclick.net
+	URL: http://ad.doubleclick.net/adj/amzn.us.sr.aps;sz=728x90;sn=507846;u=8b24370d08f049f584cb4b35e370952c;s=i0;s=i1;s=i3;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u14;s=u10;s=u2;z=2;s=3072;s=32;s=1009;s=1543;tile=2;ord=B965B4496363463AAB0B?
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: d2o307dm5mqftz.cloudfront.net
+	URL: http://d2o307dm5mqftz.cloudfront.net/1505855001/1346964969451/10034_AIV_Release_Static-Hunger_728x90.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: d2o307dm5mqftz.cloudfront.net
+	URL: http://d2o307dm5mqftz.cloudfront.net/1505855001/1362526927257/160x600_static_rot1.jpg
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/da/js/bubble._V1_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-dp-2._V377221434_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-communities._V136632413_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-site-wide-2._V146303866_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-accessories-2._V156421502_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_bb._V158091179_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mbc._V156421446_.png
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: g-ecx.images-amazon.com
+	URL: http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/amznlike_sprite_02._V196113939_.gif
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: image5.pubmatic.com
+	URL: http://image5.pubmatic.com/AdServer/usersync/usersync.html?predirect=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: bid.openx.net
+	URL: http://bid.openx.net/cm?pid=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&dst=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dopenx.com%26id%3D
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ib.adnxs.com
+	URL: http://ib.adnxs.com/getuid?http://s.amazon-adsystem.com/ecm3?id=$UID&ex=appnexus.com
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: cm.g.doubleclick.net
+	URL: http://cm.g.doubleclick.net/pixel?google_nid=a9&google_cm&ex=doubleclick.net
+Tue, 19 Mar 2013 01:48:29 GMT
+	Method: GET
+	HTTP Version: HTTP/1.1
+	Host: ecx.images-amazon.com
+	URL: http://ecx.images-amazon.com/images/I/41soVd2O3WL._AA160_.jpg

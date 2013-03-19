@@ -1,0 +1,78 @@
+PID:8045 Child:Fork has been created
+PID:8045 performing initial read
+PID:8045 request:
+GET http://server.cpmstar.com/brilig.aspx HTTP/1.1
+Host: server.cpmstar.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: USER_ID=)%2b%e3%90%ab%f0%3b%19%2b)%b2P%aa%ee%14; n1=0,1619,85246,212843,1363657864,0; d0=t=1363657864; sm=t=1363571524
+Connection: keep-alive
+
+
+PID:8045 about to start writing to host
+PID:8045 wrote to host request:
+GET http://server.cpmstar.com/brilig.aspx HTTP/1.1
+Host: server.cpmstar.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: USER_ID=)%2b%e3%90%ab%f0%3b%19%2b)%b2P%aa%ee%14; n1=0,1619,85246,212843,1363657864,0; d0=t=1363657864; sm=t=1363571524
+Connection: keep-alive
+
+
+PID:8045 just read 822 bytes from host
+PID:8045 just wrote 822 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: d0=t=1363657860; domain=.server.cpmstar.com; expires=Thu, 18-Apr-2013 01:51:00 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Tue, 19 Mar 2013 01:51:00 GMT
+Content-Length: 238
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0001544140306215 uproxy-4
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title></head>
+<body>
+</body>
+</html>
+
+PID:8045 just read 267 bytes from host
+PID:8045 just wrote 267 bytes to client response:
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD>
+<TITLE>400 Bad Request</TITLE>
+</HEAD><BODY>
+<H1>Bad Request</H1>
+Your browser sent a request that this server could not understand.
+Error code: 57
+Parser Error: [
+<P></BODY></HTML>
+
+PID:8045 just read 0 bytes from host
+PID:8045 just wrote 0 bytes to client response:
+
+PID:8045 job done, returning to server main()
+PID8045 fork is ending cleanly

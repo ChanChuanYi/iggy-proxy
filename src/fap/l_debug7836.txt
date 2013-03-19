@@ -1,0 +1,48 @@
+PID:7836 Child:Fork has been created
+PID:7836 performing initial read
+PID:7836 request:
+GET http://www.linuxmint.com/topstories/948x270_inner_shadow.png HTTP/1.1
+Host: www.linuxmint.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/topstories/topstories.css
+Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:7836 about to start writing to host
+PID:7836 wrote to host request:
+GET http://www.linuxmint.com/topstories/948x270_inner_shadow.png HTTP/1.1
+Host: www.linuxmint.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/topstories/topstories.css
+Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:7836 just read 860 bytes from host
+PID:7836 just wrote 860 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:47:14 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
+Last-Modified: Tue, 11 May 2010 14:11:42 GMT
+ETag: "1d6820a-211-486521ace2380"
+Accept-Ranges: bytes
+Content-Length: 529
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/png
+
+‰PNG
+
+
+PID:7836 just read 0 bytes from host
+PID:7836 just wrote 0 bytes to client response:
+
+PID:7836 job done, returning to server main()
+PID7836 fork is ending cleanly

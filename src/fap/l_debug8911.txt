@@ -1,0 +1,121 @@
+PID:8911 Child:Fork has been created
+PID:8911 performing initial read
+PID:8911 request:
+GET http://g-ecx.images-amazon.com/images/G/01/music/2013/gno/iPAD-flyout._V373519506_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8911 about to start writing to host
+PID:8911 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/music/2013/gno/iPAD-flyout._V373519506_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 44676
+Connection: keep-alive
+Server: nginx
+Date: Fri, 01 Mar 2013 22:11:58 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Fri, 01 Mar 2013 18:05:34 GMT
+Age: 1483421
+X-Amz-Cf-Id: xar5ExcGEb0bUrfhYSZ-IzLOX-vxJOyBQx72CmfaF6oNJaLl_Es-6A==
+Via: 1.0 bd872f9042b68d05c09b3026d21f96b2.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:8911 just read 7300 bytes from host
+PID:8911 just wrote 7300 bytes to client response:
+©ˆdz.ËÙl™®(__B·5#4|7›÷œlJfÈ¾t™g³-Fêf¬ğŸˆ¥Òá«$üB±4.–æ½Q\ÏÚ"Ç¥+—ÉšÄMpM¼òUşe±Pú	z„D¼¿Ã|ŞÁ³ {OŠWÄ+ü‡!×ØìªÌ4Ğß…á0Ó	T
+‰9ÿkK
+ş ›{0|Å4}<²€hIIøñ•—qI!ü¬lÒğWàÚK+q
+ş«øL‘ÀaõbÀ3±âèŞ+èúIñÊeÆì?•ÍÔ³¤@nÃg·«ï¤ñŸ°vÁo!«îHJg³Ù8Ü;ÜÈZ³%Ë’ásfÙ
+ÙM|$é³ä)€á×“ã~|¥>ÍÊi¾”<~#	¿Iü:²õâ&;KMpm„~–ÅÀ8"‘µ¡oÈÍcøk®œd½Ï‡Wç/ Ë7)Èã	’±Ù
+
+/Ãğ³¬äS ºØ
+PID:8911 just read 5840 bytes from host
+PID:8911 just wrote 5840 bytes to client response:
+©=€G|’}|”$˜Í¨œWs-l-…ÏŒù÷„?F-ÂLäJÊÓ‰hşÅğ±ºƒÇ7Ğ©Ü3j0JeËá“±Ş÷<u¿2ÖAUõOO-‡€l=ÌîBÎìTÈícøøÄ(KïòÌ‚HÄlõ’Ey³ÿb¬t¹cöKà¯'kïqE6Y‰øàÚ·rÅ{Ó¤ÇGÁ§ãA_‰#>EF­~MŞ¾].Ç^Ã¢†CÀÓ‡)vxökÓìi$ìSäJà§µyò_ş2Øğâ5o©‹bONí`±ïºÉ³š#ˆ=YŞ£~D"½Ö¡XiœÏÀ/›Ò¥JğrûJŞ‚zÛÀ¹UÍ&ÌÌ–ÂL‘³¸`òÏLQãÉÔS¥2õ"ÖÁö%;¤iS>ëÂÔ)E?×A—7…²ß²¬A3<›’â<§!'õ‘Ï¯‡hŞç{pv³ç‘è#ÀR€o6“zïÃ«ÍÍ}ùû ‡6Ä˜Y½{ÁGà‹Ç|¶³úHúµ/
+ú!ƒ7ñ©Q’;“¨ŠJÒ=şÜ¾wŸ{wÓ¾}›Şİ·ï]Mï’²cÇMïíiHp¹¦p8ÌÑ¨\Î´!èr9	BCxüq	wtFÂ•JGG»»;;»Ï“Òr¾¥¥¥!'µ|9å"“ÿÏÿüÏ}ó›ß|íÍ7û[¤êòr&/äÃÅ–hø[÷%|ËØú4˜ıÒä~€­ê½
+²IíŞkSyú…ƒúÀ€rğ¨Ï(2“ôOıç€6ü<GË+¯|÷Ó#'ö÷~˜àÎÌŒŞĞqÒ.‡csjÜİñ¬N—Ê`ˆFƒAÃÌo®ß®¯GÿÇÇkkë®^­Co£®®nÿÕêğ›7iö}s2vwtw+fÛV+ÊÏî"ííğC,|ú¼ı±
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+´+iUĞŠl4ëË;r¦íµ‘2ödfO…[8säÁ»×,/ÿà;ıÎ6â±Ã_’g†«Ê+VØ
+ã…ò™Iò
+.7câğöK–èØËƒa~¢…†OøàÖO’ğcSĞB9Ã·r¾âÔ™oÜúğÖ¦ûvl®ÛJİv?èT9kÄev'#I½5â€¬ªŞaö:á¬Ëçqòuv¨Ù÷%Ã×G!İ«I‚Å@Ó³ÇìÑ»ÒzaW7Ó­í¦4l5ów¦B¸©9Jï¡+ojÁ‡@‘2,z«ŠèAğÁË³ÙŒF×iîsäNK;²û Ğ|é±Â¿° ¸V©2i¸jÙX©ôŒ*77ŞŒIî[ó‹[3 ‡¸ÙnÍy>|Ãğ]O¢’ÍI<ÌÂp¿€æJÏ§œ’ƒ}}ş¿è=º-ĞŞ·Y÷C&iĞ¥~Úãõ>Û§'
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+ˆÇì…u|JçonŒ†¢Cş„=xûúõÎÁüô-#:”ÔuDìé ôë$ÜÁ™AmÒíDğù“hU½{`xš=#_[Ş/¶Uÿ…Ş.kÔ9ıò[_úÒ3Ï<3uê™©åRÈ†¿zN³ËüÑGıÓMTöøà/g8L©¸o,“é_±G®Ğ×~ô‹µá¿Äºø‹µÙ·n¹ø•"Í—ëÑt’Mypz7Fnª(€?‡KÀäBEÿ$\ú-çï@ªÿÊ;BzªÉÜĞlÑ§·º¡­®_£·{¹ãç7¿¹öêoGõãƒ´ ü‹ì‚™ĞpÄ½;iKè8š 	ª‚k‹à+9—W5 ùß}áÔßWÓª6èí	¶ÄNx[¡Y;Œ6—Ê3Êá0¿Xv$Sã«èßüçŸ€4?^ø¼S²·@U™à3{aíHŒZÒ"ø¬µá¿ú'¬»°w°¾ èó]ô*]˜6ÍÃ‡i¼*¥T/ Ë1åäÂêº½in¼ûŞ¦_o¾’Nël[P%pêĞlS4øíàì©¬Åtùô7„©7ÔY$·Ó=äõÌÕ“†)İ4çÂÀ¯3LšóğµÕµ½Ù¸ †ÿö÷?ıô¹OsòÜwŸ;rtOmõ/¯/j£œ Ø‘t’€‘Pq¢Q‡»x²JXªI©­Ş°Ï’œ[>d·üów^›{¼ğ±æ³EÃåkÎc]ìÎôÈæÛĞ6Ó úw…P¿¾Ü`ŠÓ¶D{|¤ÙŸÊ`‡/µ
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+¼ùH8	‹­#nXsÉó¹]»uØ6;ù7¨\n÷Èà!r´oÁ§ÃEÔèyĞ¬?Tï‚	°Z`ù†ÂîÕ¡®f<ğ&NïÖÔæ5™}ö¡«
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+;To˜2aøã$ê6QO©k'ywÊáªâ ±{‘^’²ßRäên¹Z[šiÙfĞî­#¾ã0i±Mñh~)¹bàwğnbµêûo¼aOe¾O®|ì±“ÿÀh6 ‹oºĞì¨è/vÄf´áØ¨SñjTêî”×ZÍ(Jq|l¶»ëõô`'%…¢ßÅOíĞÄ¬|æ¹E­ó
+¿ßN2´§ T‰ÂµÊ
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+qÚİBìòQŞ¨U›k]fQZZ!A£ï¹Ró¿4/&CÓ¦Ó7Š5Kl²hQÅfqlMl4KĞÑpıvò²)üß3}0w,{æäÊÇVí‰[&B(‡(–›Ôˆ ÄŠP3‡Î–¤8yí'|BÙê{¾Éá³flámyyK<ì‰Ñü‚Í°ôÃİn,öİİMåõõ¤&»-ÑÚ¼Ù÷Ø\"ÒJj<và
+±>Şşz\o,ü}ÌZdï"ÀàÙ—3.^r«VfuØl™…™ÖªÌ¶6¥6F¹˜X‰!«±}9ZÄaª¯@½š¿ A£è~u„r¾Í¾¨DğFÌ’õú»ÊUoÓÆ*°ªi2$‹YªA	â±ª­u—)üs€¿ûë“k¯ı¸ee}{¶Õ–Dx½¤á9#«0ØB¡(l´Z¢šÒZhW
+>â¡ğ!%\Û’áäğiù"¼âà';ÓbÈb‚ù‡XZĞûcDğ„•r(Eævæ	¾Nÿj‰Gbbr3P¢C]~krÚÚsÚn…òá?ùòé‹Ï½œqA’Øè°™ÅV«pÜ=`Ó•ß!YâœÍ)*Ù_e³	‘(®ÍÌ´Öºl2”û$KRìş^øCÕCó¿K)Ú™Q›·RTop;k]·Îa1Ö:lºL¹.Ê´¾²XÕE÷ù¿üıB*ç]+¹²2&­¥]‚DÅjš´R|´¼4+Mv›¨£îòädxi|6²ø]âëÜTyc›ahrÅo¥áÂÄ=gØöv(€ CªßçfÁĞÙ•øE\ü–×ûñHÇM&~cq}Oò‚X,!}Ÿ$pÆ¨áŒ„ûÀß±üÈ…_èA<ï©ãjôåĞùò?{]Œ¢–&aU¦Öf’ÛÔ†ba­ĞÚÖr…ÀOP,®:téÿİ¯ü0%’ÜcşcíN]¡KÛUvâÀÚT+-5ö˜«ì˜™…­[>ÇaÍE}Ì€¾ÅÚ¨×¸2‹á(8:³Mb¬*nŠZŸY"yËRnuiÆÿ0R÷ÚÍœÙ÷Æö‡”hnb ã¬RŠêÉÖûh:U
+úH;ÜärÜ)Ğ41‚ï‚¡†”â””~’TL_Óy·äRÈ»àÒi±¡?…¾33µ˜ù*ıKª£x³êæ«1íÑş²ãGşé™?üµ¡½Q”?à0Û3‹BZH1X7¶dá$[9ÏEÏw“{&ÙêIS:¢ÂÁïŠ˜wÍ¯<˜¶öÚ’—_tèdñz£0Ñ(©=cTï1
+ JfL#
+Å…vªùùıÉ˜0WLq²Kas¸µ§CİÓó–3/ŒÄÂ*÷ğ[Î&"6d“«]³Vß„D†•‡ÆvéVfÿj	ZTAJ®ù^g¡ıßæ6xlc+ò¯Òˆõ!VYğñÿa­8Ì:²:Ä—ñş
+Ş¯â+ä‹iWcZÈÒA^¥»’1˜ı²Oq¤Ká+	üNøË|l™DppùÂvLö!?Ñ~£½”EH.h%4—3Ç	åñ™òFiV£eà¦ÆF­Åö®ÉâÒPE¿˜4™Alğ»n6¿ğoÜ¹2oÇBUçÒ»I÷JÌ/tÕë‹$®dW¬Ùï#&;ŞÏˆÙ©¶;Z¬É‰¢‘VÓİØc6÷,&™NØS¨Ğ4eŠlµ$DgÔµñj11×Ÿ•Û˜«'ACD4æø“-ú(ÓG3ëĞ
+xûg›3Ï-qJô¢6]›@$’h48bu].	~TÈi”Ôgè“E‘1êZÁı°F"rµiŒôÍ\M’vôÇÃN—ßAtÅ™¡Ç#ò°Æt>çí+İ+7sšŸÊÀ§‡z_¼´ìŒsÔ6ZÅ*u"z~2uõ5ÔljB™ #×/¤"ä/¥Ua¤œÄ•œø©ÍüÅdj,ÿ\à·~6ÏfÉµ¼ÇvÔ_ØcÁĞ"FXHt‰>^ sÚÌ:K–Ô4jSt(/o_óÉƒ6«S]o¶HÔîLkcF›(±ÕjmVa¡Ò%êÑ”È\:gœLsø™&R¨t…ƒŸÏ-ú·ÃŒWÁÇ,9ób|€Ë€Ôi2ğO"'O£“\‘H8'Ò85õkš‘#uİ"M=2iÑ”_hq_× ³×ìvj
+Ü\zS„7Ô …Ä%ÑKPŸ—¬ÇA £µœ˜·«×èEØí$}ŠÄ¶÷.*vÈšÏƒÏv…ÙqúëµÈÑƒÎ;¬äŒÈ6~—îíî¶ÜåJkî¤RúØ¯Ï©Ñ»¿!'4´ÂG~:h¾áË9YòÌÿ<üz¬£¸V‡^hM(/¸Ñ•Z—U,3EGJ·ŒT)[ÿoÿàÎµf½µÒšl‹¯íI«Û,V„º\&GC¨TèDÚø*]25Wînı]Ğ_²Ò?Ÿƒ¿wÜ•ìóAÌ^>åş.EhxhxÅñ¼<Ñ’<‘FâÌûdÉæ•¢•HŒD|0ferZ	,U²»É]dø¢á&‘SvÊ“Ñ§¤©¾(¦
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+Ô@ÿûgsù5/ã'ÈõDbæıŒ“oûÛ±~%ÑüåËõQ:’N¨`l$Í¬í
+ÉD{£ª¬*Ó4š¥,£ğõy‡¯,‰)iÊ4º]Îqâf;õ6,Ëf°IlU:ƒ­'S›eÓ¨ÕkÔÕdg2j)|/ûÊÛC{¥œ˜ìÕ,òè2_øô‚(+eá¤HÅb©X@_ê}N?¤YbÒÔ&K©è³¯M"u}0ú¾ğ;=ğíöUdºí¿Šr‘_»]ÖL‹Ú¢–Z54’uwîÜh;~ğôéÑÛwâ%Eccw2M	d¼#r¡æ"Òˆàw(…Ovú‹&½¹ìaá3¤YÔO¬  ‰øÁö%N“äóÏ?÷À_†•_¸,èOf#Sç¤ÒBÕQ”¶Ée¨š7(ûû¢³¿síJT+ààÏW+µbHQ¢Öl3	Íj£QmU'ÆÆ[èI*è±
+¯·´ˆHV£ù^)õ„w±'áİÀğéPÊç„Ù'G„-d—ÏÈU?	ñFoChèwl¬¾}ó…«ÜO¼­±Ş%ô9øõ³OC²‡
+PID:8911 just read 1460 bytes from host
+PID:8911 just wrote 1460 bytes to client response:
+Ú¥ÅŸ¡s3¦k’~»¯î";,øáAá—V0ìCs¶É¶„™7ÜºyìâşÌ/~|ñÈÅU7W]¼ôñû/Üza4kÍş­ÂÑ-¦NõƒúúšQ-ZnÖ¥òØ“©>ÑœÕçà+Ápîí*_Ì°_•„,]#±Th{Yö9ÄÅÈ}zß®ÎtIÈz—Ao19€ß@İ}s†Îiîš!üÿ(ãñåW~ÿu"|vvÑ²öıµN³shL…fçÆ;M8-Å±é™6™±ÓŞÑí1û	ÿ¥ÅAê‘¢Š~vUG-W›Å;~•ô=Â©¦«\µZAM”¹iåDo¨¬ÌTjEÏÅ’ÉüaOàcíWPøwyœÚc„5ır¸3©ÏÜÜú·‹úàƒ[/¼pm¥e®ºøÁ‘#/¹µ_|æıÎ­kÔ{öìßó~İÈ3û1áX;º´µû`_Z	Ï‰ö[ó•FcbbDi¸b‰ÈWá¶N¤ˆî1ã`ÈbÙ³çÉ=ƒ{ä’’ÔQ|jÁ3¼h$äÎˆ—È-p¯ö_×¹Ç¢%ğ«g	ŸĞ_ÁSıééşÏüáW3=[æ¾¥‰×Ê±^ß<×]~§íŒûmgĞÈ4Ñ$·«”|Z¥¾Pr¡Í8 4L–D›Aa?ª«1›Î¶L¦Äˆf¨Å¶³.J Y9Áì+‡òÉÎNñªV/ÁìSÍoP(ª:”Ï\ğ½ğ=ìI’GhjèQƒÃR‰ÚèKpÿ.}|	Á™CO§Ü»'Æ‚/&-âÅÄ¿“JSĞ‡m»èR+
+PID:8911 just read 1460 bytes from host
+PID:8911 just wrote 1460 bytes to client response:
+ZfÕšîÉ9³¿ÌøO§_Ö1Z0˜´g '³±>d³«’¹¢…¢&«İÎ
+1¶Tê°
+V‚ßUFÕLQš_ª èÑö
+¥ŞüŠàŞ^ÅDöá¥‹¨ª ßï…O+3ö)<Õ·çĞD"lõñó`»ÉÂ‡Ãg6ÔİPÆî-Ü¿g†ğøö$š÷ÀË3;‰{à:H¹^ít £aõÿ:‰“gDñõöÀtS˜/ğËLøF#Ôá[<‹¯òï‰ïñU?ğºÄí£ğ«Ÿ[Æ´ºÙ±ã>sÍEÇÇÑÔÌh·ëÜ$Â'CúÓ¨)«ÕüÇ–c¾Õòšui-=r¥Œ¸P%ßDç˜ÕˆL…˜cCÒX1Ü´hsZÛøø8ÀA`¯4r=£˜Ğ'ğI·ı|fÅ'T'ê}…×æób>Gƒ©~¡˜OßWñ™Í^Š2oˆcÅg•d‚ŸPO<Oà‡2š¿w'QZn«OeŒ{@µ`MÍÛåH^mñ¼ÊIóo–¤40oztQÒ[’Ov2AYÀí5ß|<å¤ıMÿ79øeäÌbä‹å‡O$Çã¼B2.qTëİãJÙpª'{Ö|4ë;$o«ÖnuÑÁídšÅİ»¨aj”_w&ˆ‘
+DçØØ"¸»4?•»”e‘eù
+ÂÂ'@UG©g›çC"{O¤—SıIí¾Gó™
+PID:8911 just read 2920 bytes from host
+PID:8911 just wrote 2920 bytes to client response:
+ğwÍjŸÿÚ
+_øş3ë§?"›ÓjHS%òÁŞ	£` ÑÑ¹mT‹Q{G…ÿæËşå®î¯Û‚ıBW¼ÄÒ=V®ÉdhÖ$£<nL`WcŒQ±ĞZ,„ê‚¿¹´£â6Nvè,ßê°è0²Ì§ğ‘äê¥_QÁw|¼€ĞŠóçK)ıŠŠ|z´;ı%=8tèûÀßË°gÂ>,}ò¤_¥€¿ç…ßà»Ó ì‰°ğ]ú‰_:†°bÒ¢Uë“-zCœĞuß>bƒXš’’UÇW}¾!Pm}xø¾šï·êOÏé§šßz0O/ÊsëµBq#ÆÄ¸›ˆ û<ÒèJféÔÖ¡£$£ùlöú‰…m{Û>0
+,Ä±ŠmÈ“şÅ©P£ÜRâv•82÷š¤èC.UÇ¯dö‡ÖÓ ¾İÖÖÑW
+M
+PID:8911 just read 4380 bytes from host
+PID:8911 just wrote 4380 bytes to client response:
+ÙhÒ™ˆâ‡ª"Vøı0÷¶ÿñşòı‘ı#}ı½r.!Ê½{£[¶ŒbµnÎÍ>ÛËÕ<Ÿ’o¦öás†?)Àš_êÇ±û¾™CL„×“1 DDœz9šTÑ²¡/EşHáOŸß\!·ıüşš¾ÁœÛÕû÷ßW‰•ÑƒªŸÇn¹§ê¸M=ıË­ƒÑTóåuÛ‘Ö£Î8ÎJ[[ódÃ:ÙşXöØø¸}»0V­?ø•øÍÜºÏ<a 7G¬úÜbï}ŒŸ«ğ÷ÿ%ŒúTyÅ=Ÿ!¥ƒTˆ0ìåĞ”GŸğÏä`á77ˆû”ııÍ9
+ì÷úÅƒøÅÊû•ƒıƒTñ±‡îª®¤ğSê„kFÿøÎO&ÈÆ³ãq|e£idTÔşQiÖ\ÂÏçµò¬¤Êî¯ùÑñG°û^øÕáa(Wœ—)îÙëó÷z½)¥¤<]%¾øŒÿ?üæ¤¬ßÎ!ôÈ¤„Ÿî¦š£ÉºkÕOÿšF¥\h”/ö­ñ›úëL4P–•e"±4ü5ÃèG§FbéœÂ÷söYøÍ¾_ ø‘Ñ~v?Çëòy¼}Ÿ}~PöŒİŸ˜,\ÌƒïQ}Ï±^BÙ¬bÌÑûŞ/	>SÌ½"øšèÍ99­ÕÕ˜ïŠ¶	ˆÃT"šüIÕº¾ü×¤bvFïŒLŞÑ'¦Csèš»ÁÚ§²Ëñò+sjöó½†¢Ã×Ì±o ù‘ì_éı4ÿS^„ÏÓ4º( İcÒ2¦F@©dØ÷&|Iğ¹6­+Ã'.¹{ı2H˜5²µU´­Äq"¿«t£ğ+I5-í¥€lGÄØ§Lkî“>çòs»æûyûÍÍş;½ ¾Wõsü¾jÃÇƒ¼FˆËŸ˜,Î®úÄ~§{ŒæÓ_ZË¾·ïËƒO¬0ÍzH3Õz&h¦¿Z¼N¶¥ÕÔêşÿ	$l@!½B|¯®W¡°Û:ûpC¥½‘şôù ‰Úí¥ªÿœ;øù¾‹Ï^d‹ÚåËÉñÕ}¯ÃÇÂg9®òT
+LL^,/~š“@Àä¼Yâ0ÿò>–}Ê—
+ßÇğáO"Ìşwì?„ÀW¶Ü“#ğÛ°}$«nÑÀò’©Ÿ'ĞUaÑùˆ«]Êüóª¹†Ïöğ¥Ï||Ş>?°æóÍ¾ïVÏ~«7_¼444<@™HEÀJCkpˆÍOñËïA}
+PID:8911 just read 1986 bytes from host
+PID:8911 just wrote 1986 bytes to client response:
+Ÿ2ÿ{ÿ+ú”ŞÿjÊwz(Í0Ry&şä?3ù|ÍŸ¾ëµÚIúêwı#û¢®ÏQıôÕ>»ª×?à™OÔ(}vK¿ç˜óÚàñ`Â.Üt‹÷«çHöT2·š?ødƒÇ:{S[ülŸ8ÈóïNNœÿëæ–kÏ¥°ú]–öóü`»ÿt%O÷z-œßòï·ÜÌrğõÈß"ÿùŸl¨ãùÏYÖŸÎÜ{dÊS¹Şç¿>™JÄİÛ=-úşq°çÙÇÏÌŸûºYSÈ»>±ùI—÷ôIœ¹)7ùŞ-äìÄ÷¤ëİ Â¾İçAeßT2çA©È3¾>‡~ßT¾_”nÊ707É»Ó÷ğnâÒƒœÈñ|Ê‡vöÈ…î…Åş‡Ú÷¨ğùç=gßşÙ·ıågŒLi„ç>Â7µæÏÄğO
+uà—£åìZşüLÜû
+PID:8911 just read 0 bytes from host
+PID:8911 just wrote 0 bytes to client response:
+
+PID:8911 job done, returning to server main()
+PID8911 fork is ending cleanly

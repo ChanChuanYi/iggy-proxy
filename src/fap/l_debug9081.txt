@@ -1,0 +1,49 @@
+PID:9081 Child:Fork has been created
+PID:9081 performing initial read
+PID:9081 request:
+GET http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_bb._V158091179_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9081 about to start writing to host
+PID:9081 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_bb._V158091179_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9081 just read 3156 bytes from host
+PID:9081 just wrote 3156 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 2045
+Connection: keep-alive
+Date: Mon, 16 Jul 2012 05:26:37 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Wed, 13 Jul 2011 21:50:54 GMT
+Age: 33756759
+X-Amz-Cf-Id: BFQ5WIh1605rhTgQmt1Nl8c3YCVMCW7eVr9Ul96CCgjKbLGSGvVO7A==
+Via: 1.0 ebb0c008463f7e133cbd7d47d636d5df.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:9081 just read 0 bytes from host
+PID:9081 just wrote 0 bytes to client response:
+
+PID:9081 job done, returning to server main()
+PID9081 fork is ending cleanly

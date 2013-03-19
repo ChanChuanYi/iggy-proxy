@@ -1,0 +1,52 @@
+PID:8107 Child:Fork has been created
+PID:8107 performing initial read
+PID:8107 request:
+GET http://www.freewebarcade.com/game/coaster-racer-2/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8107 about to start writing to host
+PID:8107 wrote to host request:
+GET http://www.freewebarcade.com/game/coaster-racer-2/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8107 just read 1460 bytes from host
+PID:8107 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:51:02 GMT
+Server: Apache
+Last-Modified: Fri, 08 Jul 2011 22:43:26 GMT
+ETag: "8002bc61-1474-4a7968fd41f28"
+Accept-Ranges: bytes
+Content-Length: 5236
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8107 just read 1460 bytes from host
+PID:8107 just wrote 1460 bytes to client response:
+ëxãŒ3¨„M7ìppÄŠ\*Ø`Œ2.¡"K°‘Ä™h¦©¦½éæ…Y¸	ÄÑD#?üÐÂÍì!Á
+PID:8107 just read 2596 bytes from host
+PID:8107 just wrote 2596 bytes to client response:
+ðð(BÁˆKhâ ¾ƒì KxŒˆ%(1\97
+PID:8107 just read 0 bytes from host
+PID:8107 just wrote 0 bytes to client response:
+
+PID:8107 job done, returning to server main()
+PID8107 fork is ending cleanly

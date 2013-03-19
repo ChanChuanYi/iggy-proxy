@@ -1,0 +1,93 @@
+PID:8673 Child:Fork has been created
+PID:8673 performing initial read
+PID:8673 request:
+GET http://www.teliasonera.com/Static/css/print.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8673 about to start writing to host
+PID:8673 wrote to host request:
+GET http://www.teliasonera.com/Static/css/print.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8673 just read 1116 bytes from host
+PID:8673 just wrote 1116 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: text/css
+Expires: Tue, 19 Mar 2013 13:53:39 GMT
+Last-Modified: Thu, 31 May 2012 10:49:18 GMT
+ETag: "1CD3F1B0722CB00"
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:32 GMT
+Content-Length: 802
+
+#header #utils,
+#skiplinks,
+#main-nav,
+#footer,
+#content .share-this,
+#sec-nav-wrapper,
+#aside,
+#sites,
+hr,
+fieldset{display:none}
+
+
+h1, h2, h3, h4{color:#652D86}
+a{color:#000;text-decoration:underline;}
+a img{border: medium none}
+table, th, td{border: 1px solid #f1f1f1}
+
+
+.printView{visibility:visible; font-weight:bold;}
+.printConnections{visibility:visible; font-weight:bold;}
+.printComments{visibility:visible; font-weight:bold; text-decoration:none;}
+a.comment-count{text-decoration:none;}
+
+.job-position-page img{width:100%}
+.job-position-page #main-content{float:left;width: 100%;}
+ #aside{display:block;float:left;width: 100%;}
+ #aside {border-top: solid 1px #333;padding: 15px 0px;margin: 20px 0px;}
+ #aside dt,
+ #aside dd{margin:0}
+ #aside .apply{display:none}
+
+PID:8673 just read 505 bytes from host
+PID:8673 just wrote 505 bytes to client response:
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Tue, 19 Mar 2013 01:56:32 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+PID:8673 just read 0 bytes from host
+PID:8673 just wrote 0 bytes to client response:
+
+PID:8673 job done, returning to server main()
+PID8673 fork is ending cleanly

@@ -1,0 +1,79 @@
+PID:8880 Child:Fork has been created
+PID:8880 performing initial read
+PID:8880 request:
+GET http://g-ecx.images-amazon.com/images/G/01/img13/home/flyout/3-4_furniture-cat-redesign_flyout2._V374035253_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8880 about to start writing to host
+PID:8880 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/img13/home/flyout/3-4_furniture-cat-redesign_flyout2._V374035253_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8880 just read 2920 bytes from host
+PID:8880 just wrote 2920 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 31697
+Connection: keep-alive
+Server: nginx
+Date: Sat, 09 Mar 2013 00:30:03 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 07 Mar 2013 21:29:53 GMT
+Age: 872438
+X-Amz-Cf-Id: Ml3GjaRQuA3riK9SbGKjJdHzMN4Rvuq7ERMsu1gjzDzc42qY1rPh6Q==
+Via: 1.0 dc7afdf0f9c3a47dab65925a6390072d.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿá
+PID:8880 just read 4380 bytes from host
+PID:8880 just wrote 4380 bytes to client response:
+=š~Ù·OéòA¨j—°Gypú•ÚÂgPâüwÊ <œ’G'?!ZkuN0‹¥KñÙ{CÆy².¦ç:½éu=—•òüşÂ4ş™Ó´mJÉ¡S¥C7Ñéå€.²™6vÎé–'½Lõ3÷hÊş+jûÒíù•Åìü_ÄrB¿–”eÓş§jëğû»äµÕ4ë];­:z÷O‚;I.¥šÖäB¡Ñøêød?3XcÉ)àœdî©¯MÒıÎÍFaÖaÉS“quİt¶¯èÖß‰G¢ê½'{«ßëGªi¯|ne‚Ö©û¬Å
+PID:8880 just read 4380 bytes from host
+PID:8880 just wrote 4380 bytes to client response:
+	VI»8í‹òÚòìråğÿ
+PID:8880 just read 2920 bytes from host
+PID:8880 just wrote 2920 bytes to client response:
+'üÓlÆ2*Ş*è¯\®ŒWUkzÎŸ§ÄĞ\¹Iv¶#RBùùQâ…pLg+¡½©:9ÚÆ„Ë/ÄDJI8ùŠæÊ”]#xî·7º6¿«OÓÖworîÍnŸdòG¥E_µŸ©D¶—væT”Ê{ù8 ›EUí¥·Kº¾‹
+PID:8880 just read 4380 bytes from host
+PID:8880 just wrote 4380 bytes to client response:
+x.­8g™Ln	Š2ø9óÇj¬‹Dƒü›Æmovïüª¥c­Ì‚€(€ÌõEéQuÆ¦Sbim/ÉæH™°xÈÎdé(ä†â5‹ÇŠêopgdVh€ FÃÀø”aƒÆ	õ 8½fuø5ë‹Ùnu0æ[+3.Ñú €8SÛ†èÚ7AiúEÃ^i÷’Yß9”Ëu¨–Pò¼˜gx™Î7íÆìaGÉ:[Ä[…“[¾as*Í8kK2%‘B…vüÇÄÀF€ÈØ¾‚€fß¢ímµyµ‹}NâJq‰®ã±²Y¤ŒâßqûÍ
+PID:8880 just read 2920 bytes from host
+PID:8880 just wrote 2920 bytes to client response:
+éh—t4nÓ`ÚU‹e»ÔuèÜhO½I,Nj¬Ñ$™[®—@¿·'nñ÷V9ãhéÀë4$Ë]3Qd³¶)¢YÅtÆJ‘çäÄÜÛõ—PÜA$óò£=ˆ²İHª9Ænå<
+„#)B9©!rATu·aT«hÕI¨±¾š+_1nVéöóÇziö¿©]fıD_K8lİÇq]q¨±‡—vyû³UlÑD4¼à~5FÍb»Œøy=»UKîGº	ÁùÕ%Á¬åuÎcºÓJ’äl`ùb°’§¦.Ôı²†åÅ¸óŠî\D–ûúŒ…£>µœñ¢œÈCHæ¹äwElN¾vSIFà2™Æ~úË%¨Ú:4²J},i9R-Ë
+e=ÍRëŞGdæá´MNŸelÖ4‘2±8ŞEtFÔF§+f§ØŸok×´–èË›,±?®+‡]'(«:´pŒéG°^ŸÏ^Säô*M	±@š3#bç~®*Ñuaˆ®ŠŠñÕQ’O¥Y[à‡°ŸzŠ]¬Û$”A1SO’-]IÖ¥€(€(€(€(€å
+PID:8880 just read 2920 bytes from host
+PID:8880 just wrote 2920 bytes to client response:
+?R_*6‡Ï&^C
+çÉk¡pqËæaùÏ9¨$ÍlWÎş£;z¦j‹lŒÕ¤ñ"f|DÈìV®÷3†Ü‘'Q%–ÑÜ!î5F¯.®9,ÓÙWs…,åTÃò³]CøÒú­œ4<çm^/á2’}c§âƒ:·$UĞãŒçZ¹‹İû²MÎ²ã<ÀÃ÷WNdz8øÇõ=cAKHºgF·yíÁ[HË~pOù×Ÿ)5-R)4auIõ&×®<)¥T0
+PID:8880 just read 1460 bytes from host
+PID:8880 just wrote 1460 bytes to client response:
+Nï=ª½H·K+$ê‹é–Cm¡Ì0Ó+øœT9’¾W©ï™NŸa<¥ÊıI ~ê£ÈûÒ‘Ô¤Ôî‹Ä5íBâ	d",5@ ˆÒßrÔˆCk¸$Xü[…#+?\±<Ñº¢[Ù-¹‘ˆHã;™°>½¼¾UŒ¥ÔÉ[í^DÔä'iªØEbrØó­#¶VJ‘nÎX‡€£ÔŸZ¬åäJ;ª=Ì6mFZCñ2©àyı*"—qe€C; ËñqòçåZl@«{ÄP¤—#q_OO¥RQ¾ä¦GsnÒ<„M¹ÎY9©¦€o·`ÀÉ.sÁÚ8;Èä´K#“öGéUi’(™Ù„V)ç{†«–I&Hµ)cspã€¼¡5[ŠÜ	÷[x&¼wv
+rE:ŸdI"ÊHbFğbšá²w8L}ÜÕd›ä&g½©JË£Û‹¿Ñ¢šáDk¸N	«c¥À«<û¨„bt¾
+PID:8880 just read 4380 bytes from host
+PID:8880 just wrote 4380 bytes to client response:
+»‹Ù}åÖ°Æjıæ‰.áŒ™®9fSŸ=Æ¦>Æ¯Dá
+
+PID:8880 just read 2147 bytes from host
+PID:8880 just wrote 2147 bytes to client response:
+ËÌÕ’IQ7ØRhï…[v³¶Ì
+PID:8880 just read 0 bytes from host
+PID:8880 just wrote 0 bytes to client response:
+
+PID:8880 job done, returning to server main()
+PID8880 fork is ending cleanly

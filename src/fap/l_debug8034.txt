@@ -1,0 +1,45 @@
+PID:8034 Child:Fork has been created
+PID:8034 performing initial read
+PID:8034 request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=1.4&utmn=298927671&utmcs=windows-1252&utmsr=1366x768&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmcn=1&utmdt=Jonny%20Backflip&utmhn=www.freewebarcade.com&utmhid=809581564&utmr=0&utmp=/game/jonny-backflip/&utmac=UA-1389557-1&utmcc=__utma%3D23314797.307730954.1363657845.1363657845.1363657845.1%3B%2B__utmz%3D23314797.1363657845.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Connection: keep-alive
+
+
+PID:8034 about to start writing to host
+PID:8034 wrote to host request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=1.4&utmn=298927671&utmcs=windows-1252&utmsr=1366x768&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmcn=1&utmdt=Jonny%20Backflip&utmhn=www.freewebarcade.com&utmhid=809581564&utmr=0&utmp=/game/jonny-backflip/&utmac=UA-1389557-1&utmcc=__utma%3D23314797.307730954.1363657845.1363657845.1363657845.1%3B%2B__utmz%3D23314797.1363657845.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Connection: keep-alive
+
+
+PID:8034 just read 1444 bytes from host
+PID:8034 just wrote 1444 bytes to client response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Mar 2013 18:26:23 GMT
+Content-Length: 35
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Expires: Wed, 19 Apr 2000 11:43:00 GMT
+Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+Content-Type: image/gif
+Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+Age: 372262
+Server: GFE/2.0
+
+GIF89a
+PID:8034 just read 0 bytes from host
+PID:8034 just wrote 0 bytes to client response:
+
+PID:8034 job done, returning to server main()
+PID8034 fork is ending cleanly

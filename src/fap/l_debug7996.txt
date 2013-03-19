@@ -1,0 +1,14 @@
+PID:7996 Child:Fork has been created
+PID:7996 performing initial read
+PID:7996 request:
+GET http://rd.apmebf.comhttp//media.fastclick.net/w/get.media?sid=19312&m=1&tp=5&d=j&t=n&vcm_acv=1.1&c=0.9768814354441647&vcm_ifr=1&vcm_xy=-1..-1&vcm_vv=true&vcm_vm=false&vcm_pr=&vcm_tr=http://www.freewebarcade.com/topads.html&vcm_cr=&host=media.fastclick.net HTTP/1.1
+Host: rd.apmebf.comhttp
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/topads.html
+Connection: keep-alive
+
+
+PID:7996 unable to build host socket, preparing to end uncleanly

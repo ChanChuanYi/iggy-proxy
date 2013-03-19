@@ -1,0 +1,50 @@
+PID:8108 Child:Fork has been created
+PID:8108 performing initial read
+PID:8108 request:
+GET http://www.freewebarcade.com/game/carrier-truck/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8108 about to start writing to host
+PID:8108 wrote to host request:
+GET http://www.freewebarcade.com/game/carrier-truck/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8108 just read 2920 bytes from host
+PID:8108 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:51:02 GMT
+Server: Apache
+Last-Modified: Sun, 09 Oct 2011 13:03:19 GMT
+ETag: "8002bca7-1597-4aedd4c619849"
+Accept-Ranges: bytes
+Content-Length: 5527
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8108 just read 2887 bytes from host
+PID:8108 just wrote 2887 bytes to client response:
+zX»Œl èyÿ√”ÛPB¸™≤·xp¬∏R4§·º√0Å\¢«ú»D'0·è(!78#·èQT£åÜ≤ΩQthWèpPºVÖÂ©ìJ?§·i{–C:êVÇPÖ/®AT`Å»Ç4	f†√~@D 
+ó∏Ñ&ÄâH#r¯¡Œ
+PID:8108 just read 0 bytes from host
+PID:8108 just wrote 0 bytes to client response:
+
+PID:8108 job done, returning to server main()
+PID8108 fork is ending cleanly

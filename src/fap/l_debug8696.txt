@@ -1,0 +1,49 @@
+PID:8696 Child:Fork has been created
+PID:8696 performing initial read
+PID:8696 request:
+GET http://www.teliasonera.com/static/gfx/bg-header.png HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/Static/css/main.min.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq; __utma=109543040.1894221794.1363658193.1363658193.1363658193.1; __utmb=109543040.1.10.1363658193; __utmc=109543040; __utmz=109543040.1363658193.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=teliasonera
+Connection: keep-alive
+
+
+PID:8696 about to start writing to host
+PID:8696 wrote to host request:
+GET http://www.teliasonera.com/static/gfx/bg-header.png HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/Static/css/main.min.css?%2fstatic%2fgfx%2fbg-gateway-3.jpg=%2fImages%2fGateway%2fbg-gateway-3.jpg
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq; __utma=109543040.1894221794.1363658193.1363658193.1363658193.1; __utmb=109543040.1.10.1363658193; __utmc=109543040; __utmz=109543040.1363658193.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=teliasonera
+Connection: keep-alive
+
+
+PID:8696 just read 1836 bytes from host
+PID:8696 just wrote 1836 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: image/png
+Expires: Tue, 19 Mar 2013 13:56:34 GMT
+Last-Modified: Tue, 28 Feb 2012 08:49:12 GMT
+ETag: "1CCF5F5D79BB400"
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:33 GMT
+Content-Length: 1015
+
+‰PNG
+
+
+PID:8696 just read 0 bytes from host
+PID:8696 just wrote 0 bytes to client response:
+
+PID:8696 job done, returning to server main()
+PID8696 fork is ending cleanly

@@ -1,0 +1,60 @@
+PID:8893 Child:Fork has been created
+PID:8893 performing initial read
+PID:8893 request:
+GET http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2013/GATEWAY/SPRING2/BUNKBEDS/BUNKBED_DRESSES_STATIC_030113_B2._V375227395_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8893 about to start writing to host
+PID:8893 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2013/GATEWAY/SPRING2/BUNKBEDS/BUNKBED_DRESSES_STATIC_030113_B2._V375227395_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8893 just read 2920 bytes from host
+PID:8893 just wrote 2920 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 32988
+Connection: keep-alive
+Server: nginx
+Date: Sun, 10 Mar 2013 11:07:37 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 28 Feb 2013 21:53:43 GMT
+Age: 841080
+X-Amz-Cf-Id: EnYffNBlbfQcxFY-kcy15ReFFRZ5UgFB3zf2w2Tpt27ud3WgcmFedw==
+Via: 1.0 8058d5b7b6d52b19dafbe535133f3aed.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:8893 just read 8192 bytes from host
+PID:8893 just wrote 8192 bytes to client response:
+í„±¶“nòSƒÌ¦b©®ù|hZGË?jšÆË‰´Ø »Š{q$sÊÜøue÷õPx_‹[ˆ&‚[;»;‹v‰šşÑ%Õ¤Ø]‘:;î8;•‰AÔt !8:ïW²áMzşÌÀÇRÕn)U››Ë™äe,¬»3Œ‡ßğ &ï¸Âå6.¬ãŒÙq$ÑDé(ndk,pY[@ÁZÎŸ®Şëwš¤z[E¶“rly“#IÎ¸D7EdØˆ\/™=hi} êS§K§Á
+PID:8893 just read 8192 bytes from host
+PID:8893 just wrote 8192 bytes to client response:
+Ûğ&™ùJxEö“va0RciCÊW;Y|$UYáÛwLÑ†1Y)-Š§¤/E÷„-İ‡'˜=“¡OÙÛQv3\‰¿‰ƒæHZñGØ73†uÆ²N…´ÛˆåÜ“Ø&àd?ÇÂ¼ìåĞéU†Í¢JÃÓN€fš”ÂÎät>ÓÆ~9tRu’vØ5;ÚåÓŠt}EÅ<7¿UxŠ‘øTèÑ4aÎ,¸p¸Î˜dÙ,®éŸ5_øjöZ&n/ÆKTåb¥Æó$önùHäPŞYVSşuG¶4°FŠ´Úê\Ï_°µº–RKÍ*})'§éP£ôòëQÒÄN*Èš¶3ww;i%¾r³X_^r3Ü™mF…Ô°Ç—Z³üe÷Exá2»¦uâ9µ»OSçÇM"K!•9‡	‚Â»wœÔÔqÑƒ½¹[~¤8¼ªÇ*j*é½:|†ĞÛÑ%†ÔE2³Ë4¥›ÕÁ39v#bÈµîª•'¶Ë¸zRW½/KšŞm6Ú[bM»D†"A_:µv;uRwÜùûÒ-ÒËÅúÌ±û);'ÌÆ¢3ø­w'd}·\<oĞMvÚÙ5$fX£´µŠm¨»DñB‘Êc~»+ßëÚqvÜï‡Ó¬¡y;]¶•µÕóÊmò†!"ì\1‘Ãå¾³Œ"c>ê“^¥ØÆky_Ø1–Ë»è¬áFäÇ
+ÌqµZVÚ	S´œuy+•1*FîÚ%õô¿ˆ=èú¼|™ŞÂöÆíVâ5VEíE–6ö±ärAæ”ÂñZ´[æ›½‰ÎáË^ÒSN¶‘æšI%“Gö› @WMÜ«‹ÄÊ½G9nÉJğ¬€C@%
+PID:8893 just read 8192 bytes from host
+PID:8893 just wrote 8192 bytes to client response:
+µOƒ*~”­n3ã¶š7Sç†<³üUWÀŞû9QÇoê‹ıÇ<¯S‡b{—æÕ´¬Ç«
+PID:8893 just read 6602 bytes from host
+PID:8893 just wrote 6602 bytes to client response:
+RÄÊ;µ¼dıŒâ¨b|hÕÂ?º~¥ƒ‡cÙ¤Bqƒ&ç?âbGáV¨øQGûì‘©HËg#ÖÔ}I$Qö1‘-7bî—¡ h–bËIµ¶ó5İûGÄß‰­Jq´R1ªË4›×deW:ßéãÜ³àªX·±¡ÚG®µİuwzGE?n÷ÿ
+PID:8893 just read 0 bytes from host
+PID:8893 just wrote 0 bytes to client response:
+
+PID:8893 job done, returning to server main()
+PID8893 fork is ending cleanly

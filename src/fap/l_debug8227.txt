@@ -1,0 +1,381 @@
+PID:8227 Child:Fork has been created
+PID:8227 performing initial read
+PID:8227 request:
+GET http://24.media.tumblr.com/91314ffc5577a61ab7581c9b59d154b1/tumblr_mfaumdYOO51r7e8vso1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8227 about to start writing to host
+PID:8227 wrote to host request:
+GET http://24.media.tumblr.com/91314ffc5577a61ab7581c9b59d154b1/tumblr_mfaumdYOO51r7e8vso1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:51:26 GMT
+ETag: "2bf5327d048ec38ad0905af35bc5af90"
+Last-Modified: Wed, 19 Dec 2012 22:32:39 GMT
+Server: ECS (sjc/4F96)
+x-amz-id-2: R1QKHSu8J5vL3m4I5W4s7VDLK/HgLzVmHWHKx5KeiyYEfjsFvqgpbodlnJHqclj0
+x-amz-meta-idata: v=1;i=xTQJsebUeGTG/0n8XKQ0YQ==;d=vW/iyu5zWcOLQTOWODLmsV46c6MeLy252h463A6vG94mLqBirTnBBNx4DK1bz5dkEdFexHrcrEEGx+u3ataxmQ==
+x-amz-request-id: A76CAB4D9CE2943C
+x-amz-version-id: ciJs.m0rdFa8GiHNsiy2nSoBiUpPvS_P
+X-Cache: HIT
+Content-Length: 161473
+
+ˇÿˇ‡
+PID:8227 just read 8192 bytes from host
+PID:8227 just wrote 8192 bytes to client response:
+ray>
+			<dict>
+				<key>com.apple.print.PageFormat.PMOrientation</key>
+				<integer>1</integer>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMScaling</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.jobticket</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalRes</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.jobticket</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMVerticalRes</key>
+				<real>72</real>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalScaling</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.jobticket</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMVerticalScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.subTicket.paper_info_ticket</key>
+	<dict>
+		<key>PMPPDPaperCodeName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>PMPPDPaperCodeName</key>
+					<string>Letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>PMTiogaPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>PMTiogaPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.jobticket</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+					<string>US Letter</string>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.ticket.APIVersion</key>
+		<string>00.20</string>
+		<key>com.apple.print.ticket.type</key>
+		<string>com.apple.print.PaperInfoTicket</string>
+	</dict>
+	<key>com.apple.print.ticket.APIVersion</key>
+	<string>00.20</string>
+	<key>com.apple.print.ticket.type</key>
+	<string>com.apple.print.PageFormatTicket</string>
+</dict>
+</plist>
+8BIMÌ
+PID:8227 just read 4948 bytes from host
+PID:8227 just wrote 4948 bytes to client response:
+∞‚ˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+ZÕÓ‰ìˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+pãÃp•>‚°∫]*S™IVIõÁ≤vŒﬂíÉ˝œÕMÉ€)t
+ÍXNûeì$s:®3XDgà@®3wAΩ‘œ
+#G ¢πA˜¢±ª∂∞@/1?Ë<ôVÒö√èÛ:&»–]e—∆™≠ª
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+Œ2éCÙ#*˝Êÿ 
+ßèÃÈ∏ò›w"‹*€[3⁄[{X6∞ebü”ê–∆˙¯Ÿt‰~èÛŸíÆ7∂Åºn⁄}†ÃOıJ±÷h≈y;,ÃÈˆé°ê˙ÅgËƒ“˘cæõ¨ÈO Ø˙Z)ık26∞∫∞€Ñ±¿» ç¡Ã#Û^œr–≈3¡_ª˚Zôb8¯ø{˛ÂSû›Ø$ÌôsGÑ|Ø´ã:ûuÒåvà7:‹Àˇ
+PID:8227 just read 4380 bytes from host
+PID:8227 just wrote 4380 bytes to client response:
+°GNÍ.˙Õ’r∂∫åL™±®˚`v◊öYSëçÑÊ˛í∑]xÆª≤?Ì=u€È~¥˙=r∆US*≠≠Æ∫¿el`kZ›∆5øEçRàŸ’ÇS·àt∏Tcz ˙∑«Ø}é/∫“8~NCˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+ndard RGB - Gamma 1.8" photoshop:History="" xapMM:InstanceID="uuid:667D82482B4AE211B22FB9666CF1F2DC" xapMM:DocumentID="xmp.did:01801174072068118F62FAD54890B247" xapMM:OriginalDocumentID="xmp.did:01801174072068118F62FAD54890B247" tiff:ImageWidth="6173" tiff:ImageLength="4880" tiff:Compression="1" tiff:PhotometricInterpretation="2" tiff:Orientation="1" tiff:SamplesPerPixel="3" tiff:PlanarConfiguration="1" tiff:XResolution="720000/10000" tiff:YResolution="720000/10000" tiff:ResolutionUnit="2" tiff:NativeDigest="256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;C6B26C3762B8A12F258F89E62B3DF78B" exif:ExifVersion="0221" exif:ColorSpace="-1" exif:PixelXDimension="834" exif:PixelYDimension="1051" exif:NativeDigest="36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;393DA1B07D0D0ACABFE8861E65DE594F"> <xapMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:01801174072068118F62FAD54890B247" stEvt:when="2012-12-19T17:19:38-05:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:0280117
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+4072068118F62FAD54890B247" stEvt:when="2012-12-19T17:21:43-05:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:03801174072068118F62FAD54890B247" stEvt:when="2012-12-19T17:21:54-05:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from image/tiff to image/jpeg"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/tiff to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:04801174072068118F62FAD54890B247" stEvt:when="2012-12-19T17:21:54-05:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:05801174072068118F62FAD54890B247" stEvt:when="2012-12-19T17:22:20-05:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh" stEvt:changed="/"/> </rdf:Seq> </xapMM:History> <xapMM:DerivedFrom stRef:instanceID="xmp.iid:03801174072068118F62FAD54890B247" stRef:documentID="xmp.did:01801174072068118F62FAD54890B247" stRef:originalDocumentID="xmp.did:01801174072068118F62FAD54890B247"/> <tiff:BitsPerSample> <rdf:Seq> <rdf:li>16</rdf:li> <rdf:li>16</rdf:li> <rdf:li>16</rdf:li> </rdf:Seq> </tiff:BitsPerSample> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                       
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <?xpacket end="w"?>ˇ€
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+ÜD—(DçYM∑ÍO{èñ*ÈÓ⁄~Âπ⁄”^¿++√˜`(ck/Û)3;mS’Vá˚ñäie∫ï›ö€⁄ˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+È=›Å«P´#FÅE⁄‡ï˝1uPâ˚eΩED∫ò)ÿíª^Áÿz˙båˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+IêfPπ]E»cç¥Ô1"€wæ(äKn:˚[˛Êão#Iˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
++!Q"Ä°Ô©V›G∑Áãj∂äì∑±¬ó
+‚q`ñ˚ç˚√Ë«"J4í‘{™ı∂‡	éíI»)T ‹˙}0ÆI&cùbê˝®…d.lm∞ÿ‚®®∑›TÀ$‰ï^ÇB≤ !	b∑
+PID:8227 just read 4380 bytes from host
+PID:8227 just wrote 4380 bytes to client response:
+=EΩ7æ)îoë”Æ¨V?ﬁÿ.5bªBÌ®_π>ò*≈`só*¡I#]˜€Èã#Kê£ew}W∞€Ct‹uˆ¬ “"{ù.±∫.ÄHAΩœ˛0#*C3“≤FŒÕŸ6πˆµ±"õ{[ATY∂ckˆﬂn¯a_ı:áA∞ˆ¡w›l	ìÓ´≥ÈøòX
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+ÿµª∂å„L†è≈s∂ÿ≠•¿∏E0,äG[Ópô<EË4êIPÃ-Â∏⁄◊\KÂn ˝xtI•éR°u5‚II&gcpîJ»ñM=@ÁÈ÷¯yßÿ/–qNê|©†)Vj∑_s|'è©(.òπòÅ“ˇ
+PID:8227 just read 5840 bytes from host
+PID:8227 just wrote 5840 bytes to client response:
+5áP?ßÁÜq¶ÌøäÍ][[ófYXƒ¨∫A$é¯ãL?b˝À∫â”*≠BÙÍEixüÚ£«õı®)gNüOvzèFõéµœˆAÖU°bR≠vÛl√˙„GÁ4´C,Å,K2t6|=ÿïB|ÍeøScâoÿî!Q5
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+Ã∂Ö”cˇ
+PID:8227 just read 8192 bytes from host
+PID:8227 just wrote 8192 bytes to client response:
+or:ãey#)µèü:|˝Õ?qÇñN<q«€˚è•D6∑ñHÊ&¬G⁄„‹DıÙÿQ,rZ´^À˚,±ñÓüªÚæ£r*”»‰T¿Ë∫ÄURu_∏ˆ≈¯ßﬁíßRåêPwjæÅ9M5mT…KH£v∞?/\>\êÉJL·)/î:´,®¶wjò»D
+PID:8227 just read 4948 bytes from host
+PID:8227 just wrote 4948 bytes to client response:
+õN◊S¶©äÑü÷è@#a∂˚,,Í”dÂ|¶<-5µi⁄ zæ%⁄é«Vo1,§Åeﬂ•øòƒøÌ›ÉÕÆO&:ä®6µ≠”ßÁã#ZbÀÿiòFxÑ!È∞7ﬂ¶6VÙ+â#∂◊cCsaã©[b7†tà«\≥•e+#Î€‘\~v8õ"—0íSdËà≈M⁄†I‹ƒ4X=…p-äΩVÙ…(íe[ÎÜiΩ±n∏#+îb∏‹0˙‚-h/`≤<‚KCUπ7WÎÇÈ-ä¥Ù&ú#Œœ+Aªî7}ˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+-Îkúh¬ø—kiøÂ„˘ïÊqY»€¸ˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+@e+Î`‡è÷€cãì“∫<äû5¯kÚ=&⁄OT¿Ó9Â¯ª¸Ï≥eÚ„™7SUTui©ÓƒÿZÂ;˙„ùõˆg£ ™.Q˚?Úô’ˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+ôgzh&ØÕälCõ-Œ£±?¶5B=≠4eîªìLn/
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+ˆÔ–ñ8ó§¥π$ÕBG*”◊“à@◊cu„”±€≈KLÛSµ*æáà?qÅ&˝°¬ÑIdT`˙UnE∂"˚¸ØÌÔÇˆAŸ‚∆≠6î;ºb7Í?≥ÇæÇÿ£&&Xe≥yuküqÙ7ˆu$πB∏˜pËÀj:ÑÓÄè7b;€◊}.¬ïíb´‚•çÖ≠a§_“ﬂ_œ˝FFr\ºÁô›\løk®Dcp
+PID:8227 just read 4380 bytes from host
+PID:8227 just wrote 4380 bytes to client response:
+O?rå™L«"Ã∏oàU≠KIV…4ÑÖOI66Ûù∫‚<n6ıpùhÊ\«,Õr< ´"œr˙ºª4°ê≈==LM∞»ΩU–ÓßÁâ}ˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+˛¡éÁÏ‰„è´Ì˜L¡˚Eõ†ÓO¯Z≥zR”•¨π?È«º|£¡AÈ†ºÜå‘=T0“}•fUF& ~™O~∏ß™»„⁄€¶ã∞´∏’Ÿ5ó—’$‘µHCèΩU*˙WeÌ∏∫˚[2ÊYçh◊ä.NˆL∑⁄°óJLY%äí[Õø~ﬂ3äRUeÆRol.&R‡§ÎF∏7Ó|Wv∆≠QöŒÙãiy$X¿}Wn«πµœ∑”Õ¥áäV*â+¢22L¶Iï±πk( õ{˚ml
+⁄’û"ÀôË•Hß∆í6rUmßŒ
+PID:8227 just read 5840 bytes from host
+PID:8227 just wrote 5840 bytes to client response:
+ ∞abJµÔÎp}:cŒ~ t9:x„ ıµÆyn2ˆÆ‰÷∂ï/%›NE&“%*2µì)z	D¥”…`/T7”¸Aø∂=$˝˜üK…”8ÆÏRö_oÕ8ø¿Ã˙Ö™WÕh'\◊)≠-„£S ˙y	ûññ<æÊÈ=K°Îªw;Ñùp‡⁄˛}≠/≤fô5ì·ÌøÊ]"QFŒMã∏Ëm˘„Ìüƒ¨„ØóG»Oèä√á~$8û)‡êAô≠-jj #ƒ`Eµè[26#·ñ‡VôÃsË%ù"TI´)æùˇ
+PID:8227 just read 7300 bytes from host
+PID:8227 just wrote 7300 bytes to client response:
+
+Ñ3í¿íä-Ö=3Âß0π˝ ~dsvõõ˘TŸe/ÂCÜ¯Ûá+",®¨äømÇ°|≤—Ü!dGÅNì|4r˘∏.îg5W¢Ê«.3ûVqùggΩ£>Y\ÒÄµ‘lo¬ﬁV÷$\\ml,„Âkc„…Òal°ŒAÖ¥Íé @›Zﬂº˜”TYvtü¿∑æ_∆Yø	I4“%}*‘C
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+∂J$©UD2¡sN¬Ê5…po˚ªl1m¶ﬁÖßKbrπ3<( Vvd“dk-€mÆ¡_ñ‡ioê/á∫)*˛+˘ç]yµRdÙ¥·“÷‘ˆ>øü∂<«©ŒÛI˛∏=OßEGßÇ˚øÍvUJ–£ÕWÕsﬂøœi’ËÈ+≠à™◊$¨àt™.«‘ûÿhÈX%∑A(•ÄGo◊l#ÿﬂ@\∫ü3•À“<“∫)ÍA`eD“§j:vπﬂMæ∏:oDÌq[bÈcöÁÒfy÷Iô‘€©;(É˝Ä¥ÑÀGT*∞ÇUﬁ6¥˙uﬂ◊l:z‡oL~ƒéTü2Ìk<	*el’\˘Ø‚¨Üü+‚æûöÆ≥"Z™ú”á´%hÈÛ‹°„Y`Yb]3+ÄJÖ{Ç¨p–ﬁÅ-¸?ÁÒÊ¥•…ü/¨Àd·yNFÙï∞àÂé8ïM;yIFàáB»√Ã§ÉÜ…¸V"¥©õÂ]qëÿÏ¿í€[ÚˆÔäò»ßpî¸º â8#Çr⁄|õ˛úÃôé_ÄëÀTÇo4¸&)5í ‚◊bÿßhzvqœÚ·ˇ
+PID:8227 just read 7300 bytes from host
+PID:8227 just wrote 7300 bytes to client response:
+Q3)∏ Ì|,ù	\µÕÓnlp
+Ó∆'v”πo/µ˙ÌÜBH‰?Ñ€T›ûBN⁄ÅÔ∑l.é#·Ãáâa•É<Àb¨∞f4æ ﬁ
+òX4r°´~ùA ‹a¢‹^Ä–YêÍ’kﬂ~∏Ä4˜ƒÊ\W¡µôÔ–-_‰¥Uq≈FFŸ≠—ëSóø®êtÙñ(»Íp¯›Hâ¯dÔ)∏bßÖyîpƒÛ9J8Ÿ(V@Dë—≥!ä@~5øÏ≈ç€±¬Ë¯Sóıô≈  ûòf^h‹Rüeö·f´Iby6∏1ÃP¡v,ÑÏF)v—b÷ç˛${éF‰˘‹lπ/ÂÛ˝:»ó˘_N&Ûløﬂ‡Àè‰ô-\ºUÀjV÷f\Ã¶~% ß÷Ú‘PT@±…]MÎ¶;•\+æï≠¥≠±"ÎÇ{4|⁄¯é¯d‚èáN%Çí∑3è9…Ûi≤‹“û©S±`V˚:Ç•î≥+©⁄«’‹çXÚ¨∫≠î>Zs8Â_e\uê?ﬂ–M˜–xÑ
+ò[i"a˛ñ[©˜±Ï0ÿrº3SàΩGOß«#È≈‹9Œ>•„û™è^gO¥µfÂ„( ï±*u+^‚¯ÙòÂëÔÉ‰Òπ#<3xÚ.	ªÇ+WÓÎ3Hö[±I3
+ímq‘ãmˇ
+PID:8227 just read 4380 bytes from host
+PID:8227 just wrote 4380 bytes to client response:
+!xÿÔÂ)su8∂qÔárÂá"Ñ‘èπÕ?÷õîúÀ§´û∏&Aö»¥Y¢´7ÑPü,€ÔxÿÉ{^⁄á|[È›WÓŸïøïÚWÍùÔΩ;Q_2⁄ˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+_Æáÿ}øQéáQ“¨¯©Ú∏9ùY.õ/r⁄|˝ø…≥~y„UŒ^]≠/…"Òw?Ï‹›%#≈ïó ≥ëÿµàmø±˝·è3¥ÈÚz©≈-Æ«‚3À·Œl7—ƒ¬ìâÈc´¬“øiä—N∑I$ıÛa≤%8_∞˝<©—¨~9Ü¸Œ8z≤TZ+AñÀy4™T©’˙~+ßˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+¡MÒ%Ó2∆&–éI◊ı¿””úõˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+»é<Áﬂˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+ª˚3ÈO«OOJêFı=EKI+Yµ&√⁄ƒ€ﬂ|t~Á{"N¶ûjö∫"”
+xÈ‰Òd‹m≤ﬁ˚‹⁄¯èçmÏn:jﬁ%ä¶H·í%§`TÿﬁÌ‘ØÆ›˙ÌÖíi4Ÿ%ôF2¸úœ¬àâIF
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+·Ëãv§ûF”Ól˝q¢+‰†‚‘ªéΩ‰AÀﬁN∆LÌ4R≈óC$äñËA~¯ﬂâv≈&r3Kø#hø.u‚¢∑âR¬·Ï)úl/{ç∆¯≥µw1Ÿ≥ºQk}W≥ß‚é¬˛∏+|∞9úøÒœ¡≤Ò,!„ºç§ã8‡<¡sXÊx¶ùò$®M∫-„aÏùô∞¸∑ÏhËÛ/âÿ¸Ë®¸oTRÛs·GÄ˘∑B|G¶®¶©ú/ô£0¥R©˘Lä/å3ãpoÿﬂÖ®eÌ˜9C·#4ã#¯ïÂ›d^mYƒT≈à∂•û7âá”ƒÎÌä∞Zö5uj»˙©≈üSU”R«êeï1Ã˜ê≥Gr	;Ï›AøøEπ7£ÇîweüÌ»¶8ÀSñxL¡—	∞ø°ı>ûòzLVŸQ¶·åÎ4Æj	3ªIM·3ÀY
+∫Ä∑Ìπﬂ‘mÑù˘aã^;&INOS=díöäÅ1’+øÜ£†XuË.:ıƒó4Æa ÚJdÀiò4Çƒéî;ˆæ›∂≈NlzEzÉZÂ~"√1uS[Õµ≈≠”µálm¥Íé}UüÛ˙ZZ˛jÊŸ¡íõ1ïÍ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+jÍä,”+¨Ü™í¢Ê‚7GP≈n}¡ˆ¬5Z;dC_
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+$yd…Êp$Ö–Èˇ
+PID:8227 just read 2920 bytes from host
+PID:8227 just wrote 2920 bytes to client response:
+∏+uh¡[É“‚ÿ)TvhƒÔ"£ä3æ•™ˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+°ùT´^'µÕ≈ û∏ﬁ¸ú—·˚*7√Exw¶ÕshY˛+È>˚„ ı:»œw”ª∆tlÄ≤i
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+µ{É∑,ƒÄ›pPèëöÇ¿~`I·à˘±_±Ë§BwR-a◊˝BÊ≠Å\C(,HÿΩ˛òä¨±‰I”9ù<q}fd:T)µáÛ≈üª _Bøﬁ#ΩçIöG/ö$∞‘A’ÈÌÜ˝’•Û1'’'¸(Õ·É!+1+kõﬂÆ.PätÃ›Új¸
+©©LJ «».£ß•˝;‡„Ç\y$˘À≤ô39
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+{¸´Å•¸FŒèÜr©°åT§µ$´ó
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to client response:
+ÆYÏ6±‹ıæmPRŸLıC.cEN
+ )"Í ¬ÀÌÚ¡OvÄÎ≤ò¨ﬂ.Çã*û,Í_∆®¢	`-Ãøñ-Jñ Ôz+‹.fÀxè,‚l¬ñöéùÈÇ;E;é!ÂV lX\-‘ì◊'À§ûëæ≤…°z•èƒQ ◊i-®\˜∂◊≈RN«çQO†ßîRhõ†ïÌ©Å€Q6¸±ØI'ˆ¸å9ótﬁΩˇ
+PID:8227 just read 1460 bytes from host
+PID:8227 just wrote 1460 bytes to

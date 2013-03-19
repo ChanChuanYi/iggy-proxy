@@ -1,0 +1,49 @@
+PID:8073 Child:Fork has been created
+PID:8073 performing initial read
+PID:8073 request:
+GET http://www.freewebarcade.com/game/buggy-run-2/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8073 about to start writing to host
+PID:8073 wrote to host request:
+GET http://www.freewebarcade.com/game/buggy-run-2/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8073 just read 2920 bytes from host
+PID:8073 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:58 GMT
+Server: Apache
+Last-Modified: Fri, 23 Jan 2009 03:40:03 GMT
+ETag: "a003e583-16a0-4611e24ec322c"
+Accept-Ranges: bytes
+Content-Length: 5792
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8073 just read 3152 bytes from host
+PID:8073 just wrote 3152 bytes to client response:
+DT7!à=í‚ØYPƒÿ‡Ö9†A§`(Ñ“0ÇGêbê0h1a’Ï@ïf0Éë'Ä¨p
+PID:8073 just read 0 bytes from host
+PID:8073 just wrote 0 bytes to client response:
+
+PID:8073 job done, returning to server main()
+PID8073 fork is ending cleanly

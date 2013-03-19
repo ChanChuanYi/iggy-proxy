@@ -1,0 +1,61 @@
+PID:8922 Child:Fork has been created
+PID:8922 performing initial read
+PID:8922 request:
+GET http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/bunkbed/bunkBedPhone._V394981639_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8922 about to start writing to host
+PID:8922 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/bunkbed/bunkBedPhone._V394981639_.jpg HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8922 just read 8192 bytes from host
+PID:8922 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 28645
+Connection: keep-alive
+Date: Fri, 18 Jan 2013 02:36:22 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Fri, 18 Jan 2013 01:26:59 GMT
+Age: 5182554
+X-Amz-Cf-Id: zfRS9gWWzLH5vRSFH4A8JiGmw43DhuwrBn_mi6CYHsAGW009qIuHaA==
+Via: 1.0 5eaa9e60e5af74a0a161b91e67388485.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:8922 just read 8192 bytes from host
+PID:8922 just wrote 8192 bytes to client response:
+=Nú0ºžX5Õ{ÞþFÖýÿ
+PID:8922 just read 2596 bytes from host
+PID:8922 just wrote 2596 bytes to client response:
+	®0&W-¹·pˆª-*€PäÈn4gd¹ž
+PID:8922 just read 8192 bytes from host
+PID:8922 just wrote 8192 bytes to client response:
+ò‡Õ§õ4–éš¬½n@ýÔµP
+@(†dS£”i¬7*1¨©2ð€ª†
+¢h©Ý!EOmYQcKŒìYmˆ¯‚¶ó.Šf˜ 0$T$Tê‹@@{IiGå·ìð–m«ùÅdœV”8JÒš†åÝ½1Ê€’¶{IOfâPã­Â3jÌyjÐq›is–Ûs„yôEÅŽß§ìÉI¶Û¢A“)s!èì6Ñº¹Ýð„ØŠ—>|è	Æ
+PID:8922 just read 2585 bytes from host
+PID:8922 just wrote 2585 bytes to client response:
+ÔWg¥Ÿ®Ûª"Oµ½"Ò\;¸Ô(ÊÝ¬	[6¸Ætn+¼ÄqÞAO“+šæí—Øö;4v»›
+PID:8922 just read 0 bytes from host
+PID:8922 just wrote 0 bytes to client response:
+
+PID:8922 job done, returning to server main()
+PID8922 fork is ending cleanly

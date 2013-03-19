@@ -1,0 +1,53 @@
+PID:8050 Child:Fork has been created
+PID:8050 performing initial read
+PID:8050 request:
+GET http://www.freewebarcade.com/game/18-wheeler/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8050 about to start writing to host
+PID:8050 wrote to host request:
+GET http://www.freewebarcade.com/game/18-wheeler/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8050 just read 2920 bytes from host
+PID:8050 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:57 GMT
+Server: Apache
+Last-Modified: Thu, 22 Jan 2009 21:39:25 GMT
+ETag: "c0008111-1394-461191b39cf16"
+Accept-Ranges: bytes
+Content-Length: 5012
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8050 just read 1460 bytes from host
+PID:8050 just wrote 1460 bytes to client response:
+4FŞÉ„wbÄ0-¶Q‚£„våàÓ7#r‡à8ã¡Îƒ „„ùyƒ.­¼ËˆÎ*„·ZZ¢‰0pÇ¯ïIò
+€÷·bÚoÁ[BDŸ[EÈa$ª¶—w1†BØa$îRr
+PID:8050 just read 912 bytes from host
+PID:8050 just wrote 912 bytes to client response:
+Ÿ¦Š“›ğ–%i‡f}Ts—õ\…Fûè\ÿ0‘$€?y5cP“*©¸c©[ ©“J©lq;/„šª¸A©s€+c¢c ;U`D-P9@‚<°n¾ã‹}DoA€aÑ9Ğ;9¶¡ú«’J©¢º£º©Âú«s
+PID:8050 just read 0 bytes from host
+PID:8050 just wrote 0 bytes to client response:
+
+PID:8050 job done, returning to server main()
+PID8050 fork is ending cleanly

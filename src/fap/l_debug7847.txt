@@ -1,0 +1,62 @@
+PID:7847 Child:Fork has been created
+PID:7847 performing initial read
+PID:7847 request:
+GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657721122&bpp=19&shv=r20130311&cbv=r20130206&prev_slotnames=0451934756%2C8979440097%2C6400026666&correlator=1363657720687&frm=20&adk=2938775854&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=897&biw=1271&bih=600&oid=3&fu=0&ifi=4&dtd=1235&xpc=SXJxtxgcW2&p=http%3A//www.linuxmint.com HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:7847 about to start writing to host
+PID:7847 wrote to host request:
+GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657713&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2F&dt=1363657721122&bpp=19&shv=r20130311&cbv=r20130206&prev_slotnames=0451934756%2C8979440097%2C6400026666&correlator=1363657720687&frm=20&adk=2938775854&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=2046758293&ga_fc=1&u_tz=-420&u_his=2&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=897&biw=1271&bih=600&oid=3&fu=0&ifi=4&dtd=1235&xpc=SXJxtxgcW2&p=http%3A//www.linuxmint.com HTTP/1.1
+Host: googleads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.linuxmint.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:7847 just read 4290 bytes from host
+PID:7847 just wrote 4290 bytes to client response:
+HTTP/1.1 200 OK
+P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 01:48:44 GMT
+Server: cafe
+Cache-Control: private
+Content-Length: 9436
+X-XSS-Protection: 1; mode=block
+
+‹
+PID:7847 just read 2860 bytes from host
+PID:7847 just wrote 2860 bytes to client response:
+Ïp¸á‡ø“âî*n$½ûôøôôï× Õÿ«A¾®Ajï¢ıïÕ ÕÏÚ™™¤®|]†ŒE¤XÊÓşKy¯JÓ¯Ÿ¥Ô¹»WŸ9Ï¹“÷ûwî“êÇÏô}Süˆä³š¼ñÙ¸àßuğÙwNà)¹K©ñmµ¸ Ä¸„q.ì}!§!Ò¹¾bü1Ú9èÉ_ª†€|	]ò—²áåORyHÿŒ¢-œwZZ’²ÎÅ­s¤İü}ò)­'~¾²cÂçâ%H*Å]ª˜|Ú)!m(”˜6$Ê­ÿñ†R—<ÊéV,Í|!æ‘¢«–ú§%Q+_Ğ?+‰‚<´zÜÍõôı*6ÔG«ğº
+PID:7847 just read 1430 bytes from host
+PID:7847 just wrote 1430 bytes to client response:
+Ê-ù-ë:«ò{Nê±Ššš&0|ÉæpJs¼t|«|¢Ë¸W	Àœ·†Á9¼¡hª5«#ŠGßY“J¬K82+ï­Õl‘‹#WîµKV¡:Ü‚‰|Ü×ÂŞi4ÙZq¤0€1à%Dªì¾!Ú´6\Ø¡ÙQÃê	›qUoÏ‹CuS>–Ö²=ÀzZÙ…Ş›‡
+Ù†9ÑùØ¦O¾?0Æª×«öİå±¸: ¸ ÷ùµ˜ó^±·2P­r‡Uw<ßV¥cYR'ÖpEk9#EŸ·š»£í¡‰mÔ¦ĞÖd¥?Üé1Â´MàFS]ïg;¶¿‰@Ge›å®`–Í§•ç]ÑlûóùAÅƒ•†GN_/7KãˆİìÑ~i'-d_DÂ¶<1˜>pĞÉ†OO§¨TÛ`x·m,»@(Íœí¤Õ")ˆºFgB{(oÇZô¦+·ZÓ{{¬+,ÅFÙ[L ·|)uÄÀô#‹UæCi‚EsÉ2ZÕV„\r¡oß„íšÁn<ÁeSx¬ÆpÙ%V"Öµ—úŠXÌK½…¯XËÉªfT@³»lÎÃ">"W»SvÙÃ´è
+(Ó#[ó´#¶_iW[G7ŒÊºµ©
+D„ğ®ÉV£×Qw&âIÍĞ»6^ ımô·G=‚r!€H1”´ê¦³‘NÅÌ$ÖÀè 8®tê{×#œõ75r­ ğøGˆ´ÊÅ`Şæçf{Ó›ácA´A¿İ§]cc‘ƒĞ:Ã‰Rjó+c;zYéS¾8Ø©Ñ'+è6òwØ\›Ã-Æ„ä°Ì×[<ú€ëâíQebÀwŞ®›RgĞ0—“!¦Ğ(6æ[v‰Y‹½eëÀL'²åöÅ¹!×´î¡fúfãpÎ€YwØŠ®/e{!ÛP|:ÒiĞ=±e]%„2WHoÛ(vWnŒ&-Y®z²\Vü¢èå‘˜³Sô±É!\(7«Á4G}uMNÊÚldçp),·#š(ÊGuÏnE%0§İÕ
+Uz•½*pè Ëí´Ù¨Á`°BV5†
+VØ±æs–0Û>¦ZQY¶†û¨_Ş’Å-¥µo–GÚW™°¦ÌÑ5¡eJW7İA´iµ'Õô{¥í†l†‹RĞaFø‘â„´9r¤íZp#ÿĞğ;l§¸¨6‡“Iu¼ÇÊfÜRÔª5FÇEÀD{ÓqedS)l¬2ßµ[ÓÖÑŠ£u§.6­ğzgüÄok–Ğq6­CˆV‡§©Ñ|*[³7q*‡Å¶fë‚¸#1¯ÈN*Jô,Ç·±Ù¼âU‰E±j6Ôñ ij3¶;®ÎB=jïÚ ğ}$DÅ±¢´O-¯!Ì&µ±)ÖÊ3·S&ùQo1Â14ê–7®ç¡d'Ôê§ğ•I4‚h8‰€4u™Şb‰éò>R*›ˆÜš³uq+ï—K™9¬.´txĞÛŞ´½ŠÜ§·+b…“´Ÿe¨à=•°›Ê‚ó]¢¥—KE(–áÚØ0tY@™5ŞÅ
+PID:7847 just read 2335 bytes from host
+PID:7847 just wrote 2335 bytes to client response:
+7i	´À¨ZÉeìîz´\·Œ>c@õ$gdˆ
+‡u›æÕĞÃ‹‘Psz#sXi6²Á¬—;xyK\Eççšˆ=Å¼QûÄĞÇOñÒl~ğÖ=pÚş¨cìgMí——®ÉÎj§qE)[ÒT^”æt³¶Á²J°3÷*•
+7†¹ÇØŸå­ÃsÚUÚØ(˜–°	c)®7ÿ°YögËÁ‘ã«ÄhKN±¾;ï(=u¤ùªåõírc=–³aæ…WwŠ66Ãj§¥4i/‹³Jm7›ÏM]ƒ3®³s„¾©O‚®uJãCc(Ì£¥€5ÕÚ¼³nğeCì×l
+PID:7847 just read 0 bytes from host
+PID:7847 just wrote 0 bytes to client response:
+
+PID:7847 job done, returning to server main()
+PID7847 fork is ending cleanly

@@ -106,8 +106,10 @@ int create_host_socket(char* host,int client_fd,char* write_pipe){
 	hints.ai_family = AF_INET;
 	hints.ai_socktype = SOCK_STREAM;
 	 
-	
-	
+	int x=0;
+	for(;forbidden[x]!=0;x++)if(strcmp(forbidden[x],host)==0)
+		call_death(d_out,new_fd,403,"Forbidden",
+		write_pipe,"Forbidden");
 	  
 	//from beej.us online pdf document
 	if( (rv = getaddrinfo(host,port,&hints,&servinfo)) !=0){

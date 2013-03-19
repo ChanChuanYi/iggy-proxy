@@ -1,0 +1,50 @@
+PID:8093 Child:Fork has been created
+PID:8093 performing initial read
+PID:8093 request:
+GET http://www.freewebarcade.com/game/crazy-orcs-racing/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8093 about to start writing to host
+PID:8093 wrote to host request:
+GET http://www.freewebarcade.com/game/crazy-orcs-racing/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/driving-and-racing.php
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8093 just read 2920 bytes from host
+PID:8093 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:59 GMT
+Server: Apache
+Last-Modified: Tue, 10 Feb 2009 21:46:00 GMT
+ETag: "822-13a2-4629769b78a2b"
+Accept-Ranges: bytes
+Content-Length: 5026
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8093 just read 2381 bytes from host
+PID:8093 just wrote 2381 bytes to client response:
+„6´SÄLxN8ìAzPóA¬e¢Æ‰ Åú°X?	Â.¡`M0‚™Pp(²„Ğª7¶8Øîˆe0ƒĞÀ»IX®éb[=ˆv´c°…1[Á¾wøtšÏ 	;±š…,\‘:à¡}ˆƒ~	cÔB×·¦#Œ¼ˆ!š®®íp–i`ƒ~ï 	G8Bˆ0„!ôÛÍÁ±g€…\Û¾VHÄ!ö f61á&ÅàAcM v°e#æmˆJPb
+ÿÎD/®
+PID:8093 just read 0 bytes from host
+PID:8093 just wrote 0 bytes to client response:
+
+PID:8093 job done, returning to server main()
+PID8093 fork is ending cleanly

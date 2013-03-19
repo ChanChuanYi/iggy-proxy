@@ -1,0 +1,64 @@
+PID:8210 Child:Fork has been created
+PID:8210 performing initial read
+PID:8210 request:
+GET http://24.media.tumblr.com/966f4a37709168c5bb2f7f5e3aec22c2/tumblr_mjm9qcmudD1r1drico1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8210 about to start writing to host
+PID:8210 wrote to host request:
+GET http://24.media.tumblr.com/966f4a37709168c5bb2f7f5e3aec22c2/tumblr_mjm9qcmudD1r1drico1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8210 just read 8192 bytes from host
+PID:8210 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:51:25 GMT
+ETag: "176d12ab2c7ccc525936103137c42e97"
+Last-Modified: Wed, 13 Mar 2013 20:47:02 GMT
+Server: ECS (sjc/4F8F)
+x-amz-id-2: 4Eo6VkNhaKfXolKNbMm0DV8hEIaSLZXIAbl78/Kq3/yXu/pGs/WcDFjBglLLOQvc
+x-amz-request-id: 48EEEEB5DEEB1744
+x-amz-version-id: Dd5pJ_uHDhHvPwlbz2sIgQiwYKKBPJBB
+X-Cache: HIT
+Content-Length: 38411
+
+ˇÿˇ‡
+PID:8210 just read 568 bytes from host
+PID:8210 just wrote 568 bytes to client response:
+676r6Æ6È7$7`7ú7◊88P8å8»99B99º9˘:6:t:≤:Ô;-;k;™;Ë<'<e<§<„="=a=°=‡> >`>†>‡?!?a?¢?‚@#@d@¶@ÁA)AjA¨AÓB0BrBµB˜C:C}C¿DDGDäDŒEEUEöEﬁF"FgF´FG5G{G¿HHKHëH◊IIcI©IJ7J}JƒKKSKöK‚L*LrL∫MMJMìM‹N%NnN∑O
+PID:8210 just read 2920 bytes from host
+PID:8210 just wrote 2920 bytes to client response:
+êênê÷ë?ë®íízí„ìMì∂î îäîÙï_ï…ñ4ñüó
+óuó‡òLò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´´u´È¨\¨–≠D≠∏Æ-Æ°ØØã∞
+PID:8210 just read 1460 bytes from host
+PID:8210 just wrote 1460 bytes to client response:
+A287D9554098386512D10AE20867</rdf:li> <rdf:li>DA2840B37E1F55260DDE9A7A8F1FDCE6</rdf:li> <rdf:li>E5A400CE2481B78AA4C0C02409E87FC7</rdf:li> <rdf:li>EBD74A4A1C023F8174EA02CC73280D65</rdf:li> <rdf:li>EC1FB2B4CAED0B763DA9F20C763D93DE</rdf:li> <rdf:li>F63B7CB9112CBE31CB1604E41B759F6B</rdf:li> <rdf:li>FE8474E7CA4AAC65ECE2FB5FE2D0F6FA</rdf:li> <rdf:li>uuid:F66114A271B6E111B2B39981B97461A5</rdf:li> <rdf:li>xmp.did:1132880D12D8E1118327ABB60D9DD8B1</rdf:li> <rdf:li>xmp.did:116C4E6695CEE111A7AAEF4FD2FA9779</rdf:li> <rdf:li>xmp.did:20f91048-d677-4e62-bb09-02a6859c81b8</rdf:li> <rdf:li>xmp.did:253494d1-8e2a-483e-ad8f-a2be84b56723</rdf:li> <rdf:li>xmp.did:2c7e47b7-ad95-4660-9f36-66d250dfbad8</rdf:li> <rdf:li>xmp.did:30589b33-875a-4414-b29a-3e0eabbaa989</rdf:li> <rdf:li>xmp.did:3434625A8B3DE2118AF2DBE0009952B2</rdf:li> <rdf:li>xmp.did:4109BB315D47E211BD7884A79F528BB6</rdf:li> <rdf:li>xmp.did:413720A251C8E111A106B8EBD67CA77C</rdf:li> <rdf:li>xmp.did:417144b6-f7c9-4161-af18-b76bec4833e3</rdf:li> <rdf:li>xmp.did:59A826D913206811822A8088DC20D611</rdf:li> <rdf:li>xmp.did:821CAD32504FE21190649193E22188C1</rdf:li> <rdf:li>xmp.did:854A769B3BC8E111ACEE920236BE6A72</rdf:li> <rdf:li>xmp.did:99c5f382-9bc1-45bc-bf39-5764aacdd6f0</rdf:li> <rdf:li>xmp.did:A44EA4FF062DE211BB65EE1811151EA5</rdf:li> <rdf:li>xmp.did:A6111A83852EE2118EAACB853824FD04</rdf:li> <rdf:li>xmp.did:B343386298D2E1118818B9CEDFC04C8E</rdf:li> <rdf:li>xmp.did:BECE77F3B342E2118515EE917D507EA4</rdf:li>
+PID:8210 just read 1460 bytes from host
+PID:8210 just wrote 1460 bytes to client response:
+ <rdf:li>xmp.did:C6258C12D134E211A781EA54C05767A6</rdf:li> <rdf:li>xmp.did:C8258C12D134E211A781EA54C05767A6</rdf:li> <rdf:li>xmp.did:CA258C12D134E211A781EA54C05767A6</rdf:li> <rdf:li>xmp.did:D37CA65E8332E211A7A997436D0A74B0</rdf:li> <rdf:li>xmp.did:D3E202E34D41E21199C58E7CF30C85DA</rdf:li> <rdf:li>xmp.did:DE6F1D624941E21199C58E7CF30C85DA</rdf:li> <rdf:li>xmp.did:E0E355601041E211B9C4EEC19B66A5A9</rdf:li> <rdf:li>xmp.did:ae1b1654-df88-4cc9-b200-2342ba8d617c</rdf:li> <rdf:li>xmp.did:ffb85ac4-acfa-4f90-a656-c199ac5c9741</rdf:li> </rdf:Bag> </photoshop:DocumentAncestors> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:C510806EC4236811822AE50A659F9E86" stEvt:when="2013-02-02T18:37:09Z" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:C710806EC4236811822AE50A659F9E86" stEvt:when="2013-02-02T18:45:55Z" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:0E3BDA3DF9236811822AE50A659F9E86" stEvt:when="2013-02-02T23:36:53Z" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:0F3BDA3DF9236
+PID:8210 just read 8192 bytes from host
+PID:8210 just wrote 8192 bytes to client response:
+811822AE50A659F9E86" stEvt:when="2013-02-02T23:36:53Z" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:ECBDCA8958216811822ABEF7E317ABCE" stEvt:when="2013-03-13T20:45:35Z" stEvt:softwareAgent="Adobe Photoshop CS6 (Macintosh)" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:0E3BDA3DF9236811822AE50A659F9E86" stRef:documentID="xmp.did:C510806EC4236811822AE50A659F9E86" stRef:originalDocumentID="xmp.did:C510806EC4236811822AE50A659F9E86"/> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end="w"?>ˇ€
+PID:8210 just read 8192 bytes from host
+PID:8210 just wrote 8192 bytes to client response:
+	Ú6õ€U˚|ÔàaÓíM3S‚zxoê√>˛·O6-ìK∂‰ıeg≈ΩLa≥gÀ[∑‹ˇ
+PID:8210 just read 5516 bytes from host
+PID:8210 just wrote 5516 bytes to client response:
+à-è¥_«;‹ ˙ˆì[~HÌO§—]$éE∫ªæJYi”ÓÊ;{DÌ≈µ∑Ø°ùíöç¨ƒ˙¥%√®∂˙ß∫fg#.cû¥±—„

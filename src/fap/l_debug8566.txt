@@ -1,0 +1,80 @@
+PID:8566 Child:Fork has been created
+PID:8566 performing initial read
+PID:8566 request:
+GET http://www.ubuntu.com/static/u/img/homepage/cnet-award-phone-tablet.png HTTP/1.1
+Host: www.ubuntu.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.ubuntu.com/static/u/css/styles.css
+Connection: keep-alive
+
+
+PID:8566 about to start writing to host
+PID:8566 wrote to host request:
+GET http://www.ubuntu.com/static/u/img/homepage/cnet-award-phone-tablet.png HTTP/1.1
+Host: www.ubuntu.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.ubuntu.com/static/u/css/styles.css
+Connection: keep-alive
+
+
+PID:8566 just read 487 bytes from host
+PID:8566 just wrote 487 bytes to client response:
+HTTP/1.0 200 OK
+Date: Tue, 19 Mar 2013 01:32:56 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Last-Modified: Mon, 18 Mar 2013 11:21:22 GMT
+ETag: "80546-9ae0-4d831304a1080"
+Accept-Ranges: bytes
+Content-Length: 39648
+Content-Type: image/png
+Cache-Control: max-age=86400
+Expires: Wed, 20 Mar 2013 01:32:56 GMT
+Age: 1313
+X-Cache: HIT from jujube.canonical.com
+X-Cache-Lookup: HIT from jujube.canonical.com:80
+Via: 1.1 jujube.canonical.com:80 (squid/2.7.STABLE7)
+Connection: keep-alive
+
+
+PID:8566 just read 2920 bytes from host
+PID:8566 just wrote 2920 bytes to client response:
+‰PNG
+
+
+PID:8566 just read 5840 bytes from host
+PID:8566 just wrote 5840 bytes to client response:
+j¿m‘ /´à7µ¤‚ûÌILƒoï0÷‹»šÉ‘'¹'5“½GÉÿGâºÈ
+PID:8566 just read 7624 bytes from host
+PID:8566 just wrote 7624 bytes to client response:
+'ë‘sWË[!şü­,’şlâı(G¦‘ºİİ]²tÉöŠéÉmZèúı®CŠÉŒ;¨YP¯mŞÂúâed7UÎUôš"UmÕü°ÅqÖÍ37/ƒ	·5”8IƒJéıµ*
+M…zÊŠD¸ûqe³€…Ÿò B“œ!I$ÙMp»×Ã˜ö[©5í@±Qß«U±‘+3YkàiWÃ»Q2t\¸ò{
+í~VÇz¤™!ºÈœ"i·v4È©,ÀÒ†öŠ"“/KôÄûdÚóvõå%Zè<´oz‚h±ìï`ÜíÍVÛÇ2İàš™¿Ä¬G£Û V6Î›Š{nZ–‰£½}ìßİd"*$ßü~Œ+òZOûœÈ9h¡²wÜéTòJ~:Ò-\_¹qãM{{{ç¥ëÅ‘RÎ
+PID:8566 just read 4096 bytes from host
+PID:8566 just wrote 4096 bytes to client response:
+ì’­öa* ¹™Â-EÕÔ¼i´ÇºéÛĞp€‚'	÷¬¦Òº-CùÊYŸ˜õtY´`P|¶ººJqÜKæœ‡ªf’Áãéã>	èî.­¾½¸¨x¶f¥’©Ï<O®¨İŸã}tGcìwêøÜ+——È§'W·V™à)Ğh@–úh/ğµ–6¡Aºê°ä¨Ï÷dZ&8 m,Í+ÌmØ&«°¿3Dc¥ }ÓJ~@ÀÄ,é	Òr"Ét–Úî™4ŒğÂï}ëo¹
+PID:8566 just read 8192 bytes from host
+PID:8566 just wrote 8192 bytes to client response:
+ó?Geî¬.Ú#E­”˜tsLQ8	—1@¬
+PID:8566 just read 568 bytes from host
+PID:8566 just wrote 568 bytes to client response:
+ëA€b)KÉğÚ•xı¤Á-ÎŠ‘âô»6ïwÑ|ÄÇ#ò<Ud+tcÓt<Éİø%|ï‡ÛøŸßx@1Y
+_~ı‹ôny‚Úïâ„âŠ}o>>ÄñÎ&2¡VhrŒÒk¬(tîê5…
+PID:8566 just read 3528 bytes from host
+PID:8566 just wrote 3528 bytes to client response:
+4Y"¥È#Ã©ü¡Çı§!™½•‹ÓÉ¬jãO,£¥éÜTGİè…ù9ÌUæ	–åQ¨7Ô‚®»àŒ-ç{lïí…"){‘>#¥J;ª1‰8ºf-RÆÁ V•àyöb›äe·¾³í#‚g¹2NvnáæAØY(#KpøÕ/¼ŒWn\Sğ¼ö¥¿ªF%¼í„	s,{z‘ZĞô±n9£	[Æ8<Á#ã8Ù?8°Íç`%=³A'Ì°Ÿ}óuºğ*@ä6ïoï#CÙR0ì&)(¬Ìkbéü²
+à­.]´ºà¬İ‚…JÑãÑ6'=&j[›9a22µøgÚbî†Š§µ½ë‹¬ày Wó‚J!èBç)@N%²[(¾¸{DPÅöE¿î\Ü	ùâzIµús×õWêÈ–?w¡†½G]Š2xåEæ¤Jù² ¤95NŠ)½’¦‹ÚRËçJ8z°#á¶1NÕ)a%ïñQs@ÅOI^œ\Å*Á›Ìà&{·ñıºJÒµãø±Z¯Ò±»’§¹z±€ãu¼ôå¯ ×#¯CŞ¦¿M«3&O3¦s—äi²¤H.[äeHé’	Ş"hxŸOq !½ì)§°UWµM^lÌ©èyÏ—rç4+ˆ ˜Iõ¸%j\ƒ¯o:O×Ğ%¨Ú>ÁÑÑ	^õíFL»LïÍÅØr1‡úÜœ·lš3C
+ÕX9YÇñk‚E)¦›wvá>´â•ğxg€yßqû
+PID:8566 just read 5840 bytes from host
+PID:8566 just wrote 5840 bytes to client response:
+ûÈ· KĞĞ©® ñ¥_Àõzßûşx÷Ï¾…Ìã[HÌ16Ñ¼×?‡*	ÿñ^	éñ1}T#Ø®â“°Ô5áÍõW¿€ó—oPÌCÊ$<ÎmK‡''ªJIW±»s@^¯D
+j©9¤sç7`ìÃéòÌÑíaWuyd³y‚_uUôe/>då!O\]9wj¿·ï4)yl-¡’¬ãÒâ	JvŞ"ïİcûyù–Ş¼	ã{ïÃ½˜ÃAz‹ÆO“Ò¹şø½Ëì«8hpr¤:
+fIô¬•Z"ö¡Ø©¤R2iær9û¹=9ÏP ÍùS€áz=¿@üró Ò/º0Å0<‹<U”éjÀ°S[ÛÕî‘jÀÂMF‹_!å¡–ÛW;±Y(F#2úY\}í'°²¼DÂñ_è¯Gêı¤÷úÉä„¿E2Á±ú"‰²fW®$P*çpï!A®'Ñ±ÌUÓ(¿pwä-
+n“©
+j«WPœ_U0ÍaVŞıÊdc†¯-ºC$l.VfĞ3²Ş¦ÎáÙ=ì’¹ğâ‹ûGHe¤êË\û"íŞÿc”–^Äa>snW×
+¸÷îwQrG¸òÒÜb~r¶ŠÕBf°‰ÜhÕyô÷. ßŞUå“\…mZ*«¦<4Á·ù•5åé<j`úid’·´38Ş|ˆÁµyBµ†“ã6lòÈÌ•rÔòHcnq™?­ŒJb

@@ -1,0 +1,283 @@
+PID:8175 Child:Fork has been created
+PID:8175 performing initial read
+PID:8175 request:
+GET http://25.media.tumblr.com/790e529bbf9722ccf0eaa397f1a0f40a/tumblr_mjkwje7SSg1rtynoyo1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8175 about to start writing to host
+PID:8175 wrote to host request:
+GET http://25.media.tumblr.com/790e529bbf9722ccf0eaa397f1a0f40a/tumblr_mjkwje7SSg1rtynoyo1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8175 just read 4380 bytes from host
+PID:8175 just wrote 4380 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: GZU/rQoajpv0wROtbbNSXB7aMuCRZl1Vmigk4RxeqRLGBplMxNc9CaJsjHLC1dbC
+x-amz-request-id: 397A3640D85C2C0E
+Last-Modified: Wed, 13 Mar 2013 03:04:28 GMT
+x-amz-version-id: .ssu9b.QGE7Lgcu77i1eP6475WnHMCjY
+ETag: "747c6eaafbe3d16cf30d4e2f7236e34b"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 125637
+Server: AmazonS3
+Cache-Control: max-age=31022074
+Date: Tue, 19 Mar 2013 01:51:20 GMT
+Connection: keep-alive
+
+ÿØÿà
+PID:8175 just read 1460 bytes from host
+PID:8175 just wrote 1460 bytes to client response:
+;‚
+¹©ØfÂ"nãdÕJFı#ú¡a«ëO0p}f]ØÄ!*’O]•EN	i£.õ®qîE^ùÏZ¼†+I‘˜áD?Õ–„ÖŸµ•ÃC›óm:ü„Qáù%“ëšœRqe5İEkÒ¹pÃ©j'}KçmxzA^0!Œz1l+_
+õñ8%†2y(ÔÌÕ?3|á©DĞßŞ}b>Aş8ã4uAìE3eéñKŠá“lµÙH£IéÛ¤,ücf•B’cS@	éá×3øq˜‹Øn¬|Û¨˜‚5P!Œxw½²\>h9pjïÍ××1ÅCmÂcÛÆ´ÅØÕ·;r9báêYÏReÒ?'ÿÔçëåŸ$‡ªÙHÃ¢+Lõ;ìZ‡£$ˆ^Êéåï$
+PID:8175 just read 5840 bytes from host
+PID:8175 just wrote 5840 bytes to client response:
+ãeı¥¡ï„eAÄpÚİF°Eã¼6Îe†ÒáÑÛ²Ÿ³!Áo’·G…Ü]Æâ8UeµIæyú°Ècıİxñ¸#¯S×€…s6Š=vcs
+FG¢%ˆ³H	ñ‹ÔU |F­Ÿ$ì9Úúh¦e‰/!y^·"Š/fµ¥Wí/ÚÁrîO{Ø/œ4ä+‹øñ[Ë…i+öĞJÀq=‰eÿ
+PID:8175 just read 2920 bytes from host
+PID:8175 just wrote 2920 bytes to client response:
+¸ª**|I#m°ñƒæœùcÌ6"Bh‘Í|l]¾0’ò¨ŠñşaÁ••³69™×êrqLQcÍº½ô°Ù[\F±´"^SFOïyBÂ´)ğñ“4ãå%1µ–öo-]ZX<’´ˆİ„Ø#rJ×âãüÿ
+PID:8175 just read 8192 bytes from host
+PID:8175 just wrote 8192 bytes to client response:
+bº‹Yåp^q+&ü”Q ?›!	K«)B=-ÿĞæz\L¥æXŞÚxİu,ŒÅj~6?wÃ‰lŠ×ÌÚ¤q[º§×£hnf*=VG`à3Ÿˆn¿?c 1€ÌÈ”‹S™…ÑàîÜ‘JnA=»°äó¸·Qñ®Ãæ1k
+’ëÍï#~³‰C/SlRÜHÂªÍcÀ(=°ğ³µ[3kéqi/u!Ó¡v–+jü
+íÕ€é¸ÄD]¢Ò‚ÅªÛ]¶$†Eä?Ìß+ëqêZ}jXUÉ3–ô~É
+êvå‚[Aù«Q—ÌZ´ú­ñVñŒŒTP©mÊ
+)öÃÂŠ_å+-ËL¾‚ş+³©DgkxÚ²CF(VN”m«•vÎ© ¯™aKgI¶vÒ7K™Â‡XÖt17 j
+PID:8175 just read 3488 bytes from host
+PID:8175 just wrote 3488 bytes to client response:
+BhímŒ¦P”¹™z¬7~<O3mş®<V‘
+J|ñ4Ói4õy¤’>ìÇÄœœì2’=ZîšÜvñ†§üa8e*„#¸g"Ñy/ÂzTõöÊ|G'.a+’*H)Iªãeı¥¡ï„eAÄpÚİF°Eã¼6Îe†ÒáÑÛ²Ÿ³!Áo’·G…Ü]Æâ8UeµIæyú°Ècıİxñ¸#¯S×€…s6Š=vcs
+FG¢%ˆ³H	ñ‹ÔU |F­Ÿ$ì9Úúh¦e‰/!y^·"Š/fµ¥Wí/ÚÁrîO{Ø/œ4ä+‹øñ[Ë…i+öĞJÀq=‰eÿ
+PID:8175 just read 8192 bytes from host
+PID:8175 just wrote 8192 bytes to client response:
+œÕMHØ
+|'ù¾/‹"!ê´ñúi~–Ğ6»#$§Ô!k$»üym†Wl-’\Yéş„sG#,œ
+¼r	5­x·ªk˜”ø·3 ‘É)ı<Ä3˜Ò26¡-JŸòAí™I5{[!¬ZJ´ˆ6@zµ­0Zğ/ÕuHnÄ%l¡·kxR¶ÈcWáPepY¿xı^Ÿù9i îÂ¨R¯¥dEeõò¶^F¦ƒ¶æ¸Ø"ßÿÑæ:‡¥¾Õ.u)àV’á‹µQAÆ€ÕUA§ZqÊg¤eÉÇª1èoÍmVu}ê%)iEn(6'ìñÊ¡ÙğY¦e=l¥Ğmä“ë^r}FÑ£xQ&‘]d‘R5[`h
+PID:8175 just read 3488 bytes from host
+PID:8175 just wrote 3488 bytes to client response:
+o¢
+PID:8175 just read 7300 bytes from host
+PID:8175 just wrote 7300 bytes to client response:
+="0"
+   aux:ApproximateFocusDistance="4294967295/1"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.0.8"
+   xmp:ModifyDate="2013-03-12T23:00:50-04:00"
+   xmp:CreateDate="2013-03-12T18:39:09.35"
+   xmp:CreatorTool="Adobe Photoshop Lightroom 4.2 (Macintosh)"
+   xmp:MetadataDate="2013-03-12T23:00:50-04:00"
+   photoshop:DateCreated="2013-03-12T18:39:09.35"
+   xmpMM:DocumentID="xmp.did:dc07538a-162f-4616-bd85-fc2f6e09f13b"
+   xmpMM:OriginalDocumentID="D932A4115884ED8A47C45BB616E15865"
+   xmpMM:InstanceID="xmp.iid:dc07538a-162f-4616-bd85-fc2f6e09f13b"
+   crs:Version="7.2"
+   crs:ProcessVersion="6.7"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="3200"
+   crs:Tint="0"
+   crs:Saturation="-5"
+   crs:Sharpness="40"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="-20"
+   crs:VignetteMidpoint="33"
+   crs:ShadowTint="+3"
+   crs:RedHue="+5"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="-5"
+   crs:BlueSaturation="0"
+   crs:Vibrance="0"
+   crs:HueAdjustmentRed="+20"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="+15"
+   crs:HueAdjustmentGreen="+10"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="-10"
+   crs:HueAdjustmentPurple="+15"
+   crs:HueAdjustmentMagenta="+40"
+   crs:SaturationAdjustmentRed="-10"
+   crs:SaturationAdjustmentOrange="0"
+   crs:SaturationAdjustmentYellow="-8"
+   crs:SaturationAdjustmentGreen="-50"
+   crs:SaturationAdjustmentAqua="-40"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="-35"
+   crs:SaturationAdjustmentMagenta="-25"
+   crs:LuminanceAdjustmentRed="-20"
+   crs:LuminanceAdjustmentOrange="-8"
+   crs:LuminanceAdjustmentYellow="-8"
+   crs:LuminanceAdjustmentGreen="-10"
+   crs:LuminanceAdjustmentAqua="+10"
+   crs:LuminanceAdjustmentBlue="-20"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="50"
+   crs:SplitToningHighlightSaturation="30"
+   crs:SplitToningBalance="-50"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="40"
+   crs:SharpenEdgeMasking="25"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:ColorNoiseReductionDetail="50"
+   crs:LensProfileEnable="1"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+2.05"
+   crs:Contrast2012="-12"
+   crs:Highlights2012="+12"
+   crs:Shadows2012="-26"
+   crs:Whites2012="+32"
+   crs:Blacks2012="-3"
+   crs:Clarity2012="+12"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Kodak Portra 400 NC C"
+   crs:LensProfileSetup="LensDefaults"
+   crs:LensProfileName="Adobe (SIGMA 30mm F1.4 EX DC / HSM, Canon)"
+   crs:LensProfileFilename="Canon (Sigma_30mm_F1.4_EX_DC_HSM ) - RAW.lcp"
+   crs:LensProfileDigest="1974C0D1C9CECE4B45FD5F116E04F644"
+   crs:LensProfileDistortionScale="100"
+   crs:LensProfileChromaticAberrationScale="100"
+   crs:LensProfileVignettingScale="100"
+   crs:HasSettings="True"
+   crs:CropTop="0.034759"
+   crs:CropLeft="0.000398"
+   crs:CropBottom="0.966121"
+   crs:CropRight="0.980696"
+   crs:CropAngle="-1.34045"
+   crs:CropConstrainToWarp="0"
+   crs:CropWidth="1280"
+   crs:CropHeight="853"
+   crs:CropUnit="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="True">
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Lucio</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="derived"
+      stEvt:parameters="converted from image/x-canon-cr2 to image/jpeg, saved to new location"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:dc07538a-162f-4616-bd85-fc2f6e09f13b"
+      stEvt:when="2013-03-12T23:00:50-04:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 4.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpMM:DerivedFrom
+    stRef:documentID="D932A4115884ED8A47C45BB616E15865"
+    stRef:originalDocumentID="D932A4115884ED8A47C45BB616E15865"/>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 16</rdf:li>
+     <rdf:li>83, 88</rdf:li>
+     <rdf:li>255, 254</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>56, 47</rdf:li>
+     <rdf:li>126, 128</rdf:li>
+     <rdf:li>186, 190</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>53, 46</rdf:li>
+     <rdf:li>130, 130</rdf:li>
+     <rdf:li>180, 184</rdf:li>
+     <rdf:li>224, 224</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>46, 40</rdf:li>
+     <rdf:li>129, 129</rdf:li>
+     <rdf:li>187, 189</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                          
+PID:8175 just read 8192 bytes from host
+PID:8175 just wrote 8192 bytes to client response:
+          
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                    

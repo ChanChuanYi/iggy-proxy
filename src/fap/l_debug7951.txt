@@ -1,0 +1,52 @@
+PID:7951 Child:Fork has been created
+PID:7951 performing initial read
+PID:7951 request:
+GET http://www.freewebarcade.com/game/renegade-racing/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7951 about to start writing to host
+PID:7951 wrote to host request:
+GET http://www.freewebarcade.com/game/renegade-racing/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7951 just read 2920 bytes from host
+PID:7951 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:35 GMT
+Server: Apache
+Last-Modified: Sun, 10 Feb 2013 11:45:04 GMT
+ETag: "8002c15f-148e-4d55d52cad9f3"
+Accept-Ranges: bytes
+Content-Length: 5262
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:7951 just read 1460 bytes from host
+PID:7951 just wrote 1460 bytes to client response:
+ÙĞ‡ƒı‘äqª8ÖUG?\\
+PID:7951 just read 1162 bytes from host
+PID:7951 just wrote 1162 bytes to client response:
+Ï°›P–ÊÀõ# Ë Ìÿ ³ ˆ·pÛÀK[:ó)É0aÎÀŞ€h  _ ü ›dJÎÂàhú7aqq€yt@@„À
+Äğ
+Ä°ËP¼
+PID:7951 just read 0 bytes from host
+PID:7951 just wrote 0 bytes to client response:
+
+PID:7951 job done, returning to server main()
+PID7951 fork is ending cleanly

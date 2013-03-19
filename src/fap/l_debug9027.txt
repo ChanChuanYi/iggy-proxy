@@ -1,0 +1,62 @@
+PID:9027 Child:Fork has been created
+PID:9027 performing initial read
+PID:9027 request:
+GET http://ecx.images-amazon.com/images/I/51RvGwj1soL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9027 about to start writing to host
+PID:9027 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/51RvGwj1soL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9027 just read 2920 bytes from host
+PID:9027 just wrote 2920 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 10276
+Connection: keep-alive
+Server: nginx
+Date: Mon, 04 Mar 2013 03:14:39 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 27 Sep 2012 19:07:20 GMT
+Age: 1327124
+X-Amz-Cf-Id: zmL5laeoAW_MqV-ZDESmyt0I6_G0cEZQI4Z_2A3NFEevB7TaD4_z5w==
+Via: 1.0 fb9b30d0bac34e91aef1c344524376e1.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:9027 just read 1460 bytes from host
+PID:9027 just wrote 1460 bytes to client response:
+NÀäk|¬!2¬V*S«	@’xRøÏ@Å–Œ	Z†‚#Çp+ŸèÚ¸¹˜ÌOmT5>+CxºC-6Â¡®©¤=TÏ7ıDñrFĞràûtË{oÍOáE§rAØ®5·V§’#%cUŸŒH¼gË¶²ÙÖ2ë‰3Î<-Ízm_HÖ)½3$$‰MÈ7$$â”Ş*h¶ÿ
+PID:9027 just read 1460 bytes from host
+PID:9027 just wrote 1460 bytes to client response:
+k¥‹eVA`ğâ®ËM	Ij.5±²Ê¨
+€ù|r3ÈOURÛ¿ÈGÖEkô¢YCiße*}ÒIˆ'pœciìoZx³S]Wş6eÍ‹ÕËWNÎìrÎ¿KQĞÇîP)'äêuº¦›ü6¥E$óSÏß t’)
+2…XKr9gúê?w¡‹ÄlÍ¿WL÷k:RÉ5		CCÂéÓœŒ†,§±ÀùÓYyŞ<+ªÚ‡ešÎ(ZjšÌ´!é#UÉcÓÀ'‚G}^¼H¼¤G4Š’J“
+PID:9027 just read 2920 bytes from host
+PID:9027 just wrote 2920 bytes to client response:
+ÑDœ˜<âzÇgø%[m¶íåÛ«Yq©’AUZËøÅ±Š¬İ
+8ıó’@²r
+PID:9027 just read 2627 bytes from host
+PID:9027 just wrote 2627 bytes to client response:
+IäöÒ/šûgğöîW’çIM%L‘•`Š„€åxgé'ïúê²îµËÄX(ê.UZ:ê&É>¹qê`sŸI8Aœ(
+PID:9027 just read 0 bytes from host
+PID:9027 just wrote 0 bytes to client response:
+
+PID:9027 job done, returning to server main()
+PID9027 fork is ending cleanly

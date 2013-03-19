@@ -1,0 +1,51 @@
+PID:7941 Child:Fork has been created
+PID:7941 performing initial read
+PID:7941 request:
+GET http://www.freewebarcade.com/game/tactical-assassin-mobile/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7941 about to start writing to host
+PID:7941 wrote to host request:
+GET http://www.freewebarcade.com/game/tactical-assassin-mobile/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:7941 just read 1460 bytes from host
+PID:7941 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:35 GMT
+Server: Apache
+Last-Modified: Mon, 11 Mar 2013 20:51:41 GMT
+ETag: "901d3341-1574-4d7ac5704e30d"
+Accept-Ranges: bytes
+Content-Length: 5492
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:7941 just read 1460 bytes from host
+PID:7941 just wrote 1460 bytes to client response:
+‰/°ÀRUAMÅL'†r‡¸6à2	-o‰"J&²¸B)İ€6¿ÌÊ.Ö8Â:2²{‰Æ,CVä4ˆM³c-%
++¾ G#TZeÕV]G'¬¤Ñˆ!Q23‰(ºğòK-´ğÎ80æÒ‹-€¼RH+vìÿÓ"‹ ƒ‡Ÿ@¢Ç†IÔPË0—Ôsgm†U](‡!‡`JeTBˆ˜§¤R/©tTÆ¶Û’ôŞ8Û
+PID:7941 just read 2852 bytes from host
+PID:7941 just wrote 2852 bytes to client response:
+Ê„HøR1‹Bä(/²Ü­Ø 	¾èaxş¬6JÁàeLcÁØC.B™ÛiMËªÄÂB°@ğ‚~}Ã nª‹fxÙsƒ$û8("Ê²
+PID:7941 just read 0 bytes from host
+PID:7941 just wrote 0 bytes to client response:
+
+PID:7941 job done, returning to server main()
+PID7941 fork is ending cleanly

@@ -1,0 +1,53 @@
+PID:8407 Child:Fork has been created
+PID:8407 performing initial read
+PID:8407 request:
+GET http://sync.mathtag.com/sync/img?mt_exid=9 HTTP/1.1
+Host: sync.mathtag.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Cookie: uuid=6bec5147-788b-4800-b9f6-25ebefe34892; mt_mop=10017:1363638411|4:1363648287
+Connection: keep-alive
+
+
+PID:8407 about to start writing to host
+PID:8407 wrote to host request:
+GET http://sync.mathtag.com/sync/img?mt_exid=9 HTTP/1.1
+Host: sync.mathtag.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Cookie: uuid=6bec5147-788b-4800-b9f6-25ebefe34892; mt_mop=10017:1363638411|4:1363648287
+Connection: keep-alive
+
+
+PID:8407 just read 719 bytes from host
+PID:8407 just wrote 719 bytes to client response:
+HTTP/1.1 302 Found
+Date: Tue, 19 Mar 2013 01:52:55 GMT
+Content-Type: image/gif
+Content-Length: 0
+Connection: keep-alive
+Server: mt2/2.6.3.14517 Jan 15 2013 21:30:14 pao-pixel-x2 pid 0x2a52 10834
+Cache-Control: no-cache
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: mt_mop=9:1363657975|4:1363648287|10017:1363638411; domain=.mathtag.com; path=/; expires=Thu, 18-Apr-2013 01:52:55 GMT
+Location: http://pixel.rubiconproject.com/tap.php?v=4222&nid=1512&put=6bec5147-788b-4800-b9f6-25ebefe34892
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+PID:8407 just read 0 bytes from host
+PID:8407 just wrote 0 bytes to client response:
+
+PID:8407 job done, returning to server main()
+PID8407 fork is ending cleanly

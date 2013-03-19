@@ -1,0 +1,208 @@
+PID:8221 Child:Fork has been created
+PID:8221 performing initial read
+PID:8221 request:
+GET http://24.media.tumblr.com/bf53fafdacc0c8f25205bb507ea218ae/tumblr_mjnb2oj4qc1qzqju7o1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8221 about to start writing to host
+PID:8221 wrote to host request:
+GET http://24.media.tumblr.com/bf53fafdacc0c8f25205bb507ea218ae/tumblr_mjnb2oj4qc1qzqju7o1_500.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:51:25 GMT
+ETag: "edce71650c426e63c3795a5af003a03c"
+Last-Modified: Thu, 14 Mar 2013 10:13:40 GMT
+Server: ECS (sjc/4EF7)
+x-amz-id-2: rCsvlAUDe4VW61cvkeiUewUrtLymy/+pRzZ38VdMaZdtuXfgs3FvJs0zAH++EVKi
+x-amz-meta-idata: v=1;i=UTLPSH52Y2isHrUhPyj9tQ==;d=807PcDRzvR0O8pN8iEYH6SqoKOQQgAQ5+4b3CH9HHFdrxUSEEHB4iv1EWs5F9qbLtzjrcwaVuKLPEf8bi18ezA==
+x-amz-request-id: 00727465E93B13DB
+x-amz-version-id: rV96ao1CxfHiVgKHso1oAPuuAaeg4rKg
+X-Cache: HIT
+Content-Length: 64103
+
+ÿØÿà
+PID:8221 just read 8192 bytes from host
+PID:8221 just wrote 8192 bytes to client response:
+
+PID:8221 just read 4948 bytes from host
+PID:8221 just wrote 4948 bytes to client response:
+zh6ÿ
+PID:8221 just read 2920 bytes from host
+PID:8221 just wrote 2920 bytes to client response:
+{Â|!||á}A}¡~~b~Â#„å€G€¨
+kÍ‚0‚’‚ôƒWƒº„„€„ã…G…«††r†×‡;‡ŸˆˆiˆÎ‰3‰™‰şŠdŠÊ‹0‹–‹üŒcŒÊ1˜ÿfÎ6nÖ‘?‘¨’’z’ã“M“¶” ”Š”ô•_•É–4–Ÿ—
+—u—à˜L˜¸™$™™üšhšÕ›B›¯œœ‰œ÷dÒ@®ŸŸ‹Ÿú i Ø¡G¡¶¢&¢–££v£æ¤V¤Ç¥8¥©¦¦‹¦ı§n§à¨R¨Ä©7©©ªª««u«é¬\¬Ğ­D­¸®-®¡¯¯‹°
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+8eba16e6'
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:History></photoshop:History>
+ </rdf:Description>
+
+ <rdf:Description rdf:about='uuid:0f795c99-6423-11df-a81b-d2948eba16e6'
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'>
+  <tiff:Make>Panasonic</tiff:Make>
+  <tiff:Model>DMC-LX1</tiff:Model>
+  <tiff:Orientation>1</tiff:Orientation>
+  <tiff:XResolution>72/1</tiff:XResolution>
+  <tiff:YResolution>72/1</tiff:YResolution>
+  <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+  <tiff:YCbCrPositioning>2</tiff:YCbCrPositioning>
+ </rdf:Description>
+
+ <rdf:Description rdf:about='uuid:0f795c99-6423-11df-a81b-d2948eba16e6'
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'>
+  <xap:CreateDate>2010-05-20T11:31:14-05:00</xap:CreateDate>
+  <xap:ModifyDate>2010-05-20T11:31:14-05:00</xap:ModifyDate>
+  <xap:MetadataDate>2010-05-20T11:31:14-05:00</xap:MetadataDate>
+  <xap:CreatorTool>Adobe Photoshop CS Windows</xap:CreatorTool>
+ </rdf:Description>
+
+ <rdf:Description rdf:about='uuid:0f795c99-6423-11df-a81b-d2948eba16e6'
+  xmlns:stRef='http://ns.adobe.com/xap/1.0/sType/ResourceRef#'
+  xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/'>
+  <xapMM:DerivedFrom rdf:parseType='Resource'>
+   <stRef:instanceID>uuid:76e17c02-cfc7-11de-995c-d01e56cfbbc3</stRef:instanceID>
+   <stRef:documentID>adobe:docid:photoshop:8d544a28-cfae-11de-995c-d01e56cfbbc3</stRef:documentID>
+  </xapMM:DerivedFrom>
+  <xapMM:DocumentID>adobe:docid:photoshop:0f795c98-6423-11df-a81b-d2948e
+PID:8221 just read 2920 bytes from host
+PID:8221 just wrote 2920 bytes to client response:
+ba16e6</xapMM:DocumentID>
+ </rdf:Description>
+
+ <rdf:Description rdf:about='uuid:0f795c99-6423-11df-a81b-d2948eba16e6'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:format>image/jpeg</dc:format>
+ </rdf:Description>
+
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                               
+PID:8221 just read 2920 bytes from host
+PID:8221 just wrote 2920 bytes to client response:
+                                                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       
+<?xpacket end='w'?>ÿÛ
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+:Qô¨€ã¢V€wO“³ÛÊ¼Z¸ßìò­BvØE<%$À:%+Y°ÅÉ0-×åµ/£]æ>êÓ%jwv8µÒ5)hVe6×DG£.èW„³ª´¡´øJ[Lô§´–m6¿u‚)Ã¾;w?ZÒh7§§}¸¨vNgõméØ4>tá†ßĞùÖ™)LI#jww½=™f†~v-'çR"ı_Í#çZ0ÙğŞŸ ƒ5.tg?Rb;BµNıCˆRÜ^´*cNJ¹šauv’Í~¡Ä?u¦Ê¯~¢¾à¥?Ş­@IîiBwóOu¹Ie~: ëR£
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+Ó€÷ÏJQrbœ‘¿Ÿ5-“%5*IØ}i©OQÏH„‚`Ó¦‰ÒÉ4ôÓÎ’'¥*@4´«Liè?zy¨ş"T›ÛÚ’‘'*x><qLFŸò©Y;$—n¦~5ã<|+Ãxó¥ÇëM@èB\Ò$NO„ÒmÄRÄuêZóIH‚Y÷T€
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+èõxõFÕ ŒÃ=û,òƒ€	B¾F˜WÈÕÜW0ã6í©v÷0w%
+PID:8221 just read 4380 bytes from host
+PID:8221 just wrote 4380 bytes to client response:
+n¬«9Ae8ËHŸÚ;øóùWg±d)…G&95Éòî«LJÖâáĞ¥%·¼×^°LÛìzÖ_7E«o…±ÌaT±?U¿W”k8IUÁ“ïx­*DOg~ÕFw"ƒÑmTN$—•¾ûU]Ù¸ñ*Û„ê} wøŠªáû0
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+¤EdâlYùÉu8:Êå°HMÃfH£Ú5ãÎiè‚h&ÙUÛ	
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+3R
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+JÑè<+»wT­HËÎ&ú\XY¨•)†ğ?Y&Ú©d}bœF+Jú{¡8š§8ÒÔ;™q—”—.³°	lØ;§™úæHñªïfœm
+Ğ¤¸BvÏGÀşU-İê+„è8¸0j'á`'unB–¢H©†7}>ê­?<œÏ‰°íµ-;G«nòAşê€ªÏc¸¸wV·Pu…‚ wI“Bƒ¯”Â°·ÈòuqD›À3ÍºnÎv¦]l¼ÒZÔ¥­ ÇpûÅF@A
+PID:8221 just read 8192 bytes from host
+PID:8221 just wrote 8192 bytes to client response:
+­õ¤	')ß06Ú„J]´tëºB†Õàæ*ÍV
+PID:8221 just read 568 bytes from host
+PID:8221 just wrote 568 bytes to client response:
+æ,ÒŠtî½¾B•¢•yÕ
+x‰¯-“#Ci$Ğ'×İS‡5ÕgÕKÜeD¦'ˆ{»„ş©Wm’@¶*£lÚ÷™ª+G¬G•F@
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+·‡±Œ0úq»&ÙS¬½pãŒ¥å	„,éQ(W·¤	éÏÎù±ÛgñË¶íÂPÊY@lh	“$mÒx­j†_Äï¬0û‡±Cñkß$¡JGİÕÌDÇ&"²nb˜ƒˆ+wÂo[BH> *HIŞb	‰æ‰„†Fä_š'Å²H²A®º×ß¿’¹gÖfùôG‚â¼¬gbJ1[ggOñ¢*Å0—KùU„˜å—ÖŸÎ‘7Y`.åë™şÙüÅhf–}½×2mÚŸ§º¡oŒæ;§›··Å.Ôë«KhJ]P*RŒÏRE}™rßlX&Wb×ÄÚ¶ºÊøk·ï[­/KEÒÓ£^ëN¢—$ÄêWRkƒ³•m^möp+ÖÜiAÄ¨^ÁŠéMö“ŒgKUW)¸¶fÛS/¸µ‡Ã¯!(m^'ÖYĞ*³8ŒSMÑˆØ2ƒ­á§Õlğ‡±¥Ìp-qªø0c™ÉË\]»œ´°¹eÖmôèq*">ô|PYØuî2íåË«º¸eç®Öô•8òœ*^¹ä©fLø×|Èø­7”˜V†Ä°Ä¥·í[gc¥a#r“§6Ş¸.~Å®/n±k§ğË›kœJóAiæT•6”ò7î
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+ÚÆ Ûnˆ)PÇáµtĞ@±şÍsÌ ãv9okpGï R©Z·2TLO
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+5œÊÓ0bYBÚ÷3Y°Æ(RRâÙ-\ÃÉAİ†úx™ˆ®o»DfÖõVV)^+‹¼HC¨
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+=½±cªÇ÷W§üö‰ªOî¸&E\rFã­SpJ•Ãt­J‘´zTÖCı(6cíFşb)
+F“4Ä¨´êê¨U"FBJ#8)pÂZaàfmq4:<’ê
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+ ØV•áÛßhş-z1wáo¸Fş²‡@¸éåYÜC0¡’líÚJŞI‚™õSï>šÅ1ë„2â°Õ/Ñ&;ò$¤GÄyÖ}X‚°êÂä’®LşsNæˆ«2¹„Ãşµ¯{oãøóGqKWA¸[Ú
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+kqGd&z“¿NÕÑ{/ı3r-c9Oà8ä)mÅåĞ»¦Ô!	'ùÅˆıÔ®»/š{;ìO-#´·±d
+PID:8221 just read 2920 bytes from host
+PID:8221 just wrote 2920 bytes to client response:
+ÂR£ÓÈô«>no—I#@L@6Ó¾ú	vŞ|rü©}>ù´;marë^’€‡ÒR€ °•£RR}à“Ú7fFğ`¬¸#o8¨TO«
+Cé	MÕ»Œ8P•èq& `ô ‚PA¨WĞŸv›l­Ü$P_İ"½Q¸èAÒ ÕêÀ.:$
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+»7P´°Ó—+ZîÚDÏU¥Y]ƒIJî;fÒRÚmÀB‹„'¨Û÷Œõ©–òU„ Yæ©á×
+mNâ-¶!
+hÉ
+°Ónâ=ÚYJ”Ó@€³À*ZLšÓË-[¢ÊÉ/b)jB‡t…‘±=vÉûMí¿µuì·aÎÙú* ©ÛUÚ%I) Û€8¤™”•¨AØ+a*"Rth³É7ô‚íKÀ²uÖYË¯¥Oß,!or§HP '®Ÿ«ã»·qå-ÕjZ”JÏ‰ëGs¾c]Î;lŞ'ˆ¼JãÕHÛìÛ
+PID:8221 just read 1460 bytes from host
+PID:8221 just wrote 1460 bytes to client response:
+ÃtYsÄçO¾î”ßvF¥¨úƒ¯¾™`„¥å¡ôı·Iğ«Ö
++t…<¾§åLÄmÓ§Ò	R8>5É™ÕÉŒl´·¶Ò5”"g“BYPmíO$iVÃú5#¸úÊÜVã^S?f £Ê¢uV®ú˜Ì„ø*÷ÙwZB3ª¨:=!ÂFÉä¾TÎùÄ#¸Ô ğjõ…¶éN [ê<T-ÕfÊÂ×;–é-ŸI*”‚b
+OOuV¿Ğ´¤–}šå€	q$'ÀóUZç”âÔ	á4FºÅª]WŠIj´Ûı‹©

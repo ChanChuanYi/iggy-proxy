@@ -1,0 +1,52 @@
+PID:8951 Child:Fork has been created
+PID:8951 performing initial read
+PID:8951 request:
+GET http://ecx.images-amazon.com/images/I/51-Ikz2ylBL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8951 about to start writing to host
+PID:8951 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/51-Ikz2ylBL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8951 just read 7300 bytes from host
+PID:8951 just wrote 7300 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 8227
+Connection: keep-alive
+Date: Thu, 07 Feb 2013 00:41:03 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+ETag: "51-Ikz2ylBL_AA160_#1"
+Last-Modified: Thu, 07 Feb 2013 00:14:44 GMT
+Age: 3230200
+X-Amz-Cf-Id: 92D2baidOgxaoKypAm6-LAmB2ZSFwKyMPGOLm0aalm2QHB_MDrn1ZQ==
+Via: 1.0 471b4cf326c01ebc3c8c32c3f43b9041.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:8951 just read 2068 bytes from host
+PID:8951 just wrote 2068 bytes to client response:
+AÔð:ýÞ”G£®E†"ÍŽ´¸´,¤õAê¾_t>9âa°Tˆ…’
+#º¾í^Àëì¢û*[±“µæÇ9oÄ…-VB‚JNAÒŸo“6Ðêš‹($Ž”ˆ~ëkÍÄ¸B~3˜Â{Ä{ªÇ‘èh˜<ÆOËõ\OÚ<+"vŸá^ÿ
+PID:8951 just read 0 bytes from host
+PID:8951 just wrote 0 bytes to client response:
+
+PID:8951 job done, returning to server main()
+PID8951 fork is ending cleanly

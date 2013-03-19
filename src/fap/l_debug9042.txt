@@ -1,0 +1,61 @@
+PID:9042 Child:Fork has been created
+PID:9042 performing initial read
+PID:9042 request:
+GET http://d2o307dm5mqftz.cloudfront.net/1505855001/1346964969451/10034_AIV_Release_Static-Hunger_728x90.jpg HTTP/1.1
+Host: d2o307dm5mqftz.cloudfront.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://aax-us-east.amazon-adsystem.com/x/getadi?src=501&c=100&u=http%3A%2F%2Fwww.amazon.com%2F&sz=728x90&pt=Search&slot=auto-bottom-advertising-0
+Connection: keep-alive
+
+
+PID:9042 about to start writing to host
+PID:9042 wrote to host request:
+GET http://d2o307dm5mqftz.cloudfront.net/1505855001/1346964969451/10034_AIV_Release_Static-Hunger_728x90.jpg HTTP/1.1
+Host: d2o307dm5mqftz.cloudfront.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://aax-us-east.amazon-adsystem.com/x/getadi?src=501&c=100&u=http%3A%2F%2Fwww.amazon.com%2F&sz=728x90&pt=Search&slot=auto-bottom-advertising-0
+Connection: keep-alive
+
+
+PID:9042 just read 8192 bytes from host
+PID:9042 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 31444
+Connection: keep-alive
+x-amz-id-2: m4GNGuKsUF8BCnAG2vYXTBEGduDZHqCvKI0jUpNgUZoLo96zyvvGZQmHDNUwv6OD
+x-amz-request-id: D2F81251DFBA1D4A
+Date: Fri, 07 Sep 2012 17:58:24 GMT
+Last-Modified: Thu, 06 Sep 2012 20:56:10 GMT
+ETag: "40b43560700fe5fb677cfc64bfe2085b"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 34893
+X-Amz-Cf-Id: xYBe-meP4KysgLRc96imSxCneAf9TTbLfYWWksRFRiFhLFXzaoSpkw==
+Via: 1.0 2ee64985f4ee68d5579b547d2ace0096.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ˇÿˇ·
+PID:9042 just read 8192 bytes from host
+PID:9042 just wrote 8192 bytes to client response:
+lU_Œè˘9@ä¬ˆ∑ﬂfVÚ≥€|ÛÈOMeEí2›&ÅúÅ[*"à¨
+PID:9042 just read 8192 bytes from host
+PID:9042 just wrote 8192 bytes to client response:
+›lÊ£÷vÜ
+PID:9042 just read 8077 bytes from host
+PID:9042 just wrote 8077 bytes to client response:
+Êd|ÍŒë©ƒ25&≤÷Läzs∆ÙƒçH¢.
+S`H+"D˘;≠„$ÔºŒ¬%ÅH⁄Áx∫Æ'Ä|™k*Å‹é
+»R6ãà†tåS’≠ 6Eq ıIÄóc{¿D”pü,Ûl§¿Á
+~Mº–sœ+Ï∏ß∆“q¨=:Zˇ
+PID:9042 just read 0 bytes from host
+PID:9042 just wrote 0 bytes to client response:
+
+PID:9042 job done, returning to server main()
+PID9042 fork is ending cleanly

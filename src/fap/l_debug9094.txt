@@ -1,0 +1,42 @@
+PID:9094 Child:Fork has been created
+PID:9094 performing initial read
+PID:9094 request:
+GET http://bid.openx.net/cm?pid=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&dst=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dopenx.com%26id%3D HTTP/1.1
+Host: bid.openx.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.amazon-adsystem.com/v3/pr?a=cm&exlist=g_am_rb_ox_pm_an
+Cookie: i=40073feb-047d-49cc-a87b-7e1153acb40a
+Connection: keep-alive
+
+
+PID:9094 about to start writing to host
+PID:9094 wrote to host request:
+GET http://bid.openx.net/cm?pid=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&dst=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dopenx.com%26id%3D HTTP/1.1
+Host: bid.openx.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.amazon-adsystem.com/v3/pr?a=cm&exlist=g_am_rb_ox_pm_an
+Cookie: i=40073feb-047d-49cc-a87b-7e1153acb40a
+Connection: keep-alive
+
+
+PID:9094 just read 230 bytes from host
+PID:9094 just wrote 230 bytes to client response:
+HTTP/1.1 302 OK
+Content-Type: text/html; charset=utf-8
+P3P: CP="CUR ADM OUR NOR STA NID"
+Connection: close
+Location: http://s.amazon-adsystem.com/ecm3?ex=openx.com&id=cb7d7ccf-b150-cdc1-32a3-346e5fb84c17
+Content-Length: 0
+
+
+PID:9094 just read 0 bytes from host
+PID:9094 just wrote 0 bytes to client response:
+
+PID:9094 job done, returning to server main()
+PID9094 fork is ending cleanly

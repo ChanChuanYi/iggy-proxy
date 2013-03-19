@@ -1,0 +1,86 @@
+PID:8149 Child:Fork has been created
+PID:8149 performing initial read
+PID:8149 request:
+GET http://24.media.tumblr.com/90d0f4203573f0578839895a1a52fff2/tumblr_mjnlq0y5Hl1qbidlso1_1280.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8149 about to start writing to host
+PID:8149 wrote to host request:
+GET http://24.media.tumblr.com/90d0f4203573f0578839895a1a52fff2/tumblr_mjnlq0y5Hl1qbidlso1_1280.jpg HTTP/1.1
+Host: 24.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8149 just read 5840 bytes from host
+PID:8149 just wrote 5840 bytes to client response:
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:51:15 GMT
+ETag: "d9d98f2f8d740b4c5be9a91ce91f2552"
+Last-Modified: Thu, 14 Mar 2013 14:03:37 GMT
+Server: ECS (sjc/4F94)
+x-amz-id-2: WNx9r07Hnd4xPzShNTLPLwH9N/ng58kQUbSB9rl5qSJP/t8LuJiN6vIoZ+s5Sdlq
+x-amz-request-id: 1E696903B14004BF
+x-amz-version-id: .2Gn6l4rELoZULnt5v51229mKT8dH1dp
+X-Cache: HIT
+Content-Length: 85116
+
+ÿØÿà
+PID:8149 just read 8192 bytes from host
+PID:8149 just wrote 8192 bytes to client response:
+!;†æ ş`‚-@‹î!C±ıDcÕ­§Êã­M6I·éßy*N–×AAî.v7Û¯«*-î¶b]:ÚôZ·.^"¹t•WAi7
+PID:8149 just read 568 bytes from host
+PID:8149 just wrote 568 bytes to client response:
+JÜÎI]ÈoĞ0»ù…Ü/V3¢O,ä<¯'[ÑÎ£_ˆ¢#frËF|SµcÉpÈçHßrƒcÑ[ğ¨Ô‰²fÆíÄJÇÎZŞSqfĞ|i
+ÊbM
+™7‹Ã$†ÄßÄ]j²Ÿ•9ô=gè²Ô× m¹°=Z‹äÏë*”UEs#k)şeÔõ£49Yİc@úÖ´qÃ}v­˜†~Ÿ/
+‹j{¸‡İS$*XìE
+mÓÔc· ëUÎN/!5¡iæ2}Ä€UmºÀ¾kk­L®åÃdX§B	m›T):Ín¾üh˜X¸*g[£FI1»)ÚNÂŞ'­'Œ³b, iËò–oÔØ’|h¼)ÓÀŞ´E¢2ıeüÆ÷&ÖèIµµÂ‚§|„
+ø®‹¾ñË×¶Ÿ6â<AÀTiî?!lVÆqÄ×HØ‘ D>ÖEí§…>Q¹|É1"I2LSA]äË}Bÿ
+PID:8149 just read 7300 bytes from host
+PID:8149 just wrote 7300 bytes to client response:
+¥F­í~D1vÃ<a2¢ãJäİ^X§–9t7¢ºÜÛãó¬ÅOƒ8ùòäA‚"ÃÃVäb&–Rí¾ê±[O\ËœöT¹Yÿ
+PID:8149 just read 8192 bytes from host
+PID:8149 just wrote 8192 bytes to client response:
+XX6Æÿ
+PID:8149 just read 568 bytes from host
+PID:8149 just wrote 568 bytes to client response:
+|>u&ÿ
+PID:8149 just read 1460 bytes from host
+PID:8149 just wrote 1460 bytes to client response:
+æµˆ ¢>=\)õfeuşì.ä1kõÜ5>6¢®å˜âÇÛ a`ncbtÃiùøÑ~*H²²™BˆŒ˜fúœu:ZÇÇÂŠÍ}Ì’m&Tt]uç£.—øiz"Œõ–tF âäÅæÇpwo˜:üAş4XƒËB]ÙXÁ©Çk‚[ÔîÔ\k¥÷TZ½,3Ï“!‰“$ìd3»Ëp/¸èÍmETQÉqÓ,QÉ#ÙHeIU]@¡`(ˆXï/"÷Ç*%ºúì"~‚ì¬˜mm5ê(ª1rÚ<ƒsîŞ¤Rßr‚ª/´İº›šŠ÷‘É’+²±+Ù²7N€—½Õ‡ój-şSôáDô8Œ‰W%#g™¢õ¦¯eU™•X[KÜZÕ¶\|<$ÇûdÓX¤BJèW}˜ÚÖ?ï«„Êã`ba.F4*Ó0f*¶E-ÓB47µ‡åQs•‘Ÿ“™˜‰·ÂÜxùæ
+PID:8149 just read 7300 bytes from host
+PID:8149 just wrote 7300 bytes to client response:
+ƒo¯…Œ<‰O«‘.B ÕÓÖbÇ×ñ üºPepà0<†#¹-˜‚v›õn¾¨¬g%›ƒcÁ–L>«
+PID:8149 just read 5840 bytes from host
+PID:8149 just wrote 5840 bytes to client response:
+ßº‘»)‘Ş÷U@B/äI¹ùĞH½Š””©VekXƒàA ÇÉÆp2H bÅê/Ğ*œF³WiçQÿ
+PID:8149 just read 5840 bytes from host
+PID:8149 just wrote 5840 bytes to client response:
+{€ªó¢"äbÉ›‘	Œ8ä*ßŞ>æÖèC,z17”x˜¸¸ñâÁ¡¦Û
+PID:8149 just read 2920 bytes from host
+PID:8149 just wrote 2920 bytes to client response:
+]Ö¹Ôõ5õú¦5‰Twhwsp±ïÄÌä¸Ü¡<±«$’¤-¬»À$…gP@m.*o®»Yùƒ’~²yLwÈíN¯©0“'e¿Ò±„IùjÂ¼ßrâEŒ·¾ä/†’`àcÇRgE*àZÛÃ’‰òEç^®ïOe—kö³¾¢ï^/'(cKŒü|Ã"&c0/°8‘ÛuÕ¬o¨¯­ÑİıšçìeJ¦ëĞW U@ PqoÔ!İ}¿”òH­ƒ‹›$H¶ØÎvÙ[ã{iøWß‡~«åÓûBƒ´¸˜Ğ“èâÀºõ?Û_ã{×Iâ8ß,ÊÖ‘í@ P(
+@ P(
+@ P(
+@ P(
+@ P(
+@ P(
+@ P(
+GxÁÜ3öîl<‹+$2¦,ïÒ9Lm±­mH{|¼Mglã…|Ã‘úz÷yù9!š#Ÿ;$Ü£L›VÏ1õÄÛq]|+äíõ»-üş£ÎgôÓî§Ø;}6Lè¤¢Á’›ÅÁm`€|ZæìŸrÂ÷Ç¼æò¹‹íş7kñütPñyšA™’¢ÄÊdeMªln©¯ÎÕÓ·ìY=q„uÓgj¿‰Ê÷·8ó<ÒµÃ2¹vhãò©{–[¢xØ
+PID:8149 just read 8192 bytes from host
+PID:8149 just wrote 8192 bytes to client response:

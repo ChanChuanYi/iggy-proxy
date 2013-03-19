@@ -1,0 +1,85 @@
+PID:7909 Child:Fork has been created
+PID:7909 performing initial read
+PID:7909 request:
+GET http://s.ytimg.com/yts/imgbin/www-guide-vflW6DCQE.png HTTP/1.1
+Host: s.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.ytimg.com/yts/cssbin/www-home-vflHysgm_.css
+Connection: keep-alive
+
+
+PID:7909 about to start writing to host
+PID:7909 wrote to host request:
+GET http://s.ytimg.com/yts/imgbin/www-guide-vflW6DCQE.png HTTP/1.1
+Host: s.ytimg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.ytimg.com/yts/cssbin/www-home-vflHysgm_.css
+Connection: keep-alive
+
+
+PID:7909 just read 8192 bytes from host
+PID:7909 just wrote 8192 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/png
+Last-Modified: Tue, 12 Feb 2013 10:59:22 GMT
+Date: Tue, 19 Mar 2013 01:49:49 GMT
+Expires: Wed, 19 Mar 2014 01:49:49 GMT
+Cache-Control: public, max-age=31536000
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 55207
+X-XSS-Protection: 1; mode=block
+
+‰PNG
+
+
+PID:7909 just read 3248 bytes from host
+PID:7909 just wrote 3248 bytes to client response:
+±*C4=`ZH»h¸ñÕì/dğó½¡¿Üÿú2ôñş2à©$×L"ë·®5ˆ~²øİì¸VÌ^øƒhzÀ§!%‹½C¯„˜¿l®x:ÉÀõ¯“5dÊüsäú'¯”«'‘Í;ÎÒ~ıE®xá’ì¸V,Í\"šğNHÉb«d@ˆ?vl•”ñ]²qÿ;·Ë©Ó'%kÏ.»öí”ë_#¢ßø®²3k§hzÀÄ’E…¨ÈJA`D¹òÉK¥×ƒ²ñÂ—O†CGÉ¯ßœãº×Nn¤¡éCB>´Dw¹’]&ñÚ—/KÒ=m²ÑãŞ¶òÁÜ·e÷ş,yæãÇr\sÅ;ß¾!šp(r²h²F³Ù"vÿµ[®˜p©t¹½¥_¸ê‰Ëdï¾½¢é
+PID:7909 just read 2860 bytes from host
+PID:7909 just wrote 2860 bytes to client response:
+ìÍ:&w>õüç‘/sÄàùğŸKs„"Ûtà2øö÷åÎ§¿“›ûÊ/ÜôèWré­ïÉœÅçºFÿ³İÏrÄóÔ·2âŞO¤Å ÉAHö®åÁg‰ùƒ; Y¾êÌYçt¯wááoÄk·ÆçÛã°1PÉm>èEI½ùm¹nÜã©ıÁ•÷|")ÿyƒï4Yºj[68¾½
+å™bO¢ƒĞM›eö°ßŠ9NâXSÙo·ğ#´ºü%©ßï9IèùL6jõtv¢RÖø:y¤b$ÅÜx`w¾–@À¢„æè Hdo^w—®Ñ¶
+PID:7909 just read 2860 bytes from host
+PID:7909 just wrote 2860 bytes to client response:
+ß›*gXfÏœ‘M¼&[¾ú@6ıéöÈ”Ù{GJZB~ÉL®+™=ëâÕ^$+/m›M6½W}YŞğBù%ñY„ò:ûÂ9µClZ/sJÄÈâê12§ZLdÈÛºI–Ô)(iu‹¢vÇÊ¢ò1²uÒXƒèÖßÄµB²ªGYÕ³dv—´zEäÌ©ÓrjïIkP\ÖtÃ¹®	‘!KR‡3—¢­l"i/’_ojİöóù©Ş…²¢}UÉ
+PID:7909 just read 1430 bytes from host
+PID:7909 just wrote 1430 bytes to client response:
+ÆøùÎñ1§¾äÜ>ç¼]ÆÇÈ$˜d=/Ø¹ú˜S_rîÀWëíz0>æ,’õLÖÕÇœú‘s¾Zo×ƒñ1g‹¬«9úó¾Zo×ƒñ1g‹¬«9õ/ç$ëíz0>æ¬Ìc$WsÃ‡ÏácNÁóÜ¬œû<]w|ÌYƒãcÎñ1ç'üƒÇÌ‡-²öEl‘å–ñÀ!!Çmy‹çî>ŞÃ_»÷Ø"ëÁåu6Q}rÎ¼ÅU0¡p;÷¶Èjâ® #\ÎPéÍ·wïŞ†SgOq­`<:)§®‹e‘„íÜg‹¬›y“’MII1ô¬|MüÏÑ?Éx»G—ó>ê»HÖÛ=
+[d™+4CêX™a‹-Œs$­™“8ØÍš5Ë&©’e|¾}P}Ho°EV3²‚S:Ò§‹wjVHŠ¯–t*Î_ê³’’’Â$ÈcãëıŒï.+l‘uç„œ‰“3c¹#YzKgEÓŒ¯»îºì‰"%È8<Ï7Á_¾Z§Cs}8o°EÖÂ‚SßÊbÀWÄsTa’g
+PID:7909 just read 1430 bytes from host
+PID:7909 just wrote 1430 bytes to client response:
+ÒÊhÜ¸qÆèJWp¨Ö$Qš¥Òz£3U;©Ê^%ªº],ñkµÆÓ¬
+fÈD¹Å±nÆ{×]woJ—³ª“î¹çcï[îŠÉcªî)eJXWt¬‹yÖc"àÕ+øÚ)5šœrA·“%qN½ùJ©çPu¯Bğ˜Åƒ-I“”¾€Vk˜oÖ_Ş¨’ d¸n@IÑŠH–çô—“FÚu‘œ'ø(iVN]KÓ¢Á_’÷kµ†‰VÓR’Õ¥"ÎH@	)H„ç(M½Îc^Ó‡á9­pºZÃ_ë‚_@«5jå¦	ó˜å‘ÇÔn«TuI‰e’¿”8Ï‘¤’Uâ,Bºf y(I¶ Ö¿@x£®Ôh"zçYÃ•_­ZÊñ?Ë4	ë~¸ŒGm#VÓ²’³>€_«5ŒÈDõ&]PâüåüŠ¯Š:.¾b’$)J—d­¿$MM#ÓÔtuÈš‡Öx¶È2¢NyÌ„tuE'ˆÌ€šl6aÔ*1‚R%qî$Ì_>%¦®+5úŸD­×l¯Öè…u¦j]µ¡Y2HœM–¾~¦f‘Eƒ»	ë:‚5%¥ièù€Vk¬KJ®++ü¯QºÌˆ½Ë'ÉR¢$Ìÿ<f¢LMÓš–åY¯Û"«ËAüÕÅë1	ò?©ì`SD’J”Re[«„ÙÔQí®÷ê’”æÁÿš¶uÇ¯5M„¯\WZø«×¨ò¤„)U¾neqP	[¥Íq€®ÚèŠæÃÿJŞºšc‹¬ŞDXÔ_%Êÿ}‘ŒJS%ÉcW	³™Sõ»u™J¢+:ú0¶Wk4Q+Q+q‚¯Ÿ	shH©rE‘¤¨ŞdycßOI$Ì‡á9Ş§RµÔã€VkôFëj‹õ5…”*k<WeH˜Òc¡†Q×Çø$Ê8|0];ÓôT(Öÿ~­Ö(A]´Ğ›yNµŞ”ËäÈ‘#é±­eFM¡.;Q‚$¬E„Äÿª6Õ‡fººš£÷{µF3V’úŸJ3š(5V(J£%J”ÈxÌ”Çü¥º“¤•NË«uG‹ïõkµ†Ä¬K<”åkç«æ ƒÇ|­$AâÔM)QÍTÕí$ÂqŒ:[°8ÃàCrl ú^}›~­Öè_UÈ™_'3ÑµZN?tF¥¯«eWÿ«i ‹‹ÓÒ6˜„õúµZÃ×L¢|U<fFÔ¯R23á/<(%ëƒ‘ UeÏÿLCí4¾M‹®ª}¿@¬k]TSª±ƒf@	óõSÂçN$EhÔŠ£¯˜kaÚi¬˜üCÿkqğ›¬êıµÂpdÅŠÁÌH˜™ğ—DIœ]&3ÒŞ§ëZóùW->XH’iñ­ñ-Zï'l‘ÕÈ¼Q‹Ÿœ3V•‘™GT,Ó”„Ş£¯”Ğ2Oh¢Î¡#Ë=ÓZ¾­ËO~¯ÖhæLP–µ°f3^c\>ÿ[¥¬™ó+WqXØœi`Æg‘ÓÖÇöj#’€f¢‰é‡tÔ°½Ô5}åÊ•Ë.º¸§Àkl[Ù‚ÿ[‹ŠªçıZ
+PID:7909 just read 8192 bytes from host
+PID:7909 just wrote 8192 bytes to client response:
+A'•s<G"VÿJº.ª¬çiÃh]d	é·5µ2¬ı$ÆõgÙb×ÈÖÁJˆ×9©¤¾€RRp]c‹àëûš€¿­ÑÏR¨efªêdE!*ìh~b]Vb“¦¿|HªŒt½Œ5Lù·5Ér*Íõõ|ÍÔ)Pùf]^¢‹Mã’ ®1ğ—=”¯ïk‚ú¶†ó~JR	ê¢‡.'é·`zÿuMÁ
+cÏ¦ßÜ„åÛ’åëÓUÃû–IUÑ‡åÛ–KíÁ4S¡ú2JÎ×w6A}[CÉR"ìV)YÍÜqëuVR]	ë·5”®êº¨d£&œ­‚’ç9…’£$9èÑÿüKUóaı¶†Mk½JŠRâ€„M‹‡u•‘×UáÌÖBßÛ\ªœÂşmÉ²ÜRrª'YjÕ,…‡…l(A•4Ç,¯L'ìßÖ0–'¾~]ŒÓ/<Tù¬ñTQGâZnÙÍªJ?ìßÖè:m™9%Kå0{1]ÕQPÈˆeZÕòlìu¡$"ßÖ,ÛAÀ´(ğ{V
+ÕÓR…É7@]èPås®|[Ã^H1H†•‰#)6Kœ²°Ğk,6$ïÏ÷5!#«„9HQÂ|Õºâ¨ÿI”ã‡\û¶FA,¯,ºÔd>ºš£$ı¶Æõ;a…`PÃ^¶­úÚyİŸ4Cúm;èú‚º6Hz!û¶&R8ÿÈ:«5Îjœà'„#\`Aô†B…
+UÆ”=QÁÿQK›–Ñ{_ÿG-Y+QE4ğº˜b.Z²ØM°‹•ÿG-YO¤r›¬_¯;WÉúûºs•¬¿¤²Y‡¬CÖ!{~“mé’yË@Î;Á	Np‚œà#8Öô5}ÌydM¯îìî6l‘õdİ®®„hCÃsZù²ˆ¶Èz²¢'QÚqÑ›ö[º…¯'…-²î,Ûu/õcÄ_ÚÀğ¼;¿E¡€-²®Víº%†zã±ZĞÓ¦‹&Ï¾v¶Èº³¢§É“º²ZÅÓ–¯Œ„½YÆ[d]­Ú)YZ¼©º$Lû.ÚÇx³Œ¶Èº³l§e§«µ¼¢lÄùñ°7ëxa‹¬»]*H†ä¬™¬¦ü4ˆT÷C¾v °[d]­Ú•í`ÕĞÜXƒ}YÈû[d=YÒÓÜ”¯\Ï­àCğ»u	
+Ø"ëÎ²$ØX=ğ¨e<ÍR)Yµå¶³…Ø"ëÉº„Ù1¨é?»\~
+ zØb°›¤¡®(ÂºSMøHÒT,ÏVûnV45>·»#EX¬é)1İHŠ†’jºÏcSÂt¤ÌÁÀYOÖíê^…¯œş¨gõ“¨¦u'k³‹ù°YÓSZìIˆ¦¦jçÊ±§ú…!Xv9:SG6ìR´5=É²g!!~|¦¾bØ€³%P÷B¼ÎcÎ£twèaµ¦'1V(ZóÕ«7uınõ£^MØ™Xmb­–Ç¾v¯°EÖ›%=›$šM³ƒ %¦zãaÅ£Dù 
+õÄÃÓ+?ZcsÇoÇ\}…Ôš^.‘
+PID:7909 just read 3248 bytes from host
+PID:7909 just wrote 3248 bytes to client response:
+
+~Ç¼ErÎëuÒ«hnìR²¨õÛ8‘îÅûª%ëu‘ÌßŒq½é¾@dıNr-päHâ¥D
+PID:7909 just read 8192 bytes from host
+PID:7909 just wrote 8192 bytes to client response:
+¤ù¢rÆÒuL˜¬uhNÆVn­Ö'×™ùƒ,M¤x8´ß FåâÚfòà|JÈZ'çVõË:2·Úsµk×vÚRô¼¨T¼–âÑH"­o„qix§™¬_ûÒ:8§¢D­%¦0½:±Gv­Ö'½¯Ù¤d!Í|«]£5àš}cş<‹D–R Ä bÛWˆ£{EsÆ®JÓÊ«UAµŒ¿Ñ—¥Ù#=î±iQÒ”¸-é¸ÉFR¥4l+`=¬S"8†¦-µÊ“‘à%Îı¤O7Íß¥Ã ä½îåkyúÉBÊîá—sÖİ<$¢‘ŒFšN„‡%=ÆT8z-o¾q©¤úuY½
+ö:]&)Z7­7cyÓïŞŸ_`•ÔH7û¢ù¢‚q,Ók~Ÿ¶ÒÆÊ#°şle\jwQÔö‚(ûÖŸJ6•Ø=ÉUsN%k&‡dC²aÃ.4¾üQø=Ãø1Y4¶Æcá%xk7ÑÎs½–#¶"«Äó‚Zw€L¬ïöŸ/qZÈDVò‚Xv°¥Ç×*Nh_D³ˆ|»A8ËÁÈŠ@^ËŒøÓZ­!”p¼°†FÑ’ã³œÌ8,G#«ÈbÙ²Ör*C‘J>e‚˜Ãô!Y%š¯Eş¶Š8^3˜|r[ÙÓÚD0²J</ˆe/¬”Ÿ,óvA$N#«Œó‚X‡ğBLSÑ¬"Ä™N
+jmÂ‡`d•x^aV"Y–àË’^3*`+Œ¬ÏbÙÁfl¬Ö›U$£”™[j)Â‡`d•x^¼ÃÌ¿2ãb0XÛLwqá:YeœïZ+„˜Äğ“e‹iÏ"¬ß#«‰³¼x–.­Öí©ß‚ı|Q–Cát94/­6&Õ˜¡a.ËkI‚Ò¥Í´ë·q"YeTñ"Lñê ë]°ƒ82ËtP´…ÀFV	ç‘xa°³Ô4O¬Öø­HpÌâÏ”<ó®AÒuŒ¬Öò
+³a'}™¶%é_©v™”Åû‚X¦€CĞ¥¥¼Â¬F0Åc•t½«3ÑÀÃğ`v†;€uŠ`d•X^,‹|×ÓpÛ©y;-v
+Çı¬S#«W•ËZ¥ŠRZAg½"Á¸ÖÎËb™"Y%”k’—×„akg#(ˆÏWM“×vG#+By±¦"©ÙÔ~J+²ÄgÕÆ®ô2íŒ¬åÅ²AÉ²
+4MAYî£MfÖ¼ù®`d5)–Íšd‘)?
+Û×å‡ø°2Ãt}!–#‚‘¡¼XF(¾
+PID:7909 just read 1818 bytes from host
+PID:7909 just wrote 1818 bytes to client response:
+;<À§,ï2âä~‡\ñ…IrvXGIY(Ù¶ÿ¡C¼ô“ü=ùÔÇ%S4J¶î{ğ°ı/üÀ$#\pÎ§è%“F¶U¯‡í}ÎZ“LŒ;ş™ÏK”*3:gÇ6íä•l‹›:s•I&º<¯VÓ¾Çæì05T*©2Û¬Û~Ã&ò†IÚ8î¥Û1'Nã!È6é²÷°1'¼f’ŞSo|™UÖœ;õ‹%l£NÓ‡8f©IJ•©8)g‡Å©”l».Ù ıÔaCÎ$îë/•²v¶^ÛÉÃ´Ø$Ì¢¦´S¨Ûzâ°~û/2É
+PID:7909 pipe error, probably done reading, preparing to end uncleanly

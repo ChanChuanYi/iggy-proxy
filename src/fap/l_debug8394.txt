@@ -1,0 +1,45 @@
+PID:8394 Child:Fork has been created
+PID:8394 performing initial read
+PID:8394 request:
+GET http://um.simpli.fi/rb_match HTTP/1.1
+Host: um.simpli.fi
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Connection: keep-alive
+
+
+PID:8394 about to start writing to host
+PID:8394 wrote to host request:
+GET http://um.simpli.fi/rb_match HTTP/1.1
+Host: um.simpli.fi
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Connection: keep-alive
+
+
+PID:8394 just read 497 bytes from host
+PID:8394 just wrote 497 bytes to client response:
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Tue, 19 Mar 2013 01:52:53 GMT
+Content-Type: text/plain
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: uid=bc46oi8LOvqr46M2Y1cN0S%3D%3D; path=/; expires=Wed, 19 Mar 2014 01:52:53 GMT; domain=.simpli.fi
+Location: http://pixel.rubiconproject.com/tap.php?v=6286&nid=2132&put=A23ACE6DFA3A0B2F36A3E3ABD10D5763&expires=365
+P3P: policyref="http://www.simplifi.com/w3c/Policies.xml", CP="ADMa DEVa PSAa PSDa OUR IND DSP NON COR"
+
+0
+
+
+PID:8394 just read 0 bytes from host
+PID:8394 just wrote 0 bytes to client response:
+
+PID:8394 job done, returning to server main()
+PID8394 fork is ending cleanly

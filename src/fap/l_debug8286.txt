@@ -1,0 +1,70 @@
+PID:8286 Child:Fork has been created
+PID:8286 performing initial read
+PID:8286 request:
+GET http://ichef.bbci.co.uk/wwhomepage-3.5/ic/custom-promo/432-259/promo_karzai2_180313.jpg HTTP/1.1
+Host: ichef.bbci.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8286 about to start writing to host
+PID:8286 wrote to host request:
+GET http://ichef.bbci.co.uk/wwhomepage-3.5/ic/custom-promo/432-259/promo_karzai2_180313.jpg HTTP/1.1
+Host: ichef.bbci.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8286 just read 2920 bytes from host
+PID:8286 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache/2.2.19 (Unix)
+Last-Modified: Mon, 18 Mar 2013 21:46:48 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=31535036
+Expires: Tue, 18 Mar 2014 21:56:32 GMT
+Content-Length: 30521
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:52:06 GMT
+Connection: keep-alive
+
+ÿØÿà
+PID:8286 just read 1460 bytes from host
+PID:8286 just wrote 1460 bytes to client response:
+
+PID:8286 just read 1460 bytes from host
+PID:8286 just wrote 1460 bytes to client response:
+µÅÕåö'7HYj{Œ¯ÀÑãõ+=Oat†™¬¿Òåø2FZn‚–ª¾Òçû		%	:	O	d	y		¤	º	Ï	å	û
+
+'
+=
+T
+j
+
+˜
+®
+Å
+Ü
+ó"9Qi€˜°Èáù*C\u§ÀÙó&@Zt©ÃŞø.Id›¶Òî	%A^z–³Ïì	&Ca~›¹×õ1OmŒªÉè&Ed„£Ãã#Ccƒ¤Åå'Ij‹­Îğ4Vx›½à&Il²ÖúAe‰®Ò÷@eŠ¯Õú Ek‘·İ*QwÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ğ!!H!u!¡!Î!û"'"U"‚"¯"İ#
+#8#f#”#Â#ğ$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ğ**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/ş050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e44Ø55M5‡5Â5ı676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEŞF"FgF«FğG5G{GÀHHKH‘H×IIcI©IğJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O
+PID:8286 just read 1460 bytes from host
+PID:8286 just wrote 1460 bytes to client response:
+½½¾
+¾„¾ÿ¿z¿õÀpÀìÁgÁãÂ_ÂÛÃXÃÔÄQÄÎÅKÅÈÆFÆÃÇAÇ¿È=È¼É:É¹Ê8Ê·Ë6Ë¶Ì5ÌµÍ5ÍµÎ6Î¶Ï7Ï¸Ğ9ĞºÑ<Ñ¾Ò?ÒÁÓDÓÆÔIÔËÕNÕÑÖUÖØ×\×àØdØèÙlÙñÚvÚûÛ€ÜÜŠİİ–ŞŞ¢ß)ß¯à6à½áDáÌâSâÛãcãëäsäüå„ææ–çç©è2è¼éFéĞê[êåëpëûì†ííœî(î´ï@ïÌğXğåñrñÿòŒóó§ô4ôÂõPõŞömöû÷Šøø¨ù8ùÇúWúçûwüü˜ı)ıºşKşÜÿmÿÿÿí
+PID:8286 just read 1460 bytes from host
+PID:8286 just wrote 1460 bytes to client response:
+¹Ñ´¿VŸİÿ
+PID:8286 just read 5840 bytes from host
+PID:8286 just wrote 5840 bytes to client response:
+øÂ´tüJZ_öv>Ë\Ñ!¥ä5¡Ûgé¶½şåÅîÑnäeeİûr^]O¹ÿ
+PID:8286 just read 8192 bytes from host
+PID:8286 just wrote 8192 bytes to client response:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

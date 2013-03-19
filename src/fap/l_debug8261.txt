@@ -1,0 +1,45 @@
+PID:8261 Child:Fork has been created
+PID:8261 performing initial read
+PID:8261 request:
+GET http://www.bbc.co.uk/favicon.ico HTTP/1.1
+Host: www.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: BBC-UID=c57114f7dcf4db15824d37a891a16d91bee2c783e4f491aeea41e4f40cf499ac0Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20x86_64%3b%20rv:19.0)%20Gecko/20100101%20Firefox/19.0
+Connection: keep-alive
+
+
+PID:8261 about to start writing to host
+PID:8261 wrote to host request:
+GET http://www.bbc.co.uk/favicon.ico HTTP/1.1
+Host: www.bbc.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: BBC-UID=c57114f7dcf4db15824d37a891a16d91bee2c783e4f491aeea41e4f40cf499ac0Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20x86_64%3b%20rv:19.0)%20Gecko/20100101%20Firefox/19.0
+Connection: keep-alive
+
+
+PID:8261 just read 1362 bytes from host
+PID:8261 just wrote 1362 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:51:50 GMT
+Server: Apache
+Last-Modified: Wed, 28 Jun 2006 14:32:43 GMT
+Accept-Ranges: bytes
+Content-Length: 958
+Cache-Control: max-age=86400
+Expires: Wed, 20 Mar 2013 01:51:50 GMT
+Keep-Alive: timeout=4, max=189
+Connection: Keep-Alive
+Content-Type: image/x-icon
+
+
+PID:8261 just read 0 bytes from host
+PID:8261 just wrote 0 bytes to client response:
+
+PID:8261 job done, returning to server main()
+PID8261 fork is ending cleanly

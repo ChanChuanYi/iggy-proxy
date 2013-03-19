@@ -1,0 +1,51 @@
+PID:8311 Child:Fork has been created
+PID:8311 performing initial read
+PID:8311 request:
+GET http://ichef.bbci.co.uk/wwhomepage-3.5/ic/spotlight-borg/336-189/spotlight_tuba_170313.jpg HTTP/1.1
+Host: ichef.bbci.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8311 about to start writing to host
+PID:8311 wrote to host request:
+GET http://ichef.bbci.co.uk/wwhomepage-3.5/ic/spotlight-borg/336-189/spotlight_tuba_170313.jpg HTTP/1.1
+Host: ichef.bbci.co.uk
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8311 just read 5840 bytes from host
+PID:8311 just wrote 5840 bytes to client response:
+HTTP/1.1 200 OK
+Server: Apache/2.2.19 (Unix)
+Last-Modified: Sun, 17 Mar 2013 21:46:45 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=31535985
+Expires: Tue, 18 Mar 2014 10:00:20 GMT
+Content-Length: 28737
+Content-Type: image/jpeg
+Date: Tue, 19 Mar 2013 01:52:06 GMT
+Connection: keep-alive
+
+ÿØÿà
+PID:8311 just read 2920 bytes from host
+PID:8311 just wrote 2920 bytes to client response:
+
+PID:8311 just read 4380 bytes from host
+PID:8311 just wrote 4380 bytes to client response:
+_jw£WïÙêÿ
+PID:8311 just read 1460 bytes from host
+PID:8311 just wrote 1460 bytes to client response:
+d:639321C04B8FE21183CB8F6077AA16A3" stEvt:when="2013-03-17T21:43:48Z" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:649321C04B8FE21183CB8F6077AA16A3" stEvt:when="2013-03-17T21:43:48Z" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:659321C04B8FE21183CB8F6077AA16A3" stEvt:when="2013-03-17T21:46:37Z" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:669321C04B8FE21183CB8F6077AA16A3" stEvt:when="2013-03-17T21:46:37Z" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+PID:8311 just read 1460 bytes from host
+PID:8311 just wrote 1460 bytes to client response:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

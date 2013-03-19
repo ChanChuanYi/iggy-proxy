@@ -1,0 +1,75 @@
+PID:8676 Child:Fork has been created
+PID:8676 performing initial read
+PID:8676 request:
+GET http://www.teliasonera.com/Static/js/videolightbox.js HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8676 about to start writing to host
+PID:8676 wrote to host request:
+GET http://www.teliasonera.com/Static/js/videolightbox.js HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8676 just read 1128 bytes from host
+PID:8676 just wrote 1128 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: private
+Transfer-Encoding: chunked
+Content-Type: text/javascript; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:32 GMT
+
+17a
+$(document).ready(function () {
+    applyLightboxToVideos();
+});
+function applyLightboxToVideos() {
+    $("a.videolink").fancybox({
+        'padding': 0,
+        'autoDimensions': false,
+        'autoScale': false,
+        'titleShow': false,
+        'transitionIn': 'none',
+        'transitionOut': 'none',
+        'width': 700,
+        'height': 'auto'
+    });
+}
+0
+
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Tue, 19 Mar 2013 01:56:32 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+PID:8676 just read 0 bytes from host
+PID:8676 just wrote 0 bytes to client response:
+
+PID:8676 job done, returning to server main()
+PID8676 fork is ending cleanly

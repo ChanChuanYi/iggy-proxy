@@ -1,0 +1,73 @@
+PID:8686 Child:Fork has been created
+PID:8686 performing initial read
+PID:8686 request:
+GET http://www.teliasonera.com/ScriptResource.axd?d=6my6toRWAnKLuaeSu-xv37qkGZKi4KjZ9hzl26yZzvg6kWA2r_6cXxjj1MWCi1J_snptAgcEkF8juDBPulPALj4hvSjEzsGbpchOWhE2RkBxmsF1pMIzJIwqdMKyYZ02MeQt7LA5vMSWJZIDEZ4LGwaTYI4zoVYrtaeTiDKQOj7_o6Gp0&t=4edbeeee HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8686 about to start writing to host
+PID:8686 wrote to host request:
+GET http://www.teliasonera.com/ScriptResource.axd?d=6my6toRWAnKLuaeSu-xv37qkGZKi4KjZ9hzl26yZzvg6kWA2r_6cXxjj1MWCi1J_snptAgcEkF8juDBPulPALj4hvSjEzsGbpchOWhE2RkBxmsF1pMIzJIwqdMKyYZ02MeQt7LA5vMSWJZIDEZ4LGwaTYI4zoVYrtaeTiDKQOj7_o6Gp0&t=4edbeeee HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8686 just read 1460 bytes from host
+PID:8686 just wrote 1460 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Expires: Tue, 18 Mar 2014 22:23:34 GMT
+Last-Modified: Mon, 18 Mar 2013 22:23:34 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:31 GMT
+Content-Length: 11216
+
+‹
+PID:8686 just read 1460 bytes from host
+PID:8686 just wrote 1460 bytes to client response:
+T•F>43€rôÙ’´Ô2+}yå×?‹I˜h2Æöaçe¹£4ıLH3Ë™äİ×ïŒ2ÓSŸ0DôHc¥QşÂ_½ó¤®®(õ1&JîgŸùŸ½ÎÎ³º¸ó‹3²gË¼şö›/&ïª*‘¿~	Q¯:O§cšóQÓÖ$e¥Ã~“5o?[æWiOåá›­,¢&‚1*Îƒ4ÎßåÓ5iØ;¿„ìIş‹í$“-Ò7O®IŞÅØúhg³î|oçûãlµÊ—³“yQÎˆ5ûú—ÿşÓ2ÏL’&ó5lgª©{é?¦—1eäÃ‡tæcvG¸Üôjâ/ïŸ¯¬~ïh'¢ÿ!|h†5»pó/	_bw\(dº°ÛÎÔ¸™ğZ y‰‹¥m«:¼ªŞùgWÅrV])bvíÖ{S}ÉXÔQ§ÓoíîììlÀÑï_gE“ŸvƒóaÑÕ.ú¦Ê	 Ç©ğä#ŠŸ] îüâ‰Ó2]È¯ug—·/Zô»_LM=eşòåM‰èénäf/§”#Ğ‚Rw‹çzˆ®:5–zpF8>W¿‰ní¤ñqDwF;3ÔŸÑ‡14UÙlƒàü¢rÁ_¬RÀzÇÈA¬¡öŠû_²GĞˆ
+¾‘ş¿DòpŠ#NxĞà£ŞeÏûì)÷MÊ<¢_!gË¦E”íûá27¯¯›.oeÔâ27¯°ëE´¿¹eÜÖ8ÓA­h¼?g^ì÷®làÄô¢)“jÙfÅ²y/É‰OB6Zûa"ÔÆ#3ïWâ6mÉÍÜ¨ã¶ÕŞºKŸÇe{÷prôÙÎád{ÛD
+PID:8686 just read 5840 bytes from host
+PID:8686 just wrote 5840 bytes to client response:
+2£j©ØY68™/·wâƒC	%¤1<¿ÃÉø÷ÿıOòôÅ›7Ç¯>?}3¾ÌÊ5­ÿÌÏ|ô‘û¾úêú©ßó·dÈÎotjœMç°~Ê«Ã/I¶Æ™Ö×L”}¶3²Ù­ßÿ÷_u^Ñ°ç0{œfŸ|b¢²ÁößË¾pi*l3³#pÇ6Ç_”ZVë¯€¤gËYşî3
+Á6Á”Ájìóûÿş'ÇÏŸ?9>ù½½:şâô£O(º‰EO®Ïf”¹”ŒÕd¼Ê@xQÍr•É®N¬ÅªOQR&·dÅK½iã‡gãğ‘¨O´µ÷ßˆ{éÁÛÑ&1çËs¾³ñÀ7Şó‘ßø}GŠ‚nûÆ[û}åeò'äI|´&ö9/–¤wiYB]ui¢Nè„S­vUæÛìº±gèë›™æUG^2¥ÃXºPÁ	Œ¥VòùìN6Äk¤.858ùÌoÂÉ"äT‡7«lI™ZHi¯Ë|<mš7ä~ö’devıhY-óôw-+R°Ù²5šê(XI ^Ÿx+%=. IRö?/öãôîÑG”€˜Œ§xø5´ qQòî´ê2£‘ ‹ğÙ”ş]6³Äí{ª:Iìş¢yüí Ïá¿‚ŒÉËW_üş~74…AÚcâ§=Ş£³~	òf6õ¦>²c~×—yİrfXlzã¨½÷ƒ‘oÍ~ægÂ,O”ŞëÈS‘ªÈ1½%9bX|4š·-RA-©sb¬w“Ğh²F/³ºéÑHÓa7SÈ{{C,JïU¤È:¼r[âÄ¸5¿°İp£ÎGvÜQ¹o²št]´É)ƒQç_-ÂàlÖÀq#0´Àú›ˆ;”Íh5¸á3©JÎNşÙø§«b¹E¡îGä¸NE¬÷ì“Ï>ú™>™|)#FóûÕ«³“Š”ÌJ)úöO>úì£O"­gôÍ/üÈºãO¹áÏÈ×›‚Úó/f<¢)MGáxe£¦Z×S£1)OÉ&}I,Û¾©¬ñğåï|”CY‡»”ğÎhş™ÉõNÓÿ?ùlö{ì=Ú5s‚ÕõÑÅg[³ßƒ~ûd÷û>úè!åZæä©ëVÂe†ÏGÁŸùèk[ºÒ]~ëŞáäçWgã§Õ‚Ãò+ïZRª–]Àtù1’ê‘¥Û›"ûÂŠä…n‚(nİˆ5rE\$ƒt[P> ^ğ[bêgçì
+ÖïÿûÏ\Bo¨µñ®ã)ÀMıxY@Û¥êß?+¼¤Atº9Ç>f½´c«~bòlâ‰ÍŒ_!ŒM{½Ó#A(ı%{ıèèëgÎ7dÃ²á7%U‡§²Ä Â«Ù7
+PID:8686 just read 2920 bytes from host
+PID:8686 just wrote 2920 bytes to client response:
+Ö
+W•‡|Hjc8Ëğ¨Å3	*ĞæÃ6„¥j—¿ZŒ’$–£HáÑ/9•Ê\cÉ|(Æv~lNÆ½‹ö™Q´>9ïŸ™u~r^Ï‘€ĞŒ·$4Š»”ªv?˜t?0~ÃùsZ:»x\^|òÙOæÆk ÓüYş½‹ïSòşü÷ _$±q¸âT;h;Xëø¨ıè0£ÏÔ•Ûçÿí“$$@ â¿7ÿ>¥
+PID:8686 just read 372 bytes from host
+PID:8686 just wrote 372 bytes to client response:
+MT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+PID:8686 just read 0 bytes from host
+PID:8686 just wrote 0 bytes to client response:
+
+PID:8686 job done, returning to server main()
+PID8686 fork is ending cleanly

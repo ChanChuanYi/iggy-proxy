@@ -1,0 +1,42 @@
+PID:8395 Child:Fork has been created
+PID:8395 performing initial read
+PID:8395 request:
+GET http://pixel.sitescout.com/dmp/pixelSync?network=Rubicon HTTP/1.1
+Host: pixel.sitescout.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Connection: keep-alive
+
+
+PID:8395 about to start writing to host
+PID:8395 wrote to host request:
+GET http://pixel.sitescout.com/dmp/pixelSync?network=Rubicon HTTP/1.1
+Host: pixel.sitescout.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/20873&geo=na&co=us
+Connection: keep-alive
+
+
+PID:8395 just read 674 bytes from host
+PID:8395 just wrote 674 bytes to client response:
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: ssi=a38049e5-e1ab-48dd-b923-4b0da6df6f7e; Domain=.sitescout.com; Expires=Fri, 14-Mar-2014 01:52:53 GMT; Path=/
+Set-Cookie: lotameTSv1=1363657973554; Domain=pixel.sitescout.com; Expires=Tue, 26-Mar-2013 01:52:53 GMT
+Location: http://ad.crwdcntrl.net/5/c=1389/pe=y?http%3A%2F%2Fpixel.sitescout.com%2Fdmp%2Fset%3Fprovider%3D1%26audiences%3D%24%7Baud_ids%7D%26r%3Dhttp%253A%252F%252Fpixel.rubiconproject.com%252Ftap.php%253Fv%253D7430%2526nid%253D2238%2526put%253Da38049e5-e1ab-48dd-b923-4b0da6df6f7e%2526expires%253D360
+Content-Type: text/html
+Content-Length: 0
+Date: Tue, 19 Mar 2013 01:52:53 GMT
+
+
+PID:8395 just read 0 bytes from host
+PID:8395 just wrote 0 bytes to client response:
+
+PID:8395 job done, returning to server main()
+PID8395 fork is ending cleanly

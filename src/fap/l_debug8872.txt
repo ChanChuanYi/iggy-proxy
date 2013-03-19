@@ -1,0 +1,66 @@
+PID:8872 Child:Fork has been created
+PID:8872 performing initial read
+PID:8872 request:
+GET http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/gno/gnoPhoneVert._V375434829_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8872 about to start writing to host
+PID:8872 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/gno/gnoPhoneVert._V375434829_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8872 just read 8192 bytes from host
+PID:8872 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 39612
+Connection: keep-alive
+Server: nginx
+Date: Sun, 03 Mar 2013 12:29:00 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 07 Feb 2013 00:55:53 GMT
+Age: 1436868
+X-Amz-Cf-Id: wL2I_4w8vTC-L2h_hE6mDWJRkV6gnrIcwjjuXsapv-K8ly39NAVh6A==
+Via: 1.0 fcacec8ca3fd0ab90f71555b6fb49b47.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:8872 just read 6408 bytes from host
+PID:8872 just wrote 6408 bytes to client response:
+*Ã£ÌÒ„¯-ŒˆööŒ^†r0± 9şV°©-9zĞê3iuËÿ>¯Ì‘R™õÕd]c—±‘…H‹Å\˜mi/ˆ{¥š¹Í·2;'¸I ÂaÄÇäÙºø|JJHñH=‘_&{”A ±³¤Ç¸t€/ÊHãëÌ˜á¹m™”¥¤ù
+PID:8872 just read 8192 bytes from host
+PID:8872 just wrote 8192 bytes to client response:
+Ì°¬Ğ’‘-*Ò$&6$6ÀkºŞ½€P)+tJ4{ã®N˜-ÂÜ³µA©Í†Ş§´Ä5Šh'Ë½Gfo¦€55‚5yşK„2I˜XV@ûÅ Ÿ–¤YÃSlıÉgRk&uÂÇÌt†ùå— Yë²homXš©”ŒlL¬^ŸØ@NÓ½æÕĞ(WĞÊi‹Tæ•?8a¶³‘2™e3;Glôšg%$éï¿<	KàÑŠçB5Ø
+PID:8872 just read 8192 bytes from host
+PID:8872 just wrote 8192 bytes to client response:
+J˜i˜Ë¤ÌjÜÚ¿ÿ›O-6XsÏ¦(§#öv	Ë­D6…vGìvU¬«}İºğ 1LîÖCg´²
+PID:8872 just read 8192 bytes from host
+PID:8872 just wrote 8192 bytes to client response:
+•ş¥ÓT”Í[Ÿ©Ø8Å›U¾èdhae†íŞ˜°¯¼—Ñ,•æ†©ôÓŠ2“Â[ò)¾’İûÊÄÆ¬Ìïbñ²hëÚwoì,}££Ü¯vüòªUš‡~]^'+ûËîí ù’íB™¨ü³áèQ&Ôù¬¨|‚j‹,SŸiòäO™Yša³gŠoÒ%ù‚N~””'i†7KO¤aí>³‘Ç 
+¨¹`ÙG"S `zíOù“’A;ÿ_¼Î€IÊ„7ëÿŒ*¿|ûí¦oé¥}Vo¾tiuceÇáÊÒïV+;òHî;]±}š[-„IƒÌŸ­ø€ØÌ2Ì·qéØUsÊ_ë_º4Õq¦½$œ¯—¤$"@FúŠãIx"ìs"‡¯™ù¤¬ÃÇã—˜;{8ædœNNÍSşáÒH%NŞrØ‹ŸŒ—\c×‹(óE™¶M;¾ı×oKAtÓÎ®¿¿Ô5üé…Š†F¤h;3R£,6ğéÌO LÀ|Óö"icšèoUe"şs¤æÑ²Âôxó½EOÍÙZ${R2ƒ^ÜŒ¡¹IâqaÒlOeÇf¥#˜Ó%±¢\x™]í‰g…™şëì’“ƒƒø 3>+üBfÊÌRªe¸ƒ@¢èÉòÒæÎïZ›ÇÆÖşjşŒÔõ×>’§Âvurız'PŠy¶¿`,&‡ò(dğXŞît9úÌIƒÇ”O˜Áà÷>ŸCùKÉcƒ°Î¨{–ã@º°“0ãÁŒ¾ÑÅ)Ï9Œi4îN{˜ıA°	óûËÿ×y³B™1ÿvÔß‚‘…0K7ı©ë/—>¸¾ú'ï^ØW`=ø2VšT7'ËÃ ÿ½Î_wvvw¿iëÆÍ›oÚÔ
+PID:8872 just read 1546 bytes from host
+PID:8872 just wrote 1546 bytes to client response:
+&”TÙ,g
+3˜˜ü3Ó¡úœÁ€*í£!Ü5FgšY(r›Av¹×lˆ”ŒÊÄåWşFšÓÕë†–Åùp† O3ô)Ò±ÁÃ#'Qª½¤:†WùFü©¦\*7Â3N÷ÉÒ¤İnF_¢"5FŸP2Ë«9õ˜ZÚˆ&Ó”-ÓôÑF^/x:“t@HTµ—Y¢ÓéÍ¦Íy[æ`Š´SŞDéµ*eY’+û<Ó•ÍLÃrµ~Œ­p‚dœ)Œ-óô†
+PID:8872 just read 0 bytes from host
+PID:8872 just wrote 0 bytes to client response:
+
+PID:8872 job done, returning to server main()
+PID8872 fork is ending cleanly

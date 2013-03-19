@@ -1,0 +1,56 @@
+PID:8619 Child:Fork has been created
+PID:8619 performing initial read
+PID:8619 request:
+GET http://www.iana.org/_img/bookmark_icon.ico HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:8619 about to start writing to host
+PID:8619 wrote to host request:
+GET http://www.iana.org/_img/bookmark_icon.ico HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:8619 just read 2920 bytes from host
+PID:8619 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:55:30 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Fri, 04 Jan 2013 01:17:14 GMT
+Content-Length: 4426
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: close
+Content-Type: application/octet-stream
+
+‹
+PID:8619 just read 1460 bytes from host
+PID:8619 just wrote 1460 bytes to client response:
+‰×³qakš2òp)7µw
+p)»7.ãø½büV¸{öìÆí#¥hÙU††‡¸^¾gîEkÉ~´ÖÀÍÊj<:_æ‡Õ¸UUƒ«×jpçÀüö¸÷Ãƒßáøñãxx¬WŸB{ı<l?ƒÇ7qıE#:Î]ÀÍÎhjjÂ®KhiiÁ›¶kô¾óÊut^oÅ“W­èêºƒ»wïâÍõ{xõø^ß½çİñöU;Ş?è@÷ã'xİóŸw¢³³İ=/ñşÍ[ôpßö½İğåõG|úò½Ÿ?ãË—^úOå_ï#ïü>ôíÃ×ş~R÷ÓoşR¾š*½¤=ğ?›§¾¸QW™—AI^Iİõÿ~s½rSD '%n>q‰‰›J®¿ù)úCSv„›……+%,}=í…>‰IqM?q?ÏÍBW_Ÿ†»jijkêÍŸoì˜”—}ãoĞŸê|,ôô55YìçÊ"pİyÆÆ3~1¡FÔ½ı‹å…ÚzÚÚšÚ~´hô<c#ƒi†³"’ã
+püåÖ…úšTVÇòó‹ö‹fÑäFÓ¦š˜ø®‰!6=û}«–j‡D	Ö¥à¹‰‰Ãš5ë%^~ƒ/äÀ‰õ	”XêÎ$W4YO$“(ù0¯d×NXC$Á˜¶ÅĞĞDGG‘MNUfæª¥Äé¡@.Ôç UœÖ¯!lNÆFF4¹Îh‡ÌÌÜÌÜÜñ2K“ÃÏ…kkSdél.¹‰¢âè\Jv¹	I%åq,ª×Óä 5-ÉÌ™¹N\G	\jå."Åë„„Äåæ$Ç5Qğ·Ş\¸¶
+›"ÛÆq”"—²ÛU\\\^lErFåq.ÉÙ=ÆR…K?/—"ó–ç’V’ZWQ^QQ9lÄå	“¦&Ñåúré}	Yñ.“ir·«ªª®®)š)¬¬<a¢úd—ÄJà&™r›“Š
+Y¢mååå«¹äJã¥v>xøpm¤°òWŸ¼(1ã•Ø6'İ)*ªŸƒ¦àÒVäR9~j7MNDclPòı7+ˆTUWmXà}¸¦æp‘Ç–ñãUw4œlh8ç%Æ«S5İÜPSS]C€µ{‹jkkO­–ä«ª
+Z5^8w¡¹t$MğKâê¨8?^KM|êäÉ†S¶¢rUY¤^n¾|¹Å‹9W;7®²TSE×{ï¹††ÆÆÆsç.”
+ˆÒpYY!ÙÓä»½OMm¯1Õ¿d;9Sf¬nln¾ĞÜÜ|¹9ßn8E.+4,ôÁí;w„‰¨ÿ‰W'xú\È›ì¸Ür¹…"lIU”%ë?lßã¶¶©«}ƒ× xÎ¡3ãŞrû6!¼óàñÅP’	[?|úôé«ßĞSøÊ4î^e{§­­íñã§¯şåÁÃØØİÕÕİn®ğ=¾._³¢v<}ÚÑõêEWW×—î6gû{>õïçWÿ?Õ¿ébšáj‰r_—Çæç}Ÿ{>õõ÷?İO$à[sH<“î?êú-J€¬ß‘şşG²0;ğ®HZ¿	&½^›^v>êë9bÇ'%u…èÏChÏ²óŸñûy™ßá“ıy¯¿¿¯3Gi8©{Ë@6º˜Xlkÿî¨=ÿŸ“ıvxş™ÒÜİü„Ô›yè½(¢°¥;CçÎéüjCæ¯%7ïëœ{”¢—úÆ 7ººoìí)L‘Asèó»o|gşwÖbÜ½È_ğ§ÓıWD˜´9ké‹½Ój¸Y½¬A*ş”-W{9~§ÜĞ˜¼ø:çú9 +ë³ôWWĞTj
+×Hã3öÖ³DÔJ¸×ÕÇPqq0âı!Ó'ä÷Q~~õ¬'œş?Ú·„]¸wg`PşNşy–ºÓ™²¯€_]ß|ÏkÎˆ÷ÿ¼Ï*‹QøÖ*Œ½·b
+PID:8619 just read 307 bytes from host
+PID:8619 just wrote 307 bytes to client response:
+y—SˆXÊ~ç¿“Æ³ï¾IDHß5ŞéÏ)äÑ,âéûåœÅeŠ\ííıîsì§ñ
+
+ü6û©ù	co§ÍàÒŠ0úü~ÿHáÕèù9ûç®ÚĞVXŞş#œ|I
+PID:8619 just read 0 bytes from host
+PID:8619 just wrote 0 bytes to client response:
+
+PID:8619 job done, returning to server main()
+PID8619 fork is ending cleanly

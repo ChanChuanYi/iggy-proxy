@@ -1,0 +1,42 @@
+PID:8380 Child:Fork has been created
+PID:8380 performing initial read
+PID:8380 request:
+GET http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_0001f;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=7;ord=29395519870007? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8380 about to start writing to host
+PID:8380 wrote to host request:
+GET http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_0001f;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=7;ord=29395519870007? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8380 just read 1552 bytes from host
+PID:8380 just wrote 1552 bytes to client response:
+HTTP/1.1 200 OK
+Server: DCLK-AdSvr
+Content-Type: application/x-javascript
+Content-Length: 323
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 01:52:49 GMT
+
+‹
+PID:8380 just read 0 bytes from host
+PID:8380 just wrote 0 bytes to client response:
+
+PID:8380 job done, returning to server main()
+PID8380 fork is ending cleanly

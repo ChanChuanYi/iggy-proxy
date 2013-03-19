@@ -1,0 +1,46 @@
+PID:8610 Child:Fork has been created
+PID:8610 performing initial read
+PID:8610 request:
+GET http://www.iana.org/favicon.ico HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:8610 about to start writing to host
+PID:8610 wrote to host request:
+GET http://www.iana.org/favicon.ico HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+PID:8610 just read 4380 bytes from host
+PID:8610 just wrote 4380 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:55:26 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Fri, 04 Jan 2013 01:17:22 GMT
+Content-Length: 4426
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: close
+Content-Type: application/octet-stream
+
+‹
+PID:8610 just read 307 bytes from host
+PID:8610 just wrote 307 bytes to client response:
+y—SˆXÊ~ç¿“Æ³ï¾IDHß5ŞéÏ)äÑ,âéûåœÅeŠ\ííıîsì§ñ
+
+ü6û©ù	co§ÍàÒŠ0úü~ÿHáÕèù9ûç®ÚĞVXŞş#œ|I
+PID:8610 just read 0 bytes from host
+PID:8610 just wrote 0 bytes to client response:
+
+PID:8610 job done, returning to server main()
+PID8610 fork is ending cleanly

@@ -1,0 +1,73 @@
+PID:8685 Child:Fork has been created
+PID:8685 performing initial read
+PID:8685 request:
+GET http://www.teliasonera.com/ScriptResource.axd?d=Kd6x_5iJM4AB1gs3CdsFI-AprneY4Qv-9SOXU7fX8DYAkC2wPS0OfvtczNHzC9_9Vr1zt6CyyJtZ9L9QOGWQjf7euSlzGrC9Ilj7ggATFTGImt7MhgVnEHh0ZSXl6shQyzS5zRKee3Pp9vQHZ7E8t3wOO_k1&t=4edbeeee HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8685 about to start writing to host
+PID:8685 wrote to host request:
+GET http://www.teliasonera.com/ScriptResource.axd?d=Kd6x_5iJM4AB1gs3CdsFI-AprneY4Qv-9SOXU7fX8DYAkC2wPS0OfvtczNHzC9_9Vr1zt6CyyJtZ9L9QOGWQjf7euSlzGrC9Ilj7ggATFTGImt7MhgVnEHh0ZSXl6shQyzS5zRKee3Pp9vQHZ7E8t3wOO_k1&t=4edbeeee HTTP/1.1
+Host: www.teliasonera.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Cookie: ASP.NET_SessionId=4wjcaqwi342pa0eqqqo2fueq
+Connection: keep-alive
+
+
+PID:8685 just read 2920 bytes from host
+PID:8685 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Expires: Tue, 18 Mar 2014 22:23:34 GMT
+Last-Modified: Mon, 18 Mar 2013 22:23:34 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 19 Mar 2013 01:56:32 GMT
+Content-Length: 28889
+
+‹
+PID:8685 just read 4380 bytes from host
+PID:8685 just wrote 4380 bytes to client response:
+ì‹’ ğheÂ-<>w¹,€Ş¼< ÍŠeC¤ÊïPRÍX­ï–ÿ’	wcqwÖ½?ˆĞÂÊw <B‘:ê4èõP˜Ğ¡±Ôòrw~±©¦*/I	Îóºàtë–Ä¬Sòğ\î@=W~'Ùtç[™]ÅF^ÑéÂ<ôM£ê:Û
+PID:8685 just read 1460 bytes from host
+PID:8685 just wrote 1460 bytes to client response:
+Àæ(…@(Ê™$ïC—XG7ÌÁVD
+PID:8685 just read 8192 bytes from host
+PID:8685 just wrote 8192 bytes to client response:
+úœ¶¼ûûŞıHÇÏÈÿfö3ŠŸ‘ÿÿÌ?ıüïgæóŸ™ÿÌ·¿ı3ßş™Åâg?Ó4?ÓüLÛşLû3Ä¯?ƒÿıÍÕÏà?sqñ3wŒãóŠ–&Â?E@ğäFäü@	‰]×´–r^Ñï5-¬´úÑ(«/Ö¸œw|à°¶u‘ù+´ÃğCøöÕÁ5y>š
+µ"d<±À•Ì*!¬YöÙ.-ûÎ’MÉ’‘SzşYäi0òBeóĞXdîãô]6m	>éGVtÖÀM~É/Q¡lzNvsjœ±
+PID:8685 just read 3488 bytes from host
+PID:8685 just wrote 3488 bytes to client response:
+ìƒ‚¬kV^©UÛfÓ97ú2Ñ«n“Í2–İ‘	ÒU©)…‘ïƒ©Ãaë#ò^>ao}ú½©õñ\¦à>ò`hKçäÙâu[½âTÀ£‹_*ªÓ|NÄ×<;»¿kòÜj–È$V(éa_¹±­g;Ï;Ê“f˜ŒM±|ª Î)òy<Öl`2ÏÕ ÷–oÄıV`FÁ™¸ÇÙgÏô$RºåÎìKÕ^Ï+Àd•¯)­orö1¿õ³T=M·Ì:s_$Ã†¾T]ÜùÅÌ”A*wBd#L¦„zC³ÏrPÂã6ğÜŞ=œ}¶s8İŞ613áõQ`ì8çÎïfØ2ˆÊX™¨ä$A}DÍt¹Ã¤&k›¢4ããsĞ(3Î—¨‰¨±6Œ;1U>òò^#}ÿÅ-,³6hÑãˆğ[§œF¥úƒí-‚R«ı ¯RªóÌ¹&_§ænÚ±´yñ™Ñ´´yÁK›â3•4ús¤ø³P“NHtŞşæ?A&TÄÑO·r’QásÏ—œåN§‰v£wîNÇBwJhŒvCzˆví¯”„ÊwØ®Iƒ0ŒĞ—D7¿Ò‰• ıöd·ÄDy‰ÛŞá1Nñ7¯QCAå¹4/å}ôÉg¥}âÂ ]eí.r+:[šÉH„M?ºƒ,x¤²Rİ .3Öm³—é–Ó=ã%°…w£Éøzd|àï"Ò#§Ğ~ğmá&ªTÁŸö§¿>¹>›ùÊ?—YÉÍ
+û¬š®#¯lI’&ï|lŞê~æ¢&¿‡t™çyQÎ^{îiWRš“ÇF²ulNfúÏ>Û½ã[êì—PtX’åÑOÈ¤’T²s»¥y"ZV")4Y–CZdê"Càv·ƒÕ4'¯ÕÌ/]¶@ŒøWH)ndˆÀCÀ9nòòüg~fâ!ôÙCú›~õ‹Ö«Œ’O-†K'cJ|ĞšÇ@{C'9C±µ3Ú‘™<—¼_0BïßÕ’zÄ[Jß€éİ/²v>®ÑÍÖ9‡Şw>ÉÎTeùœş"n
+ZGï¼©V@İ?µ;¦XŠÔœ8eæ³³%©´%1ì»UYÕpá|Å‹‚BEq@Çç5éKbcíÔœv!TõŒÀG;”Jï}¸¬>ú=ö‘ÃğÉgóÃıóKÔŸ-Iw°¿$Ó]pââeä{³ıM®t^8V˜T³ëÑOVM™ù­Ÿ–œÇöO…ïb²~9Ì|gßÚİ¡	¤—²íìw¿ç.ıÉ3^f|ÁKğvïüâ`î¦wI¯s5£O87Ş—Œ:ìñAÙ†º`l0ß‡3÷7M¯½.›QÊŒt 17±Àëì<«‹Û
+â”q:–(ñşBóşÌÏLÁ¼YfäDäôÿŒf‰ù1a­DŠì0;üéÏ²Ñq#M–Qõ/™ïÜŒ’NÖ5Z¼n¯K,1©Øf”•¸€û=ìo$4_­V&‡÷Èğñ–é	tGşJş"ªÓsdóÑ“/Ÿş>ÄÓìÙ^Œ±°úà›lÒTåºÍ)/D®Ï'kÃÜı9¤¾~úşÂŸ}v_&¡kò3„nÄÍ@aŞ¼X½¯	¨|ûK~É­ˆ3âPÎô÷˜ØQX:ü®daçá˜tb<Js„©qP
+PID:8685 just read 5840 bytes from host
+PID:8685 just wrote 5840 bytes to client response:
+ló×¼¾d×ŒE–DÁûlx<b\o°TË>È'(±8·÷à“ŞÖ9ğW¾.Ú§Ğ×Aú~–ª¥Ø¼ÉŒ"O¤ì)©ŸSR×ªµ–¤ÈxfÇtƒœğ·)´®êk#ÌÌ)0¼ôÁ/-«¶8¿ö¬qÑÃ—È\B.ç.xÂ<à{ê;#,®õE‚DÉŒÉø÷ÿıªÓë¹ŸM	A‹î€¦ì;f~,sg”}fÖ±‡2
+[}—¬Üßı®:Â’‰dLş²NÿäÎD8IR¯‰}ß“'À4è”t’‰£bJÔ­Ñ˜ÀGSàûA[/oP]+ˆNh¥ŠÎ4y.¨¤ñ×‹	Òa=ëq€qß'ßË¿o~ÃşäáÒ	G»;;;ÆŞ}Oü,ñ«yFşò†‘ˆ„,¡CÒäûÊ¿¸ß5Ù|3¯Ö­H¼†Ô{8~¶Ã6ÿ÷÷#Ø7ÕkkI;æPŞÚïeÑ/¶óüh2rÖüQz.Jw®³;†€+–=Ÿ•$.­£¡õÌ6î\K=‹;º ©ÂĞÍ7é„¾;÷rtê­Mı¤íÍA
+‚	Q¦w'&¡uCªÌ¾@ã3¹z´ãCbÈ7¹C÷~»õÑÓ/¿€ƒÏX/P
+ÃGİ¾)2}óË#Y9æAèï¿„­ÍI7³¢ĞmÛl:g°Xm–¡}ö™j¶ZıÂ_hÛvÖ#èo²´Â®bNî¥m*zInQœuù\bo`L‚To~Ş~dPŞùÅ¹ÁœO“øÈF;wÔ}ú%3v‘e®2ú‡GÖÖG)0â&6Óy¶¼È;Dö	ÂM_£)X"éüÈ›‰Y~l¡ş/¡	p>Vß{ÜlŠ8­§ÚY=š"¾)É/FB‘³ ïå¹<‘ì§w#Ùwÿ{É¸Ûşø/ç¯‹?äçß½õapòãwƒÿY§yèÙQ}¢±™·jbEß|7”Ì‡²Ì…[É­062÷~×ìÿÑg¬c¿¯«î“­ş°ûùğ%%x©›sÓÚï`^Z¿×DvÏ§ÉÌ£í*êÿËË†£LÂã
+ºù™Ÿ	ÿ3Óú£LìÒmñÉG¿ÛGbqÑ†íc~ï7ò2¾0€İ'Jz1‘
+PID:8685 just read 3445 bytes from host
+PID:8685 just wrote 3445 bytes to client response:
+å.B¦'ë[_;~·0®Ënœeñ-ú¯}È´ú$âWt÷õ¨ïÍe—9X‘Ê(KS×ç÷Ğ”=U.­#óg˜ÅtèIş­ú»™;2Oî±Š®’3~a6KGƒcÉF0
+PID:8685 just read 0 bytes from host
+PID:8685 just wrote 0 bytes to client response:
+
+PID:8685 job done, returning to server main()
+PID8685 fork is ending cleanly

@@ -1,0 +1,43 @@
+PID:8618 Child:Fork has been created
+PID:8618 performing initial read
+PID:8618 request:
+GET http://www.iana.org/_img/2013.1/icann-logo.svg HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.iana.org/domains/special
+Connection: keep-alive
+
+
+PID:8618 about to start writing to host
+PID:8618 wrote to host request:
+GET http://www.iana.org/_img/2013.1/icann-logo.svg HTTP/1.1
+Host: www.iana.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.iana.org/domains/special
+Connection: keep-alive
+
+
+PID:8618 just read 2605 bytes from host
+PID:8618 just wrote 2605 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:55:30 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Fri, 04 Jan 2013 01:17:14 GMT
+Content-Length: 2355
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Connection: close
+Content-Type: image/svg+xml
+
+‹
+PID:8618 just read 0 bytes from host
+PID:8618 just wrote 0 bytes to client response:
+
+PID:8618 job done, returning to server main()
+PID8618 fork is ending cleanly

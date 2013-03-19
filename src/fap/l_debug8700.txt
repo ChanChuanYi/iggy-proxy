@@ -1,0 +1,45 @@
+PID:8700 Child:Fork has been created
+PID:8700 performing initial read
+PID:8700 request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=1&utmn=860807136&utmhn=www.teliasonera.com&utmcs=UTF-8&utmsr=1366x768&utmvp=1366x602&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=TeliaSonera%20-%20TeliaSonera&utmhid=509729562&utmr=http%3A%2F%2Fus.yhs4.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dteliasonera%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D&utmp=%2Fgateway%2F&utmac=UA-11974385-2&utmcc=__utma%3D109543040.1894221794.1363658193.1363658193.1363658193.1%3B%2B__utmz%3D109543040.1363658193.1.1.utmcsr%3Dyahoo%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dteliasonera%3B&utmu=q~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Connection: keep-alive
+
+
+PID:8700 about to start writing to host
+PID:8700 wrote to host request:
+GET http://www.google-analytics.com/__utm.gif?utmwv=5.3.9&utms=1&utmn=860807136&utmhn=www.teliasonera.com&utmcs=UTF-8&utmsr=1366x768&utmvp=1366x602&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=TeliaSonera%20-%20TeliaSonera&utmhid=509729562&utmr=http%3A%2F%2Fus.yhs4.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dteliasonera%26fr%3Dsfp%26fr2%3D%26type%3D__alt__ddc_linuxmint_com%26hspart%3Dddc%26hsimp%3Dyhs-linuxmint%26iscqry%3D&utmp=%2Fgateway%2F&utmac=UA-11974385-2&utmcc=__utma%3D109543040.1894221794.1363658193.1363658193.1363658193.1%3B%2B__utmz%3D109543040.1363658193.1.1.utmcsr%3Dyahoo%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dteliasonera%3B&utmu=q~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.teliasonera.com/gateway/
+Connection: keep-alive
+
+
+PID:8700 just read 1444 bytes from host
+PID:8700 just wrote 1444 bytes to client response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Mar 2013 18:26:23 GMT
+Content-Length: 35
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Expires: Wed, 19 Apr 2000 11:43:00 GMT
+Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT
+Content-Type: image/gif
+Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate
+Age: 372614
+Server: GFE/2.0
+
+GIF89a
+PID:8700 just read 0 bytes from host
+PID:8700 just wrote 0 bytes to client response:
+
+PID:8700 job done, returning to server main()
+PID8700 fork is ending cleanly

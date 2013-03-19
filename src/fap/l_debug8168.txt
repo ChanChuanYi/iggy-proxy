@@ -1,0 +1,83 @@
+PID:8168 Child:Fork has been created
+PID:8168 performing initial read
+PID:8168 request:
+GET http://25.media.tumblr.com/f0d5d2b69a0d45e9bcac928352fad742/tumblr_mjksf6ludw1rubozqo1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8168 about to start writing to host
+PID:8168 wrote to host request:
+GET http://25.media.tumblr.com/f0d5d2b69a0d45e9bcac928352fad742/tumblr_mjksf6ludw1rubozqo1_500.jpg HTTP/1.1
+Host: 25.media.tumblr.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.tumblr.com/
+Connection: keep-alive
+
+
+PID:8168 just read 5840 bytes from host
+PID:8168 just wrote 5840 bytes to client response:
+HTTP/1.1 200 OK
+x-amz-id-2: F2fChNfGHkeBastQ+34SDxykcz7TTmhy8PzElA5wVDseO/axwR0mqMuhIwZhaUeD
+x-amz-request-id: 9FD0D7B270E17671
+Last-Modified: Wed, 13 Mar 2013 01:35:33 GMT
+x-amz-version-id: sx.xZe0VVQnR9hcknaPT_WOO8suGs8Yu
+ETag: "7c3eb90a75a192dfd7c53b5133c27f38"
+Accept-Ranges: bytes
+Content-Type: image/jpeg
+Content-Length: 113636
+Server: AmazonS3
+Cache-Control: max-age=31016699
+Date: Tue, 19 Mar 2013 01:51:20 GMT
+Connection: keep-alive
+
+ÿØÿà
+PID:8168 just read 7300 bytes from host
+PID:8168 just wrote 7300 bytes to client response:
+™Ç4	"~có_|z×Aíd¬èü‡‡Óß«=J°º…Óˆv[_Vè7›*fBÂ\fBr…1ùT{ã¶»°½“i‡(tn-p×µ5<?õ6|ä¯¥WE.ÃjÖ–·¦R¥!%x¿aÑŸ…}
+PID:8168 just read 5840 bytes from host
+PID:8168 just wrote 5840 bytes to client response:
+bõzñ³ğ÷®
+1ó&yiIøÈêPDÔ·»)^RêGªûk/“ùÇÅ¸6?_…ÖÁòŒş"¿åyş…-V)ñª¶EQJmLƒF¸¨3]r%YİÇjTÊšQCø!>Rˆ •3ŠL\­ql¢ÇFŞ6·G…ÌŒ×h;ø%|+¨5š…£ñ·İ•\[¨f,ú¨eàp¢æĞ6n'	ÆyIcÜé¢:…¬|ÔÒ8G‰½Eƒfuj³yA³Ú©°€üöi®8$%m¶¢èIùŠA;IÏ vıtÀøríKNÃ‘¿WĞúÿ
+PID:8168 just read 2920 bytes from host
+PID:8168 just wrote 2920 bytes to client response:
+â³‚”¨=xúk Ü;İó|JÊç5£AôZ&}¹ûWí”w)•n–T#MX	ee  ¯ë»·#M8iš,Õ l±8ªDxµñKiuş‡Ó…mÔ)õ$¸ÒÂÂö4¬¸UÛ‘òàdrN‹˜îtì-TòµÍæºëëúJW5S§]t·fERØ…W|Ñ¦¥.şL€…Ä¡@û>6â0îqªV˜'iá·šbx¦¥µC¬ŞWuœãµ
+åL==ÖKac	qå q‚¡Œ+ ¢
+PID:8168 just read 8192 bytes from host
+PID:8168 just wrote 8192 bytes to client response:
+"!ç¤”Ağ9—”år·	-§æB" ©\ú(zzj¦Âb\?¶Gı–Ü'(àšOÄve­|NŞJòµá²Òi–œW™`áN‰¥“Ø„à.,‘Ùö;/öÊ¸yn"ıDî”*o†+:<Ô¢uræ§°­¬2Ìv“Û%)8ûg?MjdPÈ) ûï\çâñ›$îû"ø^:SJ LœB÷‚ü÷rN=’FØ„‰1“;PQ­Ğ>™Lû0lJ$0Ú™).“½{%Å3Üúq¥bd
+Ñl»(àbÉéÕxª”W,ÊCÕU‡)´ª<U©´6‡Ú›J—#¡)ÂÁqàÄl…bÉ¶ÄÆhïuÙ§ZÓ‚¯kå{éÍîó×SgAA :qJ¶ê	»¨¶í6eÔ¡r[ü. ‘æ)Y;SK^âAí´`rŸƒóo:·Nğ<dQ=üèoÍ©ì(6?[fÔş1Ë*->Œøl¾¸rí´Ïó
+PID:8168 just read 3488 bytes from host
+PID:8168 just wrote 3488 bytes to client response:
+f<T>êÜJÊ\ejPÊ–
+×·åBV{ãBé$hßTØpqNü£ÓóÇoá
+Ş·İpô­é¬8ĞbRêÊ [Ê‰8–fÄhóR›ÊP@Ü¡—‡A….{µ;êV¬v`Úka@vı·>K]n&İÇ]²eÇOËA(,§ê ÷Q­†u¹qé¥½/T×ıŸ´¸u¯ÔXQPªT©ÌÉ©Ìœâ6G`´Ş„'ı÷¬ø¶å…ÄP°4HÆI>µKW‹W‡‰kâj’ËÌÄ¨{Kï¹%-íÁIÆ4|šÚ€;¬“ïÁiåGx3ş Kú•¯CŒ·ö46……
+PID:8168 just read 2920 bytes from host
+PID:8168 just wrote 2920 bytes to client response:
+
+_(m)ààãÓ¶•›Şš£ÿ
+PID:8168 just read 8192 bytes from host
+PID:8168 just wrote 8192 bytes to client response:
+á'*ZP¢1Œúà:L{]šbC{=ûê]¬˜P4œšuÙÿ
+PID:8168 just read 6408 bytes from host
+PID:8168 just wrote 6408 bytes to client response:
+åcK"u8}¼Ö¬4h VÔ[=D£t”ÏI,{.çêÎ§\§RKÒ¤:w:ì™PaP„©dœ
+PID:8168 just read 8192 bytes from host
+PID:8168 just wrote 8192 bytes to client response:
+:t³â¤¦Ú5íiıN+ÔºƒŒTÂsÎÓÛ8úk¶&–6ªÚ^ægÈhÈqI?ÓR‡wªò£6[å×–ãË=ÜuEG?sÎ¥Ò ÛÙyu*G÷…±ô
+çüõWÅ
+PID:8168 just read 8192 bytes from host
+PID:8168 just wrote 8192 bytes to client response:
+ØÔøÛ&
+°Ø©p„¾'QãÔQM·w­ÒÔgR¥•+	ByVïaïöï®TøBÛ!{.Låñ£e÷ùLÊ^šbşâJVã„ª=“ÿ
+PID:8168 just read 2596 bytes from host
+PID:8168 just wrote 2596 bytes to client response:
+$‚¶Šø¸Úú'ßé3úf'šÌ@³¨××Çp:j·ÏÅ7Xª¼&tŸÒšJl[’—l|.bDP}Õ¶0—ŸZ¾Tù™kŠÁQÈçş'c{´ÔéÇZ÷Øªü¾K—]¼	Iò=„Å—öhõj

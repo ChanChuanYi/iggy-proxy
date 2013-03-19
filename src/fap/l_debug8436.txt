@@ -1,0 +1,49 @@
+PID:8436 Child:Fork has been created
+PID:8436 performing initial read
+PID:8436 request:
+GET http://s0.2mdn.net/2553623/_2553623_skoovy_bbc_88x31.gif HTTP/1.1
+Host: s0.2mdn.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8436 about to start writing to host
+PID:8436 wrote to host request:
+GET http://s0.2mdn.net/2553623/_2553623_skoovy_bbc_88x31.gif HTTP/1.1
+Host: s0.2mdn.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Connection: keep-alive
+
+
+PID:8436 just read 7150 bytes from host
+PID:8436 just wrote 7150 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Last-Modified: Wed, 07 Nov 2012 15:20:47 GMT
+Date: Tue, 19 Mar 2013 01:53:06 GMT
+Expires: Wed, 20 Mar 2013 01:53:06 GMT
+Cache-Control: public, max-age=86400
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 18065
+X-XSS-Protection: 1; mode=block
+
+GIF89aX
+PID:8436 just read 1430 bytes from host
+PID:8436 just wrote 1430 bytes to client response:
+<LÈ
+PID:8436 just read 2860 bytes from host
+PID:8436 just wrote 2860 bytes to client response:
+ù'
+PID:8436 just read 1430 bytes from host
+PID:8436 just wrote 1430 bytes to client response:
+å•Žì¡F‹$
+PID:8436 pipe error, probably done reading, preparing to end uncleanly

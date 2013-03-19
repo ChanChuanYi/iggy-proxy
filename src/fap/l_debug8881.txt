@@ -1,0 +1,109 @@
+PID:8881 Child:Fork has been created
+PID:8881 performing initial read
+PID:8881 request:
+GET http://g-ecx.images-amazon.com/images/G/01/img13/grocery/flyout/eastercandy-health_flyout._V375139025_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8881 about to start writing to host
+PID:8881 wrote to host request:
+GET http://g-ecx.images-amazon.com/images/G/01/img13/grocery/flyout/eastercandy-health_flyout._V375139025_.png HTTP/1.1
+Host: g-ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/
+Connection: keep-alive
+
+
+PID:8881 just read 8192 bytes from host
+PID:8881 just wrote 8192 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/png
+Content-Length: 58136
+Connection: keep-alive
+Server: nginx
+Date: Fri, 01 Mar 2013 08:00:19 GMT
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Wed, 27 Feb 2013 21:52:53 GMT
+Age: 1534296
+X-Amz-Cf-Id: tLZj2CD2ekwXb41JO-Rv8HrEZhVc4fKvyOItlz4J6KkxCBIdptSyWQ==
+Via: 1.0 779831aa220255bf0e3dcc56300ea3a8.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+‰PNG
+
+
+PID:8881 just read 6408 bytes from host
+PID:8881 just wrote 6408 bytes to client response:
+Ü.xãWÓ'ü3Dégüı¯WTºß5351ú<L=âºáwÔği·¡½s|jç©Î©ãÎ˜ÙÓï<îr5„¼©s6šÌ’ØwK7ü`nÂ¦
+PID:8881 just read 8192 bytes from host
+PID:8881 just wrote 8192 bytes to client response:
+sÿ¯JscKWÚDö¬ã¼–¸ÿnú†Ğ`"}L 'ıà×e/N»«íèÑ¶¶Å¯x²î±‡Ã	°w@ã÷Cò:Iâ³m„½-íÀ),¤[úÙ%K– 
+t„òmzƒ!“B=í1Òc·"~·ÛÏŞÕ=ùËå´¯´”C.é©L¿¬ş‹¤şdü6?øşo¨OZ½2µ†ó¯~Ül°rİo±ìß_SCŒc×?¸ÿ)„zõ6‹‰MG–—`)@îab÷/¢J}‰3^J¨ıUøyÜ·xÁİÛkï&º NÃ8pÒYĞ×ñ
+y„]æ9ç<€î›+à“@,´¡Š¢6Ê” ¸ïÁïII3`Û2¯à±¨\‹åñµIë=şùjë¯ÁŸ?şsêaìÿêsxxƒ§ö3Ÿ®vızÄ}±ë_ÒôÕb~”Â>ÀALúEVÕ åpèP¨¸SÅû"şHëb•8ï1€ë’1½S íä»ƒ`3Ø/b!å•£G öãì§¶£‹ıLÌ‚òr®ø$a&‚}îª£ş›¿ t³S”9ØÎD.%í»\Şã‹O€PxÿâBÎ~y™’ù‡ÔîÁ•‚ía~ÿ®äû	?ÔÔÕ\ø‰Â_aÙèûá
+PID:8881 just read 6408 bytes from host
+PID:8881 just wrote 6408 bytes to client response:
+İ•ÊWY%üM§ÇÔø¹ë®‹ïÿÔDT~½Â@ù]˜üyté7ÀS¼Æv
+éé—Ó/cOÖSØH ëûÀßç¦tŠ„)ı^ñƒ?ğ³nÀ"øPı¬•“oåAøûú¼øàï”š¸O‹¶€Ó-òWğƒ?M€4ô÷ç³¡È8â)ªôó‹Ôîÿóç#ØB=êò‡xÛªŸUı`
+PID:8881 just read 8192 bytes from host
+PID:8881 just wrote 8192 bytes to client response:
+€q#ñÛ¼ù¾–÷Å³ìşÕŞØúâ^Âÿ_í^Ë&ş/¾hFä¯Û‹•áÒâgŞ÷Ëóbûø·5ÿRÕ€€¿—wJöJPÛ<ğÒ}¯nÉúø²kÈ5¹çwÚÖ¿¤óÖà?Şÿ§?uu?ü¹ìë€V¿í>ğõN§Óü‘Õ×Wï^÷ÔSïè•ö.ı¹.UÊ¿ÅşOˆï/[lMàr£KW_ÿ(`¯Ï˜a_Ób]ç0ÖşS;ŞÒ‹‘…µ÷¨TÖ/põ]eı",/eŠOq—şT@iWQb}PÔÔ¬šSZc]üXÃe8…ÿğŒ)]}>Ôx¬èÚ´şÑÕÈğ
+PID:8881 just read 568 bytes from host
+PID:8881 just wrote 568 bytes to client response:
+›´~ß×yàó5¿ëéqÄÃdhÙ‰5÷ø x	Ãc÷¡‰™!Œ}
+PID:8881 just read 2920 bytes from host
+PID:8881 just wrote 2920 bytes to client response:
+¸ã„æoxÍAğ:âÈl\h>Î©¿DÑ İ3×CR(	?à7‰3³>CCg.E‡ƒğklû¸WÖ#å¨w[œş?€‚ZÒL•úõß$üª@°.y¾qèÖ—ıã`9°øqàÿüêöİªÄ0Ì†/¾¯xÓÃ›¶RÌ·œ!\YÿÅ‹’ëí?óÉ%\ÑDì­±5ÚWhë;Èïå(Iw²Éß<qº<À:vtñ¨e3)Õ—jû£ÒŸÿ‡?d]^éÊ|uèÒ…ßüaËK¯.ùyºñÏ#ü'Æ¿XàÃÖPØ~œyØûXâé8øĞó¢EC¶ƒ~à
+Y	j#&QCßÀº—…*?¾îu€îM "$ĞIä€¡
+PID:8881 just read 5840 bytes from host
+PID:8881 just wrote 5840 bytes to client response:
+u,7ç
+PID:8881 just read 1460 bytes from host
+PID:8881 just wrote 1460 bytes to client response:
+1öûKé#ü„>çfÉRîs4ùsM±~ …®Êü›!î9xŒÈu„ş]xÜµË
+PID:8881 just read 8192 bytes from host
+PID:8881 just wrote 8192 bytes to client response:
+vœØâL6;EÌ_ú¼U–;¨óø™lWH½(Í§$phü˜ü'	„[c¨ûÂ9,øµ4øµ4øMËú‰g³æ³R^z?‚?	òr®)óËîASÂ†Îõ(^ùşÌÎ[~ºW(Æ÷W¹OüÅO…ÆUe½Êç~*–=ìÏAäÊâß€à×s0õìŠÔıôô)^ÿsñT7ò¿É?÷>æXü_:´5ëÖ´ÇúûVáÿØÇ¦o°4’oÜóìÂ4à?
+PID:8881 just read 2220 bytes from host
+PID:8881 just wrote 2220 bytes to client response:
+õ×ß€Ä®›=/ümoÌøG”~\úµNˆŞTuğ2VZßñİ ­ö¤MÁi:ÆÓÕ[¿3¢õå?ÙÔ± ,ßóªˆPhş[Iíâ_Vü¦÷C¨*Ø|­?öÔïkÀuw^Í??àG¼•œD3¿¹ôùKí‹Ìè‚4f³ãP™æ\öÈ§Ñê¿6ö[©[ş£ã`Ú4ı†ôŸ%Êûîÿİpj÷Ä¸ŸDÇß3Üˆ¾z†^í’¨ºöûùà?=>!éïÄ–~¯Œw­óâ•ôğÅªau3Ã/¶«ç½Œñïìä™ÑWFø£-¥?ü+mí¯â¦ßl"ß¯I?ä}mğ‘æ…qvÈ~_r„è3×Å¥pPµ«¯çÿ5	@{|ÒóHí˜^B¸AÒWÇğ#B;ğY½i2#»*×&f„Wî{XÕKŒ?FµÂ¾/~?ş’¥ı-éÀ¾û÷e‰æI}¶eë¬ ^/Ì±,ÃûcMAÂn@ù>Vÿ<şÓã³“6ÛşÎ¯éWzâ~ö·âJ$¾)Æi“Lô×³{üêEW¼§ÔÖºŠ3g£†İİÑ‹ág»Ÿ,ëóuÃÄ¿*"-ªˆşP†‡¬|Üù¸òİGâkù†ük@RPâ‡åÚb1ºÒ¸áfñ¿aáüãùOµ)Ø“ÇèVà]¤÷A:=yß˜nÌMîè¯Ş7V;¶ÎfÁß§/«æ’èŸm-Ğ$òÜÉ‘w¾çÖÍJĞ°pí;p¡ï]o±NRïò0»ş;İiø'ÅOÂ/Òßÿµ“Hü¯o}Ù~Ñëêä'SWKùè~®ªYÆş¡QèW?wîàwı;erÂ:ìâ‘sïÖ­¥û,$ü¶°÷%ô“•â½›Åzâ'ùïw¾êÕWL~<|¹îM€_Ö:ÿ °OŞÄºÿÊè[ç$Á§†ıpûæ?şx÷ßhæTuùëŒ~àÊâ@‹Œ_Kí+)â<½QüÜ) -øûışW‹qË¿@¸Oû˜âşiEŸ{l!ãÃ¬ôb÷ß
+¢ø?UuÙÖ­?0¯¸¾{÷ş»,µrºxÄ™şxui^§ûPˆ·¿¿àE7ÕtfñOØÖø¥ƒ¯ñÆÿo¾+úòûëFû“«Ëš¿ÛUü_OOÿü<Í	½?/bêŸç1Ã°¹³ŸÍ½[ÕzŸın/»ç­Xu«Vß÷kdäm*ìä”ÚuË¢=Áj@´ˆ½£+÷o¿ş˜ø÷grş®“ëĞGÃª3ufıÜãv
+PID:8881 just read 654 bytes from host
+PID:8881 just wrote 654 bytes to client response:
+HTTP/1.0 400 Bad Request
+Server: CloudFront
+Date: Tue, 19 Mar 2013 02:11:51 GMT
+Content-Type: text/html
+Content-Length: 472
+Connection: close
+X-Cache: Error from cloudfront
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+</BODY></HTML>
+
+<BR clear="all">
+<HR noshade size="1px">
+<ADDRESS>
+Generated by cloudfront (CloudFront)
+</ADDRESS>
+</BODY></HTML>
+PID:8881 just read 0 bytes from host
+PID:8881 just wrote 0 bytes to client response:
+
+PID:8881 job done, returning to server main()
+PID8881 fork is ending cleanly

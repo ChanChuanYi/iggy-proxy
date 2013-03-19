@@ -1,0 +1,45 @@
+PID:7863 Child:Fork has been created
+PID:7863 performing initial read
+PID:7863 request:
+GET http://pagead2.googlesyndication.com/simgad/10619110049491808138 HTTP/1.1
+Host: pagead2.googlesyndication.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657732&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2Fdownload.php&dt=1363657732439&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657732494&frm=20&adk=3956674848&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=1114486751&ga_fc=1&u_tz=-420&u_his=3&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=652&biw=1271&bih=600&oid=3&ref=http%3A%2F%2Fwww.linuxmint.com%2F&fu=0&ifi=1&dtd=116&xpc=RMlufUhWJd&p=http%3A//www.linuxmint.com
+Connection: keep-alive
+
+
+PID:7863 about to start writing to host
+PID:7863 wrote to host request:
+GET http://pagead2.googlesyndication.com/simgad/10619110049491808138 HTTP/1.1
+Host: pagead2.googlesyndication.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3911921815512938&output=html&h=600&slotname=1081472226&w=160&lmt=1363657732&flash=0&url=http%3A%2F%2Fwww.linuxmint.com%2Fdownload.php&dt=1363657732439&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657732494&frm=20&adk=3956674848&ga_vid=99583986.1363051997&ga_sid=1363657721&ga_hid=1114486751&ga_fc=1&u_tz=-420&u_his=3&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=trebuchet%20ms&dfs=13&adx=884&ady=652&biw=1271&bih=600&oid=3&ref=http%3A%2F%2Fwww.linuxmint.com%2F&fu=0&ifi=1&dtd=116&xpc=RMlufUhWJd&p=http%3A//www.linuxmint.com
+Connection: keep-alive
+
+
+PID:7863 just read 5720 bytes from host
+PID:7863 just wrote 5720 bytes to client response:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Last-Modified: Thu, 28 Feb 2013 02:31:39 GMT
+Date: Tue, 19 Mar 2013 01:48:57 GMT
+Expires: Wed, 19 Mar 2014 01:48:57 GMT
+Cache-Control: public, max-age=31536000
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 42777
+X-XSS-Protection: 1; mode=block
+
+ÿØÿá
+PID:7863 just read 7150 bytes from host
+PID:7863 just wrote 7150 bytes to client response:
+u‡ü5á½n‘˜òw“2Æ×1ï©ˆñYY@WaJJ–P
+ÉRÔ”¦Æÿ
+PID:7863 pipe error, probably done reading, preparing to end uncleanly

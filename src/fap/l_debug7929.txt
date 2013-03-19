@@ -1,0 +1,61 @@
+PID:7929 Child:Fork has been created
+PID:7929 performing initial read
+PID:7929 request:
+GET http://r4---sn-jvhj5nu-nwjl.c.youtube.com/generate_204?newshard=yes&algorithm=throttle-factor&burst=40&signature=A819E36D4D050F95FB618C101467531BBC604E71.55B4983A9989262394EAE684614C5B8469594AE6&sver=3&id=ac5cef327771fbec&ip=76.103.154.220&mv=m&ms=au&expire=1363678255&factor=1.25&mt=1363657757&fexp=912510%2C914079%2C916611%2C922911%2C920704%2C902000%2C919512%2C929901%2C913605%2C906938%2C931202%2C900821%2C900823%2C931401%2C912512%2C908529%2C930803%2C920201%2C929602%2C930101%2C930603%2C926403%2C900824&ipbits=8&itag=34&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cgcr%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&gcr=us&upn=d41ZY6cks-k&source=youtube&key=yt1&cp=U0hVSFZSVl9KT0NONV9OTFpDOkdFcDdiMVJQMElk HTTP/1.1
+Host: r4---sn-jvhj5nu-nwjl.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.youtube.com/watch?v=rFzvMndx--w
+Cookie: VISITOR_INFO1_LIVE=FHq3c7OL0Hc; PREF=fv=0.0.0; SID=DQAAACMBAABQif0cHNm6DITDKUmfgyg-gIPFeaIFcBMFOeLQTpcdpWLsw4ICnTLSBRsTGhB_Zmm_PUflwo8tcCn2n4w73zRKXIw5QSU_QHxYxSlGgh2R9eZ_FjO32sksOdycBbdyFyrm96x-7zkz6EIX1f3uM-Wlu4D-OPOpthsyREGeew2WK_RXGAoT7NcTrtscxi354DqM1GAhAmjJLxPn9SWyRNaAU8PBR2TboDaoWpBw1GgxtCql2kszll1y4NfhccM84qBcO8EpE-9KqvqAb6e2tsrWuAaiJlKRVeNB_HgYD9ZHNJZaK6EnF2z9SOI2G0uN2TF-5AVskJhRXDaLOyikoQJt9RqwexTj2V1qkEd-IX_5EvDzCxPH51N_BTZhR585t_V_2YnCoWfMbMw9urjw2s5A; HSID=APbNU9kIJOpxdGXyB; APISID=U_nduoHEA_YqSCQu/AibvOubkzmb8QvFnj; LOGIN_INFO=36692c0fd657728ad7b83519cd8ff62bc4gAAAB7IjQiOiAiR0FJQSIsICI1IjogNzk3MDQ4ODMyLCAiNiI6IGZhbHNlLCAiNyI6IDEzNjM2NTc3ODgsICIxIjogMSwgIjIiOiAiNUNGYm9ENnQ1Y05Sazg4eWpjRDFWUT09IiwgIjMiOiAxMTk2MjA2NjUyLCAiOCI6IDEwNDQ3MTI5MTA0MTF9; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; demographics=27878e43069a6040268bc69e1f79d7eae3QGAAAAZ2VuZGVyTnQDAAAAYWdlTjA=
+Connection: keep-alive
+
+
+PID:7929 about to start writing to host
+PID:7929 wrote to host request:
+GET http://r4---sn-jvhj5nu-nwjl.c.youtube.com/generate_204?newshard=yes&algorithm=throttle-factor&burst=40&signature=A819E36D4D050F95FB618C101467531BBC604E71.55B4983A9989262394EAE684614C5B8469594AE6&sver=3&id=ac5cef327771fbec&ip=76.103.154.220&mv=m&ms=au&expire=1363678255&factor=1.25&mt=1363657757&fexp=912510%2C914079%2C916611%2C922911%2C920704%2C902000%2C919512%2C929901%2C913605%2C906938%2C931202%2C900821%2C900823%2C931401%2C912512%2C908529%2C930803%2C920201%2C929602%2C930101%2C930603%2C926403%2C900824&ipbits=8&itag=34&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cgcr%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&gcr=us&upn=d41ZY6cks-k&source=youtube&key=yt1&cp=U0hVSFZSVl9KT0NONV9OTFpDOkdFcDdiMVJQMElk HTTP/1.1
+Host: r4---sn-jvhj5nu-nwjl.c.youtube.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.youtube.com/watch?v=rFzvMndx--w
+Cookie: VISITOR_INFO1_LIVE=FHq3c7OL0Hc; PREF=fv=0.0.0; SID=DQAAACMBAABQif0cHNm6DITDKUmfgyg-gIPFeaIFcBMFOeLQTpcdpWLsw4ICnTLSBRsTGhB_Zmm_PUflwo8tcCn2n4w73zRKXIw5QSU_QHxYxSlGgh2R9eZ_FjO32sksOdycBbdyFyrm96x-7zkz6EIX1f3uM-Wlu4D-OPOpthsyREGeew2WK_RXGAoT7NcTrtscxi354DqM1GAhAmjJLxPn9SWyRNaAU8PBR2TboDaoWpBw1GgxtCql2kszll1y4NfhccM84qBcO8EpE-9KqvqAb6e2tsrWuAaiJlKRVeNB_HgYD9ZHNJZaK6EnF2z9SOI2G0uN2TF-5AVskJhRXDaLOyikoQJt9RqwexTj2V1qkEd-IX_5EvDzCxPH51N_BTZhR585t_V_2YnCoWfMbMw9urjw2s5A; HSID=APbNU9kIJOpxdGXyB; APISID=U_nduoHEA_YqSCQu/AibvOubkzmb8QvFnj; LOGIN_INFO=36692c0fd657728ad7b83519cd8ff62bc4gAAAB7IjQiOiAiR0FJQSIsICI1IjogNzk3MDQ4ODMyLCAiNiI6IGZhbHNlLCAiNyI6IDEzNjM2NTc3ODgsICIxIjogMSwgIjIiOiAiNUNGYm9ENnQ1Y05Sazg4eWpjRDFWUT09IiwgIjMiOiAxMTk2MjA2NjUyLCAiOCI6IDEwNDQ3MTI5MTA0MTF9; use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; demographics=27878e43069a6040268bc69e1f79d7eae3QGAAAAZ2VuZGVyTnQDAAAAYWdlTjA=
+Connection: keep-alive
+
+
+PID:7929 just read 140 bytes from host
+PID:7929 just wrote 140 bytes to client response:
+HTTP/1.1 204 No Content
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 19 Mar 2013 01:50:07 GMT
+Server: GFE/2.0
+
+
+PID:7929 just read 1068 bytes from host
+PID:7929 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Tue, 19 Mar 2013 01:50:07 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>That’s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>That’s all we know.</ins>
+
+PID:7929 just read 0 bytes from host
+PID:7929 just wrote 0 bytes to client response:
+
+PID:7929 job done, returning to server main()
+PID7929 fork is ending cleanly

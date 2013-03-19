@@ -1,0 +1,53 @@
+PID:7907 Child:Fork has been created
+PID:7907 performing initial read
+PID:7907 request:
+GET http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kauth=1;kbsg=HPUS130318;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2340511289616765? HTTP/1.1
+Host: ad-g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.youtube.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:7907 about to start writing to host
+PID:7907 wrote to host request:
+GET http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kauth=1;kbsg=HPUS130318;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2340511289616765? HTTP/1.1
+Host: ad-g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.youtube.com/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:7907 just read 1430 bytes from host
+PID:7907 just wrote 1430 bytes to client response:
+HTTP/1.1 200 OK
+P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Google-LineItem-Id: 68508229
+Google-Creative-Id: 30594889309
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 01:49:49 GMT
+Server: cafe
+Cache-Control: private
+Content-Length: 3578
+X-XSS-Protection: 1; mode=block
+
+‹
+PID:7907 just read 3690 bytes from host
+PID:7907 just wrote 3690 bytes to client response:
+ù˜RØb‰sÁ`rd¡“E~=ıˆİ`1ÌHÖf DVÃcb·°ÚLÌb—oI°È`½ëQ‘²Ş¡VDF¯]W‹¿z°£”f³¨/{õ¢i£^MiØƒ=Xšf'ÔA	Ã<€’óFKQªj£So5ª·Ÿ®¯®ûGÕÃOg)É¡	rj­Şª×ë!™‚4$ëó• ·ö:µQ#h¸!Ï³mp%ÁŒ¦(îâ#ğ7Œ !ó¯Dœüä›ÄA|…”ãcˆu>Ä§ÏØçëÇ­_g…¶ó1d>û|nëØ.ŒMÙk7B¦¹rMŒpê£Ùa\×‹‡ M§NHô^hua^¹0ûˆWK×7é±Ë‡öö–ãÂÇ‚—#Xa0<ZÁÍŒÖÍ#Ò<wæ“	yê¦ÓS¹Äc*8¥è/õ¾UªìH²,}9Ö¤šÔÇÈpjèÚöÚ˜š9²\Ö•&’}ÒUnšì>Ï
+Z24í†é‹»Ô¡ë0D £#+v¼ŒíÈ‘Ì˜˜Ü~09l?x¨Ä$
+Ó¯3¦ßòì›¦@|D,ğÍ˜¶´]§	€&Ø?ÔÑĞ|ë÷È¹	®Û‰5ÂÅÑ§U„¬SèğÎc¹Îtƒ—‡ºùä¨ÍĞé®"¹QëÈA°5Ìx<jIp¿g ‘M‚Är1eUÏw™k¸–hÈwí–¤÷¡öˆ"Ë”¸±¾	KR7#É•jÍ6ÁûÖ‘ñ8÷†6šòİ!°)2©ìc&Ì’|,×êj§İVÚâ¡¥¶÷Æj½©´[{í¢¶šcÙc÷OìÇ+wÎæ:ëÕoÂe©¼%ÿ[˜ü¾+W¦¬œíºá¹‹ÒÓ³½ÆÎ Ô„“
+PID:7907 just read 0 bytes from host
+PID:7907 just wrote 0 bytes to client response:
+
+PID:7907 job done, returning to server main()
+PID7907 fork is ending cleanly

@@ -1,0 +1,50 @@
+PID:8001 Child:Fork has been created
+PID:8001 performing initial read
+PID:8001 request:
+GET http://www.freewebarcade.com/game/mouse-house/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8001 about to start writing to host
+PID:8001 wrote to host request:
+GET http://www.freewebarcade.com/game/mouse-house/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8001 just read 2920 bytes from host
+PID:8001 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:38 GMT
+Server: Apache
+Last-Modified: Thu, 14 Mar 2013 10:14:47 GMT
+ETag: "100009d9-11ee-4d7dfcad3dd73"
+Accept-Ranges: bytes
+Content-Length: 4590
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8001 just read 1950 bytes from host
+PID:8001 just wrote 1950 bytes to client response:
+*Hf>¬ÁŒ]<q^†2ná	Ÿb§ Æ4Òñ>;¡¬{­ÔBZQx@Šñ«ßá¾Ø	t‡	ÈÑ‰dpÎsˆÃ°kbè"o†Æ3 ¡Œ9ØNõ7ÄÁgX#Ğî7‰o]
+XSÑ*Îoc§
+ÙAÈâs`
+*`|ØŒ7X€9hAŒ`
+PID:8001 just read 0 bytes from host
+PID:8001 just wrote 0 bytes to client response:
+
+PID:8001 job done, returning to server main()
+PID8001 fork is ending cleanly

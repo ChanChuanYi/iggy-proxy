@@ -98,7 +98,7 @@ int main(int argc,char** argv){
 			//command read
 			data_size=0;
 			memset(read_pipe,0,PIPE_MAX);
-			
+			fprintf(d_out,"PID:%d performing initial read\n",(int)getpid());
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
 			if(data_size <= 0){
 				call_death(d_out,new_fd,500,"initial read pipe returned <= 0",

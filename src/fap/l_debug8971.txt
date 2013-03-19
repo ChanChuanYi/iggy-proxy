@@ -1,0 +1,51 @@
+PID:8971 Child:Fork has been created
+PID:8971 performing initial read
+PID:8971 request:
+GET http://ecx.images-amazon.com/images/I/51zAYTP5XAL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8971 about to start writing to host
+PID:8971 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/51zAYTP5XAL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8971 just read 5840 bytes from host
+PID:8971 just wrote 5840 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 6652
+Connection: keep-alive
+Date: Fri, 19 Oct 2012 18:34:47 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Wed, 13 Jul 2011 09:17:27 GMT
+Age: 13053830
+X-Amz-Cf-Id: 8emtb6k4_HgOQrFS7kCNAELuWoNAdd7nr0_gne_r6nQp7e2CO94mHg==
+Via: 1.0 36adb899a7fc98d037792f4d79b2eb38.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ˇÿˇ‡
+PID:8971 just read 1924 bytes from host
+PID:8971 just wrote 1924 bytes to client response:
+P'„Rﬁ÷;KΩÎ[-™ﬂ:æ+fÇc!~%êGU(Ò‚<{Í!xı2é‹ì¥Çf©÷{_QÑ.˛B•ΩµV<gØíëhw{ªõ.{xÛ>F∂5îì!8Œ‘Ù¨_¢\OÆ!ì‘,>>U¥Ìüöå}°'ˆTñZÕU¸A≠3…*∫ $ü’í˚tc_?wãH
+ZÄËT‹+[\ˇ
+PID:8971 just read 0 bytes from host
+PID:8971 just wrote 0 bytes to client response:
+
+PID:8971 job done, returning to server main()
+PID8971 fork is ending cleanly

@@ -1,0 +1,47 @@
+PID:8004 Child:Fork has been created
+PID:8004 performing initial read
+PID:8004 request:
+GET http://www.freewebarcade.com/game/star-squadrons/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8004 about to start writing to host
+PID:8004 wrote to host request:
+GET http://www.freewebarcade.com/game/star-squadrons/thumb.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8004 just read 2920 bytes from host
+PID:8004 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:39 GMT
+Server: Apache
+Last-Modified: Mon, 11 Mar 2013 17:23:33 GMT
+ETag: "70000b0b-159d-4d7a96eaeed6d"
+Accept-Ranges: bytes
+Content-Length: 5533
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89aP
+PID:8004 just read 2893 bytes from host
+PID:8004 just wrote 2893 bytes to client response:
+#Þ×µ6&
+PID:8004 just read 0 bytes from host
+PID:8004 just wrote 0 bytes to client response:
+
+PID:8004 job done, returning to server main()
+PID8004 fork is ending cleanly

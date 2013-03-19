@@ -1,0 +1,321 @@
+PID:8049 Child:Fork has been created
+PID:8049 performing initial read
+PID:8049 request:
+GET http://www.freewebarcade.com/driving-and-racing.php HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8049 about to start writing to host
+PID:8049 wrote to host request:
+GET http://www.freewebarcade.com/driving-and-racing.php HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/game/jonny-backflip/
+Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+
+PID:8049 just read 559 bytes from host
+PID:8049 just wrote 559 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:56 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.12
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+40
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+113
+<html><head><meta http-equiv="content-type" content="text/html;charset=iso-8859-1"><title>Driving & Racing Games</title><link rel="stylesheet" href="http://www.freewebarcade.com/stylesheet.css"><link rel="shortcut icon" href="http://www.freewebarcade.com/favicon.ico"></head>
+
+PID:8049 just read 4380 bytes from host
+PID:8049 just wrote 4380 bytes to client response:
+d3d
+<body link="#1D2E59" vlink="#1D2E59" alink="#1D2E59">
+<div style="background-color:#19284E;background-image:url(http://www.freewebarcade.com/imglib/topbg.jpg);height:100px;width:100%;border-bottom: 1px solid #3B579E;">
+<table style="width:86%;margin-left:auto;margin-right:auto;"><tr><td valign="top"><a href="http://www.freewebarcade.com"><img src="http://www.freewebarcade.com/imglib/logo.gif" class="lgstyle" alt="Logo"></a></td><td width="100%"><center><iframe src="http://www.freewebarcade.com/topads.html" width="728" height="90" scrolling="no" frameborder="0"></iframe></center></td></tr></table>
+</div><center>
+<div style="width:96%;background-color:#BBC3E7;border:1px solid #3E4979;margin-top:25px;">
+<table><tr><td valign="top">
+<div class="rxse">
+<form action="http://www.freewebarcade.com/search.php" method="post">
+<span class="wbold">Search Games:&nbsp;</span>
+			<input type="text" name="keyword" size="20" maxlength="100" class="sebox">
+			<input type="submit" name="submit" value="Search" class="sestyle">
+			<input type ="hidden" name="action" value ="search">
+</form>
+</div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/latest/1/" class="rxlnk">All Games</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/action.php" class="rxlnk">Action</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/adventure-and-rpg.php" class="rxlnk">Adventure & RPG</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/arcade-classics.php" class="rxlnk">Arcade Classics</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/card-and-casino.php" class="rxlnk">Card & Casino</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/driving-and-racing.php" class="rxlnk">Driving & Racing</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/holiday.php" class="rxlnk">Holiday</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/platform.php" class="rxlnk">Platform</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/point-and-click-games.php" class="rxlnk">Point and Click</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/puzzle.php" class="rxlnk">Puzzle</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/shooting.php" class="rxlnk">Shooting</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/skill.php" class="rxlnk">Skill</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/sports.php" class="rxlnk">Sports</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/strategy.php" class="rxlnk">Strategy</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/word-and-trivia.php" class="rxlnk">Word & Trivia</a></div>
+<div class="rxnav"><a href="http://www.freewebarcade.com/miscellaneous.php" class="rxlnk">Misc. Games</a></div>
+<div class="rxnab"><a href="http://www.freewebarcade.com/game-collections.php" class="rxlnk">Game Collections</a></div>
+<div class="rxads"><center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8046695057946442";
+/* 160x600, created 12/20/09 */
+google_ad_slot = "9754933164";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div>
+
+</td><td width="100%" valign="top">
+94
+<div class="outerbg"><div class="ctbg"><span class="atitle">Driving & Racing Games</span></div><div class="innerbg"><span class="result">Viewing <b>
+4
+1-48
+27
+</b> of <b>252</b> games</span><br><br>
+85
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/18-wheeler/" class="wl"><img src="http://www.freewebarcade.com/game/
+44
+18-wheeler/thumb.gif" class="gimage" alt=""><br>18 Wheeler</a></div>
+88
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/3d-car-driver/" class="wl"><img src="http://www.freewebarcade.com/game/
+4a
+3d-car-driver/thumb.gif" class="gimage" alt=""><br>3D Car Driver</a></div>
+8a
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/3d-rally-racing/" class="wl"><img src="http://www.freewebarcade.com/game/
+44
+3d-rally-racing/thumb.gif" class="gimage" alt=""><br>3D Rally Racing
+a
+</a></div>
+50
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/4-wheel-madness
+7e
+/" class="wl"><img
+PID:8049 just read 2920 bytes from host
+PID:8049 just wrote 2920 bytes to client response:
+ src="http://www.freewebarcade.com/game/4-wheel-madness/thumb.gif" class="gimage" alt=""><br>4 Wheel Madness
+54
+</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/4x4-rally
+69
+/" class="wl"><img src="http://www.freewebarcade.com/game/4x4-rally/thumb.gif" class="gimage" alt=""><br>
+9b
+4x4 Rally</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/54-dead-miles/" class="wl"><img src="http://www.freewebarcade.com/game/
+40
+54-dead-miles/thumb.gif" class="gimage" alt=""><br>54 Dead Miles
+a
+</a></div>
+54
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/action-driving-game
+86
+/" class="wl"><img src="http://www.freewebarcade.com/game/action-driving-game/thumb.gif" class="gimage" alt=""><br>Action Driving Game
+59
+</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/ambulance-rush
+6e
+/" class="wl"><img src="http://www.freewebarcade.com/game/ambulance-rush/thumb.gif" class="gimage" alt=""><br>
+18
+Ambulance Rush</a></div>
+99
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/american-racing/" class="wl"><img src="http://www.freewebarcade.com/game/american-racing
+3f
+/thumb.gif" class="gimage" alt=""><br>American Racing</a></div>
+bb
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/atv-destroyer/" class="wl"><img src="http://www.freewebarcade.com/game/atv-destroyer/thumb.gif" class="gimage" alt=""><br>
+17
+ATV Destroyer</a></div>
+4c
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/atv-extreme
+6b
+/" class="wl"><img src="http://www.freewebarcade.com/game/atv-extreme/thumb.gif" class="gimage" alt=""><br>
+15
+ATV Extreme</a></div>
+cb
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/atv-offroad-lightning/" class="wl"><img src="http://www.freewebarcade.com/game/atv-offroad-lightning/thumb.gif" class="gimage" alt=""><br>
+1f
+ATV Offroad Lightning</a></div>
+8e
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/atv-offroad-thunder/" class="wl"><img src="http://www.freewebarcade.com/game/
+56
+atv-offroad-thunder/thumb.gif" class="gimage" alt=""><br>ATV Offroad Thunder</a></div>
+b1
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/autobahn/" class="wl"><img src="http://www.freewebarcade.com/game/autobahn/thumb.gif" class="gimage" alt=""><br>
+12
+Autobahn</a></div>
+4e
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/beetle-buggin
+47
+/" class="wl"><img src="http://www.freewebarcade.com/game/beetle-buggin
+3e
+/thumb.gif" class="gimage" alt=""><br>Beetle Buggin'</a></div>
+8b
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/big-pixel-racing/" class="wl"><img src="http://www.freewebarcade.com/game/
+50
+big-pixel-racing/thumb.gif" class="gimage" alt=""><br>Big Pixel Racing</a></div>
+a3
+<div class="gamecell"><a href="http://www.freewebarcade.com/gam
+PID:8049 just read 1460 bytes from host
+PID:8049 just wrote 1460 bytes to client response:
+e/big-truck-adventures/" class="wl"><img src="http://www.freewebarcade.com/game/big-truck-adventures
+44
+/thumb.gif" class="gimage" alt=""><br>Big Truck Adventures</a></div>
+91
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/big-truck-adventures-2/" class="wl"><img src="http://www.freewebarcade.com/game/
+5c
+big-truck-adventures-2/thumb.gif" class="gimage" alt=""><br>Big Truck Adventures 2</a></div>
+cd
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/big-truck-adventures-3/" class="wl"><img src="http://www.freewebarcade.com/game/big-truck-adventures-3/thumb.gif" class="gimage" alt=""><br>
+20
+Big Truck Adventures 3</a></div>
+89
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/bmw-parking-3d/" class="wl"><img src="http://www.freewebarcade.com/game/
+4c
+bmw-parking-3d/thumb.gif" class="gimage" alt=""><br>BMW Parking 3D</a></div>
+91
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/bombay-taxi/" class="wl"><img src="http://www.freewebarcade.com/game/bombay-taxi
+3b
+/thumb.gif" class="gimage" alt=""><br>Bombay Taxi</a></div>
+88
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/bombay-taxi-2/" class="wl"><img src="http://www.freewebarcade.com/game/
+40
+bombay-taxi-2/thumb.gif" class="gimage" alt=""><br>Bombay Taxi 2
+56
+</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/braap-braap
+76
+/" class="wl"><img src="http://www.fr
+PID:8049 just read 2920 bytes from host
+PID:8049 just wrote 2920 bytes to client response:
+eewebarcade.com/game/braap-braap/thumb.gif" class="gimage" alt=""><br>Braap Braap
+a
+</a></div>
+4a
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/buggy-run
+72
+/" class="wl"><img src="http://www.freewebarcade.com/game/buggy-run/thumb.gif" class="gimage" alt=""><br>Buggy Run
+167
+</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/buggy-run-2/" class="wl"><img src="http://www.freewebarcade.com/game/buggy-run-2/thumb.gif" class="gimage" alt=""><br>Buggy Run 2</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/buggy-run-3/" class="wl"><img src="http://www.freewebarcade.com/game/buggy-run-3
+3b
+/thumb.gif" class="gimage" alt=""><br>Buggy Run 3</a></div>
+8a
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/bulldozer-mania/" class="wl"><img src="http://www.freewebarcade.com/game/
+44
+bulldozer-mania/thumb.gif" class="gimage" alt=""><br>Bulldozer Mania
+56
+</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/bumper-cars
+6b
+/" class="wl"><img src="http://www.freewebarcade.com/game/bumper-cars/thumb.gif" class="gimage" alt=""><br>
+6b
+Bumper Cars</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/bumpercars-demolition
+75
+/" class="wl"><img src="http://www.freewebarcade.com/game/bumpercars-demolition/thumb.gif" class="gimage" alt=""><br>
+60
+Bumpercars Demolition</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/
+78
+bush-rampage/" class="wl"><img src="http://www.freewebarcade.com/game/bush-rampage/thumb.gif" class="gimage" alt=""><br>
+16
+Bush Rampage</a></div>
+97
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/busted-parking/" class="wl"><img src="http://www.freewebarcade.com/game/busted-parking
+3e
+/thumb.gif" class="gimage" alt=""><br>Busted Parking</a></div>
+8b
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/car-dump-parking/" class="wl"><img src="http://www.freewebarcade.com/game/
+46
+car-dump-parking/thumb.gif" class="gimage" alt=""><br>Car Dump Parking
+a
+</a></div>
+9f
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/car-park-challenge/" class="wl"><img src="http://www.freewebarcade.com/game/car-park-challenge
+42
+/thumb.gif" class="gimage" alt=""><br>Car Park Challenge</a></div>
+97
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/car-park-chaos/" class="wl"><img src="http://www.freewebarcade.com/game/car-park-chaos
+3e
+/thumb.gif" class="gimage" alt=""><br>Car Park Chaos</a></div>
+c3
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/carbon-auto-theft/" class="wl"><img src="http://www.freewebarcade.com/game/carbon-auto-theft/thumb.gif" class="gimage" alt=""><br>
+1b
+Carbon Auto Theft</a></div>
+af
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/carnage/" class="wl"><img src="http://www.freeweba
+PID:8049 just read 2920 bytes from host
+PID:8049 just wrote 2920 bytes to client response:
+rcade.com/game/carnage/thumb.gif" class="gimage" alt=""><br>
+99
+Carnage</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/carrier-truck/" class="wl"><img src="http://www.freewebarcade.com/game/
+40
+carrier-truck/thumb.gif" class="gimage" alt=""><br>Carrier Truck
+a
+</a></div>
+99
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/central-parking/" class="wl"><img src="http://www.freewebarcade.com/game/central-parking
+3f
+/thumb.gif" class="gimage" alt=""><br>Central Parking</a></div>
+8e
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/classic-car-parking/" class="wl"><img src="http://www.freewebarcade.com/game/
+56
+classic-car-parking/thumb.gif" class="gimage" alt=""><br>Classic Car Parking</a></div>
+bb
+<div class="gamecell"><a href="http://www.freewebarcade.com/game/coaster-racer/" class="wl"><img src="http://www.freewebarcade.com/game/coaster-racer/thumb.gif" class="gimage" alt=""><br>
+a1
+Coaster Racer</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/coaster-racer-2/" class="wl"><img src="http://www.freewebarcade.com/game/
+f07
+coaster-racer-2/thumb.gif" class="gimage" alt=""><br>Coaster Racer 2</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/commie-crush/" class="wl"><img src="http://www.freewebarcade.com/game/commie-crush/thumb.gif" class="gimage" alt=""><br>Commie Crush</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/cone-crazy/" class="wl"><img src="http://www.freewebarcade.com/game/cone-crazy/thumb.gif" class="gimage" alt=""><br>Cone Crazy</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/congestion-chaos/" class="wl"><img src="http://www.freewebarcade.com/game/congestion-chaos/thumb.gif" class="gimage" alt=""><br>Congestion Chaos</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/crazy-mustang/" class="wl"><img src="http://www.freewebarcade.com/game/crazy-mustang/thumb.gif" class="gimage" alt=""><br>Crazy Mustang</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/crazy-orcs-racing/" class="wl"><img src="http://www.freewebarcade.com/game/crazy-orcs-racing/thumb.gif" class="gimage" alt=""><br>Crazy Orcs Racing</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/dead-paradise/" class="wl"><img src="http://www.freewebarcade.com/game/dead-paradise/thumb.gif" class="gimage" alt=""><br>Dead Paradise</a></div><div class="gamecell"><a href="http://www.freewebarcade.com/game/death-racers/" class="wl"><img src="http://www.freewebarcade.com/game/death-racers/thumb.gif" class="gimage" alt=""><br>Death Racers</a></div><div class="pnum"><span class="prneb">&lt;&lt; Previous</span><span class="numrb">1</span><span class="numr"><a href="http://www.freewebarcade.com/driving-and-racing-2.php"  class="rxlnk">2</a></span><span class="numr"><a href=
+PID:8049 just read 1460 bytes from host
+PID:8049 just wrote 1460 bytes to client response:
+"http://www.freewebarcade.com/driving-and-racing-3.php"  class="rxlnk">3</a></span><span class="numr"><a href="http://www.freewebarcade.com/driving-and-racing-4.php"  class="rxlnk">4</a></span><span class="numr"><a href="http://www.freewebarcade.com/driving-and-racing-5.php"  class="rxlnk">5</a></span><span class="numr"><a href="http://www.freewebarcade.com/driving-and-racing-6.php"  class="rxlnk">6</a></span><span class="prne"><a href="http://www.freewebarcade.com/driving-and-racing-2.php"  class="rxlnk">Next &gt;&gt;</a></span></div></div></div></td></tr></table>
+</div>
+</center>
+<div style="text-align:center;margin-top:25px;background-color:#19284E;background-image:url(http://www.freewebarcade.com/imglib/bottombg.jpg);height:40px;width:100%;position:absolute;border:0px;border-top: 1px solid #3B579E;">
+<span class="rxb"><a href="http://www.freewebarcade.com/links.php" class="ralnk">Links</a> | <a href="http://www.freewebarcade.com/contact.php" class="ralnk">Contact</a> | <a href="http://www.freewebarcade.com/submit-game.php" class="ralnk">Submit Game</a> | <a href="http://www.freewebarcade.com/privacy-policy.php" class="ralnk">Privacy Policy</a></span><br><span class="copyright">All games are copyright &copy; their respective authors.</span>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1389557-1";
+urchinTracker();
+</script>
+<!-
+PID:8049 just read 613 bytes from host
+PID:8049 just wrote 613 bytes to client response:
+- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4433122; 
+var sc_invisible=1; 
+var sc_partition=55; 
+var sc_click_stat=1; 
+var sc_security="37aae61f"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="myspace visitor counter" href="http://www.statcounter.com/myspace/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4433122/0/37aae61f/1/" alt="myspace visitor counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+</html>
+0
+
+
+PID:8049 just read 0 bytes from host
+PID:8049 just wrote 0 bytes to client response:
+
+PID:8049 job done, returning to server main()
+PID8049 fork is ending cleanly

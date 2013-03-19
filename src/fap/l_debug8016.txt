@@ -1,0 +1,50 @@
+PID:8016 Child:Fork has been created
+PID:8016 performing initial read
+PID:8016 request:
+GET http://www.freewebarcade.com/cf/decision2newcity.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8016 about to start writing to host
+PID:8016 wrote to host request:
+GET http://www.freewebarcade.com/cf/decision2newcity.gif HTTP/1.1
+Host: www.freewebarcade.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.freewebarcade.com/
+Connection: keep-alive
+
+
+PID:8016 just read 2920 bytes from host
+PID:8016 just wrote 2920 bytes to client response:
+HTTP/1.1 200 OK
+Date: Tue, 19 Mar 2013 01:50:40 GMT
+Server: Apache
+Last-Modified: Mon, 18 Mar 2013 09:49:55 GMT
+ETag: "da8-2780-4d82fe94c0e32"
+Accept-Ranges: bytes
+Content-Length: 10112
+Keep-Alive: timeout=2, max=200
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89ad
+PID:8016 just read 4380 bytes from host
+PID:8016 just wrote 4380 bytes to client response:
+#‡ÅPp"~≈Q®Ä!(¡?§â1
+PID:8016 just read 3088 bytes from host
+PID:8016 just wrote 3088 bytes to client response:
+yäF‚e©i÷:yñÒ6∂¨¢ì*ÿ@\πF5‰
+PID:8016 just read 0 bytes from host
+PID:8016 just wrote 0 bytes to client response:
+
+PID:8016 job done, returning to server main()
+PID8016 fork is ending cleanly

@@ -1,0 +1,70 @@
+PID:9108 Child:Fork has been created
+PID:9108 performing initial read
+PID:9108 request:
+GET http://cm.g.doubleclick.net/pixel?google_nid=a9&google_cm&ex=doubleclick.net HTTP/1.1
+Host: cm.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.amazon-adsystem.com/v3/pr?a=cm&exlist=g_am_rb_ox_pm_an
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:9108 about to start writing to host
+PID:9108 wrote to host request:
+GET http://cm.g.doubleclick.net/pixel?google_nid=a9&google_cm&ex=doubleclick.net HTTP/1.1
+Host: cm.g.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://s.amazon-adsystem.com/v3/pr?a=cm&exlist=g_am_rb_ox_pm_an
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:9108 just read 1944 bytes from host
+PID:9108 just wrote 1944 bytes to client response:
+HTTP/1.1 302 Found
+P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Location: http://s.amazon-adsystem.com/ecm3?ex=doubleclick.net&google_gid=CAESEJMEqFikKme-381pRLcaKRc&google_cver=1
+Date: Tue, 19 Mar 2013 02:12:43 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Server: HTTP server (unknown)
+Content-Length: 310
+X-XSS-Protection: 1; mode=block
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://s.amazon-adsystem.com/ecm3?ex=doubleclick.net&amp;google_gid=CAESEJMEqFikKme-381pRLcaKRc&amp;google_cver=1">here</A>.
+</BODY></HTML>
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Tue, 19 Mar 2013 02:12:43 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>That’s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>That’s all we know.</ins>
+
+PID:9108 just read 0 bytes from host
+PID:9108 just wrote 0 bytes to client response:
+
+PID:9108 job done, returning to server main()
+PID9108 fork is ending cleanly

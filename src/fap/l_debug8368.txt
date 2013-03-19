@@ -1,0 +1,62 @@
+PID:8368 Child:Fork has been created
+PID:8368 performing initial read
+PID:8368 request:
+GET http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_00008;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=3;ord=29395519870007? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8368 about to start writing to host
+PID:8368 wrote to host request:
+GET http://ad.doubleclick.net/adj/bbccom.live.site.www/bbc_homepage_int;slot=module_00008;sz=88x31;sectn=nonnews;ctype=index;nnsec=homepage_int;referrer=nonbbc;domain=www.bbc.co.uk;referrer_domain=us.yhs4.search.yahoo.com;rsi=;is_module=true;keyword=;tile=3;ord=29395519870007? HTTP/1.1
+Host: ad.doubleclick.net
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.bbc.co.uk/
+Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
+Connection: keep-alive
+
+
+PID:8368 just read 484 bytes from host
+PID:8368 just wrote 484 bytes to client response:
+HTTP/1.1 200 OK
+Server: DCLK-AdSvr
+Content-Type: application/x-javascript
+Content-Length: 323
+Content-Encoding: gzip
+Date: Tue, 19 Mar 2013 01:52:48 GMT
+
+�
+PID:8368 just read 1068 bytes from host
+PID:8368 just wrote 1068 bytes to client response:
+HTTP/1.0 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Content-Length: 925
+Date: Tue, 19 Mar 2013 01:52:48 GMT
+Server: GFE/2.0
+
+<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 400 (Bad Request)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
+  </style>
+  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
+  <p><b>400.</b> <ins>That’s an error.</ins>
+  <p>Your client has issued a malformed or illegal request.  <ins>That’s all we know.</ins>
+
+PID:8368 just read 0 bytes from host
+PID:8368 just wrote 0 bytes to client response:
+
+PID:8368 job done, returning to server main()
+PID8368 fork is ending cleanly

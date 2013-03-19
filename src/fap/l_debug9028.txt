@@ -1,0 +1,50 @@
+PID:9028 Child:Fork has been created
+PID:9028 performing initial read
+PID:9028 request:
+GET http://ecx.images-amazon.com/images/I/51ciPxwunML._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9028 about to start writing to host
+PID:9028 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/51ciPxwunML._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:9028 just read 1465 bytes from host
+PID:9028 just wrote 1465 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 7841
+Connection: keep-alive
+Date: Fri, 30 Nov 2012 15:23:07 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Thu, 16 Jun 2011 08:09:06 GMT
+Age: 9370149
+X-Amz-Cf-Id: ycfzLE7-3L6PCgl5YvwebnYcLxjIHoJ5ELfv_u4telq9ubZeL3nMCQ==
+Via: 1.0 cff9911a0035fa608bcaa4e9709161b3.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:9028 just read 7487 bytes from host
+PID:9028 just wrote 7487 bytes to client response:
+ÒDnÓlûJ(¢Št°¢Š(¨¢*ŸúJ£{/í¿û«‚ªo¤Rw1dþÓÿ
+PID:9028 just read 0 bytes from host
+PID:9028 just wrote 0 bytes to client response:
+
+PID:9028 job done, returning to server main()
+PID9028 fork is ending cleanly

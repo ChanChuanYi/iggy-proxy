@@ -1,0 +1,51 @@
+PID:8966 Child:Fork has been created
+PID:8966 performing initial read
+PID:8966 request:
+GET http://ecx.images-amazon.com/images/I/41KWGchzMoL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8966 about to start writing to host
+PID:8966 wrote to host request:
+GET http://ecx.images-amazon.com/images/I/41KWGchzMoL._AA160_.jpg HTTP/1.1
+Host: ecx.images-amazon.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
+Connection: keep-alive
+
+
+PID:8966 just read 4385 bytes from host
+PID:8966 just wrote 4385 bytes to client response:
+HTTP/1.0 200 OK
+Content-Type: image/jpeg
+Content-Length: 5935
+Connection: keep-alive
+Date: Mon, 26 Nov 2012 18:43:59 GMT
+Server: Server
+Cache-Control: max-age=630720000,public
+Expires: Wed, 18 May 2033 03:33:20 GMT
+Last-Modified: Wed, 31 Oct 2012 18:06:55 GMT
+Age: 9719960
+X-Amz-Cf-Id: FOrrTYF15ASjUk5odLYswg8kJA1GdIIFnMgy9agJqJtPyeOcVT8_5g==
+Via: 1.0 ad99536ff403d2cc3683fe48b64e4400.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+
+ÿØÿà
+PID:8966 just read 2661 bytes from host
+PID:8966 just wrote 2661 bytes to client response:
+êÅ\"ýfî¸¬FO'qÙFM´:¢®ÌoÂ3ü*9va«c«t„?=ï
+
+PID:8966 just read 0 bytes from host
+PID:8966 just wrote 0 bytes to client response:
+
+PID:8966 job done, returning to server main()
+PID8966 fork is ending cleanly
