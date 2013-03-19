@@ -1,85 +1,0 @@
-PID:8224 Child:Fork has been created
-PID:8224 performing initial read
-PID:8224 request:
-GET http://25.media.tumblr.com/e2c850e13cab45e5c95efb81c429df0f/tumblr_mjm4o0iApT1qgu5eqo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8224 about to start writing to host
-PID:8224 wrote to host request:
-GET http://25.media.tumblr.com/e2c850e13cab45e5c95efb81c429df0f/tumblr_mjm4o0iApT1qgu5eqo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: oAi3LSOAPZ9lNg+wU6da7p0t8lEqYpKP2Q8xNRy+wjIad4wakiIeQqZZVa15yAsP
-x-amz-request-id: 0CDA1C04295C5AA5
-x-amz-meta-idata: v=1;i=x1PJi/V0c4Rz+OTKrwtZrw==;d=EuchmK9zOGvKgfMjpJtGyWp01rFgEXU0rVVGnnFN7gZ4jk7Hp/0/xZs0GOkR7O+lEDvC228UEhF6yArcz9/UvQ==
-Last-Modified: Wed, 13 Mar 2013 18:57:37 GMT
-x-amz-version-id: LFwLrRREGtE_hIH8WJ1HH._iacDPoG5f
-ETag: "0cb5231f3b2b9edd74d4700aa04fbf17"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 38449
-Server: AmazonS3
-Cache-Control: max-age=31082872
-Date: Tue, 19 Mar 2013 01:51:26 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8224 just read 4380 bytes from host
-PID:8224 just wrote 4380 bytes to client response:
-5A58" stRef:documentID="xmp.did:b61f8e65-64c4-47ef-ae92-8dead3201837"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ÿÛ
-PID:8224 just read 5840 bytes from host
-PID:8224 just wrote 5840 bytes to client response:
-…gâ¾ãÚ¾f
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-··²µÛm+Èª=ÀúŞ­ª*…RrzkSª’ûCsœtïL#–E
-Xí$cìiµ½áŠÜ´Àê¹¯kÍf¡·pß=hkm^&…\ÍÜàœüúËætø4êÑ¤ÂãòãŒÓ$8Îx¦V°†nxı¨äB£
-	Ûße²±Sè>¥Ç5+AMæÏ&2¤(pßõ!i:nš°,‚âw¸˜gª Ú§v<üWÑ¥‚	Ci0Rp]NüXég™vĞXmÄÂUÃ8#fx8íÉÏCF½¾ŠÑe4“Â#Éuq,<İ>Ãú°ğå”ú´7PÙÜ+‰UT±áºöÆ:ü{ôô†Òø[Kµ{'à–DB9Èœsò*¯[Éø‰UXóÜ¯J@ğùóEÌğ†el«ã§Å_L)~°ÜÉ¶C®ü‚8÷óşÕsğ§ÒÁ}ái¼uÜ‘ê0—‘-ee‡;Si¯1NŞøª÷Âöş(ô¹…åÓ:
-PID:8224 just read 2920 bytes from host
-PID:8224 just wrote 2920 bytes to client response:
-V$VÙ»€)­¶öWgÎ0?aR‚á¼¼?›¿éíHõ[b"‘•
-:ŸzGá”¸–ù¦Š7xTÁAtÉÇ¶@©<As,¨%y‚¥@ø¬hšœ™W‘}CÚŒñ—ˆ-,ü5uÕÛE-ìO
-‡ÌGoÜûWÕc…£_â,ŒÍ³pÏø¡#¶‡L`^FoPR
-PID:8224 just read 2920 bytes from host
-PID:8224 just wrote 2920 bytes to client response:
-±CIÚÉ#o†Vã€G<®ÙàÏõA¨è:m†•â½êé
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-¯-­
-E¦}7·¹·„Ë%î­È˜Æár7^Hë_ŸšÔ>|òy+³Ê¢GSI.ÍÌ0£y¾†>œWGÿ
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-?`?¥sk%•‹´’£œœS"Û²FzñC¥´¯$‰´­Ï¥ˆaYİ:FÑ<nç>“šÈ.62€)çô çÒõ2³ÚÌ¡É
-M“öâ˜YxW^ÔG¦xR¹s"´‘‰Ç^‚œéÿ
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-àF	§Ù²3°m‹äŒôé‚ƒ^úŸgi6«.£i#¬›õ*GOn1Ş©šEÌŠiœÍpD[EÇŠ¹øRæë“hEÄq‚¥ƒÂÊqñ2kÚ?B¾ÚİZÛŞ˜dó‘wãq@2ùã5Ù5_
-½œvŞŠÚ¼‹5ÿ
-PID:8224 just read 8192 bytes from host
-PID:8224 just wrote 8192 bytes to client response:
-r;Ÿ€)¶‰âwŠ(í”Fv"©'¿şïŸ@näÖ<Bn<°±X#;ºô$ Ôÿ
-PID:8224 just read 568 bytes from host
-PID:8224 just wrote 568 bytes to client response:
-;2zbƒ–ög06xëı©uÍÑ™¶uEx4¹¡¹¸ˆ…ÎAÆXsÖ†1ÈáÄ’=Æ8÷ªö¡$!Ó(NTVvñ™|¶åNT´ïOÄd³SĞŸ×4ŞgtwÎqAMg²ù›y g­)½vy(ŒXğ~ur¶Öëq?(„&â{Òù/î&™’ÙX$‡%¤éŸ€zÔ©`dÜäD%vÈg'ãâ—j2VÙqÀó}#Ñ¸U~8çÜé´Ë3zA8;@ÀÍO2mÙ4lŒ™]¤ç5Fñ.g5Ã~%ÙFìäçûš­=¸Óƒ@±<‘>rWÔ2^)L—Ö’;C<ÒÇ³%UÎS¨£ìuk Ux•¡à8ãçÿ
-PID:8224 just read 1460 bytes from host
-PID:8224 just wrote 1460 bytes to client response:
-ÍE4Ò@êâA‚HíQŞ\+ªÊ’õÀ4$r~2P¬Ø#¡¦ñXöàäßš”Àn#Î0à>ôv™häyKî3úÓË]6l+»ğ:(ÿ
-PID:8224 just read 2920 bytes from host
-PID:8224 jus

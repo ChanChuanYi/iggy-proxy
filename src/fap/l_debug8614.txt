@@ -1,52 +1,0 @@
-PID:8614 Child:Fork has been created
-PID:8614 performing initial read
-PID:8614 request:
-GET http://www.iana.org/_css/2013.1/print.css HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8614 about to start writing to host
-PID:8614 wrote to host request:
-GET http://www.iana.org/_css/2013.1/print.css HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8614 just read 1460 bytes from host
-PID:8614 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:55:30 GMT
-Server: Apache/2.2.3 (CentOS)
-Last-Modified: Fri, 04 Jan 2013 01:17:14 GMT
-Content-Length: 4216
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Connection: close
-Content-Type: text/css
-
-ã
-PID:8614 just read 2920 bytes from host
-PID:8614 just wrote 2920 bytes to client response:
-- ır∫om;Øª¨˘≠„Ë‚4øßàwÙ3=QhÈ∆—w5#˘8j–Ál¿ñÔΩ◊◊—ètONyÅjapD∂p
-PID:8614 just read 1 bytes from host
-PID:8614 just wrote 1 bytes to client response:
-Ω
-PID:8614 just read 80 bytes from host
-PID:8614 just wrote 80 bytes to client response:
-ò”*¨Ç®ÚËPWû¿K9Í Iã8KKë<π∂(mz æíK?5/ñ*`›Ìvû∏p1§ΩbV›Ø˛ò¯ﬁuùyﬁu≈Yˇê@Ó≥J
-PID:8614 just read 0 bytes from host
-PID:8614 just wrote 0 bytes to client response:
-
-PID:8614 job done, returning to server main()
-PID8614 fork is ending cleanly

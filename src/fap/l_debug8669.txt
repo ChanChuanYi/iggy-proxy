@@ -1,70 +1,0 @@
-PID:8669 Child:Fork has been created
-PID:8669 performing initial read
-PID:8669 request:
-GET http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js HTTP/1.1
-Host: ajax.googleapis.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.teliasonera.com/gateway/
-Connection: keep-alive
-
-
-PID:8669 about to start writing to host
-PID:8669 wrote to host request:
-GET http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js HTTP/1.1
-Host: ajax.googleapis.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.teliasonera.com/gateway/
-Connection: keep-alive
-
-
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-HTTP/1.1 200 OK
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Content-Type: text/javascript; charset=UTF-8
-Last-Modified: Mon, 02 Apr 2012 18:24:28 GMT
-Date: Mon, 18 Mar 2013 20:16:41 GMT
-Expires: Tue, 18 Mar 2014 20:16:41 GMT
-X-Content-Type-Options: nosniff
-Server: sffe
-Content-Length: 29715
-X-XSS-Protection: 1; mode=block
-Cache-Control: public, max-age=31536000
-Age: 20391
-
-‹
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-§ù"£e´34nï¦ùxï
-KP)Õ¿Ì—Žèü·'Ùþ'ÝÜ×YL Ó÷tÏ.±Ih¤˜Õi`ÏzÏ¨¹‹ümïéÑw:tV¤µÜÌ1åDgÐ×`á‘wÉƒ­l$à_
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-I
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-oYè`>gzŽj¿æŠk²}%û× K-Ò„u|©íû\«®Í§ÝsÝå¤ÓZ+òþÇ­ª´z³Ó¹>‘ëÉA	z…Ì?ú¯4¥™Ñ	Í†Á‹Ê˜Ú’½ÏÕPŠ`Ì‹bÛÂ£Se¦´L­òªõ	t3sš†XÑ³¥ˆk%Ä«ÝÔòˆW³RÂït0ÂZz@‹ƒeÓSúQñ^*M:;êïOB]¨m`¿RðîTÙû3]^É:	ohÀ‘~S­¸uE­Žóínnßdï}l†Eüh–KÔÃÕžËd—ßÿJ/¤ŒÛ2ÊãòžÒû°ø¢9cE,ðQ-ãMÝ`+màm¤…ò†®p Ð¼£^âÎvÝî®Ãád—â,²»ÃWj·ÞîÃÁ°_%,3¿òÓQYêÏA°HS†Aá7óìt‡oà]iGd§‡¥hÄµÌ¸Í‹dsŸ² Ê¥§ñZ.htM¬ìÊã¡¼TÓ•©é™½Ê+9Â½%(˜³CœûÃ1P¸ŸñÏùååLXË¤%”T45M†#,ÉL…µ!<˜Ò!è`úa`OõŽœß|u›õÄßR+U|7¹7DÍùútÛ4Ê É5	;bQ‚Ð¦WpgFÄ°ÊKRÚÍ9UŽ5hç¯c+^Ëª`1Wë—ëÕ˜Ü90	DCO¢±BaCïGYò©AáIpÂ`àç˜(­«ëë}Ít ßåeO›BL·¾±wÙdÒ´“nØahti°5¶®9Aéº./&žwu%½¸Ãüs¾Ÿs<UÀ;™h¨Éª #?Ì›ïqÔM
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-ôÌ‚œ–E.XÌJ˜Y¿o³IöaãUqÑúÃa¢ñR(q*}\é*ßƒkQ¡š6}4+’ÒƒÎ†¾¥J¯G½T€DsYé`ªáÂåÍzRÚ´2£b³fQ×¹’Hí”à¢a™@ÑÊjýEæk/»÷2j>ŒhFé ¥Ì†(â$½ó~ŠùõŠmƒôZÙÅ÷ÌY/šÍ´Wô¡ËÚ­ºF—õôÖ&˜Lm3Â7¼ÓŽ Ìêž´÷É–L;TNe²µÀ<F:ëÐe@NTÚGÝæ#âAˆœøðñ¢TYMZ‰gzéõq¶([¬bVˆÆ~¦U^2/Ið™?ªIbÖ-<åÉc#nÜ!#Ê…Úè7.¶ŠÆü;â_š +Åišív•
-«-SžóëlAWËÒA3À±4µ¥Rªk¦Râw¹ºbÂc3Þ{ã¨9eÎ¶4%Yq¦æ´õç×yoŽk|ZÕ9ÔWÇýÌ
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-¹x“móxËúæÙbX¹¢¯RØ¡õÑöOãŠÖgÀà±²ß¯·K®Ÿh¯J>|f]_¯{Ê,pç]—Öø‰­[6—þJ§n·c­<ê®ùf’ïVa®m/À­P³µ	§Ö€D“0_‰ýDH°‡ò½Òº¸ùâÚ^B}o«5?òÉBfý®íBB›ï;Z‹EZLå+šµìKØvŸe£Ý·ñÇõí5í¦~ç?oãÝÉ-Û"GÃ_ç£Q¶ú-¸èC—èakpÂÐÑËÍG¹è¹°  )£&Vç¸\Ü*ñ{6SOÄX,Ñ®BFeŽ
-¬M!$JjÄ¶H9éšçvñ= ð.Ÿrz÷,?j³ý$±;¸ˆ/´3?!ö„¢OÝÆ\ËrâÑhª2Qb³h,×XJÎŽÜEKüî+ö¹sfÛ¥­EuéhU‘ŒÈJ`ž»š˜ŸT/ßD¯ßâáÆÂÒmw{Ê`*˜@_LÜ—w‹m·È`øõ
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-—-¯é©Áœ©Llýœ	çËÕòŒ³æ|TŒá%ëwª;ÅÕpIT„Ùñ±§m"Î"î“"
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-–¼6}^yÿSåý™•õ1Le¹†Pß¯WÅIŠÑ˜Z!eŠ:ˆ«½âƒï`=¶f/#Óˆ¥Ü½4š°Á#*O8­ìà¥ÙåÑ\ŸÉB"n¦Ù+PGYÄPI®OÁ,Ëg¸:+ù†ußÊ
-PID:8669 just read 1430 bytes from host
-PID:8669 just wrote 1430 bytes to client response:
-˜g ðXh
-PID:8669 pipe error, probably done reading, preparing to end uncleanly

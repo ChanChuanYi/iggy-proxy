@@ -1,60 +1,0 @@
-PID:8919 Child:Fork has been created
-PID:8919 performing initial read
-PID:8919 request:
-GET http://g-ecx.images-amazon.com/images/G/01/digital/video/merch/bunkbeds/AIV_BunkBed_PIV_Justified_660x180._V373494533_.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8919 about to start writing to host
-PID:8919 wrote to host request:
-GET http://g-ecx.images-amazon.com/images/G/01/digital/video/merch/bunkbeds/AIV_BunkBed_PIV_Justified_660x180._V373494533_.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8919 just read 1460 bytes from host
-PID:8919 just wrote 1460 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 32525
-Connection: keep-alive
-Server: nginx
-Date: Sat, 02 Mar 2013 00:56:42 GMT
-Cache-Control: max-age=630720000,public
-Expires: Wed, 18 May 2033 03:33:20 GMT
-Last-Modified: Sat, 02 Mar 2013 00:25:05 GMT
-Age: 1473370
-X-Amz-Cf-Id: 709Vm29tCpF27tGJLdX2bEgXNH_5ygQTDLpuPx2AvFsL3ofu4DqAQA==
-Via: 1.0 79e318db08381a1db34ab0f5a33a7272.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿà
-PID:8919 just read 8192 bytes from host
-PID:8919 just wrote 8192 bytes to client response:
-
-PID:8919 just read 8192 bytes from host
-PID:8919 just wrote 8192 bytes to client response:
-$}$“!Üw	â»Xé<Ÿ]<·ş‘üG©èVÒEo#äu¢²¯}Ydvéy'b…"òãyI'š‚nÆÛÃ®íÉ¨-vÉ·L%vÿ
-PID:8919 just read 8192 bytes from host
-PID:8919 just wrote 8192 bytes to client response:
-Q¥o*òE4â–êÎy¬Ût®ÅÆ@NVB~úÅ)Q€A,…á¨Û2FÅ¢o>Äï³:~­}¾Œ´ãrÖùÊÇriÈR‡ûJCÛ±ö6ŸÙS´Œ[È^"áÌqŞ$]ê¯R	
-PID:8919 just read 7600 bytes from host
-PID:8919 just wrote 7600 bytes to client response:
--o‘«!kºğ¹À„ı½–B“àŸZQRvïÜ
-0¬|([k+¦…B +ÇúXËfÉÓ:šï¥áÜŞT‹…®Üë2só4—Ùt°·;¨¶@Ï¥'rW¦tÕ§IZ²ÙšSqRÜZÜZu×\Q[ºâ‰RÖµ¨š”›g+Ö–·ßn¶Ä·^D9!ÉpPÒ’µºÒ™!À¤¨”íYÆÒ9¡*VLC¯ô¨úyzrş^n!u·Ú‘HKí8Ùî…8‡7$©)û$ĞBn.èG{é½ºèíªáo¹Î±_ìÑD—¨l<¸£Rò\BÚu†ìp®F(J…úGEÛ´Š'ºÄ™7+½ÙÔ¿w¼Op;*JĞ¨ÜR”%(m>T!)"„JWèşØ4M†vœ´—İ·\yùJ¥ısih !
-PID:8919 just read 0 bytes from host
-PID:8919 just wrote 0 bytes to client response:
-
-PID:8919 job done, returning to server main()
-PID8919 fork is ending cleanly

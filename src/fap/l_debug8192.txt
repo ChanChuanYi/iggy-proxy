@@ -1,231 +1,0 @@
-PID:8192 Child:Fork has been created
-PID:8192 performing initial read
-PID:8192 request:
-GET http://24.media.tumblr.com/tumblr_m8eeyolq6F1rrctr8o1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8192 about to start writing to host
-PID:8192 wrote to host request:
-GET http://24.media.tumblr.com/tumblr_m8eeyolq6F1rrctr8o1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-ETag: "40679974d8571483cfcdf1f2d43882d3"
-Last-Modified: Tue, 07 Aug 2012 18:49:41 GMT
-Server: ECS (sjc/4FC5)
-x-amz-id-2: HjupetxdOEDi1zl5OSqTznrVXSYgeaqgRGp627+GtFCsmoJEVc2FnHmo/PmUs7aO
-x-amz-request-id: FD4F924910EF26EA
-x-amz-version-id: 3p6yQQZdLKFKfT309Xoxf3dFm6OF1iyE
-X-Cache: HIT
-Content-Length: 178144
-
-ÿØÿà
-PID:8192 just read 6408 bytes from host
-PID:8192 just wrote 6408 bytes to client response:
-¤j2Êyç±Á4˜7…UÄ
-Òlçy@}ÎkÇ¾$<{©‚ruÏı²J(úØå(®ÑôˆK4ñD«rä.JÛå‰äõ
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-                                                                     
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                          GET http://24.media.tumblr.com/tumblr_m8eeyolq6F1rrctr8o1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8192 just read 4948 bytes from host
-PID:8192 just wrote 4948 bytes to client response:
-                                                          
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                   <?xpacket end='w'?>ÿÛ
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-Af"âz­îOmÆ»ÕÀUío¨Œ
-QÛ²°	ÑÖ¶§A³úZ4{­NĞÃ-‘W÷Ÿhö‹—ìØîíïû{µ­ÿ
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-vú·Él[Jq*%q %öIbÄlÿ
-PID:8192 just read 2596 bytes from host
-PID:8192 just wrote 2596 bytes to client response:
-¾éïöÆ•ÈÙ;ëË>°AM­XLŒ0QÈÇ‰¿`Ú:Ö¨EØmÈz  êWÎëeù]ì4m¤•&±Úe_k¾Îñà’?ælí6TF0·ëğ‰l©ÂºşßÓ¤¤QäëÇÇÏR?´øŞ¿Oš-Ÿ¨ë’µ’£Ç“ıºÎ—eí>>=gS0„ÍcÚüt C¯>7Öá@_ßõëXÌJÀ¸ uÖ%fª~mË³ë~å:yøk,U„WöVYm$ßıÕ%´ªš;ğ~zñĞO&¥*¼¦¾G—µ‹Ó=w ™Ur(Tw+"9]ëÉğ¿=r¿Kmç³Ù»QYe·$oO!_"`
-?+,„NÇÈ yê;ÀD{TfÏñl*d]c4a£4~èÙ(»÷
-©:ø<½œ'aˆ;î\®›ÂÂÃnuu)®k5MjÅ!JÔl¥›¹•‹w0t_‚D~><ôï•Ô±gÃSŒåqh-KìÇ‘eú†öËŸÄoÈ ÇRvxö:OO—b¬åá¬!€Û’ÌòÔ
-pt<ë»¤«ğÜ^Vjî•£ÈI„¤õ8¬’öh†yæó²twÒ.ÁÑHN«¬VzÍk8Ä9	±”ìÚR¸ÌM{cÓ	,²3§Ü
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-Ièytÿ
-PID:8192 just read 568 bytes from host
-PID:8192 just wrote 568 bytes to client response:
-à\’Ö­nörŒ9Œ}êÙrÔ¢V¬ÄHÌw¿º‚7¥
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-Êsœ²r[0Ú†¤9®57ÅÙ‚6¬¿¶üA$0>{‹yßèz“±’¿Í­Ö³ÄÚÍ^¬5ZU¦,Kévc~	óçóÔßÅÜäõ!_…òB“HGÖKn…5}¬ö{Î˜hìì##®¬íl“4SPä9.OF¸Ù:¡ƒ6(41>>Fcä0…;Ê©Ú‘ÒÈc›‘ÙŸÅfí©Ğ¬ÓÎZªVUU1 mÇÆ´ğz<›Òû´k[¿gÒ¾+Nbif“-œµ;v $ê8•C7¥$øü˜'§ÃÓÊMcÒş3Jä	<h^òÙHÙ|+ƒecò¥GZÅFü˜P9\/îX¶ü†{­Rµq-|w°JNu÷O<‹İãLƒ·Ggdu–ã¶¢9Ë3çHğÙ1ò}Eú¦Ê‰}°6ñÈ6¿~û‚è
-PID:8192 just read 6408 bytes from host
-PID:8192 just wrote 6408 bytes to client response:
-·°«~–R‡¸ìä“ä°èlüÑÛ`†·/x×|”ĞÜÏŠç›SŒuª±ä©ıgĞ­,6X½\Dvr6$EP€ÿ
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-YÙ»GÆÆû@¦“_ŸœÙÇÔ—åÅx)Ô¡Am“AàÛ‚AwÙsøÙÑß³ˆ¯ÈıLÂE”ºfúf±O	™"ã×ií@#UÍö±û“Ü~{ÚÃ„ÇSÅA"at÷¦¾šá=6Á­LER’ÌŠÖ­Ì{¬ZqşiúléF•AĞ’Nã_úèôèì/xéDûõà=ÙŒ“UÒlË½xóÖu¹ûw­üõeUAB*×ôénİüù×X¨u­
-PID:8192 just read 568 bytes from host
-PID:8192 just wrote 568 bytes to client response:
-/>5øùë¼b4<9uX¨ªyœ66üËÉç§%«%š™—æYqØ·İŠ5íì
-PID:8192 just read 7300 bytes from host
-PID:8192 just wrote 7300 bytes to client response:
-ş-ê†ELt‹bM‡¹cœX°A{ŒqÕUm6ƒó®ˆ=5§êM<eÚW³ük•Ø©uãµ=Å¹$Ñ0DfŠ„VÜõşmşÅƒ=h}kÃŠYfêá7¨r?Jjãì™(™ü…»ØÆI’¦ó2I#-ÈSNba U•Hd“´+àòÖ{8®M#ãÿ
-PID:8192 just read 2920 bytes from host
-PID:8192 just wrote 2920 bytes to client response:
-8¾V¨âuk\µ-Y!¹jøí’’«2:¨HŸKİÜú]†Ğ;;1â­Gõšó[¶	i>£•gÒ¡r¹d´¾5áuäĞôªİãX)LŸàoMxçp
-eÌf1îÎšóáK1 ø;ß÷êÚòDï½LAº«¹-ÇÇo?kµkã.^£3ÔÇa Š	cŒ}cIl±¼!(Ihì©'­9r¯!nK6§$ÊP¾ôå¯LE*Ë-”~Ùœ¥zäÅöv…10mùbuÕ½®x¼]g¸	YÌlqÖ’uc­ü4ŞÏÚGÚ#¦9ŸÚTR¨©Í*e+I2GxT£eLQîE¸Y
-4¡¶wà=PõøAº—Íg;Œ|?¥¼Â|UAjK³7¬…‘æØÑ¸#iBÄ.¶uğFú ÆÑÏrë9zô½ÆXŸ`R¸¼‹;rI#˜D²v°–mïµÔì ètÓ+ûCÙ°”ÿ
-PID:8192 just read 4380 bytes from host
-PID:8192 just wrote 4380 bytes to client response:
-˜ËšúÃûÏz¼\‚[QäfÌI¨+·_lÊ…¬æì$oíŞÿ
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-½—ÉRÅR„öoXHcş37ı>zó#@·ê•q£ú³¨Ş;ÈñÜÃ	[-‰¬ãìw{R´Op©=¬±ãcÈ uImj˜!2U €>:S·ÉëM’
-PID:8192 just read 7868 bytes from host
-PID:8192 just wrote 7868 bytes to client response:
-lÅGeO|šV*
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-
-PID:8192 just read 7868 bytes from host
-PID:8192 just wrote 7868 bytes to client response:
-WË×½[²Ì ìOãyHxì˜lvS;íÀ>½ÖV`´Û{"¸f|y›`y×S¸¿G¹Ujiø9/JÓÚ³nİ+UVââ‘:Éf0ˆk¸v·Ú…‰ÑÜ@Ëz·Êêá+ÙÌòŸïZ2djÆüiÂÔÕ‚4¥cxÂ¨rí$ì(=-éï­šÀã®f&â6©*<¹/+“ñ#(!”£ìh
-PID:8192 just read 1460 bytes from host
-PID:8192 just wrote 1460 bytes to client response:
->;„[~0ÙÊñb˜§ËIqò’G%8ã!0LÉÎ•Fû¼¯Ï]û-rÎwwjŸ¶°å+Ï,÷,E*Ê4È²X
-v§Ø¤,v~záú†’¦…L5WãŸÆÿ
-PID:8192 just read 4380 bytes from host
-PID:8192 just wrote 4380 bytes to client response:
-ş õizÏ×†L¬2_¥REŠäsNdb­ˆ¨\„G¢t¡êJ4tho®¼v˜.Ò\=<b—]êwÖ[¹ÜşZh¹lÔqü‚Ì,Vo´ÅíÂw–€îóü‡}bı'Åú^ıW‘Éå/½xøæk$Ç=9	ÒöD2ÌÆu`{»gd®6åÎaGz™,o=ÏŞ²Ø’+×]vƒ-x‘N–­!:$õff}Lä˜NUÈ_°“ÏlTå¸‰¦˜Ì’,É!QµjÏj›6¶p
-PID:8192 just read 1460 bytes from host
-PID:8192 just wrote 1460 bytes to client response:
-_¼ˆŞ	û!o!û¼pvÁô˜è	º¸Õ;EËğÿ
-PID:8192 just read 1460 bytes from host
-PID:8192 just wrote 1460 bytes to client response:
-K½tçŒq®)K9%œN@ä.ãÌè l³\\y°áæUBíí(6</÷ê+rŞEÉ9/%¯vl=¼"ÉÇ×¿«<o~UÆxËHéíéŠ¤éÓÃN}ìÏå¾µgøÜx(ªãÍ+ö`½]ÔX1cûÚ?uD]À·ñcŞ|‚7ÑÚšğ>R¦ŠÜäØ
-¼jS{Öé^¢í%\…^×íaòx*ACcÀê==ãPä0U›!f•ì\“æ*F™Vg“ïÜ“mÜûî`ò73uàTÜ§ö™¾Øì®[ˆãVÆ*‚ÁÙ³–xZyk‰–Ç¹BcgUT#HQ‰ê”‹Õá“Å”ú¬Ö3 ±œ®9‡ÑÏŸ”!i^İ‘+Mí!#²%Üc~QGÛÕ,H€#~(ÌÛ£Q9÷¯`°™ûòğìi/ßŠ+ÂåÛÅd÷'´¡¼×G`¢5?t=Ò{ªMÉdåÙêu1¼~Xr“J±
-³ÎÓOü‘@‘øcOá¨û˜÷v,Ç·NU„ÿ
-PID:8192 just read 1460 bytes from host
-PID:8192 just wrote 1460 bytes to client response:
-dúôğÆ!€æ‚NXcˆ³È¹G —(yæjÍšéJYpœ[%bÄ‘Ø˜$*TèoÇŸÇD’zH™gŠl–SÕŒÅêÁJOş» P@T’ÌÄ¯’OÚŞwçg¥,zíêÑ‡4ùL7³ô•RY$ êı¹Á/ÚNÂü³ø}+¨Î[\˜YæóK..²K:XÕ…¬9‹Üÿ
-PID:8192 just read 1460 bytes from host
-PID:8192 just wrote 1460 bytes to client response:
-°-‰V¶œ{³)û0XÈ†'$3ùq¢İ7ÂúcÈ“/€ÆeøÍ,÷«5øíòd6*íw§ILª~-€á¤ĞÑéÔ~‘b.¾/ê33q×È&Ff½’Ç¯îe5‰+[±?·g»A‰¥BIÃ™ŒxòëdpõQï›IÊ$ÄÖÈrnAÍ*c—¶ºfªEJ*ûP
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-ãm‹É$‘Lß;];ö	>C =t³­í(Sš`…¶_“Xå7šşbå¬–UO»2¯Â A¯…R*€ª
-PID:8192 just read 8192 bytes from host
-PID:8192 just wrote 8192 bytes to client response:
-Ríó£àƒĞW­Ş°Õ8Î/aÀÆòÎ;ËkşõÁ‘–¨H#6`“”ÆÛS„„pÈIù^¹ƒ˜â
-PID:8192 just read 4056 bytes from host
-PID:8192 just wrote 4056 bytes to client response:
-W

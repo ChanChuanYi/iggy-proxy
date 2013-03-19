@@ -1,84 +1,0 @@
-PID:8143 Child:Fork has been created
-PID:8143 performing initial read
-PID:8143 request:
-GET http://24.media.tumblr.com/806a0cca1e3147b7edec80a2dac6b4d4/tumblr_mjlpitXoev1rxoej5o1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8143 about to start writing to host
-PID:8143 wrote to host request:
-GET http://24.media.tumblr.com/806a0cca1e3147b7edec80a2dac6b4d4/tumblr_mjlpitXoev1rxoej5o1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8143 just read 8192 bytes from host
-PID:8143 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-ETag: "4c7c42c4276fec116ff87e8fd6a7853b"
-Last-Modified: Wed, 13 Mar 2013 13:30:30 GMT
-Server: ECS (sjc/4FC9)
-x-amz-id-2: 9WAPuZIIKb42RYJrM6I5/KrhJb+GWSmsPPiYWCFVX322hepkM/80EUM4mWNvVGSa
-x-amz-meta-idata: v=1;i=MxCLmR3SWnTh1F+taP0ZTw==;d=ti3k2uLeH5TLs9sa6iYzC8t2Xn4MQk1KOhaxD7PUUatsBnLJdKpJr3uwBPUMwua2aEJqNnMoH3ABMvizNMoqeg==
-x-amz-request-id: 91016420E0C0C052
-x-amz-version-id: ztfSfTYoxqvAOdwoocuxFvaoERYk1iWy
-X-Cache: HIT
-Content-Length: 140458
-
-ÿØÿà
-PID:8143 just read 2028 bytes from host
-PID:8143 just wrote 2028 bytes to client response:
-
-PID:8143 just read 4380 bytes from host
-PID:8143 just wrote 4380 bytes to client response:
-hïÓko‘“k6Í€
-PID:8143 just read 7300 bytes from host
-PID:8143 just wrote 7300 bytes to client response:
-ååÅoîò¤f™CbI·ë¿ë|}x8ååü¼¿3rÈ _íı-°ööN;n|¾ĞÙÕ¿ûCVç{›`\fæØ¿×8ß;q(¦tïä~Ñ7âà~b÷?ù±¾Ç÷àƒ:wò?h=¹À„înn÷m‹ş–÷Ç43v ØJP¡¹8°Ï­ç7Ï±É
-ré9MòM¶½†mãCb|pA¥%*¸å[Û
-PID:8143 just read 8192 bytes from host
-PID:8143 just wrote 8192 bytes to client response:
-ü
-PID:8143 just read 2028 bytes from host
-PID:8143 just wrote 2028 bytes to client response:
-y“
-jõkëİç
-PID:8143 just read 8192 bytes from host
-PID:8143 just wrote 8192 bytes to client response:
-Ø	¹%jFØùö?”‘ølÈô¡ö„2g!®ÍÒ×ëÊôÕ¯¡¦éÏÿ
-PID:8143 just read 6408 bytes from host
-PID:8143 just wrote 6408 bytes to client response:
-ômsQĞk³iÓ«°jÓ¨qœåJ£J“*&Té%u%¥‰°A–¤ÌŠúGƒˆ3†"eÀß½Ë}O?ºì_f_ga”¦3F€!™¨—¼n:œzz„e"J•|é`„3ÔKˆ$)8X‚GÊ.Q%`×èıÍëhß:fà·1KëÜí½I:Äˆ‹é—à¥¤/ò)DØ¨ì²n7$ß†…N"Z¬XÔ×ÀG.¦OiODS	R‘Ö¥6^
-PID:8143 just read 7300 bytes from host
-PID:8143 just wrote 7300 bytes to client response:
-ˆ´¤¥©¨él\·–›CjÈqH)Hº†l¬d¥*6²¨œ¦§OŸäÄ’x›
-PID:8143 just read 8192 bytes from host
-PID:8143 just wrote 8192 bytes to client response:
-ãqnŒ¾^_huvnüE*SFbSÖÑ^¢èı6šŞ¬S”æ],Ï£Ç=îà
-)ÓĞ_IşZĞ·¢ÚTêœR:JRZHlw6ÈmoF³éZóÖÏX_ù~	Øl}9éO(¤ëZÒ&s–µºLÚ¥	èëG&Æ§Tª‡U™oLéÌÍ¥½1T§|„Oî.ª“Ù¥¡øÎ))ªgMË•mjkG–Ñ%à0arÖ„«]Ú×rfæíR76ßªé2åsLÓéªÕ-äTÓÊ).×(ñ™*1iRİt~1.)§Ùšór Åf;èy·A$®e> 9˜ßÃŸœG†L¹Išï—–µĞÜÅ;¿<_ëº¦[µ¸©×1)S+Z—QÒõÚ$ØRízSOÆ.ÅÖÔd¨ÅÔtå2!1-–æBn	eèşæ*Z–(°¨’ÃW»Ô¸ï¿™öæ­Ft¹˜ÉhKæÃ*`%cNWõÃ´ÒÇqåõwCWM:—\FÔ³)J¦×µ=F™B®JŸQÓ´ê$XåZ£SÅ Ó[“L¤Ë…:<–…GÓ0ÙúdÈy(*W¤¤K–™‰DÏÊ	f“şêÌ|dÎË›4¢j°ø½g¶d±
-PID:8143 just read 8192 bytes from host
-PID:8143 just wrote 8192 bytes to client response:
-›¤$JCr‘+^jMH¸%‡tÒëà°¨Éï ‰³f$7@,â¤ŠÇÌv¦ ¯)2±	<›œI÷UG;ıÚSyw¡t}B3~JbU?™õ¶]ŠØ¦¨%§èšjC2ï§´˜³·•Zq´vÜm™LIi>zÓı0-QBXUş­?1îÊRR…-FT—±-ALÏMÃU€‚åÆ’F±­Gv5ÈëDS(|@u)é¢ÊqjB;(ítÉmEc­Ä¹Õu†ÊP8W#Sâ}z;ÇW.R–BÂZ€YšŒİüïÖ9}¡éT©õwhô¥F¥Á•5ÒÔx¦íÆaÉ´­)6S
-i
-PID:8143 just read 6976 bytes from host
-PID:8143 just wrote 6976 bytes to client response:
--Ydâ[½úmÉ¶µÌ{øléyIBåö<¬4Â2¨¤æK¹IÊ
-PID:8143 just read 1460 bytes from host
-PID:8143 just wrote 1460 bytes to client response:
-ú&5ªKtø®ª3m6•:¢äâ>N«EŠÔi(zRdIa-„†Ğ„4^KJLåâ$!yÎM@$‚Ä½\ƒÖ§^álWü=Àª^•?„qÈÅÌaÀ[
-kÑªÌF»Ê …©H£i]Se~>‹ ·

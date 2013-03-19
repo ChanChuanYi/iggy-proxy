@@ -1,196 +1,0 @@
-PID:7830 Child:Fork has been created
-PID:7830 performing initial read
-PID:7830 request:
-GET http://www.linuxmint.com/img/bg.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7830 about to start writing to host
-PID:7830 wrote to host request:
-GET http://www.linuxmint.com/img/bg.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:47:14 GMT
-Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
-Last-Modified: Tue, 01 Dec 2009 07:27:32 GMT
-ETag: "1d60619-25756-479a5b0f12100"
-Accept-Ranges: bytes
-Content-Length: 153430
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/png
-
-‰PNG
-
-
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-/V­òàq‹ÃŞ­ˆ-d1Ì¦‹6Í§À*Í^£’l’(ò¤|UÄHÀ"¦‡BÑ<°Œ‰Ô§œ¾œ½ùox@OdÖe;òRÍUï¯~~ ÏÍğ“®	À§`ı©eõaıÏ¹Ên¯[½"”íúp·“TÖí¯UÍ÷
-øwø%yß7Ïc­ı®Y^YÈ;™‹ªú<Ì‡ÜPÏTPÑ±ıf·ğ$ ©àÄé@¢Ê şãÁœ%€<ìş wAœ™ªo¢Ò”³_®jpSÉŠ=(H
-”(¨@FÈsÊ)§œæ.—oğßş7|ºÿß]ÿ·»OV—eq†ûún°é9ü÷¾ª†ıÊohüŠM’)®Â—~ó¼,V *Á
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-¡	hÓmXëïølŒËo_PO­'"…Gü ^ŒÈˆÄú‹k§ªm¯¹Â¶ºö#Rß:ËÑcİ§W‘Q (É—@IÁ“c^%íÃ&•=JP…1h‚¯=µ
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-C°Q5¬|Ó•“ÁäqG›Š^Ó€…~ä4a›õ'œÚ«nÄº#œ´Y$/Ò¶ÕİîîªOøyû¯ ,p±x…Ëå\.ßbYœåO4§§¸÷§ü7Ø—è^•´À‹å\ï~XĞ¯Ö_bSİà®úUĞ"Ø÷2F”!K±}Ä½Lc?ÿ+ö¸#!¹…1e9Ïv±F[UTºû43KQ,÷Ã0æ ÷¼¯{Ì©áwõ§½‚,Û|6•õ×µUbÃAmwï1ãí„C,Í^èBw~‘0pN`‹LØãßÈ)îÀ•]».¡‰áÃPm‹v²Ä0Üñ=ªz+¾ã!àÅ,4“@1$~D,‹3,{Å÷£ç'
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-Á-›åxtƒ›öÍ“ÅMd£j/ú•}}Šõ>òú0üû¾Z¦=«ôÄx{¬Ô©+Â`lvŸQ5[ËåVeı5ı&’Ë/ü¬?—««j7rcYƒëÏ”²…£a€AĞDa
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-ïr1ñSKq?õ±ş'ÚNa/õ']3 C¥l;® [èCm;›Ö™uíP–ßİXÎÃïn|¸FhjÆ$Ü+37¼ìò;åzM ,Ës¬Ê5C’‚%´ §&háÈ™æTÃ§.
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-ì6ÃĞş	¶”á‚¬uš ‰Ce÷ê‘â‚LxNŒ+¨õ¾(ôÁ€ª)+ï§AcÄ4mIµ¬»f‹qñ·Ó­A•X•Xkø£ ,ŸÅã
-PID:7830 just read 7300 bytes from host
-PID:7830 just wrote 7300 bytes to client response:
-Äo€¦kºÃ`¼7ªT¢dŠİ)¾Äº¹ÇmõËât¬3
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-ÉKs
-´w¶ñMè¢ºÄ_n.ñãÍ¿àùô+¼˜|ƒqyvğ÷ğ¡ß
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-.0+Ì7P©ÜP^ö¬ìU¾u€éNß³ô`İÛV&è¯Ä\ğF^ø·İ23˜íd6R¾=³¦ÚÑ’ğÉqİTPÂ,î7¶#0lïFF­6šˆ»à¯˜bPíæúî¼ïuS£®@Œ«Qn{6WmVÄêzÇ ~Ô%Œ)Ğ™2y(yG-e”#÷7©8¶×ıí`¤	y¤’9{™Œ]›}F&wSšÔƒÖoC¢%!øØé8hmµè	êoÔ¬'õt­“õ†=ÛW’8ŠØÊi#zå€‘Á¨±Vs¬1Ç|g×h´õ¤	4Á€†Ç´çÚmJ¢,‡ã@qZ`ÃTj¾Îİ”Ç}
-cCˆ‘("µµõù)ÄGb`ğ¸}!çÜœƒ^óÁ7>µÜ–7›w¸¹|‡Qy†‡ğàö^O'ƒ~wüº‚~÷	ûÚ]s6z†ËåÏïÜJõ®=èŸ7)Ï.5_¢Âû4s‡w~là GŠäa¶'Ô"6\âód­6šĞŒ_e¡€TÖÅH¶× Gì‚wùëì³y÷22äõíwá0ÜCØ0³áohà8b!×ŸíñxœI¬§Šzê×%İ"¸±+ôqô8$03*^‹ŠÃÛ—¨ËñGõ¤wï˜‘7­³f|H]øÑùw(†C?«¤\‡"­,]Ao+û_L	èYÜ¬QÄ¿OHgA¾ß4ƒwÔlí@z
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-ï`À
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-û­ÒIA ^~ç^©›YèA…yQŠ·}j–¹îòøQø"§1r<û$ĞûLj'
-8ƒPfJ*‹¿[¼ÿ(³ı©Ëşì
-PID:7830 just read 7300 bytes from host
-PID:7830 just wrote 7300 bytes to client response:
-§xÂ,%ºíæ®°Vs¬q‹Ûúİ!‡à°Øz
-PID:7830 just read 7300 bytes from host
-PID:7830 just wrote 7300 bytes to client response:
-R-«k|ùXjBıŞ÷c¤qŸG•¥8
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
- ß}?û(h+0³ªoï
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-ô•¤d­›¶ËÁÁed¿{‹†Ä¦ywQ¾}qâĞºÃ$í÷Õøßç{€äá³ë)'ÿ¥·&Ù»ƒ}~›S–	9Ãõ=_ôs>¨0Ü?Ëµ\Ä»Õ—”
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-qPXgv×ºz‡Uõ­ìqr;[ş´W/{Áè¹œğûş°®ÇÇÍßĞTÓÊ–ğ_›j…Sw,gh³È%‘!èÎ´8TücšaMµ†“'w4îŞ/=â èº(.şsWÆpƒ(çšğš+0}§õ”pB”É}nÚëSß”ˆ2ºì<ÔŸğ~ı×‹’´ÿ¢Ø‚oÇáÛñßJ"†[[Ñp+°¯¥Õj}P—¿v2mJ€}qûg‰ ?F÷ofAlÌ¬:Í£aSÿìş3èÕO/DåÜM;$`Ó¼l±ºYDœCo£vcÚ|-t¼˜–ñ–åK³È²¿ƒ„÷âµáî]P.Ë½rjìFî÷X·/Ğ‘= d×™IÙ™„ÓÏ…g5Ï5Ôóû»lîIıPR§Õc€ds,†BXX\yOÖ_{NÈÔ·K¦:°}Ì¢œ‚Ò¨i}É3%œwS[éú>cëõÀlÅ=†ûÃjœ´8tßpÀw4Ü\r6ƒ»VÜbUoÑÉ	G·C'Ç“ÅßÄYSD3:Çî	ÿ|úßx\ı7?“°à[¼šjm
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-Å~Bx‰Ÿq“ÉáÁ£(cÒºDä|šLj£’0ƒfµ_èC3®¦à&‡·øa¿|G¯LFšfØàN!¹\G&E.!~ô¤ÖÛşîP©DÌ&‰‚Éz¨'ÀMNiş®`5±¢%	¸àôÍz«E5dCŒÓP…J°
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-éM-áëH™ÀmãËêjqÇ‘hˆèHĞèyŒ¡a¥éY••:—uı€‡æ*VÙ³È]E>xlI.ş(üŠ„‹`Z
-b³Ù’·
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-/÷b/w
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-î¢õÜ!•ßĞ›+îÊr¬°i±©b9)ëõäØ¾êâ3Ñ³ïgác¢ª÷ŞÊµNû¤DÍh™|§”„×$6›¾·°
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-RçdÖŞÃH‡£|GÅ> æª·VXWï 83Í@ ğ-	¤¦®×¶;àËşW<¬>bS?	a–ïW‡öüÿâP±FÛqêösòÄ¦½¤±şBŸú DÙª4¡Ğ@S­ñ®ùÕUähê5\×AÄE“Tœº=ví·Ï‡ñcŒÀTHÙµ–pM‡ášåÁ¾¼ÉöåÔcy°OÛÂ ï2zÇö¥CEEj§ÿ›¹­ôd±äŠ:mÍ²'­GÃÙ?î¥0ç,-‚³…¯,÷¼¹5­ı½Ü‹µÜÀÂG³Ìø½´ˆÇ4Ò˜¦œq¬
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-¥×P™îÈ'TW!ÀÉ0~!c,äWÿƒáç»¡fƒ‡Õ'¬ªuÒ¸Ûví´ÿŸ½w]rG¶5×"%EDfWwïcÇææı_caşÏ;¶O_ª23B"±æ‡n¼ÀH)#«	Û¶»2$‘ îşÑİ×¤İ£°Ï0Ï{`ˆ*ü®eœq2§5Ø“éãá•<S¨$^âÜü®Ï0_]İïO!yŒlb+géfz‘ÙŒåXö¥ÎT¥»©u¥¼™iFúgP×¡r6—f°Ø8=Í½Œ®å^c^L*è¶ÕÒèG,DN,JM¸&ZË®‘Ì­
-ö_º-8‹mào+.
-PID:7830 just read 5840 bytes from host
-PID:7830 just wrote 5840 bytes to client response:
-çÛøİ®ã(ÈÈ£k%,#—O€eÒÿÄÑ†9ğ¤<À°J);[éf‰—ÒVb|•sÍÏ¼èì,¿c)›Í±Ù‡Q˜çÕ|äÕ¬†Ö/›A=§3Èë1¨š~bÜKIªéãô:,ÓõÖ8²fÉ»×¾°ZG!x˜¿mZ%
-'} A‡/h¢å-Zô8¢×É¬/ıÔ!LòØÆÆÄît:áËî/
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-œjÆåÄm¦õgeã-ì¨x
-×íäR5Ôç›ûŞpÛa)2†—3{öMÏŸøD,Âfää2ÌaU·ÔA%ºçcó5Ù÷æ~ÂtE¡”N3wL]¡<.w½l†5ß^a¯ 
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-~ÍÔŞ=\qd`G¯-ŸĞ>eÏ˜Ö,
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-NéZ/ÀtÆ3=¨µ–ŠwÂ‡ĞFqSN,y²´ˆEŞXŒ7yîÑfTÙÎ–]A·écã'%9úb‡‡úc¶;|{Évk…tÉSÿ²·ÇK5h—%´dÉz­P3ãSe_-Z¹RS0˜IšV°¢,ñÑİ(÷`¥À­ùOÊÄw´` Î¼&dƒd) Ó¤3DµjÔsé~×…xˆs^-øK®¿f»
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-¬iyißÊöbaü3Ğ 
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-{âì$ë™
-4L<sğÑÿSø0Ú^ÑtgQ_ş.Ã¤Öú0@:c;)²7\) €†;ìÚMÚÃTıÅ«EhÑBèÎ£F±WQS±‡´‚ßÇ¹‰£¾cW€Ä¡ıŠıad}³ÉØø£R¦»p
-ßxÀ¾y¹Q€†;øtúqyÑù:çÜş/‡¿B¬í9¤¤)m´šçÅús—Ûb9ÿW‹á
-nçc‹@*rjâä\ßŸ¥pQ"Nïò>9sl^U–³<qìKìtÙèâµbs†kœÕk^|ñ‚'z@ŞCÖ
-PID:7830 just read 7300 bytes from host
-PID:7830 just wrote 7300 bytes to client response:
-w­MtìO¸ İc!ÊùdÿIÖb Îú?ïwùœëöå¼c¸¬)¼«P.}ëÎ‘TqnÄÌIGØö] ƒ‘‹Ìc+aa2wÕØÊ“Û0^
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-:RVİ¾VWŠøÓ?¢™<ÑaËgåt)ŒÓ”òiåêªk‹x3jzæ«j4¦~Oƒã¾éå
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-¥!È¥ê·ÌRÉäHLÔÍ¶=R´dêº1ÄªÈ•P°~$D÷˜¥ò|š@Qõ¼60ã1ìgx/ŠòÜ6×Ig€°<‚h˜z?	mô$taª“äzzhTìTüŒ
-ŠÒœ³ÍšìT©^+Ççûyüx=üz9ÙqÁz¼¢µCE ^!ìøûÆíğÔ½`ÔÑµF¯\i¥Í¯sD¾I=‹X°f‹.¦±"Š7‰§L}ƒxŞºĞÕåú«-¬¬úX¦­çÔ‘vŞ.-;÷’U¸Éš°WóÆ¾:
-µonšù=Ë¢;‚“ìá¸C‚ÏïEÙb|Å®{Ævó´Ğ^ê*ö¢Ã¾xä]×Ë[ôrĞWÆ‹æAB ªMeçB¥Ò
-ØØ‚àê´yÑ
-%–#¯®œ¢¯ò2Îd¡,©÷Ê,Ñ‰>—·À¾?ÖY4ß§¬İ•ÕÄsş¼n|ÓÿsgÈ7­tÙ§È«ğ~M“n©¿¢µ»–µ¬e€kYÔ³s@D‹¢k+nh}f¢*"ŒAUéP,µ«§yZ¾L95FËˆ­ªÚ×JàDıÂì¼ÜxDœÃ¥¯²Wô³Ó9£¿F}ĞêsÂ‚œ©¥ªê)¼aŞêãƒ°ü6¯Áb(±äÇw‚3jåHÂP¿¤ŸoğLûp-5²;±îPçb™n&µ©ù¯s~@ıñ'ş9üÿqœò¾‰'ÊÁl=£_.99_Ó‰öVs%íÜ6n§¬a1&wf{€úøÒÖ'Á„”fİö˜öfÑÕå
-ä˜r)jaÍRğÆ‰ŸU|Ídï]#ÚÏÙwÄz8vc@>á4ì+V;¢-$[(@
-ó%Y2éwıL]"=:n¦f
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-ƒ•; ›;N
-€bd’.3>­
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-ı‚Ù´gcİVË%d·s£ºî9/ŸùØxÍ{Ã¿9çTÃ–¨L¶Ú®á‰XM··Ö½½ÿ>§òï§Buüeo¶–µ¬
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-–ŞâEÑ£5Z†ÌA¿‡­9˜wV>¿ º"ĞXÃÄzö¹¼‰œôŸ—oï0ì
-PID:7830 just read 7300 bytes from host
-PID:7830 just wrote 7300 bytes to client response:
-§~?ö¡è£ÄÏì'^ÃÒ[CÚ“!~ê¾ãiór©+…ÚÌaı/v#k–öà.7 ¤jŠ,EsË6««&nY¨öx{â{'Îxd@ení‹ãe©+à2ûÏ9áˆcnÉŸpâ›š–àú	%×ş¬Òø2şÄ‚u±ØÏ
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-4Éçà’„CGNÂ
-d¨|f‹¤GÇ`Ã]˜®
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-d¸€!¹ûXŸgúåœHnT”üEæ‡ì^f‚ñ„(gÏ×«l¬†GœÃ©B@V¬w‚yHÿFõúæ÷uµ¬œŸüİï87ä×;÷SÃ?Î<ëw‡÷işï­åW++
-PID:7830 just read 4380 bytes from host
-PID:7830 just wrote 4380 bytes to client response:
-µãùôf¬µ˜_ÙJKí-c¯\(îİĞÅ71"Ëú©+å‡&QCJZ½±Uv­‚ÆëşØIK?Ïß©•ó +O#2å~¾ÔıNÜĞ—Ó_t:|vûåÌÑ"”)Í3P+G’ê0|eÒ,m*¶ûëÃU†(¿&ğ,¿ğ·•ä±°Ôœ¾†Û~óGTnwüxƒ>jpz†`Ü†´nÇ÷vJiœ*rÑ²‡Ö’;bP2”ãC¤iåB¨áfœZ˜‰ü©µÖıtd?‘°yµXWv‘8±ï®»İ7®^Ã„¿Ğ]{F(ñ—*#
-PID:7830 just read 1460 bytes from host
-PID:7830 just wrote 1460 bytes to client response:
-=1=Ÿ¾Ñ§æÅÒ–æ¬Ê÷Ï9¤½SÜÓòÂİøš0·èCôcCVëéÛ¸å=Í‰kINÒ¨+	ƒRöm^·®8NÒ,ğ¾¡óõø¬ÀŠF@¦+S#¾ãûœ-zì›‹´ÄNW«åòı"{%ÅÎ¯(ü­/ß–NíÆEË¼™D–[@ü <
-PID:7830 just read 5840 bytes from host
-PID:7830 just wrote 5840 bytes to client response:
-seŠ?ŠuNs	LäÔ´uç¢Ö:[~©uîĞÛÏ¶ä»è×¬<–ûÑ!åÎ!c{WÂ`‰¡ºÁİÆ£<¦Ì$²@=-Ü ÷#D
-æœï
-•6¢}ë˜£\Û™î}ÛLí530¬¼êà/´eÂß.„¿Ğ5–jyg½+„?
-PID:7830 just read 2920 bytes from host
-PID:7830 just wrote 2920 bytes to client response:
-ô9PÊ®L÷ÙÎÛ×)ö)m*ëÉnÚÍûˆö‹êëş
-PID:7830 just read 466 bytes from host
-PID:7830 just wrote 466 bytes to client response:
-‡0
-PID:7830 just read 0 bytes from host
-PID:7830 just wrote 0 bytes to client response:
-
-PID:7830 job done, returning to server main()
-PID7830 fork is ending cleanly

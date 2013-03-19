@@ -1,70 +1,0 @@
-PID:8406 Child:Fork has been created
-PID:8406 performing initial read
-PID:8406 request:
-GET http://cdn.optmd.com/V2/173401/481478/CA_728x90_A.jpg HTTP/1.1
-Host: cdn.optmd.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8406 about to start writing to host
-PID:8406 wrote to host request:
-GET http://cdn.optmd.com/V2/173401/481478/CA_728x90_A.jpg HTTP/1.1
-Host: cdn.optmd.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8406 just read 5840 bytes from host
-PID:8406 just wrote 5840 bytes to client response:
-HTTP/1.1 200 OK
-Server: Apache
-Last-Modified: Fri, 15 Mar 2013 17:23:02 GMT
-ETag: "ea45a9-8db1-4d7f9e42fa980"
-Accept-Ranges: bytes
-Content-Length: 36273
-P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:52:55 GMT
-Connection: keep-alive
-
-ÿØÿá
-PID:8406 just read 8192 bytes from host
-PID:8406 just wrote 8192 bytes to client response:
-İ÷ÖøüJşfUZK+Èyª…>\«Ë]TÒÂzµšŞÖŒI!|÷ß7Ş[[ÇwwòØåPÕ
-YE
-PID:8406 just read 568 bytes from host
-PID:8406 just wrote 568 bytes to client response:
-O/DkÑ^lXš}zJ³ÅˆƒY
-µ›ÕŞâšöÃHìm¢lÄıHåx7l"Ğ€xV´Õ—Ú†€\îÅ^KÉ-o”}£…z‚7¸&Áí©/òÓtBÍ#[Æx
-PID:8406 just read 1460 bytes from host
-PID:8406 just wrote 1460 bytes to client response:
-X.N0êù…I­áã‹½:“kMÜÊß4œ${™™€<*d$zDÑgİo‚ñyÈù©Gñ¿ûÅYÙü”íµ‰ÂÙ°ûûxçš‡ìÕşsÔıZ§K\WSu0İ‘·hút”«fÏÛÂeä´^¬‚è‹Å#=<x×Q˜y…rFåï¤O-÷¾¬-«¶rd2Ã°uÙÛLze–U]]'Zœ²ùh{*H&ÌŸ©2îŒ ÏîÒÒ'ÖÌ»ÓÕF¬ñú)£DÍT/gù‰úÚ=IÌÇekk¶lDTG¸Qáp?7Qú´+VT—•wœÜ†5°··«`J=9•?»95ÇÙUy'¢{cµõTÏ¨Ü8®HœÃåß£ßÇÃÁàç÷R=½…³3Ço8éšêpjQ¨H¯ÄOÏKRI«ÊÌü5­§ñg¨kvÜz”³t;î¼7-‰V™"f76ñÕŞ6u>éúëËUbü·¹mŞ“w$f7bXm«¹zn²dãqˆA–{»b<‘OcáÃGt£!‰Y±Y¸ùŸänóô'Hã‡tå`Åcëk‰²„5n€GS<Y4"xm©Ì«€©lò±£Ğö¨îrÌcrW6QÎeH IËÃÇèå«@—uBĞkEÿ
-PID:8406 just read 2920 bytes from host
-PID:8406 just wrote 2920 bytes to client response:
-7!¿õêM­}â ë6ƒœ?â)¾LÒS5’,(WªHµúbÑ¨ïˆú½ˆ"ÌWßâ(_†äájÍßøÏ»ÿ
-PID:8406 just read 4380 bytes from host
-PID:8406 just wrote 4380 bytes to client response:
-ëS]Å•ÊnLV¯¶İÕŒvBu¥İ´’<3ğVèSU5Cî±®º{{iĞ'aó$y©JìŞ˜n¶MşVÛ!l–óÛGxYn&D•&CFVŒùyÖš…×7`ia•‘%|r‡j)W¦øŒ•–ÓÂH«v¿3q	;…›äÂP¢ŸŸ@õ²ésr`§r×†ÍĞ±àæ÷Ş÷ŞÏfò{jËd×.ø–PË^×pr4§RqãÏÃX\ñ˜1ŠŸ
-PID:8406 just read 1460 bytes from host
-PID:8406 just wrote 1460 bytes to client response:
-vûUGÁŒsMÒ>ÎìS¸}7º	~»²ŞÖ;€;iqo8jR¼À ó¥F¶?şˆ7‰Ò‹”íYN"FÓ¹<æÃ -wµ…ìš1^°i©Ül'Íƒ¸¡Ú×´‘…›ƒ#¶ÏÙÜ‚@,· 
-PID:8406 just read 2920 bytes from host
-PID:8406 just wrote 2920 bytes to client response:
-2oò³Ii’ÇLÂˆXÇ*<dŠ«-:íªĞvÆcqZTóëï©¶Q„l”W`pë¹…YÏÒÊVºªë‰Â£µXmü cCØ£{—Ôİí¾;–™¼‘8úñ´{Q5?j•,=„ÓV#µ,@ÇyUä½–j´š7pÁ%Ú6É&êÂÄ¼Ÿ;nzTVƒ¸¼N§ %¦â¡	kdmw…®=GÅeìväÛ‰¥gà²Zcc^¯˜t …zó•5ÏÇ.ó.Á“Pİ€’´æ+;…¾Ùøëì"½‹ßYÅ"ÅH–ÚGN tÕIF¨¨ài­‡–†Ğ.Q­y~§b+ßĞ¡[£Ôi®qöİw—È¢[¹mëq@ô`ƒÄpÖdó’·ml›UPëûlc—*•rŒÌ§Şêâ=ÃôèLJ²â1A23_zK™Æîl kÏO3äÄKÔíi,íÒ“§U~4>Ïªš`µÍéôÁd½®èğéJ˜e¯¡·îÄ‡ú“·r$¹ÓYOuËOZ…\No§*Œlh’°j¡5*İ4…?ÚPEakİÜ¡"¶–>ï¼ypóğjVÛµª{mrne·Œ:BÈõğë÷€?WòêØ~¢3Û¤û¾1öùNsWb°È-:€§]Å'ˆ#˜ÖÌÄ²ÕÄtx¬É¦jªG'‘Ùx[/–ËC…ÄEwnm"šàAlíÓBÎ+
-ÉÇ‰ãôk·R»&×°«|Gœ”VÇkì}Ïİ¾362ê¨±Ü½¥Õ¼ïjˆÉhA*}ÓÓ_-@Í#sõF7/(›?ÿ
-PID:8406 just read 4380 bytes from host
-PID:8406 just wrote 4380 bytes to client response:
-m«FC*ıª†M>kIáº‹@ÔFÏåïMÆÜ(R°Ì,~lH£¦C%,¨=úuyê›£]ru}ÓSñfºv\Mdòå§ÍŠñXZÚŸÊ¨erÃµ+xÚáíb´ë‹Ê^hä>ğ 'I5ê'êÕ§4¼´2 
-œAêÛMåbE+mÙ<—^÷èe#|y{Äƒ¦Šhh4QVÆ[6·ï£˜¡Y­‹ª1äêPĞTĞ¨Ğ¢Õn hĞæäwŠv®Şˆï[/	ÍÕ#¢›I{Flp‘µ4š÷dhiÄ-u·p²ÇÚ˜ï%+"tux¼i©è3HÒöáGoE+ÓE\Ü·—ÛI¼€»‰}×Wòß¯H#‡àÕ*’õa¾à‚¬ˆ-OGU~wqCÇF¹g™@¦ÿ
-PID:8406 just read 1460 bytes from host
-PID:8406 just wrote 1460 bytes to client response:
-VÃˆökA·4 .»•YˆãsŸZPûUs~.—Õ.ó‘£Ÿ´mmóòü½´²¥Fvà$Ä·æêW§…¡š

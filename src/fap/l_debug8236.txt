@@ -1,220 +1,0 @@
-PID:8236 Child:Fork has been created
-PID:8236 performing initial read
-PID:8236 request:
-GET http://24.media.tumblr.com/31bbdef8ad760a2fdade7955b3f30e80/tumblr_mjhbw8hEyI1r87i11o1_1280.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8236 about to start writing to host
-PID:8236 wrote to host request:
-GET http://24.media.tumblr.com/31bbdef8ad760a2fdade7955b3f30e80/tumblr_mjhbw8hEyI1r87i11o1_1280.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:31 GMT
-ETag: "0a674b1fe4ec05ad7cf329a0dc7005ec"
-Last-Modified: Mon, 11 Mar 2013 04:45:47 GMT
-Server: ECS (sjc/4FAA)
-x-amz-id-2: KLOxsD8QxkV181OgEfeZ7fgMJ0CiOB4VwGPU1/SW20zXTTCkvnN2s874ymxppRZ8
-x-amz-request-id: 1E24E95D5164EB43
-x-amz-version-id: 7xqQ6ufhbj7rRv6kvsTHjQfmcHlzjmgP
-X-Cache: HIT
-Content-Length: 405461
-
-ÿØÿà
-PID:8236 just read 4948 bytes from host
-PID:8236 just wrote 4948 bytes to client response:
-"’5D«Ÿ‘üˆ)­ˆ"Ûÿ
-PID:8236 just read 1460 bytes from host
-PID:8236 just wrote 1460 bytes to client response:
-"25" crs:LuminanceSmoothing="0" crs:ColorNoiseReduction="25" crs:VignetteAmount="0" crs:ShadowTint="0" crs:RedHue="0" crs:RedSaturation="0" crs:GreenHue="0" crs:GreenSaturation="0" crs:BlueHue="0" crs:BlueSaturation="0" crs:FillLight="0" crs:Vibrance="0" crs:HighlightRecovery="0" crs:Clarity="0" crs:Defringe="0" crs:HueAdjustmentRed="0" crs:HueAdjustmentOrange="0" crs:HueAdjustmentYellow="0" crs:HueAdjustmentGreen="0" crs:HueAdjustmentAqua="0" crs:HueAdjustmentBlue="0" crs:HueAdjustmentPurple="0" crs:HueAdjustmentMagenta="0" crs:SaturationAdjustmentRed="0" crs:SaturationAdjustmentOrange="0" crs:SaturationAdjustmentYellow="0" crs:SaturationAdjustmentGreen="0" crs:SaturationAdjustmentAqua="0" crs:SaturationAdjustmentBlue="0" crs:SaturationAdjustmentPurple="0" crs:SaturationAdjustmentMagenta="0" crs:LuminanceAdjustmentRed="0" crs:LuminanceAdjustmentOrange="0" crs:LuminanceAdjustmentYellow="0" crs:LuminanceAdjustmentGreen="0" crs:LuminanceAdjustmentAqua="0" crs:LuminanceAdjustmentBlue="0" crs:LuminanceAdjustmentPurple="0" crs:LuminanceAdjustmentMagenta="0" crs:SplitToningShadowHue="0" crs:SplitToningShadowSaturation="0" crs:SplitToningHighlightHue="0" crs:SplitToningHighlightSaturation="0" crs:SplitToningBalance="0" crs:ParametricShadows="0" crs:ParametricDarks="0" crs:ParametricLights="0" crs:ParametricHighlights="0" crs:ParametricShadowSplit="25" crs:ParametricMidtoneSplit="50" crs:ParametricHighlightSplit="75" crs:SharpenRadius="+1.0" cr
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-s:SharpenDetail="25" crs:SharpenEdgeMasking="0" crs:PostCropVignetteAmount="0" crs:GrainAmount="0" crs:ColorNoiseReductionDetail="50" crs:LensProfileEnable="0" crs:LensManualDistortionAmount="0" crs:PerspectiveVertical="0" crs:PerspectiveHorizontal="0" crs:PerspectiveRotate="0.0" crs:PerspectiveScale="100" crs:AutoLateralCA="0" crs:Exposure2012="0.00" crs:Contrast2012="0" crs:Highlights2012="0" crs:Shadows2012="0" crs:Whites2012="0" crs:Blacks2012="0" crs:Clarity2012="0" crs:ConvertToGrayscale="False" crs:ToneCurveName="Medium Contrast" crs:ToneCurveName2012="Linear" crs:CameraProfile="Adobe Standard" crs:CameraProfileDigest="87FB0EDC503E332309FB5DE5C5C65125" crs:LensProfileSetup="LensDefaults" crs:HasSettings="True" crs:HasCrop="False" crs:AlreadyApplied="True"> <photoshop:DocumentAncestors> <rdf:Bag> <rdf:li>xmp.did:17AFD2B185206811822A83AF067F56AD</rdf:li> </rdf:Bag> </photoshop:DocumentAncestors> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:A02AFE8307206811822A83AF067F56AD" stEvt:when="2013-01-18T19:44:44+01:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 6.7 (Macintosh)" stEvt:changed="/metadata"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/x-canon-cr2 to image/tiff"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:A42AFE8307206811822A83AF067F56AD" stEvt:when="2013-01-18T19:44:49+01:00" stEvt:softwareAgent="Adobe Photoshop Camera Raw 6.7 (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:9B613BEB8D206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:09:59+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:9C613BEB8D206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:09:59+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:307A0F648F206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:16:32+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:317A0F648F206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:16:32+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:327A0F648F206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:16:32+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:337A0F648F206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:16:33+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> <rdf:li stEvt:action="converted" stEvt:parameters="from image/tiff to image/jpeg"/> <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/tiff to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:347A0F648F206811BFA191B0E15CFD79" stEvt:when="2013-01-18T21:16:33+01:00" stEvt:softwareAgent="Adobe Photoshop CS5 Macintosh" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:337A0F648F206811BFA191B0E15CFD79" stRef:documentID="xmp.did:A42AFE8307206811822A83AF067F56AD" stRef:originalDocumentID="BA0368F1546AC6FCD7FFC1B512BE39BE"/> <crs:ToneCurve> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>32, 22</rdf:li> <rdf:li>64, 56</rdf:li> <rdf:li>128, 128</rdf:li> <rdf:li>192, 196</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurve> <crs:ToneCurveRed> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveRed> <crs:ToneCurveGreen> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveGreen> <crs:ToneCurveBlue> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurveBlue> <crs:ToneCurvePV2012> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012> <crs:ToneCurvePV2012Red> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Red> <crs:ToneCurvePV2012Green> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Green> <crs:ToneCurvePV2012Blue> <rdf:Seq> <rdf:li>0, 0</rdf:li> <rdf:li>255, 255</rdf:li> </rdf:Seq> </crs:ToneCurvePV2012Blue> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end="w"?>ÿÛ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
--sƒ‰¡T$‹	:Ê¡\¥³Õ¤¼“ä7P§
-PID:8236 just read 4056 bytes from host
-PID:8236 just wrote 4056 bytes to client response:
-ÜHµƒ$ºŞh‰1–\’e.òæ7ykIËs$ô)DAtel¶I1‚´ï çÉ9ãâ&tÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-58şùC¯£¥â7şlÂ¾$ìèÏi¸ˆ·³2¾$í);´ÜKÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-!M	Ê4‹&‚p¼&„TX6¦ÀYóA=ŞÚ_EB,oŠ[¡Yg]PƒX
-z`;±¤J{Óå¢@²’yz ‘L» ©CîÆ¤&…÷b4WP<ƒXY_’–ë ’.lP/kîG?š	s@ƒ´@‹›$ìÖ‚Éy*»´@do’X’¨]Ğª
-õWaµ×±YFÁ=†[a¤)­-ö*ëthŞ -o‚½ãæ¥Dï¢h,£TÕèe¿T°i¤è×Ø[sed%ï¨MAdM’ÚJ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-œ©Øfß¸­êÁ¹¶êhP;|•“A6eB˜%M€“7İ™T"I
-
-PID:8236 just read 244 bytes from host
-PID:8236 just wrote 244 bytes to client response:
-	èPaÅİÛœÕƒFÌ˜ä¨m
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-Úm&\A˜>i³ÒsÜÉ
-{ 2A“#Eh
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-È	”ÚŸ‡\¨€XNˆ´Æšz©í"„‚‹Ò ô²++$Ü È#\¥MÌ0Òd)ØÙx¶ZÜ{¼L	ù Ôe¼/Ûı˜¤#\[>…oÖ'Ûç¼
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-Û!Á´ä˜º±-pqİ á˜~ò“ñôÃ˜Ó˜{½OEÛâñ9rÕ³§'>OoˆâÔkãê4Ök²±ıĞZ]3›–‹ßãá¸á5N|¿,œj˜Ü&S5Ê„09À¾Ä¸ÚÛ‰]¬pÊõ{”¸¸ş9IØ§Ñ¥RƒÀng:£N°c·•Úãà¿×\šé“Ú—v8}..1R×íÄ;Å©h3Ñc“ÃÇÈÏåñÕo'><u¾œìonğøŒ6Ô<ŠrÇT
-PID:8236 just read 244 bytes from host
-PID:8236 just wrote 244 bytes to client response:
-~Í[\×æ‰Î×¹çÅ/±ê·'f÷tÂK^òsµ¾ Öƒu+JØ¡\°6¤®
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-qü?†f'%|¦“‹iåÌA<í:®<qÊwOÑÃ©û:´k=Í¹©TkADÍ¾W+2»ŒewéçñœEGQ¡í$ŠaÌt¸Ù³¨«a;®Y­:¬ÂÔÅ`^ˆséçıl?+#EÇò’ê±sÕv¨ğãŠÁ²®©¯P9Â |æyvÜáp\äº©ëºÛ£Z†áSÂÜKˆ 4fêd|V,İëé;ÊtÇJ…†•fTcûªUZ^ıƒ­Ôô;+r¾¬7d^3„£š,>"˜Œ—CŒG¦«8cw©{rø–*›1ôê>îì)™h´øW.Üzkzk?¹imXaÜ\&ÙAÚVû³ufşİÎÆ›€.x¤Ö1hxx€Ğõ¿’êópÎHckè½”ûB8P{œc:$´/c§x›¯Ìı6rMéÙáò²ãº¯­pnÕá±ÙSPÁ,9#i–sò_3äø7²Ÿùzü|ò÷‹ÔQÄÒÄÓmZ&ÎÄÜy¯#>;Çu]Ì2™ÍÆXe"÷ßªãôĞ–¦şh¦d€5h„&E„tPP|hvİ„‘ñ›¡
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-&¼µÌ¤^KäéÌ.¶xüÛÛcˆañğù©Qam'¹¬ ›ï¶‰›rËùcÂàë0Sf#¼¦s†ç DF§Z¹Mî§Œ§GæÔ%Ï.KœD[Ò²M´ÛXÓ­š2`ƒãÍnÍÆµômÅâa¡ïsŞÇ@«Mï>VëÉgShéğî7ˆ£ˆ¤Üe'Um'NI‡;¬úü—|S]=—n#[Ü8‚_Mp´‰ÊFò7]^K1öà»ôÚÄáÁnIÏ§Aï—_ÆÎ–õX—{”Şºƒ†ÄPuJ\<¾¥‡ÚAå`ÒOQ?2˜å,ŞG®«‹Æq|1†áÄH’Â¹¹.Æ8c”í¬~?mA€îğcUÁó³0†Ü“¬ïz­|»è™nôØÄUc\Cñ5R“ÁcMò½»cE™>ô“{l±Õ15*ÓÅV§V‘{^øX¿Qi7XÎ“)¯LœON…Gœ+«aûÚ0Üä–‘ÔuçªÎs³µÓK†;ìAï_‘†I÷µ´-ç$åzÓªñS†«XÓª[Ü¶',A’o?‚â–LœrÜZØ2•*´q%ÅµÇ“-‰mçñ[ËêÅ¾úkÔâXvT¥B€6Zêc[ï=5Wã¾é1ÜİnáÊÔÜÚ…ÏÊózëuœ¦™İnaê>£]”ŞJ‘©šà˜×“Ó;øŞ›˜Òâ°˜ìjïªöÔpyÒşfñk®OñºráR¾ÃØ~×`jÑ«ÂC”‡—áOŒµ¢Ä´ï:¯—ıGÁÊ_Ü“¿ËÕñ¼‰gÇéôÜ/u‚ÃâN5¡´Á—6ÛJùœåäËùûzØë	ü}7éÔcà°ÜW^ãqöæÜË¸ÈÀÌ5€‚
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-3€u¿HW{–İÅ¹µ‰mwWhef††‘9“ÔúsS£rtâqœh¦Ì.>£K˜ˆÒuºåãÊÉºÖ6û|¿·XZ¦ŒM6µ¦“]IáK@2§]5]™z«–3+·ÀûC†¯úAÏğµ¤9O5ùÇş¥ãÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-Rvty¨$’,.NçT*||eµc}¾(14^ÖÏèz‘ûlÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-FcÈF‰íV><ÑA¹"uÑ]¯µ0bû+´TpÙ	ìºş
-
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-ñ:'ß¹rYò½7§ÅkRuLGxúTÉgyO4ehç&ç_ŠàË	øpÜm•c„ÆwÙ+œh½1È´®,w:qÍÊß§Ã*Wá©A¤9Ìq–<E„ïÒ9¬\õ–«Rw·+ÂŞIØêN4KlÜó$ínErÌ§Òîï§ ²³±¯¬ixs
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-ªÕÍày—f#+†òbÚtXÏXõ	­î=—	ã5iÑ<1Ø—S32As´ÛY]l°–í5X1<>¦#ˆs
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-ƒt¶Ú»µÉöJtœ÷TÄ±älhç~k“‡&î‡h8%zâƒ*V‹r4µÆÍhİæfêqå/£ß#íÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-o°Ô}OL ÄÂ¶£b˜3êÈ¿LíÓ’ê³D*ŠÓÑ6ªë¢•
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-`†ÎÀDOšˆd‹“~¨&æ<:©ö<ú…í$ªĞã©è´ùy'¥ö"'óÕYvŠ2cIêTÚ‡O…‘¦¤@‰Ğë
-Òb¿0SÚ“GİML«Ò—P—ò
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-/+­+>	[Š¥…ÃQuJ•HkXß¼v\ş?~O$ãÂ1É”Ã–OĞ˜o°Áû)CŒÉ‰â¸ŠM¨b§¤‰Ê
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-¹»Ù"gP:İ|Wë^,à³/Íw¼{míïêöeô¸§{ÃÍ!F´¹í-¸LüWG:^-gîøögü}:Ø&Ğàxg©ˆ@2Äô]^k|¬~XÏNn98røÚï›ü—Ÿc¸¬Ñ7¿5=Š»A{] ³:DFä'¡m 3Ln
-.Ô×zfv6J—£$ØåƒÍ@Å É;è"Æy ›så"
-‘}’†H.2M¹l³şƒ$G’½À5³N¤‰:ú¶¶@¼ğA$ÄØßY2 N`1_š½
-PID:8236 just read 5356 bytes from host
-PID:8236 just wrote 5356 bytes to client response:
-rşUê8+ùÍZ´šêe¦•\à–åÖ—È-Y,nZûOcûYF¿
-Åaøµ*µ³Ğ†—€'r
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-9+8Eö*ØŒN¾… ĞcEBÜ5ø(!Áºˆ²çH$èB oìt„	Àƒá"üÂ[3q
-ª—I´;jˆĞ-0 —e#äÍ¤¶M„ì¤Hª$ë  `‡lA‰ÙœÀé	¤ùË [’½>;ºgÑ6Œ´˜Ä"s¿¨UÀân,¢Ş‘>'I
-Î„†Ã2,4=9-{›gìŞá €ğ€sœYqlßª¥?ÂVÊxìc^Jí5)ùô×â»|<²ãxòÿ
-PID:8236 just read 7868 bytes from host
-PID:8236 just wrote 7868 bytes to client response:
-%(aĞa1ÈY l‚Àç¶ñDîƒ!y@  Z\ Dò?‚NmçÔ©½I3)(RÓ!4–vè3
-PID:8236 just read 4380 bytes from host
-PID:8236 just wrote 4380 bytes to client response:
-WkÁàJ5Ü;*Ök ¸°;z…ÑäÇ.,äúvxş<˜Û}¹x®	Ã5¸ªîcšæ:íÜè»¸]Í:Ùñe¿—ô\áZ¦"Å”Û ;GãšçÂnm×ÆÉ•{*5TÀ}*Mx/:ÚÖWrİ»Ÿ+é…ôü@ı%S+r4°š€İ€#ÎuÛU©wéŒ±ÕşN7h†Œ{N*³„ğ8¸]Ç-¤n"Ë™ê|b|1ÊÜ¿L]JØvàó–SK@A¹›ô•Óæ¿ô§[ïÿ
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-ø^o><xúpsòN,-{¾#ÁğjLàøZOc²´ÖsŒ’×¡ºı7ÆàÇÆãœ|s¨ù#–e—ó÷Zhá©½­§Q€ËŒÁßáÍs\%Æ¸nËõWÁqÌ¦×±ÁÍ$´®¾Qb=WíL§n~>O{};Œb°\k±=ñ¢áàµš‡ÔaÛø´…óü3ÿ
-PID:8236 just read 2028 bytes from host
-PID:8236 just wrote 2028 bytes to client response:
-Üp~V‹8åzU÷d`nYo<Ç—úg7-Êøóûw¼¬qšämÖÆ7
-Ì.*‹ÇuŠpª>"@ñm¡…ÇÏ,°¾árøjÇ®¤öb¨6µ+´€æÛb,¼lñøeezë)¸l–š	ÔÈ+¦NòHuËFš‘i)é›Ù!ÙÌë‘}£A¯œ¤æ½È”¤šjQ{èÔÊöû±vóSÚº¸<cH»¤‹U›Ó¤Ê­pbäh¥Ò¬:yÛK+C„Kfçª”Xtë˜JhX r6å*
-l9 ù ñ¢Ç0e-#BIù "m$ª1¼Q¦tpPg‘÷E\Ÿ$—iÚ]m¯É6ÍĞ)
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-ÇAm×>2N£9ß·Gª)ûceµPæk¤:„ôKç·¬áØÁÃÓ~ÕêAÔó´Kf6#ÕqÙõ\vkÓWB¶?J•6S2â÷¼€ØóUÜÄ–Æ+V“©`ÃßS
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-BU
-PID:8236 just read 1136 bytes from host
-PID:8236 just wrote 1136 bytes to client response:
-”˜m¹ˆ †bÒ=JQ.I¿š@
-PID:8236 just read 8192 bytes from host
-PID:8236 just wrote 8192 bytes to client response:
-úl­MÎiğ‡Z9éÍzVG_Û¯F‰ª]_Óß1´ÍK0Èç¼K‹;=µøß­Sú´)Ó M–`ÌÒòÇ[¢×sEŒ´iVá|;¹cVĞüãYÜr=y›¬«[úv°Ôq\2ŸyN³ª½ù%hŸ|­²à¿ó.©/Ó±‹§K»Æa©¼fÍ3Şl
-PID:8236 just read 4948 bytes from host
-PID:8236 just wrote 4948 bytes to client response:
-œÂ$¬„FµĞFIÒz,
-bßE
-PID:8236 just read 2920 bytes from host
-PID:8236 just wrote 2920 bytes to client response:
-Ôv&½3J\X ÍÛ	+Ôò³ıÙñÆíÔâŸò¯o@¶µÕk³1à&.WÏrağÊã^¦7å6Ö©EòD¾‹ŠÆØÚâÑ•Ä¾÷AY·­.Öè¤—¡Ù"Z¾ì†I ™Ö4Vö/1ˆı¯UJ¬ÎªL¹ ¾P³Qõ±p ÉÖ÷
-^ÕÀâx^Xiæh.ıËOƒa7!Ñ1
-Iºµô„Ú37NErı0éÓ‰VH24MA
-PID:8236 just read 1460 bytes from host
-PID:8236 just wrote 1460 bytes to client response:
-›L	ä©?UQÓ¢öÈ–Ô’@ÇÃÕQ½LøoH¸Ä:?-ÂìŸ¹H¨2ƒã©¨¡¢2ò›ß¢¢€rÏÙ`t8ç©P\±æò,ÛÙQYê¨âA‚Ñ{ø §’Ay‚&i:nƒ¶÷T
-PID:8236 just read 7300 bytes from host
-PID:8236 just wrote 7300 bytes to client response:
-á0p}µî©İVx±!Á“-@Ókh»Úøúp^Ùø¶†§S­¥ZA´òÙxÚêa”Ë¼~š’<ÿ
-PID:8236 just read 5840 bytes from host
-PID:8236 just wrote 5840 bytes to client response:
-¼{÷Û¹É7ÇòŸNßÙö6ŸíÄ4¼b™W»¨ák sÃ²äıG‡÷|lñ¿‡ŸÇ9^³şP•n\?Á÷-8ªNÃT&%îo‹ÊG¢ñÿ
-PID:8236 just read 4380 bytes from host
-PID:8236 just wrote 4380 bytes to client response:
-<fŠ¥Q˜
-õ2ÑqifR!£7>…{ã”ùOnœÜº¬Xn)ÄkW¦Ê-¤çœîmƒØİOÂ,0Ã¶»Ûé¼Î1ÙŒwËM½Ù.¢Xsf!º‚zî¾wÊäÿ
-PID:8236 just read 2920 bytes from host
-PID:8236 just wrote 2920 bytes to client response:
-Ÿ“ËŞŸUÄàêö‡ìñøJ®}:Aó¡q§{Dkä°Ëşõ=ë«ùz—şãlÃğ¾ë¿ÁÖ¤Ú€’æœîcLßr¾Ún¼kf9iŞìæ7Ûø‹´èb){;Å¡Àï}ÅŒnºVÃ¯s·/Wzü·¸z/«…ÀTÁÓÄC;‡4´Š™˜r´}!gÇ–KS?o¥âxf´Ÿe8Êùêàğá„º3Û€G”…óöeâş§9>²w±Îrøú¿OÎXrîÅÙŒk[R?	 Òà3j#­×ØåŒÏW™7.öûÇÙÓ¨ñşÉãx9æ^Êƒ0œµA?‰_ú¾9xf<øÿ
-PID:8236 just read 7300 bytes from host
-PID:8236 just wrote 7300 bytes to client response:
-ğl`âÀpîoyˆ%ºw`É$e“¦Ë£çáû¸|7¸ìpåeÛĞvßJ—Áâé8Õx«P
-€K@tzjKôÎk—&Xåı7äc&3'Áğ|6·&³1lnGg‡4yŞÛ’ôx¹³Îå1ëN·&ş˜pÎÃáLQÄ—S}7¹Î¨Ffì@±ú.l·”İqÇ“í£PµôXñH{Å­ğ’n#ÏKéµÅ•“T³UÊÀqzŸ¤F£\Ê}ÈÊ×0˜i¨±ŠäÏñş×å_TÀa™ÚnÁâèáè¹¯ÀUïXZ,DLåòy/›äËşÏ™[Ö]=	îpk§‚®L.†½ 4¹¬m2\&lzİ{¸õnİ=İiÙìõVœMjõªT¡OÆğĞĞ Eà[}×>RuOIIø|[œêÔ©T
-PID:8236 just read 7300 bytes from host
-PID:8236 just wrote 7300 bytes to client response:
-8[)5ŞÙIÔéÖaZÖßÖt±´.‡ş à¼?Ï~«³á_v~_]ûDÂ·À*5Ä‰sX`Ó'¦¥|çèü—";¾^;ã|j†+€â50Ô\‘ÄµÎ6vKAÜ!}µ“<%¯İWĞ{ÆjwU+5Í§‡¤E^è
-PID:8236 just read 5840 bytes from host
-PID:8236 just wrote 5840 bytes to client response:
-¨Çw€o—aŠú<lË¼müÇ×~É1\EŒ­ÃqÌa§SÚ£ ŸÄ8i1²ù_×°ŸÇ—r½?/x×íÅÂ»OÅ8e,;)ĞªîñŒ¥De4ÜºŸÁ{¦r~÷‹†vöéyXÜ9lv~Ã8µ[Šğikéš}¶Àˆ ˜7›€^oş¡à¹ü94îxêXún8k¸Ïfñ¸Zohqh¨	`$å¹wªğÿ
-PID:8236 just read 4380 bytes from host
-PID:8236 just wrote 4380 bytes to client response:
-CŒİZã36PMöÿ
-PID:8236 just read 4380 bytes from host
-PID:8236 just wrote 4380 bytes to client response:
-ıœ¹ëİ}Óƒpnƒ©B³&R¸c‚-1¨]n\óøØëI-İz\ÄÆ'‡{AƒÈ
-PID:8236 just read 5840 bytes from host
-PID:8236 just wrote 5840 bytes to client response:
-Ôø}<7Âã¨Óqöš2Ü¸·ô…ôÿ
-PID:8236 just read 2920 bytes from host
-PID:8236 just wrote 2920 bytes to client response:
-¹§(.òlQT€ñ<t9€²"à'æ9 AÙ`ç,ˆ¸B+;æKZ¾h ù¢œÓk¼N7³Nß$	Ï&AhŞ-ÜH,ó2ÍUÈuÃ¦i
-/Ò7ZF¯ôn'ıÛ”ÈyLšıÀ¬‰k82H7…RvÙ£m"Èºm6mÕ30ò„^Ö.(iNä+¤µVõOHb>ìz¦ë^#Í"ºÂt
-PID:8236 just read 2920 bytes from host
-PID:8236 just wrote 2920 bytes to client response:
-Æ-q¨H.ë°¾Ÿ5êòc•»t°ÊNªôñnu,=WÒä8$å¤İpcq’×&RÛªô}”­CÆ0˜.1¸†>‘xiÊëu¸¿UçyØ\¸nVúv|\¤ä˜Ï·Ñøg<?æ‡’ø.iq@–’ÍsóN\»{<\·:q»gIÎÃ6¼NR×Æ“áøÊô?MÊL¾.§…³oˆ)áèñ*´*áš$Ø‰#C?EìKVñÊèŒ™Wªí¶Å8&‡©İ†½ÔÜ=àb:Zw^Gé¼¸ñså†_nÿ
-PID:8236 just read 2920 bytes from host
-PID:8236 just wrote 2920 bytes to client response:
-C&&¦JÏ¡ÜÍLè]2MÆÆWĞN]ã2Ÿn¦rá½¼g©}vÓc3ûFfÉ¸˜ù­å~suÅÅu¨ıQöOöeKŠv4ñLu6Š¸j–5–}A+ÁÏŸ>;_UİÏYpôı+ÙJ—fı1ôİB›˜L€sÌú/Ë“'åù®N·ÄÖÁŠ£…â©PhŒ†©ı£ï»Éñœ¸Ûş\7—“ÓÂ«`¸>2“îyké°ÄIé­®»|øåÍ…‘×â³-¢µjØ®=İ;R›ßZ^÷62—ÔÀZÆL87.ú2»åî5{S„¯ƒmJ5†gå/m0&\H ùÜ-ø|¸òw=8üŒ.7·‡²¾#ŠQÃâ“[îÔÒ¥"-›•Şå³-uğ–å­º\Z:¡ôÆ¹´é‘™ ´$Îepğå®ë|õ”)c…wwğÍu Êóßn‹—;»bL§§WŠ©Š¥Q´qš[
-PID:8236 just read 5840 bytes from host
-PID:8236 just wrote 5840 bytes to client response:
-‰ğÌA¬Ún©é¶°œø|mÑÅ•±Ó
-PID:8236 just read 4380 bytes from host
-PID:8236 just wrote 4380 bytes to client response:
-˜k¯-“g_äV?OŸ>LZòºäÂ

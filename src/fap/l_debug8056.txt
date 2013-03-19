@@ -1,52 +1,0 @@
-PID:8056 Child:Fork has been created
-PID:8056 performing initial read
-PID:8056 request:
-GET http://www.freewebarcade.com/game/ambulance-rush/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:8056 about to start writing to host
-PID:8056 wrote to host request:
-GET http://www.freewebarcade.com/game/ambulance-rush/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:8056 just read 1460 bytes from host
-PID:8056 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:50:57 GMT
-Server: Apache
-Last-Modified: Sat, 25 Jul 2009 14:54:40 GMT
-ETag: "50000716-1668-46f88e6809fb4"
-Accept-Ranges: bytes
-Content-Length: 5736
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:8056 just read 1460 bytes from host
-PID:8056 just wrote 1460 bytes to client response:
-Ö ›q!¶¨ÅÜjyÅÜ;x€Gò B"Ä`B	Ù˘Êådº¡–6‡àC5|»	ß^Ä¶Ütkå—DR§¬GX˜NxL&æ¸—DYC¨1á≤—LLËE&Ú•	àJ6e$/º@Á™5x¡ ;¨ˇ∂—pd†wÜWMúQ[≠ÖZAA™c&.ná»Q§B^®Dë5§¬¥}ÕwÇOR<‘!´Ì@Á-ÑÆÆ°Â≥gåqífd
-PID:8056 just read 3096 bytes from host
-PID:8056 just wrote 3096 bytes to client response:
-PEî#pCb¢Ä	Y®ÇëâPé⁄Ä!	 †$Êq[$°Øréµçoëã]\#∑XF†ì—åghÉ˛à∆3f!Z€–·8pp@}àÑ< 1é?xÄ&ÉÙ≥w£8Å:&—ã?
-PID:8056 just read 0 bytes from host
-PID:8056 just wrote 0 bytes to client response:
-
-PID:8056 job done, returning to server main()
-PID8056 fork is ending cleanly

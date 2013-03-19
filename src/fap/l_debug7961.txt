@@ -1,61 +1,0 @@
-PID:7961 Child:Fork has been created
-PID:7961 performing initial read
-PID:7961 request:
-GET http://www.freewebarcade.com/game/uphill-rush-2/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7961 about to start writing to host
-PID:7961 wrote to host request:
-GET http://www.freewebarcade.com/game/uphill-rush-2/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7961 just read 1460 bytes from host
-PID:7961 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:50:36 GMT
-Server: Apache
-Last-Modified: Fri, 05 Jun 2009 13:16:30 GMT
-ETag: "800c011c-1672-46b99b3624a06"
-Accept-Ranges: bytes
-Content-Length: 5746
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:7961 just read 1460 bytes from host
-PID:7961 just wrote 1460 bytes to client response:
-&YĞ’
-Õá2 @ƒUT÷„j¨!ÉV$"f×Q'æBd„#BKd#~ØQ A
-Ù$’<ç ‘N9ÅÔeFÕİ-´ĞÃRHAE.üà4ì“.Dê‚
-”ú`©+`êB ‰şĞšepñI#lfa 
-HcuÙX°ÆÿZ´FA+­ˆú°…±Â¯*¬`Y(üºÂ	ÈÀÃ²<øz,
-[”°Á)ÊtCÀ7ØÒ
-PID:7961 just read 2920 bytes from host
-PID:7961 just wrote 2920 bytes to client response:
-Ã>ëÀ†\hyÃ>ö±ÚDtÀ¤`Å-bñTÄÂhîÅÀØÜæ6?ÁÕ¯&Â¼d¤á˜¸„'Aà:ÄãÙ8šğ4ˆ@i0Ã6àÁ@ĞêÑñˆ
-PID:7961 just read 186 bytes from host
-PID:7961 just wrote 186 bytes to client response:
-®pÑ¶°²ğ­Ğz Îa`v°@Îİ½Úz«»åª´¶À•¯`
-«
-Æ°	½ Ô•çµ¼|¾p
-Îû	ŸàÃ
-PID:7961 just read 0 bytes from host
-PID:7961 just wrote 0 bytes to client response:
-
-PID:7961 job done, returning to server main()
-PID7961 fork is ending cleanly

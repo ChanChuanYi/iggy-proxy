@@ -1,271 +1,0 @@
-PID:8146 Child:Fork has been created
-PID:8146 performing initial read
-PID:8146 request:
-GET http://24.media.tumblr.com/f5faeff45a2df8ff958e759bc3f40ef7/tumblr_mjo1tj5CBu1r9x28wo1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8146 about to start writing to host
-PID:8146 wrote to host request:
-GET http://24.media.tumblr.com/f5faeff45a2df8ff958e759bc3f40ef7/tumblr_mjo1tj5CBu1r9x28wo1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8146 just read 4380 bytes from host
-PID:8146 just wrote 4380 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-ETag: "e1ed10384993cee9550a4e2ad7c5986a"
-Last-Modified: Thu, 14 Mar 2013 19:51:20 GMT
-Server: ECS (sjc/4FAA)
-x-amz-id-2: hZJpSR6nPartds3obhRcGdXk6OnHEULHAvs3Ge60AjmQVu7ntaYpG+FXaE2ikAMJ
-x-amz-request-id: FE61FB7E0D215D06
-x-amz-version-id: rRCajjpXxuEVrCEEoNC68i6rU7hMdhjR
-X-Cache: HIT
-Content-Length: 180472
-
-ÿØÿà
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-nt.PageFormat.PMAdjustedPaperRect</key>
-		<dict>
-			<key>com.apple.print.ticket.creator</key>
-			<string>com.apple.printingmanager</string>
-			<key>com.apple.print.ticket.itemArray</key>
-			<array>
-				<dict>
-					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
-					<array>
-						<real>-18</real>
-						<real>-18</real>
-						<real>774</real>
-						<real>594</real>
-					</array>
-					<key>com.apple.print.ticket.client</key>
-					<string>com.apple.printingmanager</string>
-					<key>com.apple.print.ticket.modDate</key>
-					<date>2011-04-17T20:47:22Z</date>
-					<key>com.apple.print.ticket.stateFlag</key>
-					<integer>0</integer>
-				</dict>
-			</array>
-		</dict>
-		<key>com.apple.print.PaperInfo.PMPaperName</key>
-		<dict>
-			<key>com.apple.print.ticket.creator</key>
-			<string>com.apple.print.pm.PostScript</string>
-			<key>com.apple.print.ticket.itemArray</key>
-			<array>
-				<dict>
-					<key>com.apple.print.PaperInfo.PMPaperName</key>
-					<string>na-letter</string>
-					<key>com.apple.print.ticket.client</key>
-					<string>com.apple.print.pm.PostScript</string>
-					<key>com.apple.print.ticket.modDate</key>
-					<date>2003-07-01T17:49:36Z</date>
-					<key>com.apple.print.ticket.stateFlag</key>
-					<integer>1</integer>
-				</dict>
-			</array>
-		</dict>
-		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
-		<dict>
-			<key>com.apple.print.ticket.creator</key>
-			<string>com.apple.print.pm.PostScript</string>
-			<key>com.apple.print.ticket.itemArray</key>
-			<array>
-				<dict>
-					<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
-					<array>
-						<real>0.0</real>
-						<real>0.0</real>
-						<real>734</real>
-						<real>576</real>
-					</array>
-					<key>com.apple.print.ticket.client</key>
-					<string>com.apple.printingmanager</string>
-					<key>com.apple.print.ticket.modDate</key>
-					<date>2008-11-07T23:12:14Z</date>
-					<key>com.apple.print.ticket.stateFlag</key>
-					<integer>0</integer>
-				</dict>
-			</array>
-		</dict>
-		<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
-		<dict>
-			<key>com.apple.print.ticket.creator</key>
-			<string>com.apple.print.pm.PostScript</string>
-			<key>com.apple.print.ticket.itemArray</key>
-			<array>
-				<dict>
-					<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
-					<array>
-						<real>-18</real>
-						<real>-18</real>
-						<real>774</real>
-						<real>594</real>
-					</array>
-					<key>com.apple.print.ticket.client</key>
-					<string>com.apple.printingmanager</string>
-					<key>com.apple.print.ticket.modDate</key>
-					<date>2008-11-07T23:12:14Z</date>
-					<key>com.apple.print.ticket.stateFlag</key>
-					<integer>0</integer>
-				</dict>
-			</array>
-		</dict>
-		<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
-		<dict>
-			<key>com.apple.print.ticket.creator</key>
-			<string>com.apple.print.pm.PostScript</string>
-			<key>com.apple.print.ticket.itemArray</key>
-			<array>
-				<dict>
-					<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
-					<string>US Letter</string>
-					<key>com.apple.print.ticket.client</key>
-					<string>com.apple.print.pm.PostScript</string>
-					<key>com.apple.print.ticket.modDate</key>
-					<date>2003-07-01T17:49:36Z</date>
-					<key>com.apple.print.ticket.stateFlag</key>
-					<integer>1</integer>
-				</dict>
-			</array>
-		</dict>
-		<key>com.apple.print.ticket.APIVersion</key>
-		<string>00.20</string>
-		<key>com.apple.print.ticket.privateLock</key>
-		<false/>
-		<key>com.apple.print.ticket.type</key>
-		<string>com.apple.print.PaperInfoTicket</string>
-	</dict>
-	<key>com.apple.print.ticket.APIVersion</key>
-	<string>00.20</string>
-	<key>com.apple.print.ticket.privateLock</key>
-	<false/>
-	<key>com.apple.print.ticket.type</key>
-	<string>com.apple.print.PageFormatTicket</string>
-</dict>
-</plist>
-8BIMé
-PID:8146 just read 2028 bytes from host
-PID:8146 just wrote 2028 bytes to client response:
-KÛ}7ıß©`äu¬ÌÊı<æU˜îe¬ı0ÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-õ«?ÅU_gÎ«ÆÌ;6‹˜cn¿fwç5uvÖ¼Û&¾‚:è§ûßÑ=ZÁÈ{@ÈôNÏ´;hfİõş“Òııif!s½Al7éFÙ››ˆ‡ÿÓón§‘¸ôİ}ÕbPØ·*Æ6¸Ğ¸¸ì­¾Óûê:v>#Ÿš½Ğú§ì®¥FQk_Kmi¼5ÎØé=ßZ‹v…Ç}v ¦ƒo°·ô}µn{´4İ¯Òj‹Kšw4í,ƒ¸ şò³9]S1Œq©–Y;œ]4
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-§"ÊÅÒZZôhı%·û¿GE¤µ%=‡Ië®‹1\wĞÆî¼m- Ó·ş½ïö=itÌ£Ğße¸s±O¾Ö´?>Ü9©–ÿ
-PID:8146 just read 7868 bytes from host
-PID:8146 just wrote 7868 bytes to client response:
-ˆiˆÎ‰3‰™‰şŠdŠÊ‹0‹–‹üŒcŒÊ1˜ÿfÎ6nÖ‘?‘¨’’z’ã“M“¶” ”Š”ô•_•É–4–Ÿ—
-—u—à˜L˜¸™$™™üšhšÕ›B›¯œœ‰œ÷dÒ@®ŸŸ‹Ÿú i Ø¡G¡¶¢&¢–££v£æ¤V¤Ç¥8¥©¦¦‹¦ı§n§à¨R¨Ä©7©©ªª««u«é¬\¬Ğ­D­¸®-®¡¯¯‹°
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-7ÓÜr°Ü·Ø#íÕf¸%³[Úå´:¦¸ÛáÓm²+lSGQûÂŒk4Ì#E D«–GQ$|Í;¤Ø'/2mğ1:)ß¾M+Ó=KÌò,ÃL3l2é©vJJGÌì6šB³›rEF·ŒE 54àp¨‰ÛoMİù—FãÄºğU²Ü1=víªáå˜öAwÆ(¬™EF[u·Õ2E_T±<­Gåe‰¢@ìláHÜõ¥¨Ë†¬¨–¶næûáÉ²(ò9õ
-[nieÈ,Ï|Çè-Ğ[/79^Bú•4Ì#‚*ÇéxŒî¡+&ìa{¦°PÜó,§!Á1½³ÅîUXµşé5:AL.Òİî3Çã`Òú.*ûz,v
-›ât¹	F=·èí>u¯2éÎ¡YopÚ(­·
-«”´u"µˆ¡_­³M]¢ …~bDÙ[}ºœ™U„Ušªÿ
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-ÓÈ$-ÕYÚGãùõ<öEƒq¼zõ“ä6ÌW´Uß2ZÚMIl¶Ó=U]\ÌvTÒ;±#e
-I'©œÕ[ï£\İşÌ/xdÓîäõ³SğİÎmÒÃÙ0»c×ÜŞDİâŠí8‘"¡gûÆ¾³Å¿ÔQçµ~µöEZòk†]—›İTT2öoC¤:Á£õªo™Økí¶hÑj«êiéëcªK¥•™=Iä”+Ç½7'õ©äuÍÓ¿ÁğÑ¢|CåË.Ÿ¾a·3Æs,.®ÇYUÛMÊßQkFzyiO'İÜË~.jG1 uo¨¹SMI¦oÇ$—üN;«‹ÕL'F4êÕvÕ]i¹ÕÓÕPãö…YkéƒOO4+Æ$Ù~`ÓÆ‘rc+S«ª¼Ku´uµÎ]õet¹%M¯@»ºÉ®MkÔmvíê·-#¶ÅK5=¦šu+Î’jÉC*59yZ&Xä+/¿ Iç<i8F<pŸîlß&“`İîé•’ê=c¦º«…ÔŒ¦jT‰j™¨e†ZY«íÍ)s¥E1ÔOfu…ã&şVÒKÚ“’|?%s-ñ¯¢?h÷gœÄ–\£¸~Ù4Qè±%.)—My²­Õñ*z‰^¢Šÿ
-PID:8146 just read 5516 bytes from host
-PID:8146 just wrote 5516 bytes to client response:
-@ó<PÓ­¾²«·²ƒäg–šQâJ‡)¦ÉÜMşŠÆº_îZ±©eÆoáDŒJ™W‚+‚T«Ø}ıÍ\a×”†¾ñ_‘WÒäYÓÄLSUÍ"Ñ€ñoÅweß——ã¶Ä(ê×•Ñ}ì&«Õ­úu–²{í¥Â—§¢´NĞEX8ë"ê\H ¡xîzbYJÀ4Úù“c4PRÙõK•jÓÅ4ÔÍéS’ü@y’4ÛrD«¾ÃËª¼~XFMt}Í»“ÓK.7[tÖ{2’:ËALÙ5ÉCSRª¬Ş‡ÍÉé«
-Ãbx¼‚wêa‚oö®Yh"©îZËU²ù5¾éh­?3ûÉj©ç·ª¯äã`ÀñbŒKê}—Óì‹¾F[;«ÒÂ¯:©\	ÀZ3S4•ËVô²LA
-BÅÃËà(H•ŸÏÒGLÅ¦rt¼™U³4=Àüs/yö‚ß¡:=CA‹Ğ\x.YlÑÖV@­ËŠELàÓ«´ÁFÛNİ¬>›şãó¹³¯^è5şiÈ3ÉğÌ?™ÜøÁ’ßSo¿*©•ıj–6õ¯Ü.ılÅ§„zBÜ¬„×31¬Zª™ÚZ¹	yG/#ÿ
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-¹ 	*S—CnË±UòGÛÏõêÀ
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-Øâ{Zì¦|N\Ùù«ÇÔó‡vX¿~jGè|Ôm×ª0¤CŠ6…$ï°ı:
-PID:8146 just read 5516 bytes from host
-PID:8146 just wrote 5516 bytes to client response:
-¶ãÖa—S_ÜCÃ‘x#xîMCiKÍÏÉmö¥‘éÍeM®¢*pêvd2²æ ÷ß­\v˜4¨ñfkíÎÑRÕd7iO¨íñ5UDÍ÷ÇgcıP×–PÒ·ìò|4±Îâ;ªÌ5Oºm&j)Ó{tWfVÉiikîR¤õTõ*­<§6gRÛ„âxş¯«p…C¶iÒâİ>MøŞ°,‹O­¶í¯ÒŒ:Œ•ù¡lÆh£HÃFjTdã¶Ê	s¾à×™Y·:ÈÙĞœ+ vƒë®Eßo8N§`Õº™PÓ½cG[o«¡5£lÒæDËäpTÎ¤¿ã«Ïb®!úëÇq˜6ŠÕã—s…_sœ’ıD°Ùæ·Ãê-ÂL‹F%–¡ÆïÏŒP0”±1ÁÉQG&ºÚV¼÷Ai¨Ã»‹íJÉpÒúõu™e….Tó/TI[;>Šíÿ
-PID:8146 just read 2920 bytes from host
-PID:8146 just wrote 2920 bytes to client response:
-^’ëÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-ôŞ1º‚¤%U¾»oVTÜw1¿áu`HëN^LMJ¦\1š¦b³½¿Ù|×½#ÂãÔ^Ñ3/ÿ
-PID:8146 just read 7300 bytes from host
-PID:8146 just wrote 7300 bytes to client response:
-$ÖºZÊfßƒE!äÅ·÷B=şş7ÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-•mçæÚ_ZC°¾n¨–?‰<mÕ½İ6qæNÜ“ıÎÜ?Âû²=Å×0¿X/ì1ÈÑµÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-V6·ğ@©œú1î[Ûúô
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-%…jÕô¤Ğ]á‚õlFº1ü@ş\„®ãb¾6ë>~Ln‹ÏL¥Ë*>ù£Ÿ‡Å‚³NûÏ©»ÉíÂí¤Él•ÖèĞVÓRÌ²FÀ‘éfÔ€R2ÀuÓ§i'5µ¯(Ì£8s£€÷áÙÅ
-®ÑÛ÷qx¦C¥ÈÒÂm´V=EªKNGe©Ø†¥±f.:ÅëZ´´ƒtõY¾¢KI<O~7h˜åŒøh‹úÕÚ‡qİ™Ã™Ülö*İbĞ*1èÜ½[Ó\±¤f{¡c#Û&ä•qi*7fY†Ê˜õÉÃtÊÊ
-ßBÓî#
-®ÆªoÕtĞdyMHô©ÌTğÓ*ò2ÊÆ’%EÙåA7‰^Bñ<rº'†?¶¬’ìlï:³äy^l»=Â»¹Ç%=-cII¼2‰)Ù¦z}£;¹„Â+IGÁ)‰Vi·†÷…SØmv
-8¦ šªÛN9ÛÄ2´rıJâ"È¾w_¤¶Üv=s'ŠUòc¢—+œß¦º]¡´µ»'°Ü ‹Ö±Ï,bJ˜“m®­YcipÍ³’‡Ó!¢lj‹6GıC«¬‚³Êìùm-nHÛÑØ2tpbÈ Foü.è#şL8ÊVe
-PID:8146 just read 4380 bytes from host
-PID:8146 just wrote 4380 bytes to client response:
-ZûÓµÂf¶EùãAn©ßòù‘¿7Ö2=ªÉ£Ovk²ÕZµ6K6A|¶Í#Â!ËnØÎÏ]_RülÖ§`d4FãáWĞF#n]yé&tç*vßš[/JÓ¤·!&cUoSÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-šúŠ%uñ±;ú•
-PID:8146 just read 2920 bytes from host
-PID:8146 just wrote 2920 bytes to client response:
-Æ¨EÆG'•‰WmöÜı`íãÊöÚh³tZÏÃ‹E+0-+Ë5fï‹Ú0«Ş¦\©²˜m4á	·[E"¥ eür¸y§nD•¨'}úÇ­—ücà¶-.|˜tøìüL¯ğ÷5wÓŒ!®=®à
-‹V7MŸÀ¿\cfŠªğê<1vVwá
-‚62>ş¯Òt1Ãu|¥ÙÉÔæ”İ2“pÜC'Ï²ŒwÂl¼³/»ÖCoµÛ( iªn20XáŠ5™Ùˆå¿]98¥rèÎ±¶èÒ\³•šén'Z»´Öª<‘è€Ã,PÃ:Ú#@ÜnR°AÀÑFEbÔo=p§ëQ”öB<}›ÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-
-PID:8146 just read 4380 bytes from host
-PID:8146 just wrote 4380 bytes to client response:
-mÙÛ.YÜˆêNˆfÒ‡–š‹%µËJÕ±ƒ±hd#ÓGûÑ–¬x²Æjàì´ Ó¦1OK¹r¡=e]×Îü|xÿ
-PID:8146 just read 8192 bytes from host
-PID:8146 just wrote 8192 bytes to client response:
-ëµ‚ ¢ş19³áßbSB4é©wZÍCÏ®´ùe=w­_U[Å
-PID:8146 just read 2028 bytes from host
-PID:8146 just wrote 2028 bytes to client response:
-e¨<„è
-Nd7úièaÛı·Rù@fÃâ£¨¿û‹²àT§Lc§J•äŠ®¯şòÑ·Ø2AòQŸsº·»ŸÙ‹#ù]W	†¥^V>ã}½¿°ü¼õ®O’‡*ÉÒ¡áô@ˆ=Æß×Çßª€.H¦	£ä¬v|möÿ
-PID:8146 just read 4380 bytes from host
-PID:8146 just wrote 4380 bytes to client response:
-ô¦ÀlğŒºÉ§ù^¾^3ÊÃÚèî¶ó=]Â³ÑŠš#@…FòQËf !f$y
-PID:8146 just read 2920 bytes from host
-PID:8146 just wrote 2920 bytes to client response:
-vÜŸ°ROÕrM+“%rèKÜ­•ö;­ÆÉs§zk¥LÔu12ìÑK”u#ó¬?·RÈ@xÒ¨(¡Y\>}ú
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-‚Ø¨µO·]O¤¯ÓìŠ²¦+e”ÒÏi«“oLÓ=¶Ibô'IIÙ¹E*ª&DâÇ‡ŸO©#v):-H»ãÊoéşÖª
-­3¾	c à*`¦DI‹ˆ¢IDÔR2úg–ÒF9©ä§’¯?.•/Ú5dK²Àñû%5ªÕS@#‚Õ<+-$”ÒG4RÄà2¼|Incpwï¸ë4ùÚğ›#·Ï”ò~î¦wúcŠ:ß<¶‘w’/
-PID:8146 just read 4380 bytes from host
-PID:8146 just wrote 4380 bytes to client response:
-šBI$ŸÏrO÷ë¦•te%[¤3Õ!‘™Ìòïù¤©åç/"ì›ÏÜÃ 	í×ú›¿Ã«I»wyd“ä5:ıt=`?îÿ
-PID:8146 just read 1460 bytes from host
-PID:8146 just wrote 1460 bytes to client response:
-{Ö5A_gÈîµT÷•ÆÏUt–˜”uœÖó§_V’"£«‘$P
-PID:8146 just read 2920 bytes from host
-PID:8146 just wrote 2920 bytes to client response:
-˜ÕÏU&¶²õOó`³Fk+.E°•_=<cşû^)è"
-7Ş’V…eŞk-BÔ×›}$·
-‡Y®+lq=4•Û³fOŞEV‚HíôjÒ’:«¾‹ËÕ[-ÖÅ©ĞF,scWfw_r£‚:6¦ıİ:J'‰=)¥y"âGÒÅ¹Vğ:ˆÅ+÷H×¶÷Y‡ë!å´twYæ¹ÒÁ\"±Û«.°R¬±+”š®(D&PÅ”ˆËğ¤“¿\ødÚ:¸sZ\"šg‰$èOv;ìAò:Å9Z£K¿Ì
-z!4Ê¹Rü”uŠxÏòä†0™bcämÀ>@	ñEvsbcP4KJõhØ*5?N°ìş¶ÓX•öš«­ºš›]@	i¦u/mãu 0ğA3iÃöº&Q±Á–‰Ö™©”È”œH!>˜ÛÛè<N–ÛosìšúÚå.Y)¡*vüJ7ÿ
-PID:8146 just read 2920 bytes from ho

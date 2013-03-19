@@ -1,66 +1,0 @@
-PID:8617 Child:Fork has been created
-PID:8617 performing initial read
-PID:8617 request:
-GET http://www.iana.org/_img/2013.1/iana-logo-header.svg HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8617 about to start writing to host
-PID:8617 wrote to host request:
-GET http://www.iana.org/_img/2013.1/iana-logo-header.svg HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8617 just read 1460 bytes from host
-PID:8617 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:55:30 GMT
-Server: Apache/2.2.3 (CentOS)
-Last-Modified: Fri, 04 Jan 2013 01:17:14 GMT
-Content-Length: 9229
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Connection: close
-Content-Type: image/svg+xml
-
-‹
-PID:8617 just read 2920 bytes from host
-PID:8617 just wrote 2920 bytes to client response:
-„ÑÚ´¶@ñ
-PID:8617 just read 1 bytes from host
-PID:8617 just wrote 1 bytes to client response:
-s
-PID:8617 just read 1460 bytes from host
-PID:8617 just wrote 1460 bytes to client response:
-à=#1 ı
-PID:8617 just read 1460 bytes from host
-PID:8617 just wrote 1460 bytes to client response:
-1ßÈ
-PID:8617 just read 1460 bytes from host
-PID:8617 just wrote 1460 bytes to client response:
-DÍ°£&£dÄïK¦9¡ÖQ€Ä…Y"{+Ò["Fp‹?…Æ&æ>L>İñ§çŞGÅJ¬O†lÑpÅ
-¶Ò6ûbúÛ%ˆw§:Îà+F’UœöM{1kVæv¤I
-øèl_O8KÓ¬×bA$Òz`D½"~ÖJ{12
-Àª¬Ú‡Ş¤ò\N
-PID:8617 just read 718 bytes from host
-PID:8617 just wrote 718 bytes to client response:
-ÇÉÄA[™árhºææM•{»Ó‘¤ªIûÓğE ìÆûHşŒÀy¸2¿VâÃ-e€‚À¤²Ú”E2¡ÿ}!-Â ÈV(¦¹?‹
-ıœ˜*;èşi…Áª­îJp\·ÂÓUxºjZ˜üiì>æ¿Ø‚|GBX‹V®|tôoölÄÂˆ
-º²LE¯Wá6Ò7JÙıÜ9ôÈ¶å¦Ã;Ş0©Æ3A7ìvlı+¸éY]"£ˆ{üFÖ›"YËbY\ÔLàÔ%”Üe‘¬ğà·r6Œÿ”;¼X¡B˜6:‚
-PID:8617 just read 0 bytes from host
-PID:8617 just wrote 0 bytes to client response:
-
-PID:8617 job done, returning to server main()
-PID8617 fork is ending cleanly

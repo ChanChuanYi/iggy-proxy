@@ -1,93 +1,0 @@
-PID:8144 Child:Fork has been created
-PID:8144 performing initial read
-PID:8144 request:
-GET http://24.media.tumblr.com/6c97e2645676eebf313536e647522bdd/tumblr_mgopz7IVcm1qdupuko1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8144 about to start writing to host
-PID:8144 wrote to host request:
-GET http://24.media.tumblr.com/6c97e2645676eebf313536e647522bdd/tumblr_mgopz7IVcm1qdupuko1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-ETag: "f18cd6e82c83b21b5120986f5c41f3f6"
-Last-Modified: Tue, 15 Jan 2013 20:52:21 GMT
-Server: ECS (sjc/4FAA)
-x-amz-id-2: WeOeLbfZPuFmlVqT5ygDoFBwck4Nz0JPsQl4yyefBcM4HdDk07rcq8UgJTbz3qcZ
-x-amz-meta-idata: v=1;i=S6kkKUHMpXi9JaS8b2SYCw==;d=U6yUAT4YyqvXPgsynpWn2Yz4IXKshaxV915ODGI3sc3GadKqklnOA9uKKm+1cLUPytlWAEc+a4323YGkYv9h7A==
-x-amz-request-id: EECE6704D3710547
-x-amz-version-id: _.Ji4MOXREb0f316VYPf8NtEAGDn1vTO
-X-Cache: HIT
-Content-Length: 137164
-
-ÿØÿà
-PID:8144 just read 6408 bytes from host
-PID:8144 just wrote 6408 bytes to client response:
-ÑÛgM»3&ÚU9Ì–˜µ§k6?]µÙùŸéı-ŸñaÇê˜OÆ«.İæ‡×º·mÃíº¯±û÷}ş¢ç:ßj¹´²º]Pc­Äº²æú›}<ŸJ÷lkÚ×8›>Ê©ô`%ş÷¶-q?á\ºí»İîÿ
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-q­~Ú½K?Eùÿ
-PID:8144 just read 1136 bytes from host
-PID:8144 just wrote 1136 bytes to client response:
-|ã[¢‰Ô€{×¸ác–=©ÀÎ0<käA¹ ¼Ç&Âà©qR}­ÑSÂ’¹Ô¸¡ÀôüaÎğŠÖ–Ö…¦
-ÁF05":bF
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-^ı9\6x÷Ùìô	`ëÉcÜïiiÜmkĞé@¶•ôûêå“vĞˆ–šssXº$%a˜GùnIûc¾õhÓ=;©`ş$Ğë¼ŸŒ|ê©©¦°YØA·íÌÕPƒ …ÖPÊF2Š	U÷vqñç^¡Ş´Õ´Ï:ÔÓ»:Ë Sü@•²¸âHaÄ
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-×ôïgìI ¬İ×kmŞZdcøZ	Y¹ÎÊ˜Ès.
-PID:8144 just read 4056 bytes from host
-PID:8144 just wrote 4056 bytes to client response:
-§Èûê“¤dŒö•ÜFên÷“à)«DWÛb
-¹à‚I™?‘£;lã$~š_¤ÛÔ’Óÿ
-PID:8144 just read 2920 bytes from host
-PID:8144 just wrote 2920 bytes to client response:
-ƒäcN†uÿ
-PID:8144 just read 4380 bytes from host
-PID:8144 just wrote 4380 bytes to client response:
-È†Œ‘Ë>ƒ¤Jíár®¤ˆÓPÇIy†jzé,ÑGÌ5cÆW¼d1õÕ•°ëìÿ
-PID:8144 just read 8192 bytes from host
-PID:8144 just wrote 8192 bytes to client response:
-1’¹S“Ş®Iù'í®ˆú‡jú»c·W-:ÔÅ³,ÔO	–@ÌˆÎ[úpNœ(ÁïG~›l(¶u5UçpWAøA¢êBÑÁ
-PID:8144 just read 7868 bytes from host
-PID:8144 just wrote 7868 bytes to client response:
-*¨%Šğ
-PID:8144 just read 4380 bytes from host
-PID:8144 just wrote 4380 bytes to client response:
-3½<U	3uşaH¼Æpsì'²	Î›¯ı6Ú.¸­ï|®º$qÔª	z«é»Ô'
-PID:8144 just read 1460 bytes from host
-PID:8144 just wrote 1460 bytes to client response:
-ÏSL+'üSON#e¬J
-PID:8144 just read 1460 bytes from host
-PID:8144 just wrote 1460 bytes to client response:
-Èl9Di%©º](èª-âI
-PID:8144 just read 1460 bytes from host
-PID:8144 just wrote 1460 bytes to client response:
-jmß_Yo´ş(
-ºªjQRğÆA„GLÇxÔ»æú’û|¾×,qSL¦)–I:¾ß2ò¼²I_ŒŸ¹Ğ]ËYVß‚A#Oä…DçCó~_¬ç¡¨¼©›ğ¾…0¤8Q*ãÉ›²@şúi’–¾9Bv˜ØZÓ¶ÉÖŸt^çˆS¼âLb!Çª†qúç:sÛ÷:–\PF¼@VlöÎuYY¨ªn×
-[mZ®d…[‰b2qœ|õ“ıµkÇCKµ-Bz:ˆ)ªa‰–A[u¸Ó†RdY3Ê6PÇ1ÈÊÄu¢J!…¡¬mwZ‚gj	ÚMÒi©DÍjzHrG0R£ç–<~úÕ¸·ŠıBº[î;âª¯pGoAtÓTpÒ'°¦5zèq=:Æ–©>¶ÍWl ‚CºÔ şr«§ŞÁ³Å;l`‚~Ú†(®Q_¢¨·ÕÑÔƒD¦‘*UË´’`ºªşFìœ`õœãWíĞée"¿^Xó²qN¶>A¥eîKŞß»ìËæÚ±R=ÓÕOj´M[$ÑQ¤ªK"rğKqbÙ
-PID:8144 just r

@@ -1,78 +1,0 @@
-PID:8278 Child:Fork has been created
-PID:8278 performing initial read
-PID:8278 request:
-GET http://static.bbci.co.uk/frameworks/jquery/0.2.1/sharedmodules/jquery-1.7.2.js HTTP/1.1
-Host: static.bbci.co.uk
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8278 about to start writing to host
-PID:8278 wrote to host request:
-GET http://static.bbci.co.uk/frameworks/jquery/0.2.1/sharedmodules/jquery-1.7.2.js HTTP/1.1
-Host: static.bbci.co.uk
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8278 just read 1460 bytes from host
-PID:8278 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Server: Apache/2.2.19 (Unix)
-Last-Modified: Thu, 11 Oct 2012 11:05:29 GMT
-ETag: "22361-4cbc68c8f3040"
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Expires: Tue, 19 Nov 2013 11:08:28 GMT
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Content-Length: 40379
-Content-Type: application/javascript
-Date: Tue, 19 Mar 2013 01:52:00 GMT
-Connection: keep-alive
-
-‹
-PID:8278 just read 1460 bytes from host
-PID:8278 just wrote 1460 bytes to client response:
-Rî¼X\m®óÓáÖò<OÎ—³I§s(-u:Ê4û˜u£yCí/(ÌºÆbtyy`Aªhú’ôÎ9ËW›îIŠ%
-PID:8278 just read 1460 bytes from host
-PID:8278 just wrote 1460 bytes to client response:
-ëw.IZåğFUS–›·¨¤uAà°«?¤,|¿ºX/çóNG›Ä‘qÚ³ëÄ$\çºåxò})–÷pï¢t’\¥`‚ÕY+`{–|Õõƒ›šbyjçp;ğ›w¬N~æ9üÓgaÍaàëò¢½ê!äOì‚Ê[/`"6”›v:0p”CPo
-PID:8278 just read 1460 bytes from host
-PID:8278 just wrote 1460 bytes to client response:
-‰ñ¢¦©	ÃçÁ*0¤×S™nœù©e„Ò,ßCˆs@¬Íæs³5ë¡®´Àî`g^j…¢<ubZ¤-D!–U´ğgC•daÛ¤`!ıá)^ËJ¾\øÕ‹=c_#ªnÚã¥MÓO-Íã6Àœ®;—6¢šÄÁ(
-PID:8278 just read 8192 bytes from host
-PID:8278 just wrote 8192 bytes to client response:
-š¡YêvwvØËª´îA—‹çèùy	»9‡??	Œ±«“Ò«¿»»(ŞS¢?›GÅš'{,Í&B9É„§|,ı$L@ìæ}ìûÎ¦§d²õ:6è8³y±æuZ&ÀñwÒ)•áÏS2ièÌóv˜›MciwÒmPXAàV?x¹úE…Ú¬š×—5ú65©›ö‘û‚ªÌ$Ğ©ºûf¤ˆÀ£©cz/A^–LPàë:¼‘–£{ÙX¡@¾*-51µÍeS¸[ÚM0çaFúQ.åü‡8N¡aZQƒéTCKÓ‡=Š™NÔ2˜»mšEXÄ´ÌSÛ”H?‰m®"/.„©Ûp¹‡û+òJ™¶Y²uìX·Ò€íâMøß”A´´Âœ
-Zq\lw+$Ñvÿ²ÅÍ­{ıáöqMØfï¾G§?M×Ó#U»W|èr’fíj_¶ú3šÀ+ö+¢4‘ş³‹åíBàlõÌ~¹Iåï'ù)©:TÛºò¹ne|Ú æU©ÛƒÜ,:"öv™Aì¤ë¯š84É„h±ûOOG÷àŒHşê>ÒuÏ¾Õ†y“ã€T"¸J™‡P3LĞ¦óœš+OO[TTa('xêO?ùm3IÂc~ÎVfĞHÜ2Â“ğ8A;A}È3ğ°	p¶=IíÎ.›ımÈ‰ÎØ×˜Ææ$]¹£·MW·«ÕôÅ8B†¤g`*võl¹Údåbu»ÉôŞm¶™UYñ¦“şüHîW 	½â=”ïò—È!0²ğå»LC(Ş¯ŠÍW›Íº<¿İİ„àØi’%›$¥åbQ¬¿}ıÃ÷yrpp
-PID:8278 just read 568 bytes from host
-PID:8278 just wrote 568 bytes to client response:
-·Q»/µ-û×ÕÆŒŒy¯åqò²M"^Gw\äü7‡™{¦Jğ¢)#ø±²¬Ş^ôác,±–‡
-PID:8278 just read 7300 bytes from host
-PID:8278 just wrote 7300 bytes to client response:
-²Ht½ÌÁÚM‡;
-¶Ù¤˜›“–7ÓSñd6Œ¤4¡^–8W—c_¸.]ñRÛP‰ïÁí\!¨Ì¥Yh6j·cĞ+›î‰ô–×f×·‹_ñÇÃh§wôê¶âlï6@w§f2x‚bd™½%Áñíïøïšöç? 3ŠZÌä¯5ÎC‘ŒŞ€I¢ÇJO&Ì`„ã8Î[!bÍîR°JŸËLùÊ$š+Y<'ÍİŠª|âÂâ¾Ù–…_øn±aü2gh‘’úrºÆWƒ5{€n+“•„{Ë!¯¹Ëp=W C¯Á¸°bŠh%8Fó#ƒÅ½Ëo
-Áp™å{m\‰¯¡ÙEwÈÆ6êp?&áE­0Ëè´d‹ÉA1Ş(/0şÊ
-ÛOÓmÜQz'ƒk˜ç°¨æ©¾jé“+Ğò`ÏRv ·j¶tKL¢N¨Úİ$˜¶éÍ¤µ„M@O~"‚æ>aƒ–å”Ûú8_ª›¬‘ndÅHYGQF“C¤™Ş¿»¹)f%Àİ
-FdÂ‰ZC0®1è§ÍÜ¢{ŠÕ&tùÙ´=Ù½IZöğS°S:9Ñ™Æ±çé5mNr°Êjt2æéTvp‹x~	Yb½‡îµJ€~u¥„ß/Èh0:•™ .Ñ±µ­–ÕF™¡·ÙÔ‹lßÑ¥$xÆüŒ,zGã@ø72ªƒj}nPó`:ßü¯âã‹¦Ş;¸€‚ø†ÚÅfq²Jåş~ºVÚˆ"iËR€4LfIá»^m¦7«ƒw ¼¿./®cXÆ ;â(¼ÅĞ…ò[Frq×ÉáŸg7>{ÿáï¨‰ù¦i«AZ(xWAmi}ê]ı˜m’–ík_¢À5Ò.E
-PID:8278 just read 5840 bytes from host
-PID:8278 just wrote 5840 bytes to client response:
-Ä¥Ûê§î>@u7]9#2~·<÷²Å$hahjß_k
-ë`¥‹à|Ÿ»sØ«c:ïtÊ'çşhqº¢ë+Pé¾}Ô˜•q·.Èf0Åè¡¢G§é ­¼1´½¹ßĞŒY€tÑgÉ
-õCìÔƒQ<™J[?/ñMf
-ÕèÖòÅº
-PID:8278 just read 4380 bytes from host
-PID:8278 just wrote 4380 bytes to client response:
-óvL¤À”5`J-î‘ïÓ6@÷G‡±N2aDÇò];†İõı Øà6®£Ó
-vD¾ïÈ‚¬6ëE	Üî£ä|ÏVİæf„´î°A÷2é%Oİ
-PID:8278 just read 1460 bytes from host
-PID:8278 just wrote 1460 bytes to client response:
-Ã¼k7ÿôúÅÑ¿ãåkz	˜Ü—©ii

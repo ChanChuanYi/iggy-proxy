@@ -1,70 +1,0 @@
-PID:7896 Child:Fork has been created
-PID:7896 performing initial read
-PID:7896 request:
-GET http://www.youtube.com/ HTTP/1.1
-Host: www.youtube.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Cookie: VISITOR_INFO1_LIVE=FHq3c7OL0Hc; PREF=fv=0.0.0; SID=DQAAACEBAABQif0cHNm6DITDKUmfgyg-GeH1whe6ExNxtkQtadResFfQehq2XkpnflULMydIU9SAzX6IJcJHtRf5h8NkDyqkrITWQA8ls1bnVa_pbNALC3adPl395BDyNyRFjgBeWD2pFa0wgE1RzaNdbbwmKzOgLEdFosMJ7N-ZrzD2UFQNUBvYtwsY_o-ropOVxL0LHp7m4Hdid7X9Mru-K8tjlXzNHe-4RcdG1RGreV1KASOakkeKDi8lpxQs42S3JPOGrMXCY9EJf94tS5K4mqmDdrpBNHFr187gnTeL5GSZM2VvZO5JNOfG8f6_lOBKcvZ4N5UR4ll3UrVkGLq7VnejnbxIz_7F6siZTROdSFWSWdx2Jw2jLACQsxqDot5wLJeqx4-DWc6iKSkNjB7WpqIM-yeU; HSID=APbNU9kIJOpxdGXyB; APISID=U_nduoHEA_YqSCQu/AibvOubkzmb8QvFnj
-Connection: keep-alive
-
-
-PID:7896 about to start writing to host
-PID:7896 wrote to host request:
-GET http://www.youtube.com/ HTTP/1.1
-Host: www.youtube.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Cookie: VISITOR_INFO1_LIVE=FHq3c7OL0Hc; PREF=fv=0.0.0; SID=DQAAACEBAABQif0cHNm6DITDKUmfgyg-GeH1whe6ExNxtkQtadResFfQehq2XkpnflULMydIU9SAzX6IJcJHtRf5h8NkDyqkrITWQA8ls1bnVa_pbNALC3adPl395BDyNyRFjgBeWD2pFa0wgE1RzaNdbbwmKzOgLEdFosMJ7N-ZrzD2UFQNUBvYtwsY_o-ropOVxL0LHp7m4Hdid7X9Mru-K8tjlXzNHe-4RcdG1RGreV1KASOakkeKDi8lpxQs42S3JPOGrMXCY9EJf94tS5K4mqmDdrpBNHFr187gnTeL5GSZM2VvZO5JNOfG8f6_lOBKcvZ4N5UR4ll3UrVkGLq7VnejnbxIz_7F6siZTROdSFWSWdx2Jw2jLACQsxqDot5wLJeqx4-DWc6iKSkNjB7WpqIM-yeU; HSID=APbNU9kIJOpxdGXyB; APISID=U_nduoHEA_YqSCQu/AibvOubkzmb8QvFnj
-Connection: keep-alive
-
-
-PID:7896 just read 8192 bytes from host
-PID:7896 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:49:48 GMT
-Server: Apache
-Set-Cookie: LOGIN_INFO=36692c0fd657728ad7b83519cd8ff62bc4gAAAB7IjQiOiAiR0FJQSIsICI1IjogNzk3MDQ4ODMyLCAiNiI6IGZhbHNlLCAiNyI6IDEzNjM2NTc3ODgsICIxIjogMSwgIjIiOiAiNUNGYm9ENnQ1Y05Sazg4eWpjRDFWUT09IiwgIjMiOiAxMTk2MjA2NjUyLCAiOCI6IDEwNDQ3MTI5MTA0MTF9; path=/; domain=.youtube.com; expires=Fri, 17-Mar-2023 01:49:48 GMT; httponly
-Set-Cookie: use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; path=/; domain=.youtube.com
-Set-Cookie: SID=DQAAACMBAABQif0cHNm6DITDKUmfgyg-gIPFeaIFcBMFOeLQTpcdpWLsw4ICnTLSBRsTGhB_Zmm_PUflwo8tcCn2n4w73zRKXIw5QSU_QHxYxSlGgh2R9eZ_FjO32sksOdycBbdyFyrm96x-7zkz6EIX1f3uM-Wlu4D-OPOpthsyREGeew2WK_RXGAoT7NcTrtscxi354DqM1GAhAmjJLxPn9SWyRNaAU8PBR2TboDaoWpBw1GgxtCql2kszll1y4NfhccM84qBcO8EpE-9KqvqAb6e2tsrWuAaiJlKRVeNB_HgYD9ZHNJZaK6EnF2z9SOI2G0uN2TF-5AVskJhRXDaLOyikoQJt9RqwexTj2V1qkEd-IX_5EvDzCxPH51N_BTZhR585t_V_2YnCoWfMbMw9urjw2s5A; path=/; domain=.youtube.com; expires=Fri, 17-Mar-2023 01:49:48 GMT
-Set-Cookie: LOGIN_INFO=36692c0fd657728ad7b83519cd8ff62bc4gAAAB7IjQiOiAiR0FJQSIsICI1IjogNzk3MDQ4ODMyLCAiNiI6IGZhbHNlLCAiNyI6IDEzNjM2NTc3ODgsICIxIjogMSwgIjIiOiAiNUNGYm9ENnQ1Y05Sazg4eWpjRDFWUT09IiwgIjMiOiAxMTk2MjA2NjUyLCAiOCI6IDEwNDQ3MTI5MTA0MTF9; path=/; domain=.youtube.com; expires=Fri, 17-Mar-2023 01:49:48 GMT; httponly
-Set-Cookie: demographics=27878e43069a6040268bc69e1f79d7eae3QGAAAAZ2VuZGVyTnQDAAAAYWdlTjA=; path=/; domain=.youtube.com; expires=Wed, 10-Sep-2014 01:49:48 GMT
-Set-Cookie: use_hitbox=d5c5516c3379125f43aa0d495d100d6ddAEAAAAw; path=/; domain=.youtube.com
-Set-Cookie: SID=DQAAACMBAABQif0cHNm6DITDKUmfgyg-gIPFeaIFcBMFOeLQTpcdpWLsw4ICnTLSBRsTGhB_Zmm_PUflwo8tcCn2n4w73zRKXIw5QSU_QHxYxSlGgh2R9eZ_FjO32sksOdycBbdyFyrm96x-7zkz6EIX1f3uM-Wlu4D-OPOpthsyREGeew2WK_RXGAoT7NcTrtscxi354DqM1GAhAmjJLxPn9SWyRNaAU8PBR2TboDaoWpBw1GgxtCql2kszll1y4NfhccM84qBcO8EpE-9KqvqAb6e2tsrWuAaiJlKRVeNB_HgYD9ZHNJZaK6EnF2z9SOI2G0uN2TF-5AVskJhRXDaLOyikoQJt9RqwexTj2V1qkEd-IX_5EvDzCxPH51N_BTZhR585t_V_2YnCoWfMbMw9urjw2s5A; path=/; domain=.youtube.com; expires=Fri, 17-Mar-2023 01:49:48 GMT
-Content-Encoding: gzip
-P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/bin/answer.py?answer=151657&hl=en-US for more info."
-Cache-Control: no-cache
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-X-Frame-Options: SAMEORIGIN
-X-Content-Type-Options: nosniff
-Content-Length: 18051
-Content-Type: text/html; charset=utf-8
-
-‹
-PID:7896 just read 139 bytes from host
-PID:7896 just wrote 139 bytes to client response:
-T‰¡+à¿tj3½4Òcd‡rôÖ4–zÛ€·s2¾·ñr+¹'Œu|´7Ï¨é–Åõ(q-”¸&#®—+¿”7"ŞX\—gh41íÓİba`ŸüÒÀ´´Ÿ¸„ ·ÍÂÇÅU4›^»‡ƒ†aó•í™EÁãJO¨`}/N´~Nµú7SKk
-PID:7896 just read 4290 bytes from host
-PID:7896 just wrote 4290 bytes to client response:
-ÖİŞ¿€‚…É+™3Õ4Z–ªÚŸŸÏŸSÅêÇ©X ¡ÿ)4¬xúSkXO©ÅpâÓjHÃ8‰1ß#¤
-PID:7896 just read 4470 bytes from host
-PID:7896 just wrote 4470 bytes to client response:
-½ÖéŒ´¦š{Kh´6´wØÚvI²Ìğæ7|øxàFÇs­và½ÖNŸ‡
-PID:7896 just read 4439 bytes from host
-PID:7896 just wrote 4439 bytes to client response:
-ÉÉÿ/­>­ÒÃßmy¬ÁsßM,½}[ÁúDfmdĞ±¨’Î¦³¼ãXˆ{xá
-¢vw é
-Ö Ùûø*‡O,­Ÿ=z½Te;ïv„ÑÎ<P$Y|¿,íiï[&Ø%®ÏËÓÓór;oS(Î~gÂŠRœNxZuTe=„læ'
-m†&äm8©»õã¶Š|%W¨”ŠÙ\a‰­3Áóá—ÛNîóR[EHÔò½Îl¸uó(±¬ØéSş¦®¬¯ùë.ÕU»g?­æ—«~jCxAé„[‹q¬˜¯—ïZæP5Öß ¼-Ã3
-úOú¾qø}÷ãEÉ)]|ürsv6¸)ä®?_œè•ÓÖişôg7{¶ß(7êw§?¿ü<û~U8ûÙ/úÇ "ğûXô^ò´}V¼½©:_F{ãÑ÷éû¬Ó>¾ªôÙ÷*Ú^OÕÓïGœ£ƒá]o"ß>ØReÔüà|jkã‡ö$
-öúéïšöÍ§»ÎÏ¡<º=½>¾Ú¶7ÕÛ«û~#
-ü÷æğêx¿Ñn6N{-ØÒ[S3©é@vÚÙ¦rÕM/ú=Äíî¬a¿i|nœa¼áÄ_~“ÚxsQ?l´Ïê§¬Eç@áÉùá!"q…ÈáošfóøüŠö7Pšİx³wuy‰\]`[O’‡rW¾e
-PID:7896 just read 0 bytes from host
-PID:7896 just wrote 0 bytes to client response:
-
-PID:7896 job done, returning to server main()
-PID7896 fork is ending cleanly

@@ -1,3 +1,0 @@
-PID:8487 Child:Fork has been created
-PID:8487 performing initial read
-PID:8487 initial read pipe returned <= 0, preparing to end uncleanly

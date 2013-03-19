@@ -1,61 +1,0 @@
-PID:8197 Child:Fork has been created
-PID:8197 performing initial read
-PID:8197 request:
-GET http://24.media.tumblr.com/d148df261361ab796473c62ab0a4a7df/tumblr_mjphzwNxFc1qz4ucmo1_500.gif HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8197 about to start writing to host
-PID:8197 wrote to host request:
-GET http://24.media.tumblr.com/d148df261361ab796473c62ab0a4a7df/tumblr_mjphzwNxFc1qz4ucmo1_500.gif HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8197 just read 8192 bytes from host
-PID:8197 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/gif
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-ETag: "352c91f3be38bfbb1b924205eb7055c9"
-Last-Modified: Fri, 15 Mar 2013 14:38:21 GMT
-Server: ECS (sjc/4F86)
-x-amz-id-2: 7+ykUiR8iCboeDTcDaKBmsOO6w5rV2VZBVrBU0ThqlEWmg1vmZqhKAxBFklH9k7Q
-x-amz-meta-idata: v=1;i=qv7vozQ4rtITfPU6DKgSCw==;d=Lak8oI6HGd0JR6Pza9HMLRhMoMpESDHmh2sl7tAx6V+DOfn/wF8lXLrsIlNHktSOwzDNfMNfqyxcoGJTsvMzKA==
-x-amz-request-id: 8E0DBF786F8980E3
-x-amz-version-id: rvqbGl_uUfaCj6yLhl2ErYss_YWszjlQ
-X-Cache: HIT
-Content-Length: 65467
-
-GIF89aôô÷
-PID:8197 just read 6408 bytes from host
-PID:8197 just wrote 6408 bytes to client response:
-¼÷È´Œ3¦Óß:gŠ±šşó›åÌé)ZÑş‹T¤§A¿7Çªåe0íi£ ¦L½YÔ§QMÓRefUşT^Ôl(Ò:J¬¢¤Õ|åPUÊFµŠğ#YƒêG¥
-®íyõ vEf»ğJş_ş±­C„+Wñ™Ï„*ô¨LQ!ãÖ2V«oı`\Ëº©¤Ò°¯öÜëëôZT¾r–ªJ¥cÑ.;½Â£[*åÎœÄT:6©İç`ãÊ›ö ™-	ÁpKZ¹ªô¯5¨IyËÕ¢QÉ–·#]ÙzëL–w%’lÀ.hÛÛ
-ö$<õlgoê×ßô®ÔÅ+G´SĞBÓ%Ù¥jh]›ÖîfÄªè…­7­Pø6öª„eY›‹Óï†4¼n[§V÷ÙNÌR7xåuîFŠHüj7¦Ñ]¤!ù6ß®Bx­)±põÛ^Œõ¿ëİ"òBIF†dò«,Ü¯€,“ù‚¸q¦ïvêş»3ŒÑlŠ}Ë»éA—;n¯GabÖş±ÀùÍq_cx·<‰.ˆ‰Üd¡ÆV¶^%×òîÛ`NS¬ËÕğ†×«c¶ÆÓ$5¾±Œ3RdöĞdŸ31©æ!GxÍØ¥ğp‰Kf)#YÍ^±‘Rçê‚Y%yv‰ÚØ—%H*O'6sŒÉJè;ÃíÉDé’·x’¢¦¸|ˆ´¡ê·V_
-PID:8197 just read 8192 bytes from host
-PID:8197 just wrote 8192 bytes to client response:
-$O†\É²eK&0]†’HS¦Í›èÔéĞ…OŸ8ì	4(B!H…=Hs¢F˜1CbÌ¸tåÇ!S^¨u+×®^«Š{jT–M½ÅYâÎ]KQ®…p¶=š©Ø´OÍ2‘:•.Å« ³–üªU Ø°=®ˆÑ¨à–iÕNFÛÔí[qå6Äƒ‡,év~­0ß¾;W<˜°„Í?ë¸qÅ«¸N½ó2gÙÁ5ºvø™èÏÑ¥zZ`êœ«[#Ø7iÕåiş'Ç|e×Ş)—p8ñ›ÆW‚o(¢şøùx›‡~¾tt‚±4İ@Õ…rİA«±†~¡t§ÔR6{d!–˜b‹¡YdëQŠ{–%ßvÕg¢F°çTCÙí7WBØÒ€‰¦š~’(ƒ±i¶‘xŠeau!HÚ4‘ÚíEŸ‰"TÄãq½õ“ÑJŒ"Ø"Sø¥¸–“é!’„à4äx’‰UKh&)SeL6I”QR4%]8Ö	İAvİµPŸEÈÒ‰š™¶¹gš79bA=:'U!Ö†Rv·Y^~¤%—]b*˜dºÄ©C™QÄ¨FşK²ô(¤tQÔš7YÚR¬Å™•¢zŠª €ÇÖXª—§ªcK«ê¥(BÂÊëF³fá…ÙÊ¡¤pÆéÒµ6U»”!yªuË.d¬KZ*Dl~Í
-4­FÑFtï@æZDnEÙÖŠë@Û"´ŞÀ6¡9î¿.õKÑ³	á™çº,ÊPñ’…%½úª•êAÂFŒn¢/Õ®S$®¶‡R0ÁŞ‚K$ˆA9LrÉIÜÇ6YÜßÁµ»Q„{Š,«+â–r¸´åm··ŒÓÊJ–©ˆÊİ«3Dêªè#‹V:÷"Œ@ãæ3fmôÑ/½’®l)uÂp_ú^¦hãœ3şÛy:¢Ş¡$(¶ ?•qBg{ı5w~?Éw¨tVZw¨2ÓM5ÅFí»RãCß+¸sÉ½{PŒ
-=P½ÎBÌùB[c>VÀ®Ó{ì7inÈµÊÜ—‹N`Ù¥}#êö–Üµã÷ª©İ2Í.Â´)çó—cî«KZÛ‡"î¹ól*ñ¨	ï!éšãâĞæ{õò,¹Ñä³6}CuCû«!y¿wò}û…øáÛ˜P’•.l79ŞÚÈ‚¿ĞŒi	‰ŸüæÁÉQ°bQ]D¸‡Î0í2KVW"í!}
-Á eÜÇ4¸YĞuñKäÖÇ>²hpƒÊ2 C>H—Ä	D„ş›ãŞÚ&¶}ÙÌ_V«Š©÷BŠÅp),É¥•4‡Üp!
-\—éâ»†'Ñ	Òº&éO S„HòÀ·¹Ğy0lâÂÖ¨<¬=ÌvüKÈOˆB†
-PID:8197 just read 6408 bytes from host
-PID:8197 just wrote 6408 bytes to client response:
-ÔÆ`$I›´Ä‘\/*ÉtüÃ9Ä$-L¿4äAˆ E‰CÈ‡d·U¼½¤4ÀÚ¥nLŠ$Gh3©‰ÄÉ<ÉN,Ä!ÄJ”ÈÔ)<¤Jä[¿[”@‡”H¦TJø;Å­ÔE¬Es´E§ÔJ¹ÌE”üÀ²<F¸H[¶»ä=‡ÜG6ËÃLÊ—?™LDÆŒG¦œD.ËÊ›ôËuŒ»‰XKÁ<BšœJ¾ìK–L	†d,Á”ËLÂ9ŒˆşÃäÌÔ@›ôÌˆê½ş±F“ÌLÒ,EZÃLÇüJ»¬Hj\ˆÉÄ	ÑtÓ$M¼ÔÃá4ÁlŒÌÆBN„|M½”ÍØâBX NXèLà<‰×¬Í8œ¿í\IãÜIÅœ¿ĞsMâ‰MäMKš/VKÊçDÉ@¼N4¬ÎêŒKì4‰çäM¦°On\È-ò+rÃIóüˆ¡üLĞ|L•¬ÃvLMİÃÑÒµ’œÏùGM	÷D
-úüN°ôN•cN·l²ÉÜÏŠ8J
-ıBrÑÊ,Peô¼ÅPÊ¼Bõˆ½P	mNá³Ğ|lEkÜÎOŒÑ‰AÕ¤<¥ÎøtGR"¥‰ü$­şQ4$Pä´È¨<*#5Ğv„Ò-MåˆuÑí*µA)]P&=QĞÄ¼MÓ--SES.åQüÏåI'S=ıMqÓ"ÓİìRŠpÈ9õÒAÍP†ˆĞİÒÜôNC}G`Ğ˜ÜR—ÔÇ
-ÔmTp¤ÍúÜÔøSM%ÓŒ˜ÔP@Rë|ÓOT‰„Ô>USB}ÕEuÓUÔQıÊ¹œR¤QOÍTàÌTRÅY

@@ -1,66 +1,0 @@
-PID:8924 Child:Fork has been created
-PID:8924 performing initial read
-PID:8924 request:
-GET http://g-ecx.images-amazon.com/images/G/01/img13/digital-video-games/bunkbed/3-16_dsw-dotw-graphics_bunkbed._.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8924 about to start writing to host
-PID:8924 wrote to host request:
-GET http://g-ecx.images-amazon.com/images/G/01/img13/digital-video-games/bunkbed/3-16_dsw-dotw-graphics_bunkbed._.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8924 just read 8192 bytes from host
-PID:8924 just wrote 8192 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 42914
-Connection: keep-alive
-Server: nginx
-Date: Sun, 17 Mar 2013 07:00:06 GMT
-Last-Modified: Fri, 15 Mar 2013 14:52:17 GMT
-Age: 69108
-X-Amz-Cf-Id: YAbU_Dq9J1LhiGZgmKj_Ux7PryoYh5fH5iiqFZtfpuLY2MIYOcV4VA==
-Via: 1.0 c98d7e6e93b112ec502ea071393fbbed.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿà
-PID:8924 just read 6408 bytes from host
-PID:8924 just wrote 6408 bytes to client response:
-kĞ@w»=íã¯óë]r­/>¹]Ë7²Û+s:~Ú©6;
-?Ã¶j±ÎQØz?«Ùî<d}½Ø­¿²Ú¹Sš%/Ú¥1)µ§ÖW$ı\Üıš‘Ñ¿%Á’ÕN{ıÊûe¸·s³Á¸¶rÜØíHI÷:€¿øÔí7\™£,yiàH\÷ì…ãZ»k)+~ë1˜èB{’]ş’*
-“Ñ·5ØØ£Ñ'Üº’ÚÕ®ÍÚĞÃp£µ}@G¢§h°²ãÍ!{Ëâ$®T¦S¯¸Ë&<¿ÓúE8ÉµÊÜÜ1û 9ÄcÎ«uäìjï_Å(I7öüûWb
-PID:8924 just read 8192 bytes from host
-PID:8924 just wrote 8192 bytes to client response:
-Ÿn‹óìT©Ö‹§»®¼æ~{ªWükGj½ÕÃûBêl§[<ìN~uº¹C×=ËƒáS¯NßÎ=_£kª¼
-Qˆ”D¢.5ö2~¶®ÿ
-PID:8924 just read 8192 bytes from host
-PID:8924 just wrote 8192 bytes to client response:
-¤½ò:òÂÖ76£ø=qí®='„S´)ÄŞvÌ|Uº¹fG•×?Óz»í‰ìÓcz=×k2¦Š–6´“–ÖŸ—½[kíÎm±†âo#óªà>”€î¡uÌ/¿irØº³	s¥z3¨ıt«n=\äu
-PID:8924 just read 8192 bytes from host
-PID:8924 just wrote 8192 bytes to client response:
-ÄyoÅ³6§—\ÈBÔ:œ%k#Ï¿Z•”NiÉÇ%V¯m:pq†ã"ÅÖé|ğQ–ˆ:~2Ç&âô¿Kfá·c;Öµ”´”€A*Q+İ×µZ¢ƒsq{‚¹»oi:­Í{ÃC¸-}5ô)ÂJJV”­
-+B†R¤¨aIP=Á^Ä¸V\¾åö7iå\ùÍ\fÛ :y‚İËBÊPzíiåá[}„¤ãßU÷M:tU¼š«Ìá×n&ı§Ã|Zíq£94LpKvöÀÂ’	O1eJÛß¾sPKÑ*ı124sâºÿ
-PID:8924 just read 4766 bytes from host
-PID:8924 just wrote 4766 bytes to client response:
-ŠãÒçOs>ã)[ßy}q¹@ƒqÅe‘†¨êë_9°kt@·õ.›´ê;;ö‹«EÈã;NÕ¥I9JĞ¯%[=ÂÅEMPø^Ã˜U«/
-mĞ¯î·­Â÷"Ø
-mˆè[ldcrR
-PID:8924 just read 0 bytes from host
-PID:8924 just wrote 0 bytes to client response:
-
-PID:8924 job done, returning to server main()
-PID8924 fork is ending cleanly

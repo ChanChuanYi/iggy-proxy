@@ -1,74 +1,0 @@
-PID:8552 Child:Fork has been created
-PID:8552 performing initial read
-PID:8552 request:
-GET http://www.ubuntu.com/static/u/css/styles.css HTTP/1.1
-Host: www.ubuntu.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.ubuntu.com/
-Connection: keep-alive
-
-
-PID:8552 about to start writing to host
-PID:8552 wrote to host request:
-GET http://www.ubuntu.com/static/u/css/styles.css HTTP/1.1
-Host: www.ubuntu.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.ubuntu.com/
-Connection: keep-alive
-
-
-PID:8552 just read 533 bytes from host
-PID:8552 just wrote 533 bytes to client response:
-HTTP/1.0 200 OK
-Date: Tue, 19 Mar 2013 01:44:17 GMT
-Server: Apache/2.2.22 (Ubuntu)
-Last-Modified: Mon, 18 Mar 2013 11:21:21 GMT
-ETag: "8043c-24087-4d831303ace40"
-Accept-Ranges: bytes
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Content-Length: 26071
-Content-Type: text/css
-Cache-Control: max-age=86400
-Expires: Wed, 20 Mar 2013 01:44:17 GMT
-Age: 631
-X-Cache: HIT from jujube.canonical.com
-X-Cache-Lookup: HIT from jujube.canonical.com:80
-Via: 1.1 jujube.canonical.com:80 (squid/2.7.STABLE7)
-Connection: keep-alive
-
-
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-‹
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-šÌÁR_3DÆ‰ãñ=Yƒúû˜	‰Z
-PID:8552 just read 2920 bytes from host
-PID:8552 just wrote 2920 bytes to client response:
-Óúda˜%@MÔ’v©´ÌiÛ+z
-€¿ÆşÉöÙ0£]¿39ÓªãÛ!Uwº0K7vcyB0€yı‡éç…ı¹²¯*û–›°Ê4I¼µA1Å?WKÚ¥X'¥>fÛÒ55td“ƒóúîJ˜¦nGÎ¨{ÂEjÈíàDIKo”! g1=lç±0¦²@1=6‘‡}zGù²ö1^.µµ—`õ¾Ÿ„ô +•şUÑN	í2à¢<†KfsÄ˜Òyª$ãáö-¡ïX§ŞsÅ‘ ºH‘İ°=FO#q‘İŠM‰œ~ }`'ÚêßÚsK°?µgÂ€Wpœ} Ïª}ú¯×]³¯VìeÍÊ]»†Pÿ¬¿’¯üÛzu"`€ê7hè]U¥¤?ûÇâ1‘œSXÔ§ĞÓ×9/(ùÕw¤ÙàkW]î¿PôÓİCWWŸøşÆx¢Õ?­ÈÊ&«+Y¶ìÆ)<ÈÄ)Ä•Ğêjd²‡	A]°Ñ›NÂZC8
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-zWì´4Ø­©ÅñÇú¹O=lE7·;>·p×¢Í^	ºvQUÄ¨½s(\,‚øÕZb¨P'*ôAÌä9P²P‚JJq@Ùb@ˆ­ÌEYwW	OŸ‡?w];2mŠ]·Vêòäßú'5¬†îšîÛ3¥¿€‰Ñ28¨
-8ÿ™ìZıB_xLPˆ|"¬p¾Ox±hEÍêMCÈx“©Ö‰cİ>Èt`×<)\Šï¶ğƒyØ…ü!|/í{›È(J9›H&ÕœÌÀsÅ­Æ…Ü	ªmaû^± {N«¢˜íÏ‡ºkÙöÛ@´ŒWj4%qšâna"ÒSWQ0˜ŠˆYµÁ¤Ğï H,$§}}âZpÌhÌÕ‹·D£­²PYŒ"%šQ”<NøHmQñÂ.C?îøq¯½Øìk³ÊÀÓˆ%d~÷¿'B3êFv‰W0–»@yHñ‡¹ìß×¯›Ê_J-‚%ÈGàhRpã­Œ0ƒé§¸şäPĞñ,„«5}o'x²¬›y>:v}
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-¹Ô^É&úÎ8İmŠ†uĞïaû³1£zx:TŒj(Ùˆ‹´¤‰êµô¥ÜE;‹SGıLq–Cºdˆ9Ë|üFñ²4ÉÛßU]F°±JöEìfxMÇX˜û1¬º^\³géGmê6âØ‚äŒ°™Õ.2®“éèÎô¦]véê/
-Û¥°\ÔÌœ‚Ş3ıBú96&,^ì&§ÌkTQ)< |âÔ#riÚÍbUbYÄJ‡#U<~²ú9•&›¹Wô©ª‡çñ#'¡©¡"ôÛäÀTø[Ç
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-İË^ï'<ÿWxú?Qx¢ëå}…§Øj…­;­=Ö¹;5ˆrZˆÒôƒpÃüÁ„¤»h#ccJëWC¥!õ;WM§®ÜnLõ‰"¾·î;z»#”›ş@‡ÏÌgÈ9xuzû@b@÷¥Í~¿Gîáô^†y¡ºN(üpa¶ØS¨°ÛqŠËl%ôßNlâ,j&²™3ğ¦• _Ô3ù¼¹„1²hjI1LØÔk^ñò@ÉTóp5^E¦óØš«§ÚÑ#Ò½©Òš¿Aæâr@vĞi·1¹4wg²T_«ğ7R- Êyî¹^İä«°L|†bğ1YÓhªØ_[OìÅ‡ NÂ8
-Õõ¼;páş½»
-PID:8552 just read 2068 bytes from host
-PID:8552 just wrote 2068 bytes to client response:
-®ê©ãeUõ.Ë©†«wû˜·ZÒï:Õ¹‰`_}®UqF¡ËËWîdgL÷y!hmAzŸ>­+}A‰.ìßuY[P¼yìª“€cIc¡†FŸqcA±ÃÆºm!…Ë®ìûk÷¥~Yñğ}4j}&Ó`…©NÍ–.†b%åÒš@V¼z‘eë¤ã˜õl™‹nœ’£pqU¢#$âœÎĞP3Ú“*jûš´Üİ2GLM«÷\}ZmòOS3DXSĞ²È‹ÈşçÆéôĞú]²¦‡FM{yÕgM/OÑŒO¯ş.´ÇSø}'rªFTdõ‡]X‘—³Q§ÌÜä3Å´iT/?\{2}¿Rb™ZşšzÉKœä«–ö’±&Hì.\×MëÍS6gÚ	I9Nï|‡Ç+ÖÏïbYùêM¡XÖ23—†+ÏóåèV0Ÿ_y 2üıĞ5—÷v_ğ°¬ÍN´¯÷ÕˆB§lÎ<XAõ92Ãüƒ€>&å™L%WñHõî4?‰	ñ+Gï6 ¼ò>¸B”.İ:²°ŠU'¬úÏÂkª2w_Ë.	¢M·“ñõÛtgª±SÕ)~MO£Šyµ•nm»‡‘Y}òm®ë{¿Ö`F	7çªë¿Gâ%,ÅDË*/‚ÍW(Nk`5@ûŸà5wíét%ÂØËË ‡PQ—Aä8z.«^
-PID:8552 just read 1460 bytes from host
-PID:8552 just wrote 1460 bytes to client response:
-1C…(3¬,FS™|ºÜl¸¦ÛÕ­rn­óP–I›Íùøuvá<.lÇ1-VÖ­å™c¿9T„ôš±é³ŞUë2

@@ -1,57 +1,0 @@
-PID:8897 Child:Fork has been created
-PID:8897 performing initial read
-PID:8897 request:
-GET http://www.amazon.com/gp/gw/ajax/fb.html?rId=0X5FMDCCJK2QT6YGW7SZ&gwcc=0&cb1=1&unlvd=1&bsFunc=jQuery,websiteGridCSS,search-js-autocomplete,navbarJS-beacon,navbarCSSUS-beacon,popover&bsCss=http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-5699988321._V1_.css,http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/websiteGridCSS/websiteGridCSS-websiteGridCSS-14209._V1_.css&_=1363659114039 HTTP/1.1
-Host: www.amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: application/json, text/javascript, */*; q=0.01
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-X-Requested-With: XMLHttpRequest
-Referer: http://www.amazon.com/
-Cookie: x-wl-uid=1JUV5s1Js+5IpL3njJOLSSmpNDZG3ENRI32mZNsXQZzCFsElvdoQSh+fjh4Yau4nnf381omXPUoo=; session-id-time=2082787201l; session-id=175-0664143-4314869; csm-hit=166.61|1363659109633; ubid-main=176-6851038-1841557
-Connection: keep-alive
-
-
-PID:8897 about to start writing to host
-PID:8897 wrote to host request:
-GET http://www.amazon.com/gp/gw/ajax/fb.html?rId=0X5FMDCCJK2QT6YGW7SZ&gwcc=0&cb1=1&unlvd=1&bsFunc=jQuery,websiteGridCSS,search-js-autocomplete,navbarJS-beacon,navbarCSSUS-beacon,popover&bsCss=http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-5699988321._V1_.css,http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/websiteGridCSS/websiteGridCSS-websiteGridCSS-14209._V1_.css&_=1363659114039 HTTP/1.1
-Host: www.amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: application/json, text/javascript, */*; q=0.01
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-X-Requested-With: XMLHttpRequest
-Referer: http://www.amazon.com/
-Cookie: x-wl-uid=1JUV5s1Js+5IpL3njJOLSSmpNDZG3ENRI32mZNsXQZzCFsElvdoQSh+fjh4Yau4nnf381omXPUoo=; session-id-time=2082787201l; session-id=175-0664143-4314869; csm-hit=166.61|1363659109633; ubid-main=176-6851038-1841557
-Connection: keep-alive
-
-
-PID:8897 just read 1460 bytes from host
-PID:8897 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 02:11:54 GMT
-Server: Server
-pragma: no-cache
-x-amz-id-1: 08932RPZR2R5GQ2CB9BJ
-p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-cache-control: no-cache
-expires: 0
-x-amz-id-2: +7XtqpxypdA/Dzaeo0Fu/zE9TS1yYhGmXPgft2oJhly/zuQgk7Sxq/8dKsXWDWjB
-Vary: Accept-Encoding,User-Agent
-Content-Encoding: gzip
-Content-Type: application/json
-Set-cookie: ubid-main=176-6851038-1841557; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
-Set-cookie: session-token=uC+5ARj05IzJdyOw66Nn9cJU7jrcqmShlOrzdzjjf+0EqVlPMudJzrjRpqBHT3N0i1jwePlvbjW8GxH0QLThXDj/jsZzoG30d/aG/wDP8C7N03jkxUz+qGtPXgLK0F7peBeBxs4XvgiQGZXdk5KA4dsLxmKczlG0VwJorOTxxEt7zCBTWhS1qJZxosaQsztwvvg4sXlldjrNUw5lwZM+UQxEZmWO/RJ8Tw14tSGax448qeL+F42TAbyvMB3oPUum; path=/; domain=.amazon.com; expires=Mon, 14-Mar-2033 02:11:54 GMT
-Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
-Set-cookie: session-id=175-0664143-4314869; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
-Transfer-Encoding: chunked
-
-664
-ã
-PID:8897 just read 2883 bytes from host
-PID:8897 just wrote 2883 bytes to client response:
-}J0≤nví‹˘Cﬁi«.ì’<õﬂÕ#äQ+ç8£Í©ÔPt˜Ω∂[AÃD¶ïöå◊aò˙4…ÿÊÎÊ€¥w»eDìbêì¯·A{äﬂ<}hERÂRQM¶ZL)ñ ÿCÎá≈=ß—Å?>>
-ÇŒA;¿ÕcÜ4@ÌTfph‰=à¡Ùxé{°Áç;æªwËè¸°€;ûÜnå›∞çºv.ñ†çT‰
-xÈ“O∆òˇ˜1zGÅ∏ı 3¥Nœ~*Œô¬>¥A’∞'∆ªù˙££∏ÔÉ*$!cx˛Q/€ÇÜ˝!°"&óÖ"3N1öbÀBE2À^¡Óx5l&àIÅåPµÃ¨ÎËNE„™mˆ˜ÿπı˚◊}uAÔÅ\Hk≤b&˝@oΩdN5ÁZ“èQgµZµhôj…p∞"ì2|±ô¯§q05•hVj÷
-—hkÈ≈cîÑﬂß◊◊ó·ÜKﬁ$p√a'πì—(t]ØÎ;]øÎO⁄ﬁQØ=È˙«„Q‡⁄“\£Çµ©JÙfΩ≠Û˙ƒqËb¡8≥tœïLÕ6QXÔm¯êD$|T‹âàOÒoÅúM¥ëi“XÔf¢ûÛﬂ~‚Ò ¸>«◊èÁ…i/A¶Å¸.-ü+®˝¡¶TìFë,–|ñ5uëeT≠õ9M†¨ˆ«Kãï5Ã·bV‹q¶S,@Œ¢A€u€Å€mªÂTä!¸ÜØ…FoÀ¥

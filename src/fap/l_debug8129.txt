@@ -1,83 +1,0 @@
-PID:8129 Child:Fork has been created
-PID:8129 performing initial read
-PID:8129 request:
-GET http://assets.tumblr.com/javascript/jquery_with_plugins.js?3de0d236587bdd33754dbcc095bdbf1f HTTP/1.1
-Host: assets.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8129 about to start writing to host
-PID:8129 wrote to host request:
-GET http://assets.tumblr.com/javascript/jquery_with_plugins.js?3de0d236587bdd33754dbcc095bdbf1f HTTP/1.1
-Host: assets.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8129 just read 2920 bytes from host
-PID:8129 just wrote 2920 bytes to client response:
-HTTP/1.1 200 OK
-Server: nginx/0.8.55
-Content-Type: application/x-javascript
-Last-Modified: Wed, 06 Feb 2013 17:55:35 GMT
-Accept-Ranges: bytes
-X-Varnish: 579667672
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Cache-Control: max-age=1704670
-Expires: Sun, 07 Apr 2013 19:22:25 GMT
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-Content-Length: 66670
-Connection: keep-alive
-
-‹
-PID:8129 just read 1460 bytes from host
-PID:8129 just wrote 1460 bytes to client response:
-º[½&$eŞò·µ—^:R&GbU«‚0‹ûU8ÑHë•î„ê©41B'KpPWÎ\ò	oø¼„¥2‚½Ğ)TÊ¤C¹ız±Ş}Ò¢ª˜¨Ä 
-PID:8129 just read 1460 bytes from host
-PID:8129 just wrote 1460 bytes to client response:
-Z
-PID:8129 just read 8192 bytes from host
-PID:8129 just wrote 8192 bytes to client response:
-°Û¸/Ÿñ~ì3=şé‘Q>”:Å]™ƒE´ÏÇO`q ãX[ÍLkÅ*²ƒÑUµ“¬]SÌ¡ˆë.\ßbpé^ª&º¿ş‘„„ÎÉAÑCÏ¡~¬~öûBÿæüÛíš±§i¾İ6–ßÈdTlG/HCÍ	´»ÛeÏ#]FÄs±]Î{Ò×=WÙh>V}f¦EÔ·Ø›ùj6blmæ†oKC¥„šÛCh&s’³¬¡Åè¼1‰àüz1˜¨b¨[™š'æ˜ÃsÀ¼
-PID:8129 just read 568 bytes from host
-PID:8129 just wrote 568 bytes to client response:
-Ã|1Zñ¦æ›µêEu\Ê”óCQ{¯dÀ>lxõ.ãeÂ€ô»Ÿ¤$†ƒ3gMı‘ÀîæÚ
-PID:8129 just read 8192 bytes from host
-PID:8129 just wrote 8192 bytes to client response:
-én3Ç«Ú²Ÿñ(~"»tÍº
-PID:8129 just read 3488 bytes from host
-PID:8129 just wrote 3488 bytes to client response:
-Ë²Pÿ…ºô‹Kõ„îvc_–êºŞŸÿaxsß\ª$æFCÑ_î9ov@¥’¤ö\$Åº;+™­ªlêš€xøÌëş¶Ïèæf{ù|L;°ô•dÑ¥6O×Nšï¢ñ"BcµŞãÚòèòæÒŸÅâ}.â@º€7‘8_w8DÏËW/Ş¾¸ío.n.hŒI=HÏÂQ_y×:jÖân¾+×ó<úÌ\}öœ:t})ïŸ{c¢„BòÕ¤ÌçÙ6ßI™êÌ#ÁƒâÌîRB_ÒëM8zfßÉlë"|é¥j>o½ŞmtñÍó–oZê·é5ƒ©Taïœ
-
-PID:8129 just read 5840 bytes from host
-PID:8129 just wrote 5840 bytes to client response:
-)A¬¢1˜m²çJN
-¼DW_7qı]Ò”Ã{ä¦†™u©>k£ŒdíıèÖ
-…r
-PID:8129 just read 4380 bytes from host
-PID:8129 just wrote 4380 bytes to client response:
-§”eV¯V¥i
-PID:8129 just read 1460 bytes from host
-PID:8129 just wrote 1460 bytes to client response:
-ÂÁ$¥{1Ú¨'jÇ[=óã‡pÒIN¢ÎCt/Ù4
-PID:8129 just read 8192 bytes from host
-PID:8129 just wrote 8192 bytes to client response:
-¤½–[O‚‘™qNÔ°bÕâg–¼pï9ÕƒÄğòÕ(´XC¦Ï1N2Ş‹ß{Ê.QõU2=hå§r>ÁWP(××\ÒN´h®tÂÔ¨¸¢ ÆC>Dxh!¹‰Œ	ƒ'éÓ'½ô©aì¾"lš!ÒrDèp±’À&]¤°ØBµëŸúIOÓi„l”jI2Ğ-5N\)2YÊGêì36-7sx§U.ú­
-”mæ™¼	à…<ö`…DU7ËœKÉiX{exÔmØHXØ)±±¢-ÃSÇ<¥'…bàkò0•Ntp¼{%ĞÚÀË>QuYİ“¥»‘”Ê› ‹+3‚KL†íg´óI¨39¹ö¬]³¤Ã(—í&|Ÿ'',;Ó‚VŒ!;ÔöY[çÈãd6î9è89`ßò­Û#_ş"é!SFÀ{èTàó ª¸ïš‡jã˜å¶—Èl˜Ü"º Ü0Â%©î<-ÍÜŞºT¨£KÕ£€WKIt#Ñğ¢8Eˆz¤…¨ªşä}›ğ<\PÃ
-PID:8129 just read 568 bytes from host
-PID:8129 just wrote 568 bytes to client response:
-‹J$iëD<;RäçQa&÷“ğEĞ	Ó¾‡0•ZıXê8Ì×ív8vPF,!b„Ó0487ŒÌq÷á|lNÎ„ÌâéBùÙaVFÆo=£RLsÖ\Q„Mhëè(¤5Y¤Ûm¹L =E({×£T6æzKKG˜(wÃ|TLÛ!;*4?KLX³tåÍ
-ÜÊêúÀ<ŠùdR®á,z¯Ñ'²E×Ëù/‰ü¹.!d‘#éÀeÄ-&dõ¸|ÉLÈËÈğF¡£”\Xš$G",!´ÔN:q…ò.XLáHÀÆxvf¼´¼L3X-ÔHdn¡]V»<fE@mÁqÕÄù¬á¨¼NP8•::ªO/–¬3 MV»ê»öÆk*ĞùÓ¤¿Wd–İÌ†1ÙÉ5ŒN¦Ycãñ¶»‹	7õüëüÊ]V³Uí,âç`\_!Ó8FPÉ"ÑA7	Ïô	bç,­)Æ%án[!è”>~ĞÄr­äØD4Ï	ñ-È·ğ5WdÑÏ#¢ûNö÷$Ë‡›ÅEïOÊaA³@—Jä¤Û6VrC=<_×g”5Ï‡Ò^±ÁS+I^ÙÑ9°9Ó»S8#ÔmxYóğÖÆ®
-R1´Š ãIÒ:u˜"XJÕéZ?&üB»mà:ÿÈËù"³ã4êQÌş) L×`q8¡5n§ãI§ƒû4I;…¾ùSa"¿q$ÆFU#!
-PID:8129 just read 2920 bytes from host
-PID:8129 just wrote 2920 byt

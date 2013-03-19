@@ -1,52 +1,0 @@
-PID:7956 Child:Fork has been created
-PID:7956 performing initial read
-PID:7956 request:
-GET http://www.freewebarcade.com/game/plazma-burst-2/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7956 about to start writing to host
-PID:7956 wrote to host request:
-GET http://www.freewebarcade.com/game/plazma-burst-2/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7956 just read 1460 bytes from host
-PID:7956 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:50:36 GMT
-Server: Apache
-Last-Modified: Fri, 25 Mar 2011 09:42:25 GMT
-ETag: "700008cf-140a-49f4b6950733f"
-Accept-Ranges: bytes
-Content-Length: 5130
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:7956 just read 1460 bytes from host
-PID:7956 just wrote 1460 bytes to client response:
-
-PID:7956 just read 2490 bytes from host
-PID:7956 just wrote 2490 bytes to client response:
-¾>ð4íƒà€±R%
-NPeâ6‰¿ˆ·(t#\Œ‡%p]&WøÉg`ç#¨QÚNpâ×˜ÀD2„o½gu1+,`„L÷àÙm‚§qpÜf’@Cjž©ƒÄ¹LÕ#G.Pmò…’´¦p“¹ÛÝ@ë!•hé#6A	J˜v¶@À´Â„=ÐÅ@èÁnðìì ™i~jz@‚D
-ÅÜ¶¦Š@.,QG9³¥ÛÖrhwgÉ ‡;<¢ÿxÄ%6Q	]ˆbU
-PID:7956 just read 0 bytes from host
-PID:7956 just wrote 0 bytes to client response:
-
-PID:7956 job done, returning to server main()
-PID7956 fork is ending cleanly

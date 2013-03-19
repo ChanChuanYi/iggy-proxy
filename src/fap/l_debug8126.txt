@@ -1,66 +1,0 @@
-PID:8126 Child:Fork has been created
-PID:8126 performing initial read
-PID:8126 request:
-GET http://assets.tumblr.com/stylesheets/compressed/dashboard.css?cefb4e81cd5a29e325e09a00c418b19c HTTP/1.1
-Host: assets.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8126 about to start writing to host
-PID:8126 wrote to host request:
-GET http://assets.tumblr.com/stylesheets/compressed/dashboard.css?cefb4e81cd5a29e325e09a00c418b19c HTTP/1.1
-Host: assets.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8126 just read 1460 bytes from host
-PID:8126 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Server: nginx/0.8.55
-Content-Type: text/css
-Last-Modified: Fri, 15 Mar 2013 22:08:20 GMT
-Accept-Ranges: bytes
-X-Varnish: 985453727
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Content-Length: 40289
-Cache-Control: max-age=2319478
-Expires: Sun, 14 Apr 2013 22:09:13 GMT
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-Connection: keep-alive
-
-‹
-PID:8126 just read 1460 bytes from host
-PID:8126 just wrote 1460 bytes to client response:
-ïõzµ™3BÀœõ~DÏÖÑûÿz]ï6õèŸÈêoš÷cG2„¿*·ÓìG/œh]¡b³hŠfõ£Ñõ50%.|×QÚäT:÷ú©JóŒ}XåëlİÈ/Ğ,¶é¶â_‘ßïíòÏdl\kàæìö2“ì|ÈÙls²AXrÒ=ŸÖ©Ì-‘Øå´ª§ë¿:şM1£2†… Ùcı‰³#6et®ÿ£9oêcÌv]®7›©¦×”±ªŒÊ¬LV„ë9èğüÛPöOx?çR#Îÿ'à&¹dÿT’î¥=‹»¾0H$ç’`Ô¿" îõšş*µpì¨ìï8ª_ûu1`¬[ül;ßÚTæ]‰ÄÂ]‹Ó—ÿcw8‘DĞ3xù¨Õt¥mG©ú­J?¬VëªÊGU¦¿§6PŒe(+ßsƒ«4”/?lw{ºNçöy·yú‡ÿù_(¥ş3?¶„$ÿm·>·]»½$
-İîRŸ/¢
-PID:8126 just read 2920 bytes from host
-PID:8126 just wrote 2920 bytes to client response:
-&—¯§†K[b˜9#ò£o¾–wFLà0µ,?aş¡–ZîÖyŒö;¹8%Ãšş{Å¥}ğ´¶‡OöM œH‰7A“^ÀÇİvİ}|aR±ÅE¹Rwİ\Q½Ãcu{j¸Š>‹6ªô.ëMÃG[ío™6•@ºĞ¼c-8o˜{‡!Öà›€!G¸Hp"íEoXƒ4¹8Ü²‡¦ë×-C¤•êËĞƒF~4üãoÎõ¶g?D*­ß°A$òû áı¯×æê±f2ìî»/A‰üNHøG__;rë#Wèğ2|ÎØ‡H~'DBò°jÎá‘}öF#¿şñÙÕvİRI5ŒÃ÷g‘ı¨¤wB%€Cİ3ö÷g’~ò;¡à»kêóú¥Gjúî+Ä"¿„ÜÖÉ•‘¬·Úô.7…º¬7«©á§5ó-4/a¢•·Œr×›•1À¾5"ı|Ê†^®;Ôûırµ¿6¢{ò¼ÛB=\(ÕpõÌ<ŞºğÛ½õ¢•šçzÙlv—V¹ğõM×ĞV¤óÇ†¼4uÛ ’!¬ãcL¥Ç£R™ñÉ÷5sâÍÌvÕ£_…“ò¶yUå?d•Oãm>
-PID:8126 just read 1460 bytes from host
-PID:8126 just wrote 1460 bytes to client response:
-=‚®è±%7òB3™rÑg‚W`¢äÉ‰]oDX€‚öi×íˆ``Ù³Š,q¼^ …¬Ş›ge˜õ ’zO]>¾ò4ùŠlĞúEp¬|¡Æò™$íQÉ¿,_ëİ7+G1dµ=´´ jKİÕÑ4ï‹“YDíööÏh"ú
-a{#_i.ˆ‚0¡@Ì«#0v1¼;ÇÄt‚Vmí»Ó¤yïöô!ûÉÃ‰Æˆhr:·D¦!MD¿±îÅ¦È¶± ]6CÖSg@ğÊÓwçV‚ƒ4_:º /»•×¶×ãš5l¨$h€6êyo|qé®áÿîĞc
-|dÁÎz¸#Ë,”{"ë¼«$,—ªD¡Æ·Mñn…‡ÌRëŞªÈíÖÅıˆ°P*'NŠœj>£÷…gbŠµ‚÷¯–»Î\i9XEüÈì`õ¯¥gñ†oÖpæ“ínß,Ep#®›L\ZŒ¬ü+cÛ_ˆ„­yÉ}0zREñè³ÉõD…™‰8M=´|dMh`İÄˆ¼ADDK÷1²8v,‰£cÈÀŸ7ñúˆùĞŠ~ç¦Ã<?Îéa=-ë¢Dßë<"|qD¹¡›ë¡-ºmø}èå›—mEàØ2ö÷àY=•o¼!úbeMLè„£ïK6T@ÛwÏ‰§æËVä673øH+‹~VØYbKz²Q ôGÌ»bï€ˆå]jÍwGïŸwøşa×&G÷u, "¯ØDØDÌU$zfJh Ï<÷¼"S@nlá±.Ÿw4¤V|±œnğ³c)PMƒÊğ±‚Îß¡]{ËÅœ]Eg Î0q;¾üá1Ä_ÔG7xñ‹?d€H5‹Pù;Ú–	›­ÓŒ	>oP]Pöh*MXŠ>¹8\#
-y8Š@ê‹Œ-sl£ÉR1ÀĞ\«›óÜÜË‘ğT.äNzqd‰$£æ[ìyŠÌDÉœ]aÁt8¸ZÂã¥—Æƒ2†
-PID:8126 just read 7300 bytes from host
-PID:8126 just wrote 7300 bytes to client response:
-ÿj^µ™9MoèO	ß^ÑşXyªp_tÜ]UN’"æRÍÑJà™Y¥"ÄƒNÆ”ù•s§ĞÉi’æ¼Ác0ÇmÊÃdS|C!ºÅ¾ú•ò¸¾Ç‘0As:[ÁeÁÖ01pXË½ÚR\…ÕK£&~”œ“BÇ–ÛjíˆYxò|ŠkÕˆˆ
-Ñd©;Â
-O<sL@1CÓ,@Lh=ŒX¢a‡Ñ™èÂñÅsú#NµúP×SV¶CVÎÛ×†ŞÓ£QåÍÎOv2fXÎéÏàIrX1Óä!«¼JoY‡&o¦LÛÈP°É73•Æ«™×‹ÜHA§ƒCewÎ˜v€eªh¹j–ÎæÆRl¶d1PßpI	äŠ6Î•ÄÎTë„£d]Ÿ(^F„ºkÓ”Y‘¬›Û‡«‘ÛÉtlÚtz*Æ•b}—&¯Î~—áŠv!J_e3óÓ—ùŞª6#ß¢¸Å]Ïqİîrn–HWz´!“7.|„l"ƒ€//äÏÍ§æøhxl7ô#”åååzXijL¿¢?¯›–êGçÏbZ/&Ú=›;´iV»õ•üóMƒHsT¢¤8·'ªÍÿµù¿¯5uÙOZ'*ã³T>QÙ>Ü©é¨"û¡õ·Í˜Ó
-PID:8126 just read 1460 bytes from host
-PID:8126 just wrote 1460 bytes to client response:
-@b¬7Œ,õßlÎÍpÎ¡ãÒJ:Šuáï¥¬âÊ[Ñ k°A»DÄÉŞS@ßK=4l¦»Â1«/ÜG%=Îl9Š9O…X•/¼G
-PID:8126 just read 4380 bytes from host
-PID:8126 just wrote 4380 bytes to client response:
-¨”ëfÂY

@@ -1,50 +1,0 @@
-PID:7988 Child:Fork has been created
-PID:7988 performing initial read
-PID:7988 request:
-GET http://www.freewebarcade.com/collections/dirtbike.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7988 about to start writing to host
-PID:7988 wrote to host request:
-GET http://www.freewebarcade.com/collections/dirtbike.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7988 just read 1460 bytes from host
-PID:7988 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:50:37 GMT
-Server: Apache
-Last-Modified: Wed, 23 Dec 2009 20:00:20 GMT
-ETag: "f00f246c-10ca-47b6ac5ba2d0e"
-Accept-Ranges: bytes
-Content-Length: 4298
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:7988 just read 1460 bytes from host
-PID:7988 just wrote 1460 bytes to client response:
-5Œx UÀíK3ĞÌ”Ğ´àƒ1Ñ|jˆcQèØ£Bn…Zt¡æšl&™$xSUU—y{Â3ÏLI5ÓPÂƒZÁåFqÅ?‰	XlaæªF	a|ÑE	ddªé¦%ÈY^/‚Ö`ŒŒh3Í©¨Ns‡6>ÅV
-PID:7988 just read 1658 bytes from host
-PID:7988 just wrote 1658 bytes to client response:
-G>äy8z`Àšhõ4uaW'(C'9‡:d"¦œEÀêZ¬`¯ø†8‡]wìÆ4FA‰K¸aX›&0¡Š=¨ Å@¡£Ò`€0âÑuÌÃõpÇ=îÑ20¬¥ƒ	¤S ‹ı„Öí‰vƒ|Èjt€íã19î¸‚òrÅÈ.,V!Yà˜°P+„QĞcÂ`@;ö¡
-PID:7988 just read 0 bytes from host
-PID:7988 just wrote 0 bytes to client response:
-
-PID:7988 job done, returning to server main()
-PID7988 fork is ending cleanly

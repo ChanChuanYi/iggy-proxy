@@ -1,50 +1,0 @@
-PID:7952 Child:Fork has been created
-PID:7952 performing initial read
-PID:7952 request:
-GET http://www.freewebarcade.com/game/band-of-heroes/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7952 about to start writing to host
-PID:7952 wrote to host request:
-GET http://www.freewebarcade.com/game/band-of-heroes/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/
-Connection: keep-alive
-
-
-PID:7952 just read 1460 bytes from host
-PID:7952 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:50:36 GMT
-Server: Apache
-Last-Modified: Wed, 13 Feb 2013 17:18:18 GMT
-ETag: "f016a385-1340-4d59e540e8bb3"
-Accept-Ranges: bytes
-Content-Length: 4928
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:7952 just read 1460 bytes from host
-PID:7952 just wrote 1460 bytes to client response:
-B7&î∞«îåp¡ é
-PID:7952 just read 2288 bytes from host
-PID:7952 just wrote 2288 bytes to client response:
-)6<%Ö®A~∞¸`≠Ü∏„8√z2Ù‹1X∞=≥`Èpá9‹·	¿€ÿF6›á7l‡ÿ#hÅ	Z0«`™åÇàP+wFX®ãã`'–aÅ–è@‰¬ıÄ<‚èvPA»àÊ6ê1étú·pH6¥—wº#Â€É8ƒApL£
-PID:7952 just read 0 bytes from host
-PID:7952 just wrote 0 bytes to client response:
-
-PID:7952 job done, returning to server main()
-PID7952 fork is ending cleanly

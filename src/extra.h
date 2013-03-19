@@ -18,7 +18,33 @@ extern char safe_port[1024][1024];
 //	then will close the file descritor, followed by terminating the child
 //	pre:	assumes debug file, file descriptor are valid
 //	post:	error is printed, file descriptor closed and child process has ended
+/////
 void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* req_err);
+
+/////
+//	checks the global forbidden array to see if the host is allowed to be 
+//	connected to.
+//	pre:	forbidden array has been filled, host follows pattern www.[site]
+//	post:	returns a 403 Forbidden if host is not allowed, else returns
+//			without doing anything
+/////
+void check_host(char* host, int client_fd, FILE* d_out,char* write_pipe);
+
+/////
+//	checks the host against the secure-site array to see if the request should 
+//	follow a secure path
+//	pre:	secure-site arrays are filled and host is formatted www.[site]
+//	post:	returns -1 if host is not in the secure host list or the index where
+//			port and url for the secure connection is located
+/////
+int check_secure(char* host);
+
+/////
+//	closes client socket feed and process log file
+//	pre:	client_fd is active, d_out is still a valid pointer
+//	post:	client_fd is closed, d_out is closed and flushed to main log file
+/////
+void close_all(int client_fd, FILE* d_out,int exit_status);
 
 
 /////
@@ -29,20 +55,21 @@ void call_death(FILE* d_out,int fd,int err,char* err_msg,char* write_pipe,char* 
 int close_is_true(char* write_pipe);
 
 /////
-//	creates a connection to the main machine
-//	pre:	assumes the host is localhost and port supplied will be free to 
-//			connect
-//	post:	connection to the host at port supplied will be established
-int create_socket(char* port);
-
-
-/////
 //	creates a socket for transmission to remote server and returns the socket
 //	to the caller of the function
 //	pre:	url string is a valid host address
 //	post:	socket will pre opened and returned to caller, else -1 for error
 /////
-int create_host_socket(char* host,int client_fd,char* write_pipe);
+int create_host_socket(char* host,int client_fd,char* write_pipe,FILE* d_out);
+
+/////
+//	given an index, creates a secure connection to the host and prepares for
+//	writing
+//	pre:	index is not -1, client socket feed is open
+//	post:	secure socket is established and returned
+/////
+int create_secure_socket(int index,int new_fd,char* write_pipe,FILE* d_out);
+
 
 /////
 //	prints errors to stderr
@@ -65,6 +92,7 @@ int get_next_string(int start, char* search_buf, char* ret_buf);
 //	pre:	files secure-sites and forbidden-sites must be named exaclty and
 //			follow the format supplied by project spec
 //	post:	char* arrays will be filled with forbidden sites and secure sites
+/////
 void load_site_files();
 
 /////
@@ -95,6 +123,9 @@ void set_headers(char* write_pipe, int status, char* status_msg,int close_bool);
 //	post: 	no data is mutated, simple int return value
 /////
 int valid_method(char* method); 
+
+
+void write_secure_host(int out_fd,int new_fd,char* read_pipe,char* write_pipe,FILE* d_out);
 
 /////
 //	this function will write to the internet and respond back to the client

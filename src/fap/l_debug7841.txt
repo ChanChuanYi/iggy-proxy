@@ -1,54 +1,0 @@
-PID:7841 Child:Fork has been created
-PID:7841 performing initial read
-PID:7841 request:
-GET http://www.linuxmint.com/img/bg-ads.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7841 about to start writing to host
-PID:7841 wrote to host request:
-GET http://www.linuxmint.com/img/bg-ads.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7841 just read 1460 bytes from host
-PID:7841 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:47:15 GMT
-Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
-Last-Modified: Fri, 12 Oct 2007 10:09:03 GMT
-ETag: "1d605de-150a-43c48e8822dc0"
-Accept-Ranges: bytes
-Content-Length: 5386
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/png
-
-âPNG
-
-
-PID:7841 just read 1460 bytes from host
-PID:7841 just wrote 1460 bytes to client response:
-› w‘ê·˛3B.”bAó4’ÿÖ°GœBú∑Å°—qQﬁzNÊuz;›‰b∆!M¢q–íÍ}ÏﬂÂFv⁄“ ◊ƒ¬_ûä2ÓSòèºXU5)¨î}—?j†Ó©jΩ8…º
-PID:7841 just read 2799 bytes from host
-PID:7841 just wrote 2799 bytes to client response:
-M‹;ÀeÒ∞ﬁøíÑ=):
-PID:7841 just read 0 bytes from host
-PID:7841 just wrote 0 bytes to client response:
-
-PID:7841 job done, returning to server main()
-PID7841 fork is ending cleanly

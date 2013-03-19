@@ -1,69 +1,0 @@
-PID:8273 Child:Fork has been created
-PID:8273 performing initial read
-PID:8273 request:
-GET http://node1.bbcimg.co.uk/glow/glow/1.7.3/core/core.js HTTP/1.1
-Host: node1.bbcimg.co.uk
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8273 about to start writing to host
-PID:8273 wrote to host request:
-GET http://node1.bbcimg.co.uk/glow/glow/1.7.3/core/core.js HTTP/1.1
-Host: node1.bbcimg.co.uk
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.bbc.co.uk/
-Connection: keep-alive
-
-
-PID:8273 just read 1460 bytes from host
-PID:8273 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Last-Modified: Mon, 26 Apr 2010 14:18:35 GMT
-Vary: Accept-Encoding
-Server: Apache
-Accept-Ranges: bytes
-Content-Encoding: gzip
-Content-Type: application/x-javascript
-Content-Length: 31308
-Cache-Control: max-age=15710724
-Expires: Mon, 16 Sep 2013 21:57:19 GMT
-Date: Tue, 19 Mar 2013 01:51:55 GMT
-Connection: keep-alive
-
-‹
-PID:8273 just read 4380 bytes from host
-PID:8273 just wrote 4380 bytes to client response:
-f	˜Õý2ÈŽ,ë¼çúƒlx4èÛç6½ëóÝ©j$"ù…´åÓŽ0MŠå“
-PID:8273 just read 7300 bytes from host
-PID:8273 just wrote 7300 bytes to client response:
-²	ü”µ3N^óã(ù–}Ø„ŽJ¸XÄïÇkçñÉàøxÜ£…4ƒ­(¯¹'’ŽÜ
-žúŠü”þ¾©¶>98Ù1Û=¹ÙüéypÏ	ÅCúT`½¯>~wÍ»á&tŠÒz¯&ÉŠËïIŸŽ>{=:0Ä€ôÉŸG?±S°œ$Í»w¤×xÎ!·^G¾Ù¿øª¶(Gl
-“`•öÙ3^k3'Yv
-s™“ô‹_£[)Mo17›£·×ŸÙª0‰ößÏ“å½M±X¯m÷Šù™q»vŠ!96xm7eè‹ïÐ€:o°ÏqÂ¹5øj%ÿôR_zŸÐdG‡½·ËGÚ±TŠœBçŸ—Kw-ýl•æj	ACg%xg|‚ŠÔéSYk5ƒ_g«Ùå¬š­?Š–ÍjH§ÑË<y?»¾F	AMÉ“ârÕTdŸxØÎ“KTÌ.«¿‡7JäS‹ÈÑÉ
-PID:8273 just read 4380 bytes from host
-PID:8273 just wrote 4380 bytes to client response:
-—Pü2mÓoþlÒÔ á6ý®Ké u¡ÞhÓqt4¿)Å…4¤müaÉ}«êªçIm@0k,+Qù?³j®Ú!Ç##$¡/GObœžÿÀcwŽÃ0ã@˜ý:ª'K¡9ÏW®ÔÙCtÚ[2Q£@h£t=€ÝŽÚ+TP½o+ÛÀ´4¨±î	Úä¢øpïWmfIHž²Ë§«?²éGÕ%MÑ=è11˜Ý«„"Ðîe©DŽ§d@KS‡‚ü¼áý•	½xY.—Þ”Ë¡”ú±7äc¾“{ªYèÒ9LìÓam™eTsÏ–®BÂïŽ$“$“ç!ºàs@è,Ä£zV"QÂGB®îTý4YjMÄô¸X§¦<ŸTÅ@ oÅµ;`FÊ!«Û
-2i8¹\&µYú7?žNðu­‹„R![.¼\V0"·ÓÅl‚'óN;©}L§·\Ü…Z§ümŸ/æóéœòS¹íJÂQåz{ËÍÛm ÓÕ,Œø‘¨Wè:z®ú#V1’SZ*üŽÃïÌ&lçA…Õg®8§næ0Æ²J0	E÷–å‚i[X[]2ýò«ÚèŒŸ¨ž×¯—“ÉƒÓ×ñäf>†vL m^
-PID:8273 just read 4380 bytes from host
-PID:8273 just wrote 4380 bytes to client response:
-}ì²Ämð .1”qZHœ$Ókœ–\a5 È«±3õ,m7³ÿƒ^º&ãÇFÖQ9ƒcµ¤-:×bn!ôã'P !’­¿ƒï|¾TB@†	+²êóð;4ÉwÕmî#Õ˜o¡´Ä] 5ÓSqé¯v»œƒîò¡™½tfö²8Kt•xï.Ä>ÔäFèLªÌµußwŸóz=\œþ§«d«©¸é.úÂ\¢VžºBááõ -S}F¯r¡tP*?…I›4w.¹í…zšqì©l¿v%… +|ó²zù¸¬^úD*iì–Jc¨òÊ½þT^“>òÍÒp:¬|^kF§å¯œä‚ûùÎ³½K×ãåÜš2suÄ¬ôhÊyp¦A>g2ˆUæ«hLÐi@47v”D© ¹·3
-PID:8273 just read 4380 bytes from host
-PID:8273 just wrote 4380 bytes to client response:
-\„…KËæhmH‰\R“ß¯5:#èÏ‰‡³x~7¦Ÿï02êwXeDÓAt-põ+ô‹ŽYÞ¢³Š¢D¹eBŠÃ|ùwJÀðˆ‚_ýÖ5å3a¡ž|PrGàÚ«ªTæ®¿biA›P±Á‰ÄÉ<Ë$`@,4ìF¥z5n»c¢p¸úµ
-PID:8273 just read 4380 bytes from host
-PID:8273 just wrote 4380 bytes to client response:
-W6H>(ÑGä°–C¹0µ	_NÀ"A`Qµ¼¢¸‚G¡QÐl5ýöÌ_ŽG~ŠðÜùÁÝ]V–Dèè¬DÍHƒ‚WÚMXÄÍ1OŸY]:õT
-¿ÀíÃø
-Äª\º\yþ{Í¿¾½ÿT±Ï‡5Ç5ÿÂŸçÍ.‹	¢ñ{1ýK\|Ï%aóNøœºôd`ÏÌwëvê_ƒr¤	¹ªNhæ)©Ùƒ Ëh°U÷êüAœø“N´‘øß˜®”hÜÄ]z²ç–ì§¥ßÚBÅxIbN£‰>)K€{vnVþ2 ¥Ô(ÜþŠ€ÞÄNô–°zò»ö-Þh’FoŒñŒ²Ê÷({²gù“•ŸFÖvgBskœ{¿aRÝR9÷«	×Ý3—8^Ð”Ÿ7ø'zq¾¢+˜@•#2ˆ3“ë[…wXÎ/¿€<+© %)¢aÀì`\h¬žØ¨Œ¢r"ˆÌùÏ½Ç)tL_ÓÃÊ”­¨ë£~vÍ~PÔ9_Ê./¤¹¡a9p‡[)ï:Nck;€½5c—l‰¹1“(
-PID:8273 just read 995 bytes from host
-PID:8273 just wrote 995 bytes to client response:
-’Û$¯kìøªÆŽ(µ€u°mP$ÂÝ¨uª_!Ë¾iêÓ0.Š}¾§ßð<GtïaKã©§Ù)ÍÛ|¢y*/êxú¤X¿óÈp&Š‰×ÔÆ©£Çî®_#×ì˜Ð±õ Ë7°¿„¿SØ« Pä4›žáV,’_{–IM?ëU¼`•œj¾,M¦4%YX¥w9ð¢æ…gLû²¬_z8oNG\‘ïßÏ«½y±2§Œ–Ñr(ã%Ä^ôûÉõë»sø­û°h= ÜÓÿa®QÔJY.ý_$þ-ë?u)z£ÍŠZá^£ª½FœœU˜ØÉÔzÚyfr	×V/áàC}Så)9š}qa^FÎ)°Vòã'¼»q‚½³§IBx÷R`3°;©Ðù-ê¾«´‹×CöO9`3n.
-€íFÃ½ë¡±	àéà°û©vQyßOaÕ¸§PìÅ>^ÒÒîggöaÍ®5dŸÅnÞüX`~ÞÍÕNûß¨Êî´Ÿ5³ê)_Ì«éââ“û€½§Jõˆ”»‰FÐJ”Wö»öÕ:¿tÄ.Î#ê7—€Sek§Ýñ¾ ˜uwÖ@XXzD‹Jh˜{Ia©Ÿa

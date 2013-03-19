@@ -1,50 +1,0 @@
-PID:8106 Child:Fork has been created
-PID:8106 performing initial read
-PID:8106 request:
-GET http://www.freewebarcade.com/game/coaster-racer/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:8106 about to start writing to host
-PID:8106 wrote to host request:
-GET http://www.freewebarcade.com/game/coaster-racer/thumb.gif HTTP/1.1
-Host: www.freewebarcade.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: __utma=23314797.307730954.1363657845.1363657845.1363657845.1; __utmb=23314797; __utmc=23314797; __utmz=23314797.1363657845.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:8106 just read 2920 bytes from host
-PID:8106 just wrote 2920 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:51:02 GMT
-Server: Apache
-Last-Modified: Thu, 14 Oct 2010 10:20:03 GMT
-ETag: "70000874-15c2-492910da5a782"
-Accept-Ranges: bytes
-Content-Length: 5570
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/gif
-
-GIF89aP
-PID:8106 just read 2930 bytes from host
-PID:8106 just wrote 2930 bytes to client response:
-∫»∆-LäRY–b∑»Ü-Zä\|¢pÄ™‡ÄıC≈ ŒFR¡IPbó®É.Å
-:lB=‡¿8Äâvò,(c⁄Ò ‚vv®C;,5c¢∫}ä¡`‹ä∫
-PID:8106 just read 0 bytes from host
-PID:8106 just wrote 0 bytes to client response:
-
-PID:8106 job done, returning to server main()
-PID8106 fork is ending cleanly

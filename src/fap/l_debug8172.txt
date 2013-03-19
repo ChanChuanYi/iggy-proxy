@@ -1,84 +1,0 @@
-PID:8172 Child:Fork has been created
-PID:8172 performing initial read
-PID:8172 request:
-GET http://25.media.tumblr.com/15eeb357f9f5e67fcdcd4d0c64662dea/tumblr_milyqmRJaR1qz5xv6o1_r1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8172 about to start writing to host
-PID:8172 wrote to host request:
-GET http://25.media.tumblr.com/15eeb357f9f5e67fcdcd4d0c64662dea/tumblr_milyqmRJaR1qz5xv6o1_r1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8172 just read 5840 bytes from host
-PID:8172 just wrote 5840 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: IwtFIU80iy467IXYn3Fs6EGx+lRh08cs8WsE+4hTqa4jklrj/fkoGuOmp98Mi+Cs
-x-amz-request-id: E7E80AABFA5E077D
-x-amz-meta-idata: v=1;i=+wPIiWAokwjtjYsQUW7fSw==;d=rmlNBdVFnlsAdR2omXPbV67XCaunGgESve4vXav1+ToYibIkGhkcAQBOtaR08C5Utd9aFJGsTG2qDBnU8jQMuQ==
-Last-Modified: Fri, 22 Feb 2013 09:27:15 GMT
-x-amz-version-id: 66MzBi90ca4GRoc5nmyltllDD7eLpwHT
-ETag: "286f6e365e5cb44e46d92f4f58849bfd"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 105011
-Server: AmazonS3
-Cache-Control: max-age=29403420
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8172 just read 7300 bytes from host
-PID:8172 just wrote 7300 bytes to client response:
-^ºî Ÿ9'~¾ÕL¥ÉÕ—EI.¸[‘
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-2[ßÛ\ÉÜ‘úÖÆsšveÏ‘Wò|nàµ]&ÎäŞ²”¨§ÌqS;i¿Ö»±áÿ
-PID:8172 just read 568 bytes from host
-PID:8172 just wrote 568 bytes to client response:
-ùIIÆúòªæ¯¢Å¦Vø¤5ŒZ<†İI^ŠÌhÛŞ´ø÷‰«è2ú‘_Y?Õ¦HÔ'YæbºĞšZ*İS0òhJ2åhcÔyÇû¥şK^‹›’À.Jb(zGoÊ²Í[£v7«å°é6¤É
-PID:8172 just read 1460 bytes from host
-PID:8172 just wrote 1460 bytes to client response:
-ª@5&²eò#¡‹Å|m—ëŸ¯ğ«d0êÛ| ’¥ |ÿ
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-²] ¬‚„JIt[Á.ÂCIÚTFÓ¸¨ª^Ù¶D…«jXô‚•¬µ[,Š±ÂXQÕ--9tbwÕÊ:<Y}—ó6ˆ@Dÿ
-PID:8172 just read 3488 bytes from host
-PID:8172 just wrote 3488 bytes to client response:
-@Y‚9{Ó=ˆ¤ÓØÒÕµ#+-…gsÔ#â_Îš]ÁT¬°âL»|Õ¹Eº’Ûpó>ü«<*,Ùš/"N„×*D¥JF†áÚšÕìªKDmõÂJ”`¤ßQíVEQDŸ¢æK…PLªÇû«E[qÉôD¦45–ÉlM‚|…4t!@ëşêœ¸ùì»ODãªfòÍN¾²TÄ'áÖ¨_KÑªOœm‘öí†Û–@JŠ¦9×Mõ«[¾Ê"©h²`É¿ESPT£ê:ïTdãÈÑIDˆmh°ö«Xñü–í„¡Dë¬Dî=ª‰›ñ¥D¦lÓù™W¤IˆŸ,¸íè“.*À)¼‡ :eæåU/ñ×Uq5‡ïK™J³¹š~Õ»¨™åû¶„ÂO2I$(¶[®ĞíÅµ0
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-"ÊÕ û‹ƒ§÷K’jS¤UÉb‡Öôl©vó¶ÁnÎ-™û³Æfyª'Ş¯ñ¼o6Õm³ÏdÃ.wŸ»Eƒx{	rÂÉ	Ki†Á ûjéC\½òn›1„_)Åßß–‹e0×˜¯--'¿2j±AÍıØ>Ku¹ŒqW
-PID:8172 just read 6408 bytes from host
-PID:8172 just wrote 6408 bytes to client response:
-­A4ñtÊ²ÇšüZ›RÊ…	ıUé˜ç–Ë?‡˜É°ÄÚmgÒâ²ÎhÊJvëdÇuGHÚy†²üè
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-j«jÁ«„¬¿1 ‚:Ç:kNœ»ÿ
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-´õµÊíî¦ÖÚ²”¨A
-b1I8ºf³à¯ˆNğåêlÔûˆr˜¾ç½W(şx'z:·
-Ç¬x†Å–Ö\JuÌ>•’ÜgfåU²³Ä¾`Ø£áË;FÒø\¡H#yŠ~I+}°¨«D½‚¬pï¸?0Úr€6#Üï\¼’İÅ,qmS)8‡†x%Ã®Ş¾¤sJÀ0[ÈÈ´	x°“¶fØ¦;Ã¼ä½lÛ¥D€´9êGµu06ÕÈÃXğK‰yâ†]OôöÒs$¤ÉÊ‘¬íÖ´İ*FgäA;‰Wâ?x¶å*·bùl´D¶#C´R{(Ëåd¯§F}usutâyÕ-fsªuùÑ1ÊM»c¼Äx‹cÃ­”ã®«üA$OjJØa7GfxIáÃ<ƒ"É”!Wîï¿¤i1=OáUäšÅgK&úEëˆ¸‡	àŒÜgu¶[a²[JÀ*Z£ášÁ¼Ò:J1Æ¹K¤p¿‰^!â ñØ‹®¸›d’›vJ½(Hí]Â‘Ãò¼Ÿêgköú)ÉQ•(Fÿ
-PID:8172 just read 5516 bytes from host
-PID:8172 just wrote 5516 bytes to client response:
-:§‹Eé¦
-PID:8172 just read 7613 bytes from host
-PID:8172 just wrote 7613 bytes to client response:
-á
-PID:8172 just read 8192 bytes from host
-PID:8172 just wrote 8192 bytes to client response:
-H`E

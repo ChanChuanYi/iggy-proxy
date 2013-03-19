@@ -1,94 +1,0 @@
-PID:8198 Child:Fork has been created
-PID:8198 performing initial read
-PID:8198 request:
-GET http://25.media.tumblr.com/39965ae2eaf646260c52de0861a94060/tumblr_mifwcowmxk1r95rijo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8198 about to start writing to host
-PID:8198 wrote to host request:
-GET http://25.media.tumblr.com/39965ae2eaf646260c52de0861a94060/tumblr_mifwcowmxk1r95rijo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8198 just read 5840 bytes from host
-PID:8198 just wrote 5840 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: FetpWGjAIVn7YIZONpmMDHrN0hvpTCKMargTZKhE8tdPtJEBjBQ1FCCif4fakeF5
-x-amz-request-id: 91B8933102D25D0A
-x-amz-meta-idata: v=1;i=oNorRZU1q0FJGDl4DUob4g==;d=3MgXcwGeOB3PCTvyfreCDt2emoyTgpviFdqJXIe6yiHDdyqCsatRAnVuVsXNbheflbRAn4+nYocE66o0WSRtfQ==
-Last-Modified: Mon, 18 Feb 2013 23:38:49 GMT
-x-amz-version-id: .LehPfpevitOdrp7ejKoQ2pbJz2tSb_h
-ETag: "c2ea181e27511cc4ae93fb81dd64b6a3"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 137573
-Server: AmazonS3
-Cache-Control: max-age=31165155
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8198 just read 7300 bytes from host
-PID:8198 just wrote 7300 bytes to client response:
-‹ÍL­!-t­‹A{IpµƒpÈÈË•À›ÓÎZË+N–FUöu0{|Ñ¾ØÒ #´±
-PID:8198 just read 8192 bytes from host
-PID:8198 just wrote 8192 bytes to client response:
-Î”³cp9R¯" ¨’E‰Rå¿­í4ic!·n»+˜iœImÕul+`)É‡:İ¦´”«¶BpÇzŒŒm"#U•ÁŸHÛÓKÊv!–
-PID:8198 just read 2028 bytes from host
-PID:8198 just wrote 2028 bytes to client response:
-ÙZ7’²–VÃ˜ô3ƒÏïı«7•]?™œ«³êRò®õ¦6…(“k£<gSÄ¸¤µjt–5DÁcO2+ìV^ivH;…lã
-PID:8198 just read 8192 bytes from host
-PID:8198 just wrote 8192 bytes to client response:
-Ê°À[ÏeøÇ™?ê¼aˆ]BVÆG?÷¯+ëp´j$wpJô=
-PID:8198 just read 3488 bytes from host
-PID:8198 just wrote 3488 bytes to client response:
-R:…Ré•l·oÂ€æ÷DØLw&/ÃHUÊ®5 ÁjA 
-ZÚòIB¶	TÁÆííFÓâĞÊHâˆÅX‡`¬p4Ê*ÇNñÂÒE¾õd$ÔµXEÍ7:Š×<h*£F$1Z¹å€=¿3§!Pó°–¯.ıI!l¸–$© sßë¿ù‘Š\?‰˜•Ç½äWšĞ9P¤¼r©lÛü×éî„Ô,¯aü—çQ;fsÎC‰?‚Âßñ0³‚Øä>iÂ})A u€®ŠJ²‚’¹L€rI©	Ç¢ÓúI†QÊX$H ºÀ'ówÜÒ<’›@S³ùZ‹E±ÜŒç¶j±ğßÍÂb)iX[ÏæA˜µ`s-ıºbª_ÒAMÅ5ºİÙc1F¬qÖ€önóÁ
-GVó£¾Ft©ß4£4æ¹[°å×™Y<›çÕÍqÒ¦a ec­ç*Í]¥U`Ú”m2?ÑJå
-I‹M¸XcZÆKdã;Ö>0EJï)Ï™˜Á6çÇó¥ƒ=“hæÔ~dX-!(ã’±½DŠR$•¹XõgvæíÖ´¢¢šóÌE‡Ö@Üm¸íRdCÔVFúQÈ:•]~ÛÔÚÁİaS¡d@ª…r¬üV9ù-Z‘¤›Yh`DŠLèO.¿sBjk_-äV>n¢5@ßçÚ´áh‘œÙWÒ\˜Ğev'Nÿ
-PID:8198 just read 4380 bytes from host
-PID:8198 just wrote 4380 bytes to client response:
-`ÿ
-PID:8198 just read 2920 bytes from host
-PID:8198 just wrote 2920 bytes to client response:
-DÈˆÁ‘9Ûÿ
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-ÆÃw
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-±íœŒô¡6ƒÆĞ¥Áp
-(¿k,¡Ğ•ÆÅsƒóïN¼»8A”
-PID:8198 just read 2215 bytes from host
-PID:8198 just wrote 2215 bytes to client response:
-ûı“ŒVWm •†169ıkn}¢´Ò…YÚGUf$Œ.ç§Ş´
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-=ĞŞQÿ
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-ƒƒ!CÊ¡ÉÉvÜÒ€a¶ÖÁ´B6
-ÁäíŠBfiNÓ—‹™KÈWÔFçâ€}”] 	Û‡<Œ m/ÿ
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-¿•rÚ‚
-PID:8198 just read 1460 bytes from host
-PID:8198 just wrote 1460 bytes to client response:
-E¡¸P4¼ãã0ÛİN¨ÇB¶wÔ#èö¯Nğà·UápŞ&s^×ú}ˆ¼àÕãV‘¹î
-PID:8198 just read 2920 bytes from host
-PID:8198 just wrote 2920 bytes to client response:
-	;`cmºR:ÅÃ,å³4Zg
-PID:8198 just read 8192 b

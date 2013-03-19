@@ -1,89 +1,0 @@
-PID:8191 Child:Fork has been created
-PID:8191 performing initial read
-PID:8191 request:
-GET http://25.media.tumblr.com/tumblr_m35qnomR1x1qzw1igo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8191 about to start writing to host
-PID:8191 wrote to host request:
-GET http://25.media.tumblr.com/tumblr_m35qnomR1x1qzw1igo1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8191 just read 5745 bytes from host
-PID:8191 just wrote 5745 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: KSSn2R4GJtDiahBj0H4uHXAxiPgqI9araa1vI0pB45avp2zcF/71rOFsb/mROG5+
-x-amz-request-id: 8B69D530D594B30F
-Last-Modified: Fri, 27 Apr 2012 21:35:50 GMT
-x-amz-version-id: MQ49ge96W7LgEAdzIhg5U3XVe.VaOdyD
-ETag: "6c0dc37b4f78f1a0d91d44115511a223"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 109549
-Server: AmazonS3
-Cache-Control: max-age=25424741
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8191 just read 7300 bytes from host
-PID:8191 just wrote 7300 bytes to client response:
-ç<½ºt¥Wõ/1^ÖköşRLù¬Ã¯†ùU>?C	şëJá_É}¿‹òúƒ¿§·†Oò¥šäºÁĞBK²)vâ>£~**uK$CäiÃ«òú…2şÃü·ñı6*×ÿ
-PID:8191 just read 7300 bytes from host
-PID:8191 just wrote 7300 bytes to client response:
-ÅX@‹Æ„°ö¨cè¶«’1³¹+Ñ!_kp×u
-`æ‚+²Ê1VàqG;€Å~4Õñ®J¼Ø¯zÙdˆğhë3l—wYc¼™¿Ÿ4·!$F­™
-PID:8191 just read 8192 bytes from host
-PID:8191 just wrote 8192 bytes to client response:
-Ö¾´`p¾	e3?q[È¬±Fee0İÇº…’âf¼“‹Ês¾ß»QkÚÖøøèkÅZÒüiø²Û„ÊC‘idºÉ[‰££ÑUw ş^äª´Pšêñêc°•Âa®q×7÷æP÷yu‚X£í‚±4´AY*C~cíhÕÆqò€Å*­'Ìz+«I.N[›‰omáãr†€U¤ö~(ßü<NÇå£vŞñºnÇ Í¬QDÓ6/!pŞÕT”»#
-PID:8191 just read 2028 bytes from host
-PID:8191 just wrote 2028 bytes to client response:
-;’Uuê[©Ók´>B‹Y
-PID:8191 just read 8192 bytes from host
-PID:8191 just wrote 8192 bytes to client response:
-"ÈC
-C(mšYù‰cP(­J’vPOÀj«~Hİ¹…kÂíµñÕ”¼¿˜XrÙ+øRj=Ö;q¨!‡´šÇPı×4ãkôöÖÿ
-PID:8191 just read 4948 bytes from host
-PID:8191 just wrote 4948 bytes to client response:
-¹TQ°uó=«äeíë¹ÁoÂB¨ä&ÉÙnŠ* 
-PID:8191 just read 8192 bytes from host
-PID:8191 just wrote 8192 bytes to client response:
-:ÍÂ4¢{yFàlMÛ¬êÒE4ÛıNÊ3üÃpz’æ
-PID:8191 just read 7868 bytes from host
-PID:8191 just wrote 7868 bytes to client response:
-ÒUtoÎ(zëÍ¿Úá´û”£Ä¾’úß¦ŸéŞâ•<•¹V€×§ÇJ·[¤n® 2LÕ¨ÛµqÄW~Óm·CJí­oÊ’ıëFØõ8Ï,.CÀ¹0H‰ +SÜE7¦¹½Doé±Qçl¤<#†è°è~Zoó¦©]@¶³9û‹÷‹áóEag›'äÖåfÊDx!¶ˆƒ¼îÔ<šªV0=Ã}mÅÂù1Éòrmí0·¹,§}Ùñÿ
-PID:8191 just read 1460 bytes from host
-PID:8191 just wrote 1460 bytes to client response:
-\d’¤I<’…‚•YI<@éµuÉ8)bi‰báÑ‰1£H¼©Èö©ôĞ›3_ºÿ
-PID:8191 just read 1460 bytes from host
-PID:8191 just wrote 1460 bytes to client response:
-ÎÁğÏµ¾9áÄˆÛÃ”Í\(lbh×œŒ:$ åBùGSÔëšïvfõÃ"pbñ_Sj±X@­,ÜCoíõÛY*¢Ûdºaìêõ²·!~(´÷j¶“¸vß‹J•··È¡ã
-…@ßBªbŞ`äòØüJÚÒÚ{èmZ÷1 2-!$,û›3”ôQ_Q«Ø¢IÜæ	<Ö6Æ,UÕ,áöÄåxE-†Ôöşmgd¡—Vää½xvÄùÄóFÚÓ+goyiÛ%S™Œ$ÃˆØ
-PID:8191 just read 1460 bytes from host
-PID:8191 just wrote 1460 bytes to client response:
-×&>&¼î_‘¨öTë£Ğÿ
-PID:8191 just read 2920 bytes from host
-PID:8191 just wrote 2920 bytes to client response:
-€‰@hhüªÛ:ib<°û7‡ÊXxE•Ö>ÚÍ×#,×$’L’8r#Z…VÕJõÍ{7cz¥Œíä)ÈöXú ,Hr(»“ùkûµ›l¤ó6jòÑCÛcLW1K#OÅ¢‘hP?Ä¦‡Jl8G }Îûm?€e­Ug	g—Ey£N-SÊxÿ
-PID:8191 just read 8192 bytes from host
-PID:8191 just wrote 8192 bytes to client response:
-Ôëò³Zñ¡›I¬î‡Ô *›ò9Pî*ûépsZêZÀ|Ü*®˜[Ínèƒ‰<©ñ;×ã­÷J2ˆ"±xëh±–ŠÑ€‰JŠ“UôÁ¤”³\[ÙD1/>ë#uXÅXşá¬—¸|x¿OE_&ÚæĞÈñM+ âzD
-PID:8191 just read 4948 bytes from host
-PID:8191 just wrote 4948 bytes to client response:
-ğõĞšF#h2r¼”È?%w,ŸK¹š„ÀîNßéÑµv†îá©ì¼¼1æíc·ê!úBĞ¬9_†ªµ98u³ê+÷;ç7S-Âyœ3ÀKB!³
-PID:8191 just read 8192 bytes from host
-PID:8191 just w

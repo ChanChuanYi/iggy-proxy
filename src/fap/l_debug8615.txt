@@ -1,104 +1,0 @@
-PID:8615 Child:Fork has been created
-PID:8615 performing initial read
-PID:8615 request:
-GET http://www.iana.org/_js/2013.1/jquery.js HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8615 about to start writing to host
-PID:8615 wrote to host request:
-GET http://www.iana.org/_js/2013.1/jquery.js HTTP/1.1
-Host: www.iana.org
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: */*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.iana.org/domains/special
-Connection: keep-alive
-
-
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:55:30 GMT
-Server: Apache/2.2.3 (CentOS)
-Last-Modified: Fri, 04 Jan 2013 01:17:15 GMT
-Content-Length: 33430
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Connection: close
-Content-Type: application/x-javascript
-
-‹
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-ZBNşy ,hÿ&¿˜İ+0?9áƒë—a>êÊ®«6ÑB$ÿªb@{1Á}º¡¥¼¬ ¼ô¦Pú=ÆY âb±©cA:ëœª98
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-ğ¢LD8b€¢Ù(,dktÎ²ÆŒM¸zšÁë“u¦0²t{,VÊ¥1ÂíñĞÛN×Ë÷o$“ËŒµ!–{-¿½18û~³¥ÃPÈ•u¾^/×tnà'L7¡÷ãòH¦qƒµ¯—sê>†´]bB¨Ó(ßWëÚÜ¥i¾ÙƒAËG¸+ßû"œÖ
-PID:8615 just read 1 bytes from host
-PID:8615 just wrote 1 bytes to client response:
-9
-PID:8615 just read 5840 bytes from host
-PID:8615 just wrote 5840 bytes to client response:
-8¯¶Ë×,S¡£¡ñno~z¿Ğ´ßG:7¤¨ûõº˜«U‰Ú]-–Hˆ…³ÜD¡ŞF§Ã«“îhàÂ«ìñUo\e]ºæ/Fò†îwÁio³¼[ÓhÖÑéÕëSµ¡ŸM÷Tm£Ó·Ã«ÍÕİË/_^}xz6êîj÷N'êŠ¡Ò·º=ö/†Wï¯~u/ƒáÛËÑãG»?ùxr2z<
-NÕ;*|á_½ïW›ÇW§ƒKúòâêôêür<:Uï¹É‘"¢øjC_ŸªÑ)y»w*À8è«aĞ¥f?R/¯Ğ®wuuušŒëíhw7¼Êâ“ñÓ“—£û¯öûzÃ·(³¾ZŒ{;Ø,íØTi‡cuw"ÓóàMÔSêØÉ|srª¾‰NO|næÓˆŞêYëšøI×ójÏ½zîÍ9Œ^À:áûbC$_¾ø¹ÆZ•Ç¾÷ü§‰œçûeœå™§ƒQ@rqöÑ‚0—Ë×`“E#$4ÎºœöÍ–øI®Õ÷–.Êu:“œês+Û«0²
-PID:8615 just read 2920 bytes from host
-PID:8615 just wrote 2920 bytes to client response:
-ãÚ2¥ŒŞ‘Ô”.©?7n%I*j†é¼¬g/¦ÅÂª19´KYavr"štñüàÁ0À„}s¿³ñZÆl¡Œ}mÑ1´“ËIÿU#(§¯mæ¤Q¢çKx¥şÒÌnZ‰F‘ª{ÑÔVãÖkµh‰]gñË­¼”o¡ÉÁ¼å³Ojæzq-ğ%ìô0­2Ñõİp‘ÌªÌK<õ„÷tøĞşu>‹Ö*hè½Á²°0réÔ¡¡„—r3µ
-PID:8615 just read 2920 bytes from host
-PID:8615 just wrote 2920 bytes to client response:
-w«İN_Ø >åSt­†fĞ™fF;„
-‡qÕk¬rÆëRÉ`¿FYükZ]À{JÏ–÷êƒH&ˆñàÖÄº¨­ÛUgTUx+â³cb^?‰ˆ	!rR»¿ëP‚CÕcs8IJYTh«i?J‡„İë¬±õçÑZoJ»ñ“öÚüKúq«´ä,äÿ	ä}ÿ0UGHuM?Odáu¾)ñy`F¯3ÇjÚÅç<4¤”1”÷‹ OĞ§H¾¨n’…»I¦jÍ¹4Ç 19t¨O×ø…Kxßóéœ¸ê^÷º¹G5Ó{:z¯ÓVg>®Ñ%Kxjf45³›©gFSs-aèìç"¼í™È"ZÛÏğƒWAx|ÄO¼¥n{vG6h“Âf›Ê½÷É0Ë§(»4p8;9AÔ•òíññ²
-šT`¡×•re ÿ6úËRÇ}v||C(viÅ½¾ß+g¼Î–ïˆ[k®m66µÖ›Eï\@£“”K_1†X7„UªX#ûsŒL—0ŸÔ­Á<i¶ƒÙĞİf»œ‹/í½¶Ù·)/K3HfèôQâDGO>±ÃúÇQí|	ã9çş?d[¶lIµğUÏª-a?ìŠG²Ò›nã ³›rSª›;¬e¦9ØD&ş™‚ìº`Ö)Ù3%·(i¡šú°µ6„[ã¸ ŒËÓÔ™´áI3:5dµ•î†M¯Aê˜ÂÒPÒéÈjoÀŸW@0Ï”3½¢õ~#
-PID:8615 just read 2920 bytes from host
-PID:8615 just wrote 2920 bytes to client response:
-£,*¦¯¤yÉ
-%"w¢"âÒ[#w]¹Ë(lâ&:‰r•·Z±ù’´–ô‡@9†‰1Œ™ÔìÀZ&K(²øÆ='íÚ+„ënrÁ®3ºcƒxÔÉC>Úã¼NÚ³á»Ù®frò
-±·òãšúCf#wôË¹¥îº3å¼
-ËW*/Õ¹•0+«Ki4'}Œ—Ú#*“›ªH[JƒÏkÔ§aÃ5f™5AO»Ck¹6.
-Šíâ€œ>†­\‘+àu·h|Rû
-PID:8615 just read 2920 bytes from host
-PID:8615 just wrote 2920 bytes to client response:
-"K´@Òp³óºÒë½ú5jbÒu{òsD­/%"A¨ŞšÒŒa 4ûHG»öQ¿E¿¶r;•4Š¦¹gË¹4ç‰ŸÁÁ¼çÃïõ¯Cõ»IMºõ?}q‰dëŠÌƒeÄt7¡÷1ç@ûxí¦ôş“G}zTëSµ3²c¨#úB2İ$6ê¸“Ù·ÚŠIØPÆªK:‘oµxˆºñûçL-ì?Œ¾äGù:Acóİ6uc}q•Qº¾ò½Ü®Ü sĞ¤Ncõ›J©Ï©‚CÒ0“¸9İY´ì©:0ÆøÂë.»
-PID:8615 just read 2920 bytes from host
-PID:8615 just wrote 2920 bytes to client response:
-¿IŸúÎ±W;v¡h\¢,˜–‚àÇ,X¦¼è‹GçØ/rŠ³ä½36i~k —È¡ßuåˆRI½ÛÅ °3ë«[^W2[Ç´BéšÆT
-R×~"qí'‚½ “†]l§‘Ã“Ş*ã½±‰’['R -S‘ñ&·Vİ-Éï”ì¦sQIR£ŠöX?£cÂ“´g«µ­{¥I¨BĞã-g¹³vªLDjÍ T"Î5ZØCËÈ”qÿXl‹Ù£S•db)ğ¿ÙA>H·üzG€T&§2½áÛğOWÃ«=ÆwcÓãfš&•L¢{¶¼¡:%‰%TÆRñÆ/‚À¶_	—3®Fğ¨eOç0Åõp&M‡tĞ›ƒ½:‡¼Hjam¥;ÑNX½)’Er¸
-+ôÜı‰ØSc½ŞÆéaå¡¿dîeå®Õµ©ÿ>s|Ñ$†»„AK†÷äò,(èY?¿°ÁtáåP¦CÊXıÂy8†vm?Äû‰!òr!òªÒäÉåhmääJ÷©=ÒšÉãà$ÒÈ²–™“XâØfÎÌí¤“-ìom>“kË<úÈc{ïFàêÏ¨à,ÀÚà;©£Ø´‰ :±’Õ	{”Œ­§„™¢2†‹Äã7AJLT~YXBöº“—Ï‘-h¶ÜP$ß°ÙràÈpTe¿Úâ1p_çÎt74Ö¹Äá
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-HmyD?3*.Ao–¡'Wa„ğH_zÊ%£CKÌËÓ§LÁŠWÃ¤•£é•¥Kù™Q&½#<«Ñ1.†ÕëİCô%>³vB(°ÒL–¾ß ˆ¾EzBdj)Ä`i…ì(6Yäç&©‚Œ„‚›Eï¹òÙúõd,Y7ùŠ³CŒÄ˜ˆˆ‰Ë1¸J‰&ÅZæÇæC©ß¥ıS]:	è»¥÷A×#Òj
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-¢'ƒÕùO|î•sêõJéÿ3(ºxESåÃÑ¯TåWŞŞTxJ¯Ë¯ô;ƒŸÛè£˜}JvÆ¦•¿ªª†RğOÕö.Ë6©1Y;ˆˆT·µå´˜;	úàsY]”7{Î G¤?ÖZÒ¤e÷×Ù—nr¯i¯	.xb¿¬¡4ã ßÌÇıÉ ÷Ÿ}û
-Ç%¿Ë˜`¥.’1>Ğ‡æVnñ->HMI·ª8O`t§A#º#¶`×U¸0óöº²×Ìíæ%Ş±)Ğ£~ÃO¿âT·~ØØ\p,#å…½+ëjå‚à÷šİDnò1¡G\}ec¾*Ëj£…¾À›eºô"GŸTU?¡,ñÌ•y¼Uä†vnv²2k¶°%?nİÿ“cúŠ1—LÃ‰«m+3Ë
-¦±
-B’®{¢bŞ <j›üÆ}<úÍ¿sN%Æ$½£‚—±·ùğ¤•óí€$X^\¯É,4ğÇ0üdH™¤†ğ_Ñ¶¢!Ü®“…I<z'Dt²ö'Ûƒ‡"—bz+™=¿3h|èq‰Vˆ[·’o^½Ißø6SÕIóé!7(»†¾“ <_Q™¦›ØSıb÷z¯+öÓÈ>d—’ @”®p ¶±L#Öåª÷õŸ®•^Ö¿°báı+4`Ó\D·É"¼Ğ;á)*³´ )R`JG¤Êöo6/-É­ÎâLø	Mh¶È•?’éf3ˆàKAÿ¦aîÒÒpUa¶:ãş‚	"éïD‚•ú’³Ÿ!¥6øÜ×œjhÁF
-âÓæçÄÜ¥¿Gµdô¢åNè(Ü8ÌPû+šŠ‘†­°;h‚Â1c&Ù]Æ5©•æ3ÉN7ddÄ3?ú·HƒP“N·Å,Î{„’Ø'ïÍòë_ùfŠ›t-7u¹SjŞãìéºS–¹ïLBç­)²,mIXhî©Õ(ÏxÊûí9æs³nóg‹ŒA²ÉuËgªÁ‹zf2>j~İˆ«ïÉ2D¢ÊÅêv½¶K÷^×bäNyk¸\†C1~Æ1_@CŞç_3PœlæEœK¾7Ï×Y~¤¬a^P÷vÃYæ4áJWË’Ú©sŸ{™æuxàÅßR¬[Ğã6Ù4ÑnU1£œL[Éšr·Ñ=uLS5gÇgÚˆèæ,Üe?ÔH§|ÜQ}V{`–ÏR¨Tª;FŸ£rM3IØŸ­A¡{¶L‚÷ÊÅ8[t9XP4¶ÂB˜4Í6¨‘gÄîL‹£ë•|¼?joÇ¤µüÚE@ïO“°“OÒ’Şàø¡ƒõ„[î=8:b‚ñ¼¹qbsî·¶\˜Å.ê$–ÌcyÂ7ßåuFpâÔäÛë¡! “¹ò¼Õ¯‹c§Xİ¹ù“ZóúŸjL¥Ú:€àn§È7Nvhz×ûmkÆ~‘‰I£ÇŒè
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-7&ZÛf‘^O³M•¥u±Yfg"?›Õ¢ØÜdÙUğ Ÿ‡êBzmå+
-úySL¯Œ]ÚyxŞcÇ_aêŠâ»0er‹î3üİoé'¯VS'®Wlã‰ˆÆÛ}®şnC×*øPl\uè¸}‹±´Œ¨.dQ­M1‡Œ£ò©S.'ÔacØi1r7C\1™Í9‹
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-¶_]C3bØ¤»ã_%Æı^ä1= ‰¡f
-êµŠĞÔ0®Êœ¨Œšò[mÂâñÛT§ÛëÎĞÌ‹-IãĞ$DÈpÎkÂ¬ë!wL·ï„¡ÜIN]£ÅÕÜ÷„x²…	µÙHq~Ç°âšÙÓ¬ÍfÖ8¸‡.cÆïdXR«?dZ©lì#õ¼÷<-ŠQª®*ß+é¥ƒY6+·ÿM½Õ3ÍnBK°q+ü|‰´=…~8‚å:¾«Áƒ
-PID:8615 just read 1460 bytes from host
-PID:8615 just wrote 1460 bytes to client response:
-ìğ«FÔÂ9ğ5ßQÙ"íY¦DĞğ$‹®7 Ñ»µáåj	hLõÊkVäã‚i«)èİëi#7‰Ø}Â­X9´m³éãíl¼1t³¯ˆN%xè|«öŞ7¼Àb¤ãšù:œú‚­†@ü„¦û-I3”iK¨£™åPÎ<"’àÅIDÈ×ËPı‹¦æ)S»r"ææd59oRö€y¨—D\¤øÄ«_âÁIë n}±øV‹Ú&@â1‰–†÷
-TM½&Ê©W}huÑÖŒ!¼cİáaJpGÇáº½›|yñ|‘iBó´¨`W‰MşîèüÀ5YÂSs˜Xƒ„kD
-PID:8615 just read 1571 bytes from host
-PID:8615 just wrote 1571 bytes to client response:
-ì²œ#FÑÖZ:"ís/|æáÄ=œê©ã‡¾®D²>|-Ëİø2êÈgÏŒr~¢9j¹G´‚v{#Šy›9(—l‡:z•	Şdíqòúo„MDª²8=ÔGwiÇ«y5§ÊèE…àY„\B‚û±«À”HÜÑ~yàGG™Ç”=ù¦»Õ»ÚÓÌ¼Äõëœ´ªÛ=Á1òPˆxÌä—m'40ğ3³8ìrÏ%Ø:²’c„5@@_›–øİàá2FÆ™L–³»u×îª‚
-PID:8615 just read 0 bytes from host
-PID:8615 just wrote 0 bytes to client response:
-
-PID:8615 job done, returning to server main()
-PID8615 fork is ending cleanly

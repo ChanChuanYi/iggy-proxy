@@ -1,140 +1,0 @@
-PID:8194 Child:Fork has been created
-PID:8194 performing initial read
-PID:8194 request:
-GET http://24.media.tumblr.com/fe2e98920a521ec3767e2aac8ac46f20/tumblr_mjmabfTOk41qd7t5co1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8194 about to start writing to host
-PID:8194 wrote to host request:
-GET http://24.media.tumblr.com/fe2e98920a521ec3767e2aac8ac46f20/tumblr_mjmabfTOk41qd7t5co1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-ETag: "da18a7a58538d6c4433c153d53e220e7"
-Last-Modified: Wed, 13 Mar 2013 20:59:41 GMT
-Server: ECS (sjc/16A0)
-x-amz-id-2: jx+OBVBWQgGUxAp/fUQdTm/9osDzTHtHdcRID80v7ANrdyNAuxUNfPmv80VKrKgd
-x-amz-request-id: 016BEB8696FA65DE
-x-amz-version-id: LhR_ch34u0f9k0YgTn5ogR1a6aOikdC1
-X-Cache: HIT
-Content-Length: 224148
-
-ÿØÿà
-PID:8194 just read 6408 bytes from host
-PID:8194 just wrote 6408 bytes to client response:
-d3s}N&dn¯û)pwè¸6Còvp‰k¥ÀÃÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-ã=—ÚZÈxñÛê(£şŞÊÆ§şê«232­Ş/®’Dofüì¼Ã[…[01›ÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <?xpacket end="w"?>ÿÛ
-PID:8194 just read 1136 bytes from host
-PID:8194 just wrote 1136 bytes to client response:
-È‡tÁ…ºÔ´8‡Y¦Ôd¥HV¨s»øJæ=ñgÊlò«nêİ8=¾*çB­7)Å@˜ÂâMFå¥›jÛ”ŸèáÑI¸QNi-nçõëİ;QmKR€$
-PID:8194 just read 2920 bytes from host
-PID:8194 just wrote 2920 bytes to client response:
-0%ãİ@ã\¬™¤ÙìAØ®È%²¥«b.AşCºÂ£`%ò^ókÚéîHãòÅ9×ÈB‡B÷FÀöwÅ³à¬ŠD6«Ø
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-_’?ôàs|¦aJQ ¯¿ßßçÙ¥( ¥[Şÿ
-PID:8194 just read 568 bytes from host
-PID:8194 just wrote 568 bytes to client response:
-´h?^×nnyVmH<4’E®S¶ÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-ÙBĞ8R­ …ÆÀûâ;Ìµ€OÊ6ßsuÏlS
-PID:8194 just read 568 bytes from host
-PID:8194 just wrote 568 bytes to client response:
-FèO™\öúâŸºèä"mJeEYNä„mØöÅm
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-¶ÎĞWI!d€´Ûp8ß·òÂZV€À‡X°*Ü0°z«àRÅN'ÃUÏ6ÃÚÕ`ã
-©I]–İù6úâŠb]ŞTÍ»e’/kÛƒş¸§,•wJ8j?ˆ—cÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-+Ø$¨€n;ÜàÀ¡EP$p¤Ö‘t«V¥mcÆØ&:†B3EH€\º€Óµi»=PnS!7O(o°¹ÛõÅ—YáX´t4%µ’óoÀÁ0o$T
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-Ù‰«Ät•ÉoØvWŞÇß@Ú—M'=•ŸS‡R»,;gZùÚp­TûsÆ8((·ò]ÉM¶ãü±lí(†Ğ¥nàüİ¯Çß·P‘@›l´U¸ ßËnIüğ@í$ôWv‰j(VîrloÇÛ,ÑåLÛ-±dÜ zé¾öÂØáHÉ
-PID:8194 just read 4624 bytes from host
-PID:8194 just wrote 4624 bytes to client response:
-ÓÜÛ2VPºR‰â¥YièåI¹æ×ß²Şï;8-#îºZ‰7ºVz4¦Wmå,ŸÔ|›’èÙƒ$u93`şÉ1ê~iWŠÊà¥J)”›-´Úÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-¶Y)+WppÉ„³j;Úé{Rh´.ñ@Ÿ©#€}]z×ÑúvS¯têS~‘%÷iS º¦Øe­­*@V¢‚µ7`8›clz‰Cœyè¸‚yõ?˜Ö[:ØZ¯£ù®½UÊr)±2]V³HnTf™nôF	©)@2§”ŸŞ(^ÇHâÄáº¸¢ŠPçÉGákªÖ>} ØÀğ:šø|•â“’ºëÓ:S©4$½QøÆê–©ÓšÊ	SaÅép$$Ür98ÊíFw–“Ò¸®M,1±LCGFÓæ®9bƒ3lºÔÉıs©Än¡5X¤ÓÑ+qqĞ¤®êH)°;ò=ñ™ú¶Dÿ
-PID:8194 just read 4948 bytes from host
-PID:8194 just wrote 4948 bytes to client response:
-f]åG§;./N¦­‡]BK­("­¸¿Lfóâ9\­»Mrš+,´ózÃe6ìGkã¢`j	¼ªVú“}(I°û×Â›<¨YEšP›¶’«›}}pf ßïİPòğUèÅHÔPS{„›_üöäa22è„%¶‹•^R@N ¡}ÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-éîAM‡¥ïézXÄÒÇëj3\ÖÔn~&jrúëÒö¡ÄˆÅ7<åæ’|;­K}gøÏ*l€=ğöhƒ3‡-!a•Ïü+$$àÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-÷äà¢1‹	úÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-ZZ“!"Dçì’ëŠºÒØ**W „ûŒS4‚XÒıVf:M8&¯¶
-PID:8194 just read 244 bytes from host
-PID:8194 just wrote 244 bytes to client response:
-Rèì%İI±EïÏl+cwZ§;²Á×Ú-øIMÂ¶·'œqÚ¥¥‹ÓKPR¬®ÖÛlKy¥D¬$ÎBÛ
-PID:8194 just read 5840 bytes from host
-PID:8194 just wrote 5840 bytes to client response:
-\aB›e¡’Œ¦ÍC­•´¥
-PID:8194 just read 4380 bytes from host
-PID:8194 just wrote 4380 bytes to client response:
-¤ıˆKæd‚ÈY®vš?¢×´äÑzÅV[Ò¨Y½+1ÀùQ&Jÿ
-PID:8194 just read 2920 bytes from host
-PID:8194 just wrote 2920 bytes to client response:
-Wªù«&<„Š~jkûG½>RæÌÌE¸ä6áÿ
-PID:8194 just read 4380 bytes from host
-PID:8194 just wrote 4380 bytes to client response:
-H'r}»áÁ¸îe¶'FØœçscôFäÜ½>\LÍ&ni¨Çrvbª|l§Â´…%*iV£dßq¦çƒkâlÛ%ÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
--©²“§JÁA:l±ÚØÉï½¤argÓÀç—î"óß=U¦.hüUÄMC$d”pvqš»Ñ–G¸)Xï‡ÃÁ‘àÆE¶_¨şÕ<ùÕ‡¡.-o¡J–…ì³O­F”‹orç†oéïl)ûHİGÔ!lOİmx?e­gõòŸÑY¡¼Ï•s5"— BÕ!¦ÍÇó¤¹â´HZ`9PG;*,½†Ïdé!qÃ5Û'è¶­;¯½¨Gb[¹¼CnBŒ¹2ˆéRyÔ´b;ß|Zí£pÈJtog,?ßE+}jÈsU'+å¬ÑB©.{L•!º“A1£·`şe­Å¥!<ì¢vÃlŒaK\]€=:­OøÆè_êVXw©9V±•š(q–d!¶ª1Št©—Hô’O7ÓÁß£Ô¶l9jd‘%0¹V¯ÃV'æ.PáÉméu#_²j%a³°(ßVØÁ¨k¡ÁƒØøÍgå<‚B‘Ô¶i}êE62Uú•1…8’ä–˜V±c°!
-B®o¶ü^ôæ9­cúä}ÒC‹ôàŸıˆ[?¦ó£Óúw•¢´æ¤·GˆJÈ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-7â#¨y¬gúm
-Dç 7–Q‹2MHGT—)òÑæ)´Òæ½ ÛUˆ ¤ã³;e_)ÚWì;úŒW\õù-i™r¥;#õ·,T2Å1é1àe×¤LEë‘PªJuĞTµ(émB‰+6HIH±¾qí#Ì~Ôœùñ8Şn¯Ğr¯]Q¤OÍ;«Pa°¶$V¢¢wÍ¥•-iÔ¤›t¤¨ƒkŸ{aĞN÷÷\ƒwîü¨˜zW8ÓãÓ¥‰rÜ>µ|Ú¤=vZ
-ÿ
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-ğ	ä±7Ùßˆ9E-«ÓŞªõs¦b±	Ÿæ”Çƒ1õ+K¶U~àÅ»[ß6ï%¤„­Wı=ãĞÚ_Ô¬ÓŸz¶ü:¶f‡	§à&$xì¥IC…WE[¥6·›à£×E	-Pé½…'³ùuŸ²×R²a\¦A„œH—Së½Òa²Aíë¹íLöŒEÁÄôª]AìùÜİ¿Tó2Å®æW$J6e9?¸î¡Õ]âÚ‚Vµ¤»)$¸8Íª_DX#4ÛÆp[ıı”oUêé‡‰UV¤ª²d¾¶fª;º	H7µ×º}OlKls›€Úê-kX?/«K"e¬•WT­1-ÙĞãÉdÆ2û¶…Å®5\ŸOS„êµFw…“Q¦šcáÊè™_Šš"`%è™ncjl-/ùQ«bmô	tò
-
-PID:8194 just read 8192 bytes from host
-PID:8194 just wrote 8192 bytes to client response:
-iÖVê
-Œ·¸$‚SÉõÃ„íÓŠ9´€àùA&«÷U¼ç„ÑaÀS(T‰2JÈé.¢H>£ë¶Ø×¢”™KÇºĞDzÙ´òF[y°è…®9·˜ËÆJÚCH/:¡¾”îuÍı¹ÚŞ˜vœ8ƒ5_eg·Äü<.Ü
-PID:8194 just read 3732 bytes from host
-PID:8194 just wrote 3732 bytes to client response:
-”]U…ïÇ
-PID:8194 just read 1460 bytes from host
-PID:8194 just wrote 1460 bytes to client response:
-‘ç–†™»¡‹yİU¼çmôìç‚~µ&¥éX%q†q×é«ğ¾×Tä¤ !k)%Z
-ÎüßoåÎ-¬ñ2O
-PID:8194 just read 4380 bytes from host
-PID:8194 just wrote 4380 bytes to client response:
-HJÖ»”6•(	Läï?·İmd˜-”N\š˜`ª¶]zï¾”= ¥„•¢Ü¿Šû0C‚vsıµ°½Ôú#êRœË¹“051×Ä —Û$P’¤¨[ûÀÜ{(aqÇãG§¸ÄşŸ¢X—ä¾Šœ÷Ö¦_’¥¤D_€G}7H·¶)ÔÆ\I&¬
-P

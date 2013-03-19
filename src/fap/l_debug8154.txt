@@ -1,74 +1,0 @@
-PID:8154 Child:Fork has been created
-PID:8154 performing initial read
-PID:8154 request:
-GET http://24.media.tumblr.com/93b9172f66ca620ce705b4876d34162c/tumblr_mje89owu421qgfgmzo1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8154 about to start writing to host
-PID:8154 wrote to host request:
-GET http://24.media.tumblr.com/93b9172f66ca620ce705b4876d34162c/tumblr_mje89owu421qgfgmzo1_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8154 just read 5840 bytes from host
-PID:8154 just wrote 5840 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:15 GMT
-ETag: "0e997a5b27fd00eb7c1f5bbb288a336e"
-Last-Modified: Sat, 09 Mar 2013 12:34:38 GMT
-Server: ECS (sjc/168F)
-x-amz-id-2: l+Bh6en2hAsckCkrvT0rtNDKFUjES322DhUdlOCaB7xyTlONFD63Kelnw5EY0vXR
-x-amz-request-id: F9B544932D5823F9
-x-amz-version-id: qyYXX8Wq3MGFoMORebXmeRfx8ASgX7cB
-X-Cache: HIT
-Content-Length: 110271
-
-ÿØÿà
-PID:8154 just read 8192 bytes from host
-PID:8154 just wrote 8192 bytes to client response:
-ƒol+tøåÍÈ8R³5Îi© İ‘nn@eÚçkoÖøs“’¦3séŒ¹ÇUM5=3BëZ²¨iDA}E·¹#m‡ká¼ŒYœ/áÿ
-PID:8154 just read 568 bytes from host
-PID:8154 just wrote 568 bytes to client response:
-Œ™vXÉÏéì~Ì¸ö\†
-¦°	 	5DÑŒÔ4±Æzã½÷¾+:‹»Kk+?¸ë6Îi¢A9@AkÜê¸ïlçĞé~ª+³†Êª¨óÄ²Õªp]6+kbO×|$gò¶+Š¢æàÆì[
-PID:8154 just read 7300 bytes from host
-PID:8154 just wrote 7300 bytes to client response:
-_\KR â\•Õ@\r+]À)¿k{[›à–Wİ–—‡ô1µJÈQQ½…®qX´–ß]Ùu’’è<äiç‰c¦Uş)ÒO.¤'Êöè/×r«D˜çRIŒŞğÔµ³‰‰¡2 ÛÍ¥¬VŞÖÜøæõY9+;/NÇï*O’Êñ¡¦ËÑX&Î¤íÛ0ÎÖKK‹àİÏ¥Kvf¾,‚©3J¬Ê­RikD <†ìÇN‚öökı±ÒC#u)#É¦àø 5ÔTÌM Ü7Ó§½Æ.Æû22´ŸLs®È%Ïi(ë©Ú­ê2º\â
-±h¯Sl^BQ£Üîv±¹Â.L¯¹Z\òáæo!‰¸™Q-æjHÔmÖÛuôÂ)îù _EıÁµ%\i­llHé¾Şûo‰âíp6qo’Ü¡–ªƒ¥ÏË§¯LC›œr+e†ØÚ$*ÁJ ¤ê>øù£ø¾OİjşÅÓ¢ÑÊëB"ÜÛ¥±âÙ±ÛfÄSÚXZ­)³vÇ[ü-’¿µÿ
-PID:8154 just read 5840 bytes from host
-PID:8154 just wrote 5840 bytes to client response:
-ˆQ\•a¥Pl	-¹èûâ9I.Ë
-2É'\¡nSJŠñ˜ä¢ÄH—ú­öÃd“\„1ì_’Cš@ÿ
-PID:8154 just read 4380 bytes from host
-PID:8154 just wrote 4380 bytes to client response:
-!¿¡Äm¦¸%KcÚ,«âG—ç×ZÑÓÈ%t
-PID:8154 just read 8192 bytes from host
-PID:8154 just wrote 8192 bytes to client response:
-Ù%$†£:Èk+*¥—™;I<4¢BI7Ò±ÜŞ<ƒJ…­â6QJñE“ğz³­C´kWËxµ4ùBk[¡a{›áéÂ>ö§Ø®~(ñ2EÉ3¬şl—)Òµ%5(X$‘1«Ç¬®÷»Zwë×Eä’¥ÂÜqG+à‡á>’lº¶N!Ê#§Éæ*%Ò¢9³8€:4½ŒÂò]™T†m!IÒ@Åı.æu/V}e.;.x¥–†¾¿-£ŠŠŠ%ÃKL‚8âŒZÊ
-PID:8154 just read 8192 bytes from host
-PID:8154 just wrote 8192 bytes to client response:
-_ŸŸ.UåTMs%ˆMÁÖ’òÏ©1nLe«¥İ‹·ìĞ+[
-QÕ”´“®ÚA¸¹úwô‚5ßàßjk²\Ş«#‘æ“ˆsšÉij)˜hZ¡Òaî€’f;¬wÕÑÒj­r^œ	áî_–QÒÖæ0«É][Y…RŞ’I˜•†2/¤3¬Q{±“OVÄI¹²&¾‰7‰~$ğ†ÙÏ	UVçy~[53e¹†–: ¥–i"´ÔÀ5M,
-„Ùˆ/|Y„]r6štÊ—¿FO4qæÕ3p½;ÔÑIH*3Ù#>håjKªÓ)ÚÊâV ÜˆúáûG(ƒÈ¿^f§*«Š³*èÀ’yxƒ.hãÁN¦h#hĞy«=ğlo†ÂXş6²cÄ¼m”g*W…øÓ)~Y¦«Ê3ó9Ù»÷}Z6*@%@ô¾kˆİ“\8ÑÎ¼9¨â:jŠªs’VÖ-Dƒø§CT}có4¤*[3m×¦D{«„Fx§ÂÜÑË¨pİT2ÆùFm,ÔU({H•O2 f6Št6/ğe,ü7TÔ³fyVMU’ç2Jy´sa’Ö6xÂ³G9="Cp>K\`NWÀn^Jw2ğèSRËM˜ÈÔiŞQS"&¸»]	ĞÄöÍkr°»èŒWğÎA•ÌñO]\%FóÀi‘W³‰Û÷`F×\	ßpÇ[’‘$§—Ÿe˜£²õ\FÄƒÒø'ş³Ğ×ÓCH¡¡H‹»¨C#HV0Xîª«ŞäƒkÊÓ%|-”eyVg&cÅÙ„¡´KÎµnÉËó‘ŸmÈ^øš_à[_>]áüş<ç‘Òp¦MKC—C!æULú]?6–f{}I’y@ü¤Ù«¼:üQò‹O_Mh>]^hØíÿ
-PID:8154 just read 5516 bytes from host
-PID:8154 just wrote 5516 bytes to client response:
-'c’	«¨V,/®C½ï}>½:á©!‹+G-Š‚{†p /§’¦ZqÍ4z®BYOŞÖÛï„AGM¨i•æp,òJl¤ÿ
-PID:8154 just read 4380 bytes from host
-PID:8154 just wrote 4380 bytes to client response:
-´¹,W˜ÆÌ+3¬Î	kçNï-4/İÏRY­én‹‹®ÆJVù>bxóJï_™ÀÜE—¢ªÉ5sC]cb[á"æ®“êÄ›õkâú¦­ì ¤Î#å¼1M*")Ìˆn?¥™M¿l=5ÔWTU+

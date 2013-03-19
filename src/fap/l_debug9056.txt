@@ -1,59 +1,0 @@
-PID:9056 Child:Fork has been created
-PID:9056 performing initial read
-PID:9056 request:
-GET http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-dp-2._V377221434_.png HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:9056 about to start writing to host
-PID:9056 wrote to host request:
-GET http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-dp-2._V377221434_.png HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:9056 just read 8192 bytes from host
-PID:9056 just wrote 8192 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/png
-Content-Length: 22652
-Connection: keep-alive
-Date: Wed, 30 Jan 2013 22:57:03 GMT
-Server: Server
-Cache-Control: max-age=630720000,public
-Expires: Wed, 18 May 2033 03:33:20 GMT
-ETag: "41-fgRF7CtL#1"
-Last-Modified: Wed, 30 Jan 2013 22:55:11 GMT
-Age: 4072563
-X-Amz-Cf-Id: hS-sbj5txkKnnVlIdRj_7Flu8K3TSRinAmUqm1CCBdNk8tzZmsFRDw==
-Via: 1.0 3abd4d191fe2a0f73506d125c9ffb4cd.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-‰PNG
-
-
-PID:9056 just read 8192 bytes from host
-PID:9056 just wrote 8192 bytes to client response:
-¨/aE€,p!åÃó´Ğ…üa#Ù;²WÀã_ì”L\°&ĞYå
-
-PID:9056 just read 7402 bytes from host
-PID:9056 just wrote 7402 bytes to client response:
-bòù2ˆ—”K¨rä%úïŞSåòÕ»X4"ŞÅ"1a¼¢´ã%SšÚ,™ÕÓB•oô„ŞÙTÅ‹*Ÿ»Ê£ÄxªÓA]ä»¡*‘—D¸YÕ'ZëkÉw¬\RÉÊâ&- ^R¡²ÈKu±[>wcø¥ÚÀd·*ùó—”=ÓE^ªÕ…IR&‹—”ÅëªÔ‘—²/){–nä¥ùÇKÊ¢_ÓŠ¼Tˆ—T°|±öŞ‘éé™¼²é^C 3Ó`?0ûnÉLğÃ4³™ö¤'h¯½¶äéâ¼±å%ÅÕ½Ó3ñH{§§]µË—//É£w	âéï€t÷ò’Òúæ7º¶7T/*_¬¤~úvü·_WRRßO‚ÇF]l.Í¬ÕÓº‡x´ÏL7,/m–p…Oã:Z/PKõu`Æãƒ£²S¯_÷ù«2j°©)eñ*kEµÒ€
-N--7ûqšëæ.Âs£|0ºµª•İn·u®£Üz·ƒ-X‰5y-'¹Ó…Ú;srùª£İ&®›}û>WğU+‡"	\—s®Ã
-nId‹í¤]SËçÖV»NnQ›áö©‹	PGfê—7tw·síàQ‹‚W'fg‡Êd#CeNÒ²­¥¥¿¬ÌÙ¿MÎ­éï¯)+kÙæì„ÅÇ'ätÖmÛÖÉêˆã«·ô;‰ZjÉhiˆµT#èÌ9ädÍµˆb§²é_,ªtFuz¦ú©ö‹/r&^#Qi¶œƒİ„ôP‡D‰/›'%¶…m˜!:ÏP™$òPV#xjó¤sˆ°:d[vxˆLF
-PID:9056 just read 0 bytes from host
-PID:9056 just wrote 0 bytes to client response:
-
-PID:9056 job done, returning to server main()
-PID9056 fork is ending cleanly

@@ -1,57 +1,0 @@
-PID:8950 Child:Fork has been created
-PID:8950 performing initial read
-PID:8950 request:
-GET http://ecx.images-amazon.com/images/I/51R315VlQFL._AA160_.jpg HTTP/1.1
-Host: ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:8950 about to start writing to host
-PID:8950 wrote to host request:
-GET http://ecx.images-amazon.com/images/I/51R315VlQFL._AA160_.jpg HTTP/1.1
-Host: ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:8950 just read 1460 bytes from host
-PID:8950 just wrote 1460 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 6351
-Connection: keep-alive
-Server: nginx
-Date: Mon, 04 Mar 2013 03:14:38 GMT
-Cache-Control: max-age=630720000,public
-Expires: Wed, 18 May 2033 03:33:20 GMT
-Last-Modified: Mon, 31 Dec 2012 19:30:01 GMT
-Age: 1634155
-X-Amz-Cf-Id: MMOdYagavgZekJVOZFasmDNayPmmNQvACIbhoFikRyDbSG8ka-CCaw==
-Via: 1.0 199c9bce22bd411402daf00db8dbb17d.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿà
-PID:8950 just read 1465 bytes from host
-PID:8950 just wrote 1465 bytes to client response:
-º´Üößª«ºiƒ2İ ÀW`ú'µwô®ÑœM<õOÏ%nóP§Yö7IÓO²×*—§0—’MìUl×P¶ÿ
-PID:8950 just read 1460 bytes from host
-PID:8950 just wrote 1460 bytes to client response:
-ÔİY#"%Ş¸ŞîÜÛÇÇ0H©Bÿ
-PID:8950 just read 3076 bytes from host
-PID:8950 just wrote 3076 bytes to client response:
-]Õ6&0UöËnœ§¹Ïá¿ÍŞï›ú_ášuÒCM­do•7Œ—-0„•-‡R‘¹( A«$†0Ûƒñ1\R<¥›-*™d3™°‚›-W¾›ùüĞp "óYA¸÷ßáîK¼¾o)|¿•”Û×lºè%¶Ö°7Ê’m¬’ÏF‘-ÛN-ã8Ó,T‘Ğ£Sh|Jª®IÎíÀ¥8B•ns:käówE»Š·Ñ#ã"¡ù¡Ï×3’1öÜpf‹aŠ
-µ°&"ÌI‡ÅuMNh‚"¡]" ŠwÒ3ã–»ú?İÚ‹‰ã¤i·«Ãò»µÍšM;é>af{T+&ß¨yëà±#¸ƒƒ–ô¹¥cy9#=‚¡Ößq\xÇøŠkWps¯KšKs	JPvNU¶ûˆlğöeøµCu÷PÓi[·ZÔ½/rc—/4÷ëî²âmSD¥hP õFÄEãe`‹D›ƒá®[kŸ5tÔsf|üTÏeÜ¹)¡ş¨Îßÿ
-PID:8950 just read 0 bytes from host
-PID:8950 just wrote 0 bytes to client response:
-
-PID:8950 job done, returning to server main()
-PID8950 fork is ending cleanly

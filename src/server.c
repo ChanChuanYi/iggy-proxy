@@ -10,6 +10,7 @@
 #include <netdb.h>
 #include <time.h>
 #include "extra.h"
+#include "iggyssl.h"
 
 
 int main(int argc,char** argv){
@@ -52,11 +53,6 @@ int main(int argc,char** argv){
     load_site_files();
     
     while(TRUE){
-    	//start the log
-    	FILE *tmp_out;
-    	tmp_out = fopen("log.txt","a+");//open output file in read-only
-    	if(tmp_out == 0)error_print("unable to open log\n");
-		
       	listen(sockfd, BACKLOG);
       	// now accept an incoming connection:
       	addr_size = sizeof their_addr;
@@ -70,18 +66,14 @@ int main(int argc,char** argv){
       	int child = fork();
       	if(child == 0){
       		close(sockfd);
-      		
-      		
-      		//debug stuff
-      		
+
+      		//method log
       		char filename[LINE];
-      		sprintf(filename,"fap/l_debug%d.txt",(int)getpid());
-      		
+      		sprintf(filename,"p_log_%d.txt",(int)getpid());
       		FILE *d_out;
     		d_out = fopen(filename,"a+");//open output file
     		if(d_out == 0)error_print("create debug log\n");
       		
-      		fprintf(d_out,"PID:%d Child:Fork has been created\n",(int)getpid());
       		
       		//child variables
       		char method[LINE];
@@ -98,7 +90,6 @@ int main(int argc,char** argv){
 			//command read
 			data_size=0;
 			memset(read_pipe,0,PIPE_MAX);
-			fprintf(d_out,"PID:%d performing initial read\n",(int)getpid());
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
 			if(data_size <= 0){
 				call_death(d_out,new_fd,500,"initial read pipe returned <= 0",
@@ -108,8 +99,6 @@ int main(int argc,char** argv){
 			//fill time for log printing
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
 		    
-		    //debug statements 
-		    fprintf(d_out,"PID:%d request:\n%s\n",(int)getpid(),read_pipe);
 		    
 		    //grab string from request
 		    start = get_next_string(start, read_pipe, line);
@@ -128,9 +117,9 @@ int main(int argc,char** argv){
 		    
 		    //printing request information into log
 		    strftime(buf_for_time,sizeof(buf_for_time),DATE_FORMAT,gmtime(&now));
-		    fprintf(tmp_out,"%s\n",buf_for_time);
-		    fprintf(tmp_out,"\tMethod: %s\n",method);
-		    fprintf(tmp_out,"\tHTTP Version: %s\n",http); 
+		    fprintf(d_out,"%s\n",buf_for_time);
+		    fprintf(d_out,"\tMethod: %s\n",method);
+		    fprintf(d_out,"\tHTTP Version: %s\n",http); 
 		    
 		    //checking for valid method
 		    if(!valid_method(method)){
@@ -153,25 +142,31 @@ int main(int argc,char** argv){
 		    	call_death(d_out,new_fd,500,"read something other than host",
 					write_pipe,"Server error, no host detected");
 		    }
-		    fprintf(tmp_out,"\tHost: %s\n",host);
-		    fprintf(tmp_out,"\tURL: %s\n",url);
-		    out_fd = create_host_socket(host,new_fd,write_pipe);
+		    fprintf(d_out,"\tHost: %s\n",host);
+		    fprintf(d_out,"\tURL: %s\n",url);
+		    
+		    
+		    check_host(host,new_fd,d_out,write_pipe);
+		    
+		    int index = check_secure(host);
+		    if(index != -1){
+		    	//out_fd = create_secure_socket(index,new_fd,write_pipe,d_out);
+		    	//write_secure_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
+		    	secure_and_send(new_fd,read_pipe,write_pipe,index,d_out);
+		    	break;
+		    }
+		    out_fd = create_host_socket(host,new_fd,write_pipe,d_out);
 		    if(out_fd < 0){
 		    	call_death(d_out,new_fd,500,"unable to build host socket",
 				write_pipe,"Server error, unable to connect to host");
 		    }
 		    /////
-		    fprintf(d_out,"PID:%d about to start writing to host\n",(int)getpid());
-		    /////
 		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,d_out);
-		  	close(new_fd);
-		  	close(out_fd);
-		  	fprintf(d_out,"PID%d fork is ending cleanly\n",(int)getpid());
-		  	fclose(d_out);
+		    close(out_fd);
+		    close_all(new_fd,d_out,EXIT_SUCCESS);
 		  	break;
 		}
     	close(new_fd);
-     	fclose(tmp_out); 
      }
       
     return(EXIT_SUCCESS);

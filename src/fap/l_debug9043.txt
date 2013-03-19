@@ -1,74 +1,0 @@
-PID:9043 Child:Fork has been created
-PID:9043 performing initial read
-PID:9043 request:
-GET http://d2o307dm5mqftz.cloudfront.net/1505855001/1362526927257/160x600_static_rot1.jpg HTTP/1.1
-Host: d2o307dm5mqftz.cloudfront.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://aax-us-east.amazon-adsystem.com/x/getadi?src=501&c=100&u=http%3A%2F%2Fwww.amazon.com%2F&sz=160x600&pt=Search&slot=auto-left-advertising-1
-Connection: keep-alive
-
-
-PID:9043 about to start writing to host
-PID:9043 wrote to host request:
-GET http://d2o307dm5mqftz.cloudfront.net/1505855001/1362526927257/160x600_static_rot1.jpg HTTP/1.1
-Host: d2o307dm5mqftz.cloudfront.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://aax-us-east.amazon-adsystem.com/x/getadi?src=501&c=100&u=http%3A%2F%2Fwww.amazon.com%2F&sz=160x600&pt=Search&slot=auto-left-advertising-1
-Connection: keep-alive
-
-
-PID:9043 just read 1460 bytes from host
-PID:9043 just wrote 1460 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 26588
-Connection: keep-alive
-x-amz-id-2: Ar4zop9lhbmyby8LZGdL0dUYPZpe4XKH5EjMrEhlNWxOXs9mGLzj1Wy7U517YdGk
-x-amz-request-id: 7D2AFD6B57A2B8EB
-Date: Wed, 06 Mar 2013 06:25:01 GMT
-Last-Modified: Tue, 05 Mar 2013 23:42:08 GMT
-ETag: "d387fd8c47d1c44c981139de38391374"
-Accept-Ranges: bytes
-Server: AmazonS3
-Age: 54230
-X-Amz-Cf-Id: Vwa38TRZ4lH4O_g-yDU6H1jXp1yN9V1YOmJy4bCo4n_LwbEZQZ7wlg==
-Via: 1.0 121e2684c766458c5baa6b98490fd866.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿá
-PID:9043 just read 4380 bytes from host
-PID:9043 just wrote 4380 bytes to client response:
-		
-		
-ÿÀ
-PID:9043 just read 4380 bytes from host
-PID:9043 just wrote 4380 bytes to client response:
-J5ÄÂ^š¢]a9&ßJ„ğË´(jĞ»Æ”ıÖ½7ù¼ª)`ò5ğã—µmë¥zÌvz~GóÉùÇS­ïhÓ×¿WOMÏ¥âÓg³ªÍpéL¯fÍ«ÖN9saĞmmÄKm˜Kh¾¨îÉ!ñÀĞJO¼,êÉ$rõÖ­s‹rN•QÂ»J÷˜¹LH6ŞU–bµ‹¨èê&xP!”ºXP’;ƒz}®ÎU™JÓrsÆXeé¥ÃßĞ0Æ¿nÂó?vgÜ±^èzÚ¯îÚô¯Rßé5û7ãÊÕ/úó<ÿ
-PID:9043 just read 8192 bytes from host
-PID:9043 just wrote 8192 bytes to client response:
-.¢<]õnÍš&Ù¢åÅT‘ßòfIÑ'nL´F\Û»i!n©a?y-åY¶B}¥ZåÏ€V¿•»Nt4ù%;¹ã×üÀÜ¸iÙIlÆf[7"J
-PÑyâ5(s^„ø=b¸²½),N¥»Q_	óæïÁD—æsØv-cã¡·a<’Ûl%jG¤)g•X´h»*èÌãßÇuQ¥¥}T² ¦’«ğR¸xGÉTå	©7ÒuczŞE¶8†3Q2[hB£¾•2äv§z€ëI$‘øŠ²O¢®YjÊruÜ›“EßË™YLV/vèİ/á¶Î%!ãp¡¾«’”Ö¥ ø´›“ÊµÜŒj‚o.æÀÍA—¹˜^ßÌzÉº\*KÊqÇ’„ÛKdıê¸Ü‘Ã¾§rÚO]¹J”‘Ôó†H•7ì–„\š„Ó9‚
-PID:9043 just read 2028 bytes from host
-PID:9043 just wrote 2028 bytes to client response:
-ØK.&Æ7h<ÖãŠ©QŸ^G"¨e¹í¼„°™,­‡œ+˜Ú‹im$¨İZ{SYÜbŒÅ…òçs/ó¦·-F\,ƒjs!¹:Íê´J*8J˜Ó¤)&ÆÇF¦\Y§æ+%†òŠ,–0a´n‚a°¢K«Œ¨r
-\rïÉ²Ô¢«§©aP“6ÛTGÔIŠô@*vŠf€w 
-PID:9043 just read 1460 bytes from host
-PID:9043 just wrote 1460 bytes to client response:
-O¢,£kßˆíªúÔÇb7óë0·}Â*”§°ïn¸¸\ÃÌ+%œ‡åî¥æ‹ˆR7IæB­j#XHäÚ~4Ê¾ÍÇÍÆ§uí)Ít“IÌct“eFqÕ\<¸W˜±5L&–ì¯»û—™Á\·-ø2µæÓáÍ»		öôşë×Ãiå¤êyUm" 
-PID:9043 just read 1460 bytes from host
-PID:9043 just wrote 1460 bytes to client response:
-@¨Ø¦Öô×V¢İµhMÈ¹í·áQ{HNT8‘¤ÈÈ°¶ÖºmHñ8¢HÔ}GH=É_QH4Î÷+Œ®Y’j¶ã·¨Ú‚ÙJ|i+$ Ü¥FàpÔ<]İ¢´_›‹R[‡/ÑÛÔBZ{˜N;nÃz9a·$LÈ¸qe- ¥+B•p-ì«¸šîêu¶•¸¨¿ˆó:nKzåÛ‹ÿ
-PID:9043 just read 4437 bytes from host
-PID:9043 just wrote 4437 bytes to client response:
-1)ÊÅ]å°?Ö#üá@b˜»LşUç)r€È—(	‡(	‡(	…Ğ/Ó@K]
-PID:9043 just read 0 bytes from host
-PID:9043 just wrote 0 bytes to client response:
-
-PID:9043 job done, returning to server main()
-PID9043 fork is ending cleanly

@@ -1,50 +1,0 @@
-PID:8111 Child:Fork has been created
-PID:8111 performing initial read
-PID:8111 request:
-GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-8046695057946442&output=html&h=600&slotname=9754933164&w=160&lmt=1363657856&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fdriving-and-racing.php&dt=1363657856775&bpp=10&shv=r20130311&cbv=r20130206&correlator=1363657857019&frm=20&adk=3404664712&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=267695247&ga_fc=1&u_tz=-420&u_his=11&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&fu=0&ifi=1&dtd=329&xpc=cbwSpXH6SH&p=http%3A//www.freewebarcade.com HTTP/1.1
-Host: googleads.g.doubleclick.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
-Connection: keep-alive
-
-
-PID:8111 about to start writing to host
-PID:8111 wrote to host request:
-GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-8046695057946442&output=html&h=600&slotname=9754933164&w=160&lmt=1363657856&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fdriving-and-racing.php&dt=1363657856775&bpp=10&shv=r20130311&cbv=r20130206&correlator=1363657857019&frm=20&adk=3404664712&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=267695247&ga_fc=1&u_tz=-420&u_his=11&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=27&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&fu=0&ifi=1&dtd=329&xpc=cbwSpXH6SH&p=http%3A//www.freewebarcade.com HTTP/1.1
-Host: googleads.g.doubleclick.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/driving-and-racing.php
-Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
-Connection: keep-alive
-
-
-PID:8111 just read 8192 bytes from host
-PID:8111 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
-Content-Type: text/html; charset=UTF-8
-X-Content-Type-Options: nosniff
-Content-Encoding: gzip
-Date: Tue, 19 Mar 2013 01:51:05 GMT
-Server: cafe
-Cache-Control: private
-Content-Length: 8256
-X-XSS-Protection: 1; mode=block
-
-‹
-PID:8111 just read 1543 bytes from host
-PID:8111 just wrote 1543 bytes to client response:
-6ìïvG ³¬íDÓù°œN'ZĞgñbHùkkUT¤zS˜Jôr§£f­M…İµ?.GÂŠ´‚áÊã%¢4êaü²,ïƒ‘kpe–GÃÄlWdˆ¶«-[n1Gë#N¬ƒÚÕœ5ù;yÌKö(Ì0‚¡(dÁ(éÜ°t]„ºãXW"jàÜÌ(Œ‘ÛfWbp€±ÔFùd)ZyÀiûB§Vt-Q`
-Óú¨¬mŠ%°ğÚu©MqZÙ­‰ã^R¨@x”¶ìõè\yVšï÷£Q·ç…Rg§/'{Û:Á47.¹S^šL†Ëï a´j®Ôj€q©®QhôP:*(ZÒÙ¦·®{|}E²Wkæ˜nNµ^ÓõÙ–·Ã…EÈ(zD2G|²ò[ü|[™$Â†=üu4jÁa1–7ö¤İpC§[>¬¸š'­ÂöRò°;ìµÍ+ù«:Öàc‡¯¡…,Ye[+w”Ù¼;íM±–{$ıİ\åêô¬?jäš É¯„-¾äú³Ş,âÜlØ²=8½iô\–Ö½­«`ı)½›Ğä•‰°TşT½"Z4Œ×¶ï®–ø‚*B¡×“¾R­şš­\]e¿Şûù_Êƒ–uÌK
-PID:8111 just read 0 bytes from host
-PID:8111 just wrote 0 bytes to client response:
-
-PID:8111 job done, returning to server main()
-PID8111 fork is ending cleanly

@@ -1,61 +1,0 @@
-PID:8921 Child:Fork has been created
-PID:8921 performing initial read
-PID:8921 request:
-GET http://g-ecx.images-amazon.com/images/G/01/img13/mp3/bunkbed/YourMusicEverywhere_NewCustomerA_bunkbed._V375237489_.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8921 about to start writing to host
-PID:8921 wrote to host request:
-GET http://g-ecx.images-amazon.com/images/G/01/img13/mp3/bunkbed/YourMusicEverywhere_NewCustomerA_bunkbed._V375237489_.jpg HTTP/1.1
-Host: g-ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Connection: keep-alive
-
-
-PID:8921 just read 8192 bytes from host
-PID:8921 just wrote 8192 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 27748
-Connection: keep-alive
-Server: nginx
-Date: Fri, 01 Mar 2013 02:14:26 GMT
-Cache-Control: max-age=630720000,public
-Expires: Wed, 18 May 2033 03:33:20 GMT
-Last-Modified: Fri, 01 Mar 2013 01:04:21 GMT
-Age: 1557226
-X-Amz-Cf-Id: WtN4XGMKwOqwyAO-Ezr1L2e4P5k-IhrM6uo1GLUyTbw8GB8in9SDFw==
-Via: 1.0 1f468bdc645a23887d930a8040158a1d.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿà
-PID:8921 just read 6408 bytes from host
-PID:8921 just wrote 6408 bytes to client response:
--å®Píõ
-PID:8921 just read 4380 bytes from host
-PID:8921 just wrote 4380 bytes to client response:
-©üI\.ç%‡Ş­3».NÍ=İÍ¸³27ä±«[$DòæÄİëÉ+ª´Ê…L=ÈàïÍg†vÕy&Ûy-–k}.ÓXmĞõb[şÕÓçæñ“C¤ÚÇnYN>`úsUU1YË§]\L-£¼³,Î±<eŠ>KpPïÇ'}+¦^Ììg¯º³K‚TŠH->)b$’Y&†ÒLnŠ…W€êíÃ f¯×"º©ZEÕ´Ö¾5×ƒ¬H©,÷%
-N0[nÓ©ô4ë¾ÉÔ÷mzrûOÕ¦(b’[Aå[ÉGÃ[1¶×zd
-PID:8921 just read 7300 bytes from host
-PID:8921 just wrote 7300 bytes to client response:
-ßÇ‘@$ Uû·sû«Ø¬_ê$4J@ÁR	?•a+DeMÈ¤O´ã½”Î³[KâBÛ[Ôz½^Í«.–æh®To[ßşÕMX·jr8±À Šqø½øxE} Ş¢nxn’Ì~Õ»œşê§'…ø¦òÓ¦i‘!#U(Øp*±ÓKÔµ†¶·glğ}*-©ÇÖª¿ô^²øİ^r²H	²²Nd®=?:®2ùNvG>èOÆ+Ş¦üGÓ`Ô#X4›‰LQ@yÌŒ
-Æ\·”ùğ1õ­qînN]öJGµ~UUôf''¹ uÊhSÅuMÅ@P ö€ ôPSë÷F(mQn^ÛÆ— ŒË;ª©b‘"«¶rã·İÀQ~—Ôàº¹´In1]é‚&ºâ”º¹1L½¾V	åÏ<Ÿ¥Ş¯¨Oi«éÈü;Åw$ñŒy¼$V_âh(uÈu+ˆ»ÔåÔ$7Vfy­ğ¾
-PID:8921 just read 2579 bytes from host
-PID:8921 just wrote 2579 bytes to client response:
-Y”3VP1òÒ¥B}*©ˆ’¶sP²¶ã±>õZ²¦ì„Ô_QÚ¬ªêhuUgÎúäk¬mõR@ÀÊŸÀW£/Šó¬ïb]œ‚ÓP‚ñøy¬¸àÃiÅFs¶Ñ…Z]u}æ“¤Ë¦4pĞ¨}Ñ
-PID:8921 just read 0 bytes from host
-PID:8921 just wrote 0 bytes to client response:
-
-PID:8921 job done, returning to server main()
-PID8921 fork is ending cleanly

@@ -1,110 +1,0 @@
-PID:7865 Child:Fork has been created
-PID:7865 performing initial read
-PID:7865 request:
-GET http://www.yahoo.com/ HTTP/1.1
-Host: www.yahoo.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Cookie: B=8u5sqtd8jt1l4&b=3&s=fi; FBJSC=1363657457; fpc=d=ueD4PGSL7VD9H0WUBY_dwOQu1RW5UfQ8Aq9gSgoDD7maLvInL0eiAwrEHCk6zFtCafsoBhbNe0f6ejQlTxUDLFuSUoap2zeTFGwWFGQP2mBFclQbU5V2MH2rw3QG1N.XAosPLvM1ycUujuWtWBxq7hW1rHDAPXorrQetXtWhXcR7buVF5aeGC6ZaQ_M98LhR6_cYkUI-&v=2; fpt=d=H3getYDRed2.V9CcRGE9G7HJxPtpGDUE6Ot.bL7WFyDOfTusCtRycPaksUqFXnyvsVtoToOYS2OE7w2m5d2aT_XDbRjy&v=1
-Connection: keep-alive
-
-
-PID:7865 about to start writing to host
-PID:7865 wrote to host request:
-GET http://www.yahoo.com/ HTTP/1.1
-Host: www.yahoo.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Cookie: B=8u5sqtd8jt1l4&b=3&s=fi; FBJSC=1363657457; fpc=d=ueD4PGSL7VD9H0WUBY_dwOQu1RW5UfQ8Aq9gSgoDD7maLvInL0eiAwrEHCk6zFtCafsoBhbNe0f6ejQlTxUDLFuSUoap2zeTFGwWFGQP2mBFclQbU5V2MH2rw3QG1N.XAosPLvM1ycUujuWtWBxq7hW1rHDAPXorrQetXtWhXcR7buVF5aeGC6ZaQ_M98LhR6_cYkUI-&v=2; fpt=d=H3getYDRed2.V9CcRGE9G7HJxPtpGDUE6Ot.bL7WFyDOfTusCtRycPaksUqFXnyvsVtoToOYS2OE7w2m5d2aT_XDbRjy&v=1
-Connection: keep-alive
-
-
-PID:7865 just read 2606 bytes from host
-PID:7865 just wrote 2606 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:49:01 GMT
-P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
-Cache-Control: private
-X-Frame-Options: SAMEORIGIN
-Set-Cookie: PH=deleted; expires=Mon, 19-Mar-2012 01:49:00 GMT; path=/; domain=.yahoo.com
-Vary: Accept-Encoding
-Content-Type: text/html; charset=utf-8
-Content-Encoding: gzip
-Age: 0
-Transfer-Encoding: chunked
-Connection: keep-alive
-Server: YTS/1.20.13
-
-00007dc
-‹
-PID:7865 just read 4074 bytes from host
-PID:7865 just wrote 4074 bytes to client response:
-00002da
-´YKsÚ0ş+r`c^Óp
-„L§2”¤ÉÉ#Ûrìb#W’!>ô¿wõ°±aÈ@2ó­¼Úıv%­ÊUàƒ5ß[ÎñŸÓûş+æ/³ìÎÓäÖ_-æ“ÅèşûÛÏ³ÇùpÉ;ŞÑï»b¶×9»å«Â@öø÷îy[ìØ'k²|ùe/ç£½­İç™·úS\í`¯)$šv¿Ùcÿ«#‹“@WŒR8Î|É!øÈ¥šš
-PID:7865 just read 1460 bytes from host
-PID:7865 just wrote 1460 bytes to client response:
-0001266
-ì]ks¢Øºş<ó+Ü]9ÓÓ»:†‹¨t&³ƒ (¨xA8uÊâ¦ÜAî05¿ì|;¿ì,HL4‰İ]3¦¿ìİUN³pÉû¬÷¶ïåìö¾ûºo	<iüçõ¹Ê[ÅÀB×5qÕ­'Ò@{Ì;3k+ö|N.W1ÌE«H+eS›Ñ(©nuºH«Ûıpt¹»ræ…/=+
-PID:7865 just read 2920 bytes from host
-PID:7865 just wrote 2920 bytes to client response:
-»—¹œ†®ÉÊ‡èkÉCµÅ‚“ğ;M°À‚5’oû„{	^aY™¢GcW27TÔ)U/´ÁB†OüÑÍåfEˆÜ·&¦$ÛK.Ö)¶2A”ìÅrT4zr¤+²ãü€úáš'0!åW^³cá„§.à¢#Rª ü÷Tâ©æ—Ş‚¥Ùrç*¨d©tç=&U¼Y¸¤)OšKÕ=¸‡V]<ÑîãL4gá‚v¹ˆ'âZEoUÂ¸8¢º’=]9½ù=ø,ø~±„{<ñ¬Ğ|J¨î=ïæ6HÓ¡&fViršz´”ïÇ?j1loØ¥¬”oÉ×Š¢uóoF}åØL>ªFS¥>{¥ÛÙo9ƒ´„qsK¡a­›â4‹UnšòÆÙ;AÄÅº¯ïÆ±½l'O6#z+˜—J­sÚ±dtøÊØç¶JÌ˜ÖîN¶¤Áz)+*‡›»
-†:ÿ‡ˆç:-Ùt#ÓÈœ+'°™àäEô—f(Âêì¹ƒ½]Ã2gòcg@„£À»Ñ7³yQé)º*Hó#¨weºI'ĞÆoñÊ¹Ç:º_à¬
-Ñ
-IX%ç¨/\JQÊE ˆFˆ"}v´¡ÉTBò1\->êú±]jBzÏq(i/óU÷2Ôƒ-Rvî<QÅ®ÙìØÓy‚Ã÷|sNftØl79¤USï'ÁY|#é=¶·—ùt3†e©Àèùßÿ¨É7`• £´ÂDZÏÈO„>°¬•QñÚrãşh:IŞ_ûC@ş@—ØøäïÓ0Lç	¢™4ê#+’‡¼öElÁç´¸ìğr¹T¥—é³drÖsní­@š±¹·2§-Âk(:~7„P[aP!ˆX];MhJÉú%Ş(Õv 
-@LGá°ä#“8é·¡ysl.e}Äô–6¥Ïˆí.0:N¥†^ìs~öu²kúËrÀÓŞétˆœ¦]{¼YfÍ¤×"q Îo÷<YüzÂ‹b(;{ßï÷J=^¢ÕâÌoíbşÉ¾:“ËÒãÉ,İô’‚Ò,m°¿
-PID:7865 just read 4380 bytes from host
-PID:7865 just wrote 4380 bytes to client response:
-t0ÅŸuƒëç¦e¿yş¡ğy…ÔÁh?›løÉL{—†ê)¸ş°cğ€Æ»}pŸ¨±™(5à6Ş:¨ÖÏ(Ò…[8_ñnF;MğÍ.~{déöY´náÛzwó‚1Ÿùò÷ŸŸaÍËıF»»«xæÓÉ¥ŠİÛu‡şûã±D}üŸ»¿ÊÑŒ„¦†‘üY6µ«ã;>+æÕjxuD‰_!Øg9¾|Ö}åêşôñ¸@ı[+Ö~kµÔH}Ká›ÿRÒ»ªÿô‹İı
-VE7ZIùuö{•Éç(¾:RcèçÈ¼jµ°š˜(¸z^†ÏAzN¯&ôéÓ/ñ³A¯Éú‹ìÜ]¯'ló`>³ºşönÿlƒÓ"¯‡*®U?ªƒèëz	uñCùË³Õ=ô_×}
-PID:7865 just read 1460 bytes from host
-PID:7865 just wrote 1460 bytes to client response:
-©WÍúL*DÌ0‡rÊ€şğÌÌH4'Õ{®9‰mSµ˜¾Sšæi'/——İÚ´øq3;ü•g61q´W††`aË‘
-3©3,‚wvqæw6£ä
-GóI/Dud¼ø4òÆõ¤ÏzqçnÂTĞKW¿ñ•‚Ê–|fS<Ëßf"ÃŞ”³ı‘ùœpÁÌ›/%6î>®f«Z±ÕœùT›½DOŒœOå—œO….‡:'ùê€r”FÕuøR;‹3ê­¨ÆÕ¬úcëéièÖµË¶IæÓ{³óXMœ´Ü¹ÎæÆ+Ã“¢o'èO÷n¬ıŞ·‡ÿ
-PID:7865 just read 2920 bytes from host
-PID:7865 just wrote 2920 bytes to client response:
-4«hN¹
-Œq	S„ˆºÏˆZµ=ntµ•1îO´°ÅjƒÖRm¥Éƒô[˜¸hs½Ç\6ß^Zß+-6ÇÎ0^1±íÆ_¸æ²toÕTLÖ4iÜ	°­½dî›İsV[Ym<šA™Uz2çt’Y×•Rù<J7aG«Z5=¿ŒyaSóö¹bY;u_<³QŸåYÚJfÀq”7yîë©A™óf5Æ5 ;§8'b_Šy•¡p¾âWë0ùõ‚ĞÓúO:C3YRaV,3–—ÔyâÛÔ7¬^İ4;TI¯7Î;ÔŸÛdJ%ıE£ÖK
-PID:7865 just read 1460 bytes from host
-PID:7865 just wrote 1460 bytes to client response:
-yka†‚>.ûnb„Ài¸«P«°~sp4ºWA³Vç°ş¡²Bkíñ¡kıÖV›¥Z†jåy”¯[yJ8Õ©S×8ÕsƒI§::_S}mÉ?Ò•qÊç{T#/>ØØ*>ø®	¯
-5}ìÕÙôŠ;ëÑ‹8ŠH°Áİ,Î¶†ïR1“”Êã5³Ü5ššBÇèsŒ )´
-PID:7865 just read 4380 bytes from host
-PID:7865 just wrote 4380 bytes to client response:
-å?ÿñ_)eÅfâPúO§±ŸãÍí9¾ÏäÑ^ÑöL?A|ºğü€äËVÅR‚}‘$Ø
-å.Œ¸è¾h—d2âÌ£R=B
-PID:7865 just read 1460 bytes from host
-PID:7865 just wrote 1460 bytes to client response:
-Ò”üI(™ÿœU
-PID:7865 just read 4380 bytes from host
-PID:7865 just wrote 4380 bytes to client response:
-˜˜!^mBv/U´ 6-(l±{±-ó9kr*ÏÙÍÛ
-ü±TB+„Si`4‚CFeu‹q¢-¹œIh˜&p 8Ñ²%Ø²G”eQeûWq ß>Œáõr?gîu4ÕİuKO.\vÜùV¹­·c€Ï×Ãè^gÉ€…L"’|dæ–UE’øç‘¬pºŞbe§‹V}Åİ/®§R#¬Äûò»İ;a¶pÆÆİûphpH1·ÛpÕ[êKfÕì¶–¸?Ñİõü^ó±Y±zµ´ĞÂ ´Ó\àõÆ<\‡7x\a]{càÌ†0öÆ ópUÂziÀ¸œ;Áiêô1[Wø{Æ&¯apƒØè3Úª…y#™fg·¾½7hy³Îr$3BER­d“k^'	?>Y:¤À}!‘©oXĞ]ÛHdj€™ê`}ĞNvF]"yíY_5—Ts–¹~^´Õm0†á
-PID:7865 just read 8192 bytes from host
-PID:7865 just wrote 8192 bytes to client response:
-Şã<XÀçC±c\yï£æßŸIà'zqÓÌ©*Ãçwô3K5ƒãık”GØÚ&7lç¯Ó…/­äætıÚ™$R8\Ÿ*ZokTÿ‘,Ø.'õGs‚ü\Úu‘%Ï‘%
-PID:7865 just read 4948 bytes from host
-PID:7865 just wrote 4948 bytes to client response:
-±jVåèC=lÓ*üT¸</OÛüo1içĞ^sKàyJî³ˆ.FæmŠFŞÏÃÄ¦²yqÙiSyÖCBtÛÔ dd{­.<‰a"³VåÂ»Ï¹PÏßùå$®…å‚²ÉªÓcÀCŸ¡çc·}ô²ªUyÁå¡—xøüø­HÕèÕS@'ø¬Ó9)ZåvªüSo ‡…Û\{§JûµºWU]ç³<k]Á]÷z€¿úÉ‘ì@™ûÁ¢ë)!I¸Ñ,„’e3Şÿ™Ó÷/Éi—Îô£X.•ô*H±ÚÃ­\o'{/UD­ŸnŞ’$ÕQ“oòıÍ¾L'£¦/oşŠ;2Ÿ–T—ÓBAé2™îÚÑâVXLİÚ)
-PID:7865 just read 7300 bytes from host
-PID:7865 just wrote 7300 bytes to client response:
-,µ
-ŠÑ=·´ú²ğş^Ê+‘Ÿ*¯ÂŠe¬pßWôœ…½\Y÷W”à‰õ¢ô?OÂ÷„´ıÈğºÑ›FjLèdç‡­>nPõ@ßëVÖ÷¦­ÜÑbFĞ/´:¢ÖøR«»›“ÎXx›rg“¡¢LeN…œ¿-êÿ˜˜“`RİÁ}z9.‚7­«Íµp¯DòÛß°ù#cçõ›h< Ğ1?ˆ[u1Ê{˜{¯Œ"<+m8Ğ‰‡Íş¢·ƒ¦õ™VÔÉæÎ™•ódÜ½;æ WAÍkÌÁş<Ìqç|Âfì¢KuÉÑ‚¶Ÿb?õœ*yÁyóê8µ‘ø%v7éşÖÑĞ÷K”ÿ‘1Ç‘–¶ÌîBó®H’Åş~—Œª I²ÖåQw^ŒG‚;ê¢j‹ÚjÉÏ¯Ë~dÌyo(¼›×Jò}y†»€"Om™	¤6>ä·4µºÇHx&¯qe¯ß„ÿ„sNÚï?Ö£Ç ôİ kT~di¿=hº!'Nü¬Qm`8Ò\ËZëÙZu}­–Zz¶>¶{ø|öë}í¹»¢Õâ<Ğ×¿±¼“—/ÃÎQw]{8]ÛØŠıáóÂÚxµr
-PID:7865 just read 2920 bytes from host
-PID:7865 just wrote 2920 bytes to client response:
-Ù‡p9ãÑÓ5š^ïªõt‹±0½Áó…í%ò)²Ï—ò{©Ÿî k<õAWQnØ‹Ê>Y¨Û³îùúR/‹×^¨Ñ*üŠòıöø¢Õ½ì_ zµ²P’¼uñ|KªG/û‚Y*Ê=;ç>ŸºEÆàåú	kĞo»Û<0¼ë.İ¨e^P6ï¡úç»dıU˜+ûdÙÕn»Á‡r„KÚ­ÑóŞ™Ü›áP¼¸dødI‚nğ¼<MÊá×Çë«ì±UíÖ÷ÅJÿy¿­F”îxÎñ—Ï?ÿĞŒë\^üıç¼HÍïÁåÒcáó—ÏıÃÄ`Dòâ^Áá‹ŸƒvNa‘–qçŒ¡×,ı½î×_äXŸöœÏ”€'íBj¿ı:[Ø„ád ‰yE½‹ÇwúÄ_Í>ó'Ÿq¶õàÚ‰öÄğŞµf!]âÉzño4w¦#33ÑÓMòWÚ½‹7˜ÃôÉÇh;ÆeËºÙg¢'ŸÒGk:bí1Heöäc4Íç~÷ˆ/ıt»
-PID:7865 just read 1460 bytes from host
-PID:7865 just wrote 1460 bytes to client response:
-å¦6òl©|eq
-PID:7865 just read 2920 bytes from host
-PID:7865 just wrote 2920 bytes to client response:
-kEöò¼^M¯¼=—SVT4¯g3úåƒ‡Õ}›t­Gı “¯g”ğIµ{5££‹ÒÎjù‚åÀ=èe}dÎÎ­Ë*£3›Ù¡òÏDòÈ@¶ºw¤”úÆ´}|XæÊ½h¦rú01/º`6ö ÅÉXİ¨kN{íÿĞÊ^T÷s½¬Œé»EòPu§ÈØ¤¨üäFb¹8†r¹8SyÊÓÀÊŠ²’¥B/Ş¸&ìlu“õø€‰x’æğëçš\œŸÏÖĞx}Ş¡Ÿ^ƒ_2×±ç†åÕ\ßQ¦ü'ä/ÌË½ø_~2É¢¬>d—
-FrsFIÅpßêœŠÃ‘û<}!ÎYÊC–-_´ò‡R2©¾.å;èé
-#üm™‚?úDÄÇ¬pW+;;oVVßáÖÜa3‘—FCJá—nµ¬ÇDqÎşóRÖpÏƒğJûñò¯ğ$cÏˆ½+€X1a
-¤:~¡¢¡Fä«àiOÅ/å¢—ö§æÑà®¡.ª¯ˆÌS ®ÿîÏÿq¶4İ¤Ğ0„à)àóÓŞ;œèQ<6	íüzIêi¿]·¦©)´io<j/ÖÚ´¤1æİËpÇk ny7ÓğÆ¼º²›Í/á`oÀN†|uy¸¿rpQ&H‘ ømKmU¸ZZd.ü<¥Ÿ»‰Ì“üÌ~™¹ÖxÄ‹„ê¤7n\bæ&ê½üû¯ğ­Iš-ô­Åõ¾µ¸ñ¸o]n~ÚŞÉvVíqûv|˜ï…j‡E0…|ÜnØ¹áò$ĞCq@'Úæ¶L;.jQ!š›Ún—é²ı´›3I²l.‡öe9³ã¨¨ÿ“
-PID:7865 just read 2920 bytes from hos

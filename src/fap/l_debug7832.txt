@@ -1,66 +1,0 @@
-PID:7832 Child:Fork has been created
-PID:7832 performing initial read
-PID:7832 request:
-GET http://www.linuxmint.com/img/logo.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7832 about to start writing to host
-PID:7832 wrote to host request:
-GET http://www.linuxmint.com/img/logo.png HTTP/1.1
-Host: www.linuxmint.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.linuxmint.com/css/minty.css
-Cookie: __utma=244176024.99583986.1363051997.1363051997.1363112458.2; __utmz=244176024.1363051997.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-Connection: keep-alive
-
-
-PID:7832 just read 2920 bytes from host
-PID:7832 just wrote 2920 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 01:47:14 GMT
-Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
-Last-Modified: Fri, 12 Oct 2007 10:09:19 GMT
-ETag: "1d60626-3eec-43c48e97651c0"
-Accept-Ranges: bytes
-Content-Length: 16108
-Keep-Alive: timeout=2, max=200
-Connection: Keep-Alive
-Content-Type: image/png
-
-‰PNG
-
-
-PID:7832 just read 4380 bytes from host
-PID:7832 just wrote 4380 bytes to client response:
-w‚37Å±§´""B°ÍRP¢L>qÅZ¿µ¾¶.´`Œ±Ö0"	©H)D3 ,a™@Õİõ¿¶Ø*qåo.şÆk–°®hOZfclÂè~‘ÖˆLİ‚íÉÿáçïşZö÷©=¥÷^Yz‰-³ÊyŞrvJ*…Ö©ÒL0XDäÖøı–+	ÜŒÛš­ƒí¸°ÖcÁ‹[4óX	¯Ø“ËéIÔÚzµhéF­4ÂBµ]õ[¢XÎå‹ç{‚ÈZÂ¸ºT_«—v4/‚e¤#m#,€I&Ì„D~Èõ
-3Xc#][,_h¡b˜öú> JBá~G&uy«m9Õó£G~åÀÀ_?ı¯ÚÙƒ»“ˆ»WeÄ
-PID:7832 just read 4380 bytes from host
-PID:7832 just wrote 4380 bytes to client response:
-|_)ŸÔ¨Õ¢Å‰Ê¥bo®SBìòbÖßåzs,Ô,œîáëê¿Ö¦D.ïç
-~¡(ß#BkXHÁ–£9ßëmâS­Œ\SêÎ¬H)¥’'•§”IÛŸ¬«‘ÚQÍŒ<ã
-\E¬1,ÛfßŒ¿q›Ş!â&"ØE±4ÊEÓªëVáÍÀ¼Ñ1¥$H(R¸8}¢óûc'„Bå	!‰h³3Æ¶d€å†7áùÊó=å+¥¤TRyÒó”ï+!D+wÛôßÚË‰Ğ‰'!ÈUÃK¥mÏ@0 :®µ+BªV¦lİ¬±ÑùÓmÔ\·Yıã´‡±úÆÂé,)!b•®²d®>ŞîW½¥6òúbØë ®–"³å¦­oëê#‘,•¼9ÆØÏjÁ_^œp•HàF@›/w¬Ëu÷SH!…”	t
-‰¬|Ó^¶jÁ³íÖtªÑ:1#£d]ØŒ%^0ÚÔWƒTáŠ	&fi!¼õÛ¯¥İÁ‘¤ìQÓ•¯½ù•FMŒ»ft{h/Ì¼ÒµĞ‹wÊHncºS=rWa@‡¾@R‰ºˆ®M¿½[3t;·4=Síí/
-%E‚¼jwkÔJç"DHi‰LR'ãŒDZ¦ºvm×€Î¦JÒ©WÎØ°‰MÄ«ÊÊeÂJI©F›ñİ™ôàöÕ¸Åîl&=LÌkô76\‹°ñÉFÍ¦··EöºªòHH’J\j5«Îİ|U©DiÜ‘VÅx[EE£µOb·¦+ÅÃ“âÌÌÜ&€æÔ*LA"ÆÆÊÚ†m«Há·tÜqÌ¶Âş~è`^QÒ•=Œî2×ÇÇâ&ßÙm.v«}[™FpÙ˜À&GÎ¸Š¹ñÊy“)ü¿:}ÆÅmÉE¨–küÎ¹?
-PID:7832 just read 2920 bytes from host
-PID:7832 just wrote 2920 bytes to client response:
-Q&(P
-a<i[c“š0%åz$gÂÌğÖì“(|¢ó°œ,?±÷+ïüÂKc|jô»£³ç»´Ì&èd^º¬À¿}lè‰Ùû+[•ôHF]ÙÄ£@ ©š†¥†âÜErcé“'‰‰ˆÄ
-PID:7832 just read 1842 bytes from host
-PID:7832 just wrote 1842 bytes to client response:
-ü±³"tØ°ÀB¡ôÄÀÎü‘ÇF
-PID:7832 just read 0 bytes from host
-PID:7832 just wrote 0 bytes to client response:
-
-PID:7832 job done, returning to server main()
-PID7832 fork is ending cleanly

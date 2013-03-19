@@ -1,73 +1,0 @@
-PID:8163 Child:Fork has been created
-PID:8163 performing initial read
-PID:8163 request:
-GET http://25.media.tumblr.com/08b166e78ebcdac944950b0d671ec04a/tumblr_mjlzz57ASN1qg4gido1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8163 about to start writing to host
-PID:8163 wrote to host request:
-GET http://25.media.tumblr.com/08b166e78ebcdac944950b0d671ec04a/tumblr_mjlzz57ASN1qg4gido1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8163 just read 8192 bytes from host
-PID:8163 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: /RXCJ6zCrjjhDzaXB0f+EJx6oK40guJkOYzLFN5gFtsJn3rqGu1guG/2/7T6zSnc
-x-amz-request-id: 3C87C9CCD3DB7726
-Last-Modified: Wed, 13 Mar 2013 17:16:18 GMT
-x-amz-version-id: t51pRDLsrRte1VmlHh1h9UQVauYuPC0d
-ETag: "e651224f2a200a3e03c287046d10c42c"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 98602
-Server: AmazonS3
-Cache-Control: max-age=31073159
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8163 just read 6408 bytes from host
-PID:8163 just wrote 6408 bytes to client response:
-
-PID:8163 just read 8192 bytes from host
-PID:8163 just wrote 8192 bytes to client response:
-ø.Id›¶Òî	%A^z–³Ïì	&Ca~›¹×õ1OmŒªÉè&Ed„£Ãã#Ccƒ¤Åå'Ij‹­Îğ4Vx›½à&Il²ÖúAe‰®Ò÷@eŠ¯Õú Ek‘·İ*QwÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ğ!!H!u!¡!Î!û"'"U"‚"¯"İ#
-#8#f#”#Â#ğ$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ğ**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/ş050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e44Ø55M5‡5Â5ı676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEŞF"FgF«FğG5G{GÀHHKH‘H×IIcI©IğJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O
-PID:8163 just read 4948 bytes from host
-PID:8163 just wrote 4948 bytes to client response:
-)#›SIø}ãñÇ‚Ö”Üµ>³ö>eGwM.Ş/½êf–'P’€a¸à€!!
-PID:8163 just read 5840 bytes from host
-PID:8163 just wrote 5840 bytes to client response:
-JJ*ìÂŞ¡»]©=Š!sÁÖ’Ñ³õşxÇeƒy$¹-‘£]U®­“ıİü‘yn³SĞL÷uõ`²8
-PID:8163 just read 2920 bytes from host
-PID:8163 just wrote 2920 bytes to client response:
-ğvOšÏ¦Ú>jãèh„$è@Jç(PÅÔ!$ 	@BPä"ä!$ !
-PID:8163 just read 1460 bytes from host
-PID:8163 just wrote 1460 bytes to client response:
-ác(ÆjÌº…z¸Yª”ŸïÍõšóKp¢É,pÉµ²ö9ØÃ€<:¥)BVG»Áí:8º*¤š‹Ñ«ñúT?´|ÔŸVZP’PFNáŞTÙ‘tZÍtµÓÿ
-PID:8163 just read 8192 bytes from host
-PID:8163 just wrote 8192 bytes to client response:
-¡	M§tl6Îuu¬Åw’xÆíŠ%¼|VJM´¶&–’¿~fÙkéœû¬¼Ù³ß%+ÿ
-PID:8163 just read 568 bytes from host
-PID:8163 just wrote 568 bytes to client response:
-(@
-PID:8163 just read 8192 bytes from host
-PID:8163 just wrote 8192 bytes to client response:
-;v7:O‹ÄlŒ'ŞiáHò[ÖòÅäN–²]¯“AKE@ XºÙ)ı >8Û°´Á¸;÷]ØèìShĞ§Z•7O}]Å¶ÒíWÍrjËºù¿Üfµß(dt²FæJÙ¡i¦sY.Ã÷)İœ´w˜=Ä(K+ØÇıR„6’ÁûU¾¬÷7u]²|{¡sşŠt—_n–Ûğnè§ÃzïºOx8oÆ»LöU~íµé½Ú¼~§:® ¬¶UÉC_Nø'„ì½Çú­©Ä©NT¤á5f‹|¨0$Àdàn¹	2ºL^5-W³Û)¶šÓúÉº8Ç‰ïğÔ¤Ù±†ÂÕÅKvšñàÇ¦tŸNQÉÏµTÔ0Ç=CÆšxµ v[áÄóV%cÔá6m,<,óoVllk#cccZÖŒ
-PID:8163 just read 2028 bytes from host
-PID:8163 just wrote 2028 bytes to client response:
-ñºÍ;ëtóOUÀâ2}(µ9›Rh6ÅGwv_QFâc¹¹§„rT8;Õ°«cä:û(£µ·±ûĞ­¬£¤fù®“òo[<Ï–/º~÷¦n2Zµª¦ßWjã,v;Ç"<FBØROCó~ÑÙxÍ“]á±´Ü&¸5oı®Õ‘mXZØùE#Èoù’²g:_™AëAZ¨ç§Xå*¸%tRl¿Ü{HÒ8`ü•Ô¢ŸXåãêÊ/Ùµ“;oGİêúÉí®‚Š–<QU´ ÛW€K‹s“ÀrÎVs«y3J–U³ZQôsÑnè¾Ù%š·1µD:¶ºFƒ=S¾ó¹4ë|÷­	KyÜìE8ÅFú­”±Ôµõ±>X†rÖóùÍW$Úê—Ğ•(M:ªë—í¢ò®¢Ë,.m%Ù!ì—¿mÁxea?ÄÍºÕp’ğ¢Óá­ágñ8]D–M«nwÚç6å

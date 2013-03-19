@@ -1,111 +1,0 @@
-PID:8946 Child:Fork has been created
-PID:8946 performing initial read
-PID:8946 request:
-GET http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey HTTP/1.1
-Host: www.amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Cookie: x-wl-uid=1JUV5s1Js+5IpL3njJOLSSmpNDZG3ENRI32mZNsXQZzCFsElvdoQSh+fjh4Yau4nnf381omXPUoo=; session-id-time=2082787201l; session-id=175-0664143-4314869; csm-hit=166.61|1363659109633; ubid-main=176-6851038-1841557; session-token=uC+5ARj05IzJdyOw66Nn9cJU7jrcqmShlOrzdzjjf+0EqVlPMudJzrjRpqBHT3N0i1jwePlvbjW8GxH0QLThXDj/jsZzoG30d/aG/wDP8C7N03jkxUz+qGtPXgLK0F7peBeBxs4XvgiQGZXdk5KA4dsLxmKczlG0VwJorOTxxEt7zCBTWhS1qJZxosaQsztwvvg4sXlldjrNUw5lwZM+UQxEZmWO/RJ8Tw14tSGax448qeL+F42TAbyvMB3oPUum
-Connection: keep-alive
-
-
-PID:8946 about to start writing to host
-PID:8946 wrote to host request:
-GET http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey HTTP/1.1
-Host: www.amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/
-Cookie: x-wl-uid=1JUV5s1Js+5IpL3njJOLSSmpNDZG3ENRI32mZNsXQZzCFsElvdoQSh+fjh4Yau4nnf381omXPUoo=; session-id-time=2082787201l; session-id=175-0664143-4314869; csm-hit=166.61|1363659109633; ubid-main=176-6851038-1841557; session-token=uC+5ARj05IzJdyOw66Nn9cJU7jrcqmShlOrzdzjjf+0EqVlPMudJzrjRpqBHT3N0i1jwePlvbjW8GxH0QLThXDj/jsZzoG30d/aG/wDP8C7N03jkxUz+qGtPXgLK0F7peBeBxs4XvgiQGZXdk5KA4dsLxmKczlG0VwJorOTxxEt7zCBTWhS1qJZxosaQsztwvvg4sXlldjrNUw5lwZM+UQxEZmWO/RJ8Tw14tSGax448qeL+F42TAbyvMB3oPUum
-Connection: keep-alive
-
-
-PID:8946 just read 526 bytes from host
-PID:8946 just wrote 526 bytes to client response:
-HTTP/1.1 200 OK
-Date: Tue, 19 Mar 2013 02:12:08 GMT
-Server: Server
-x-amz-id-1: B965B4496363463AAB0B
-x-amz-id-2: Fw7VZxXvMOlCuXhKOhhH0B0R5a7YpBP6J2ntuBzDV+/l6y7pzDy/Eg==
-Content-Type: text/html;charset=UTF-8
-Content-Encoding: gzip
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: ubid-main=176-6851038-1841557; Domain=.amazon.com; Expires=Mon, 14-Mar-2033 02:12:08 GMT; Path=/
-Transfer-Encoding: chunked
-
-6d
-‹
-PID:8946 just read 3053 bytes from host
-PID:8946 just wrote 3053 bytes to client response:
-200
-´koÛ8ò{~…­ZiÍ(r“æ®VÙÀvÜ4m>ôîz‡#%:¢­‡«‡“ÔÖß’¢ä4»·Xà‚V&çÅáp^äÉÉÉû"Èù¶ì!»âZû;_Bg¿öÞ÷çÓëñ·ñ¼÷ëÙÎÏ{»/]*¾‡Ã e½k¿d–ííbñ¨ÞŸIöÇÒ{ÿSü‰’ÏÃíý2ywùvrqñîòüòüâò|<ž¸“_ˆÐh‚"¢Gž†Ù£VyŒœgIzV0?¢³Š…~éŸÿööÔ½¼¼^œŸ^œ/þ~ù®µÍ‘ÉmIøº”«rK[ªÔß•<áéŸ·¼Rùñ·ÿ|½þrûå¿îõìŸ-O!±¨ÎJíb§©ïø‰ÿ#K KZ’Ò(€d¨|…{z'ø'­ãÀO”-éÑìøÄ¬U•%ÏRË·÷>’°<§{Œ\²ß²€ËãÑ|A’'6zë’¢ôóòOX>Òì-·SƒþvŽ˜ïüØzAdš–¦…5Þë	lÓÄÙ“eø¥a{]2Ú!«ÉÐ…?»®É]ö0Ëó,§Ý•šaoi„‘ÐÞó•Õ‘ñAaWö>ge•§u‡
-PID:8946 just read 2587 bytes from host
-PID:8946 just wrote 2587 bytes to client response:
-166
-ŒWËnÃ ¼ç+¢ÞÀò#je\õÖïˆ°ƒ‚òªåïBÜÆi.½Ùëñ0;»öÝÇ×´sÀWüŠ}È{Ž½Â‰ëÀj7°ÞÉ:m®ô$,g=ÃÌjf°æy6;Ö;â„Õ²Šp§¿ÿÏ‘Má"ßZ9áp°t+¥œ7‰Êp¢Š‚ðÈÀPˆ¦#voe–EØ"$2gÅx™7*OTŽ¦¶‰îI=x?t4°×ýu¿E
-£À~øaGÛ4ÝÕeâ·qÿþE–EŸ´ÓPý{¼|-‚š_q‘³Ð­ò´¯¸vá¼¡µš@÷£…FES0›@ã6A‹ ^)­ä±×R¾?kÞ
-Bj.T#lè™˜âðÔhPàUõèG.ºgxÒ0Ð€&ô$­LÎÓ—å}©>úGùÑ¢ùó¦-jl\"MòTt
-îíÑˆµð94ièÍo
-PID:8946 just read 7417 bytes from host
-PID:8946 just wrote 7417 bytes to client response:
-200
-¬aSÛ¸ò{….7S·CÜ$@ ´17@¡¡=
-×på Óñ8¶“øjG~–¤íý÷·»’mÙqsW>[Ò®V+iµ»ÚuÉ÷2ÿ"ÈÂŠ­:"òûd®¾¤¸o(V–*€6ÙÓ`ä#¨_Ø!eªÑU:iö¥Ê™#þ¤ˆpÜèJN‚’Î,üZC&Ÿ—a0ÿIÌ0î'HÕýg£Re|AŠ6ËàtIì{*G(ciKÆéä$\òEªÒípÃª‰Y…Í‘í†<	¾Éà\hjöv*:gŽøZm´[‘ÜªíØ³Õñni»8rþæ‰íùtË²Õí¶‹š`^ÔôôšCµR[„tmÕ/o³r·Žç]òÃšaÑ²¬M²”^¥Q·†m2Üø»}ÅVp¼ÊŸþÉ§ùŸÒ\À
-PID:8946 just read 1060 bytes from host
-PID:8946 just wrote 1060 bytes to client response:
-200
-„]QoÂ ~ß¯è0Q»º=;MÔù°dóA÷f|À”h—NLÁ©Yüï»£¥@ëæ‹Rî½;î«2ó~±´Ê¯C8ÌyÉ$s5/*±/ÐAÉðÊÅ¤Ö³_™ÖX’L‹ùX(R;ˆ<
-r(Öñ+RùŽjƒ€öL­+.-£&DŽÆ¸|´®c%ÞÄ‘ç&9ÃÐƒÊ)Mæxîƒ!¶‰±ãÇú«ˆO3y‡ý
-q,˜¦M2Rð!¿†S>%È©ö†0ƒÛMÒDûäAç\2Uµ±æwDz)ö6šl¿ç»d²M³„Ö˜@‡ãL$vFƒn@@)à3‹¥	à'U±"·áªœ9>C§h{£ÚªBÂåãÊƒ˜CÖã§\¿vÛ’×Mˆ"+ÿª3¾Û¨m0ë3	òªWÓ¡°üìCð´ê7¨šiC×³ùëüð´uB¿?¨–O\gÛ¾ìj»Ýð§¡-îèÑjêi\¦«Rü/µeó1”ì"ã:±OíÞ&’ˆÉm³â~tZžyßW›µ8¹³lÅc|~M@š)\uÀ!‰†HC]MEtÔÒRoTÖ3k·Ò*0;£ò9æ™8z…éIå,j ÝEÀ‰s'ÖíÒ#‹à 3öµ`,âv,Iqˆ„ý»æØÌd
-15
-/©Ä½:±¨7—ò:¦Ù 
-PID:8946 just read 1444 bytes from host
-PID:8946 just wrote 1444 bytes to client response:
-200
-Ô]ÛŠÛ0}ïWC¡C#ßbÃ6»Ú²maSúœMZ/uí’¸…Â~|¥‘¬[ÆY¥AŸ6­-FgÍÝñ^7c~•§ÐGíN¶áXíý¾ë„ÊÔkJÂû#?»ï…®{)ü+¯¦G‹çÒg]`—>h•›Æ¢ºaüãÍÐÑUÛ¦ÓbeæÌ€„^¬¹þÁŠ[öºXæˆ0ÒT±ŸÑH^&Õ2‹„Á«f´)æ'®^é½E»~¶XcÌÂÛO_×4°Âð:A^GÚž	ù¦£ð3º§uóÜÂrkW”øìþ ý×§Ëüb·ºi‡á¸»Ù¼—¾x°æHÞ#Sa@tÆgFà4«ËrÆ´E¢nû¹ÙÞRZõÄÆ /Ç¶o.{³$}.y“ÒšE¦ »šŸ¬KQø@£BG¦BIº¶Æô5"WC5xl÷ZsQˆÆbMþA°CxÈƒ™Ïä1‡¨®~=ö'ëgê÷vìßýøxîš©2¿i¼×q¹5çÿ‡5ÓgV=ýüýËœÑŒ;ëß¢qˆö=¸²#Ï•ÀÛŸvdºù3í³èÂù8ôï×|ÙH¬¬ëŽÚåDÌ4G''â€­;lo±Æó«C†m–B˜RØ<lŒ+)†Dé#N*Ù£JOR$³wZé«øž=
-PID:8946 just read 1460 bytes from host
-PID:8946 just wrote 1460 bytes to client response:
-200
-ì]{o›Hÿ*+®RS)¸€ãG"Å§´y´Ê«ŠÓætÿ 0kŒ‚±8¾Ü§¿™ey,Û©]'•.Rb	Ã2;3;3ûËÎL~œÌJÆYÞ`fÁ0y„ˆ”bE-•Ó&Ò¯Ìâ„æ˜%wáçå(â¬¨Öët»ý£×«9âŽE”¾ùÖˆNBß)r?Ê·p]"üož‡R2Ú¹«*YéQ~z©ž=Ó¹—€w`ê}l=Q_½˜˜Õ{î°ŽyAbæmtSÿ³ÙgðK,>î«zÇYàBùé|¥áæ}ûÊ¼ÄVYâ±m-úÕ‰öïÃˆÝ×}Uï›Ã/mÍ¼ý®éR‘`ž
-PID:8946 just read 1213 bytes from host
-PID:8946 just wrote 1213 bytes to client response:
-
-5f
-ÔJíiûÔ­EáÖq¤mëÃjép}éír•»Üœ9•]®|}-{·é.·”•¢ü¹… )&çØQOl–·ÆÛ‹F;ý²‚$Ø->'V¼I”òf:ÂcÅtÕ†¾
-1a5
-¡8ßÐÿÇÞ´6Cqü«„RƒLb&R:pà`°C×®‡ehÛÃJº›ß}/‰ –Xhê¡'ƒ<òžšÿ¿yÓô´]ÐSâú¾{KA/ÖdNvˆOÎ&ù>žAXÆ°ž…SÅWëU,ìŠžW:!úË†cš~cqúð¸DÇ´l‰•“.kÏ|¥NùjŽ•Ke-aprüŸ`bD×=aI)PQ»r¹À0s»Ëv½Ë@ïc(»ý^n&ýÉFcÂöRÌÙ?õ&ÔÁj!\‡R'ˆPq]T†³
-PID:8946 just read 2673 bytes from host
-PID:8946 just wrote 2673 bytes to client response:
-200
-¼]sÛ6ìyþª›‹äÅQì6½®Îe½´I×Üº%—´OYêSmÅVk[®$7éµþï@ðC"egiº¼Ä&	i‚>7ÔŸ'S5òŸÛ„o¿âlÑ¦¥aÂWþ[c­Á$êì«ƒŒÇ(´6n{c“;ÉU
-PID:8946 just read 5065 bytes from host
-PID:8946 just wrote 5065 bytes to client response:
-200
-ì]Oƒ0†ïý7»‚Ø@nL¶Ì?b¢3»wJtY‚›dÿÞÒ"£ØÂÊØ—#„œSÚó6ôyS¡4kì‚ÿÀx8:®ƒìãqGçcÐÿ¼UBš6nbÃ;cD5ç¯oC¤af‡õˆÒa[¢Î¹‰î?æŸÿ(éœfZŒËàPWìpb)|NÃ°/¯žFBÒ0Èé{È•ð0˜åãaÀÖyV¨ŒÅ@;`^Ðé˜ÐÒè¬@(ÄŸô,Cº\Ò‘“œÿZ-_&àœŒ`1òEä|$¬½{H¿7ó¸…±T~ha¯‡“«Û\‰j-*Šu",Ehaç
-Qu{OÖä$ÑË¤LrÖ¨.Ý)Ýï—nÑzNd.-˜áelÍê¬hÇ[d]Rs¼2ÝZxµ¡„5O#å÷Œåµ3.ÚrÔÂÏºh’¹üê´VÑÒM-a–3ÕÞ*Æk²·‚†éñy.~Õ9n“öeãˆ*0(‘A³zçÚ­ëJa¤ý9ÆÈ–Ì&Èl"|]BºÙT “•÷M§‰k:‰³µoÜ=ûž1Y‡Ÿ^À†~a6-¥‘oiSØÁt};¾Ÿ.:%Jv“,±HŽc<–øFI%Ç0†ôž
-200
-X==Ú€°ßÜwâ=Ñ»ÉªÀyÂi l‘‰°&a+ž-{;M¹(eQ" õ„Ú™éH=Hµqd+B­õœÈ„MŠÜîÏ!·ÎîÂ!´k	5éÜVêÇ…uëI„ú£SŠP»JÓ> äÖ€¶ç¦i;¶‹{7ÍÞM³a;vÓä»Ãúÿa¨iIwÒ	hkG¡x]©­8Èë(w,Ú¸ü°w&ÍiÃP?÷[h:=ô
-PID:8946 just read 2464 bytes from host
-PID:8946 just wrote 2464 bytes to client response:
-200
-¬ÙrÛ6ð9ù
-„™±ÈÈ–D>ªvÚi¦ÓÖM3uÚ>8n¢ ‹MjÊ´ûß»€RîÔ|p"`ïÅ^	åe¹pgÅ|oó	_~ðÃsúåþ<¢ËOI”æ7i9!£\”ÍXüðWö«f³(…Øúä¥’jn‹ú™÷ŒèÏËƒwd$™0!·_éXÂôþÚ^´+ª*Ïð
-PID:8946 just read 1460 bytes from host
-PID:8946 just wrote 1460 bytes to client response:
-200
-ì]Y“Ú:~¾ùº’§6ñ‚1îžî)0{³¯/)Ë`0¶ñ‚Ôü÷‘d³˜¥“ž›Ô}I–‘¬£sŽ¾³H–Äáß[£‡)·dÁ€\	ÀŒ¯ˆ¦+©×[¿ÞîíAýôéÁslËƒPÔÐP{Ç”N·-ŸÔa¸7wOÄ¸šb)
-Ú¶ð8æøÆTyôË#=à:ö¾én‚–doßl):°äkÄ{ÕóßÔ¯rhŠ®x{"(*#	ôó{ÝîïŽ|¿\®ß-€†öxŒî'>=£è	&Ëöt‰ûÂ¡½mq@}ÆåÌð ­‘øÜ,gœm¢Ü·ü<—¯wfXq1,§)Tq%|DA¦#pfŽJžLøã‘¸ÄïO5‹•«P…Ye$T$UÐ¡Ù'˜¸«Ã›d3¤¦¶‹÷ JüŸÃƒNDû?X[þBnØ%ÞèüH|œWÜð÷é?">© }†sÈ€u,v£ç¯Ê!äžö²4J÷8$}".¯ŸŽRGXâl	Ï6x(PEQÎýÀSýœpÔá®Êor›,<pzGãc€–$dðñ°:¶‡¸£
-äS…2>ˆ)Âñž¹v`i$†
-PID:8946 just read 8192 bytes from host
-PID:8946 just wrote 8192 bytes to client response:
-
-5f
-n–
-a+ÿof~Ÿ_#››®2m™Qe×Ìµ›ÅÆ~°YmÈô›±`›C*Ëæ­‰Q•÷ÕB¾-•%WækéI'l´Ãü–•ùP^,½ï‹¡hd6SMK =WÆÕIuÅt‡
-200
-²Ø1åüˆš5–ýí’œZ ”g,¾ÔZÂòM&ki£Ã—µ™Üm7æSÕÉ{wš©¬†ÀmÒEJ:*Ÿ¦Õ‰9kÈC—[òÝ‚<T½ªd;Ëü`álMTÕNyÏ™Ž;¢kÑ éÌz2&€ÍyýJ1›å4½>ì-anëya·ì•¤VMÏ³™.Ù(õ¹±¹š±µ~Pªï™b…’™ôVêÀ‘QôÊÍVúoÁ˜S¸cV—5V*­ÞxÞ›fg3s–WvÃ´œY©ýâ¨ŠZT½Xu¶fØî96ËQ£æ[g¶¨ì¤]ò«jé¬s_”Ð¡¿@°¡iÑKÊ²uM

@@ -1,51 +1,0 @@
-PID:8972 Child:Fork has been created
-PID:8972 performing initial read
-PID:8972 request:
-GET http://ecx.images-amazon.com/images/I/71DDK3PVVZL._AA160_.gif HTTP/1.1
-Host: ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:8972 about to start writing to host
-PID:8972 wrote to host request:
-GET http://ecx.images-amazon.com/images/I/71DDK3PVVZL._AA160_.gif HTTP/1.1
-Host: ecx.images-amazon.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.amazon.com/s/ref=nb_sb_noss_2/175-0664143-4314869?url=search-alias%3Daps&field-keywords=turkey
-Connection: keep-alive
-
-
-PID:8972 just read 2925 bytes from host
-PID:8972 just wrote 2925 bytes to client response:
-HTTP/1.0 200 OK
-Content-Type: image/jpeg
-Content-Length: 4750
-Connection: keep-alive
-Server: nginx
-Date: Sun, 03 Mar 2013 18:25:28 GMT
-Cache-Control: max-age=630720000,public
-Expires: Wed, 18 May 2033 03:33:20 GMT
-Last-Modified: Tue, 01 Jul 2008 19:59:12 GMT
-Age: 1459869
-X-Amz-Cf-Id: 8HO_6spSQyckSd6JMDCpc9g8TYFVDm05u5idYkDvcBy-owfO5g71KA==
-Via: 1.0 c4032d302400e72942a63d2c4ac1acc5.cloudfront.net (CloudFront)
-X-Cache: Hit from cloudfront
-
-ÿØÿà
-PID:8972 just read 2935 bytes from host
-PID:8972 just wrote 2935 bytes to client response:
-P‰«{WlÁ~?>Ê®åü–«ck´¸°Þà÷[B§ƒ;9Û¤–xÝ/³ý54vï1Öu´¬>gì¥Q`ÏÇ18)éœ"l›½Ä_@Ê¿ÖQPàXdT8| 0‹Èþnyîâ±ä<˜n++KÙ,Ã‹¦ö,gOê°ÖâÕâ&6ÊNþ«H^ì£`¸b¢f†:i4‘ú>7Q¤¤‚¢2ö¶Ï67µïäµuôN!¹÷ä¬ìc Œ‹–êØ[ Z¬z²<:•´ÅT0–:ûÄß¨ùÀô¿d Ø*Ë……Ê¯Õ¶¨2=n~¢,6¶¯¿_U.,.hËf†VÛâ$lV\6•ÒNÙ*&’¢âït’Mù-­k^ØaŽÇòÐw^…Çe hÝT¢tm«t<A¯Y°'~jëKCJ*Û8¨tfVZHÜvíÈô+TÚ
-wTƒ#[{[™[h ‚y¡å€|.3OP´•À6êQ¸¤Ùãp
-PID:8972 just read 0 bytes from host
-PID:8972 just wrote 0 bytes to client response:
-
-PID:8972 job done, returning to server main()
-PID8972 fork is ending cleanly

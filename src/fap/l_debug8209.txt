@@ -1,81 +1,0 @@
-PID:8209 Child:Fork has been created
-PID:8209 performing initial read
-PID:8209 request:
-GET http://25.media.tumblr.com/97f63c2f102e6f8d3f96069d175f98fd/tumblr_mjcvzz0kxK1rrpm57o1_r1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8209 about to start writing to host
-PID:8209 wrote to host request:
-GET http://25.media.tumblr.com/97f63c2f102e6f8d3f96069d175f98fd/tumblr_mjcvzz0kxK1rrpm57o1_r1_500.jpg HTTP/1.1
-Host: 25.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8209 just read 5758 bytes from host
-PID:8209 just wrote 5758 bytes to client response:
-HTTP/1.1 200 OK
-x-amz-id-2: ePMJXIO+lWBnqtlvg/Wy0ua5Io/mkeKitlX5vU4VNFMA69opzfnN6hZIP22ZcEW5
-x-amz-request-id: 1699620F6D12938A
-Last-Modified: Fri, 08 Mar 2013 19:14:28 GMT
-x-amz-version-id: CgsLkwW2IgQ45M4EGqRMtzCbV4fTPAFX
-ETag: "a81a9c04cafe386623880ebd5b15fbe3"
-Accept-Ranges: bytes
-Content-Type: image/jpeg
-Content-Length: 48191
-Server: AmazonS3
-Cache-Control: max-age=31147809
-Date: Tue, 19 Mar 2013 01:51:25 GMT
-Connection: keep-alive
-
-ÿØÿà
-PID:8209 just read 1460 bytes from host
-PID:8209 just wrote 1460 bytes to client response:
-l4˜÷©È¬Bm¥;ïÜw©ÈxòvÚgúQcÄj›'`b„ÄĞÀÏ]VB¦ AïF@ä·´€}7œ†Tµ
-’ga"¦ÇAĞÔmZ›- ¡1±Ş•Œt’¢3<PĞ0(vÙ*şOÒ¥É"’%7g13ÇVo¥¨±\ìÔÔ¾OÈÔo€I"~ÕBğœz‡æDOµKätZygtH¨s±¨Ğt°
-PID:8209 just read 4380 bytes from host
-PID:8209 just wrote 4380 bytes to client response:
-m fõƒ·–£Jx2sC…ÛrBZ)¥‹@ÕzêLÄzšjNL
-PID:8209 just read 1460 bytes from host
-PID:8209 just wrote 1460 bytes to client response:
-’_Ïóôa>nLQcšGMôŸBŞt…ÆäíCn²[W™x´¬)n%Qó¡zI
-ƒEy\¼ÿ
-PID:8209 just read 2920 bytes from host
-PID:8209 just wrote 2920 bytes to client response:
-UıS€6÷4±LvÑå)Ò²’G§­*]°jJÖ$$ıjºØ?*Uó'jvMSnÊc¶Ô´=‘—k©ZŠ~ñV¸Øfí\i½a½½j[MÑJ4¬_!NJhºYãj©ÓÀ÷ZBüª)1Ü‘£4ŠÅ±ZyX
-PID:8209 just read 4380 bytes from host
-PID:8209 just wrote 4380 bytes to client response:
-M*ƒ(`™¯é~œPFw¨±öW}ô¥_§=©®?¤,ı0=IÓıLÊéìõE(
-PID:8209 just read 7300 bytes from host
-PID:8209 just wrote 7300 bytes to client response:
-;7İ1t‘[ê!
-xØíıy¼ğ÷#Ğá›j‘Wãvjá-áqm­¥Û•éôÙ ÿ
-PID:8209 just read 4380 bytes from host
-PID:8209 just wrote 4380 bytes to client response:
-«ô€òõâªÒv>ûxòŸo%oæ:Ú¤4(“ß¹§k²[ôTdğù[6¯ìÅ4—ĞB2“ï¾ßù«RBjöAODu^3æ«w•`ñJÔÒ„j¶?C¿z—$ÁZ ßõg[c‚,rĞZÛ¶Ii›u…ü§aÜõ4ÒnËŸën¤ÎY8Áépã ¡×]²(qÄ÷NÛÇnô¤£ö$Ù2ğfï«UÚyM•¨º/íÖØKD™ –¯cOÑuˆ¸Ê\ôêXÂçÄ:Ê	vÖø‡¶å:C°'}ÒH2K²¿äeoñV‹®gQÈæ%Dp´è
-PID:8209 just read 4380 bytes from host
-PID:8209 just wrote 4380 bytes to client response:
-Ó3¥ÂUôõ¡­Z½Ù¿@ä¢›6ìœ CI0°}÷¡YT{§ºc§2Î)–³ÆÉÂaHÓ=‰¥-‚Ó£McÒ]S·rÅ§iÖ[V¶†¢=”•ò5+C²ÅÛ±séêpó@&İÛuyeÃŞT?*½Å>ºesİ\«4?k~ıö9i+Ş)—šPí¨*D‰öâKĞ4FÅõ–fÎàÚZxfÒ[¸Úä0´¸x”„$”ÿ
-PID:8209 just read 2920 bytes from host
-PID:8209 just wrote 2920 bytes to client response:
-éè4gò¹+’„…
-PID:8209 just read 1460 bytes from host
-PID:8209 just wrote 1460 bytes to client response:
-n$"³r¡Õ+>Æ]Eâµ*4@÷¡JÅù%Ü±cµ?1PHãUXU”¶ù“Z¬­­@É'SOC¢ŞÏ
-›WĞùxˆ ü°)7kcM’ó½SaŠ²-6¥:ìoŞ•ĞU™ó‹È¥'é©EĞ™9¿ÙÖà=râ$AŸíµKTú Ş9kvâ–„¤¤q‰ªD³!ŸÄ\d.HiJ1ôàµ	¨™µ`l±6²Ñ,jT¥FAìÍèìJ)ItoYáN0İ@Pl%M•BÒcˆ=¾ôåvRèÊu%İƒ' ëAi'Iäú}j&éU|¿QÛ¼ÂS³?˜ÀşB‰mŠ²nyÉód+hü58Ñ]=—¬Ü¹|ÚZCj
-PID:8209 just read 1460 bytes from host
-PID:8209 just wrote 1460 bytes to client response:
-x¿:#d¤2¶Ó¦ ]ŸoZ¤’Ø»Ñ™gÄk<IA«†æb&ëNßbÇF¶Ë¯F-HqEn
-æiZj™)5³c‚ëõeJmÂUÅCâU¢òhÜã±ö÷ióİN¥÷¹ç7#XAKl¼RX¶·Ó¥ iï\É¹HŞ’F#9–±.R•où“ÇŞ»øâÒ8æÓf+wmñEèù‰µt(™·D;ŒÅªÒ¦ñ1¸%O+*ZêlcÂİ×R;Iâ¥Yº²¼¶¸°óS¥[Õ-4ÂÌOUuÆ¸ÊI;ì )v>'ú6ôLzN,vkì<[Å¼Ä›B€î“µ'Å{/*3=Q×÷·%_³îôsºvš¸Å¢\¾q–ên¥}E?´n
-g\ûV˜FŒÛ‘P¼†mrÓæN£¹Ş«Bmo!—C“ñ—)#`déŠXÅê6lºK©ï¬H½½¸)TA5œ¡NÑI-„ZÜ-ÕF¶©Ç

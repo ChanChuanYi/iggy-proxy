@@ -1,82 +1,0 @@
-PID:8174 Child:Fork has been created
-PID:8174 performing initial read
-PID:8174 request:
-GET http://24.media.tumblr.com/7d204e0321c1ddc998d66135d995691c/tumblr_mj9x31gJqZ1qeazcjo2_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8174 about to start writing to host
-PID:8174 wrote to host request:
-GET http://24.media.tumblr.com/7d204e0321c1ddc998d66135d995691c/tumblr_mj9x31gJqZ1qeazcjo2_500.jpg HTTP/1.1
-Host: 24.media.tumblr.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: image/png,image/*;q=0.8,*/*;q=0.5
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.tumblr.com/
-Connection: keep-alive
-
-
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Cache-Control: max-age=31536000
-Content-Type: image/jpeg
-Date: Tue, 19 Mar 2013 01:51:20 GMT
-ETag: "2cdcb061a42acb4c651428dfd926e497"
-Last-Modified: Thu, 07 Mar 2013 04:42:45 GMT
-Server: ECS (sjc/4FA7)
-x-amz-id-2: BHB9yN1Egyor37SXfHwVspEe47dPNfRXcNilBbU3gff7qhm+bTi7El42QvSMedzR
-x-amz-request-id: 927CC910AEC9A713
-x-amz-version-id: wSnNydpeBVhjCCqhbwkazM8YDlQg4aou
-X-Cache: HIT
-Content-Length: 97667
-
-ÿØÿà
-PID:8174 just read 6408 bytes from host
-PID:8174 just wrote 6408 bytes to client response:
-
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-‰Õ9:‹’/_ÿ
-PID:8174 just read 2596 bytes from host
-PID:8174 just wrote 2596 bytes to client response:
-ü«+,Ÿ)jœ»1í8—½£t}­ê.¦Ş—Ç£Â°8ŒG>³AF¾+—Vveiº^:¬ËLÑWvS­rÚº9èjÚ­&aİÅG”x%8SrJ°AÇ®9pk×\&NÇ»MŠ#Í–ÑdoQ!Z¨¤÷híáŞªn¾¯Óvœ‡ÄŸ’ôNTäÙ„Éj4FO«gÍ`(òM=E:Ã©pHís´Xy7òÀyÏS8tF¾6X,µÎÆ´k­»NËòL/yİf’@·T"’wŠ$“À
-PID:8174 just read 5840 bytes from host
-PID:8174 just wrote 5840 bytes to client response:
-zz-íµSäÜƒímİ0Ä³ıÆ’NÌà%"ß¿maO[¥›weî,<ù-ÛIà#ñ¯ıXaŸ0…Qñ}ñ0²„‰tæó}ï@á/~íı|ğÃÎc¦vù BVŸâÿ
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-/CS½Ñ¼`ñüA~0Åî¦e¦ıQ-¬´±Ì½x»?\kâ€lY…à°Øxõäâ¥µ©²RóJ‘©âbãÛËÏşxÎªæ	¹ùót!|iYÒãËxé‰IS€T¯M}„*±âÛº`´Ş
-Ñ*%&ááŒ‘Àöúà¹ÙŒ •æ4ŠÌ Âvnc…Ó	‡Uò@g1cÕÀÆÊñAFI)^åL6?ï?LPD@B&ê$ÓmÚÛ8-`>ŸÓ:ø–&Áe/y
-ÉÜ‡°*L€ô¹Ç©ƒcq2‰õ=Jæ¯İº¤4bêûƒwùbìôˆeA:“ƒ÷		yÆ_åãeëË¼tç8[*M3!U­1t„t”
-æA"nµ‹ƒçÍğ)Ôƒš…‹Q^:-Ä¼q\tRÂ÷ëı1ÙKO6bÀzßò¦ê$ÚPûšNìßº*y0Ä³)kZ ïâƒiI@’š“Û
-8#¯¦ ×ÂrÑª‹QÓGÃ¬`^Ö¸Ã9…š­dıD™ŒğRD¾9Ü" aãbl¶Ç/È‹÷ŸgyUSÙ._•ÑAw—º
-PID:8174 just read 2028 bytes from host
-PID:8174 just wrote 2028 bytes to client response:
-y”®òÌŠ8ãÙ,‘í¹óñ7æ1 ¸› DjY<.7UÆ¿0U®)dg,Ê×çÈõÅ˜Òl›È©ĞSSGO2ÂÒ$q„D,§F’J0rÒh¡ñ	éõêp™@ŞÉ”$(dçŞB–`nÍkßúc5vYî	Oä§b¶¸\Èÿ
-PID:8174 just read 5840 bytes from host
-PID:8174 just wrote 5840 bytes to client response:
-”¤™rÓ»UÑéÌŠä%¤vˆ+0'›ñ{ş˜¾¦è¸øYA2®“ÇC¿ˆ ŞÇÖäŸ¶fÀ•€¬¨©’œ€Mê°Ğ¹ò&Ç ÆwR¶V»á—¬‡P$Úmïnp¦1ºòJ ±
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-¸ó¸=0¥Ç-‘2³œÓŠ¬™é¤™™ªÄŠÌÊ@]Ëk[Ûk¡Ò‹-CÈ>a53¼²#¢e<‹<‘äxõÇÿ
-PID:8174 just read 3488 bytes from host
-PID:8174 just wrote 3488 bytes to client response:
-úãØË²óä›$³,™‹-C+Ñ`@òÅFÄh›[±/LL´²®øöƒÍı!TZmm«ó¶»10( .~£t]‡uÑR9ag'~û#tgWPåoæll}¼ºuÇ’X39»Êî’@…u`åyR•S¼ÅEÔu?oë«¢_À^cx)]'HŠ2êL³Ë,÷>"3¿|^¤&]l6!Yö‹armÎ%÷:
-§ŠÍL+uoÄ"R¡I¸»ùñŒŞî—AÀT#$ŞÄ–‘îH 'B€	—xÖ&G 8dpÀèq"àAÊœˆ±\k¶“Ik‘Ò™ÔÉ™×Ô’6î	.l9b.:‹ñ{Û%n«¸UV%uRd–X£Ø¸Eş—Ç5C°Jt,fd76–ì–æÜq„q‘•YªÊE^Ú7FˆBHUù€b¤h¬°¨%ò€×ıNÈ‚€…CR?hJ‹!dDcˆÈ»ø­Ï8ˆ{KËaVl«I)É€ç`6©krmsù_"nRˆ"»3¢Ø€ì„›l¢ÿ
-PID:8174 just read 8192 bytes from host
-PID:8174 just wrote 8192 bytes to client response:
-4ÿ
-PID:8174 just read 4948 bytes from host
-PID:8174 just wr

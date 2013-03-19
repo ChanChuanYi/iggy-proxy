@@ -1,73 +1,0 @@
-PID:8030 Child:Fork has been created
-PID:8030 performing initial read
-PID:8030 request:
-GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=240&slotname=0733118533&w=120&lmt=1363657844&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&dt=1363657845030&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657845089&frm=20&adk=352925541&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=809581564&ga_fc=0&u_tz=-420&u_his=10&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=47&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2F&fu=0&ifi=1&dtd=112&xpc=gCuisgPJLj&p=http%3A//www.freewebarcade.com HTTP/1.1
-Host: googleads.g.doubleclick.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/game/jonny-backflip/
-Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
-Connection: keep-alive
-
-
-PID:8030 about to start writing to host
-PID:8030 wrote to host request:
-GET http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9630282246806064&output=html&h=240&slotname=0733118533&w=120&lmt=1363657844&flash=0&url=http%3A%2F%2Fwww.freewebarcade.com%2Fgame%2Fjonny-backflip%2F&dt=1363657845030&bpp=6&shv=r20130311&cbv=r20130206&correlator=1363657845089&frm=20&adk=352925541&ga_vid=307730954.1363657845&ga_sid=1363657845&ga_hid=809581564&ga_fc=0&u_tz=-420&u_his=10&u_java=1&u_h=768&u_w=1366&u_ah=744&u_aw=1366&u_cd=24&u_nplug=6&u_nmime=78&dff=arial&dfs=16&adx=47&ady=658&biw=727&bih=584&oid=3&ref=http%3A%2F%2Fwww.freewebarcade.com%2F&fu=0&ifi=1&dtd=112&xpc=gCuisgPJLj&p=http%3A//www.freewebarcade.com HTTP/1.1
-Host: googleads.g.doubleclick.net
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://www.freewebarcade.com/game/jonny-backflip/
-Cookie: id=222af58d4c0100ae||t=1363112493|et=730|cs=002213fd489710716f024a94b7; _drt_=NO_DATA
-Connection: keep-alive
-
-
-PID:8030 just read 4290 bytes from host
-PID:8030 just wrote 4290 bytes to client response:
-HTTP/1.1 200 OK
-P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
-Content-Type: text/html; charset=UTF-8
-X-Content-Type-Options: nosniff
-Content-Encoding: gzip
-Date: Tue, 19 Mar 2013 01:50:45 GMT
-Server: cafe
-Cache-Control: private
-Content-Length: 8073
-X-XSS-Protection: 1; mode=block
-
-ã
-PID:8030 just read 1430 bytes from host
-PID:8030 just wrote 1430 bytes to client response:
-R‡wÙ/ú*ÂóhmL±¸,øºô¯!‰◊¬†·¡úÕ;ÁÂ+Æ*∞ôÄÉ,Vy,eÂr√æÖÀc˘é~ˆ£≠˛’5’ÕØ”Rp˚JÆª¸X‡bπøîoÛê˝“˜ew^òÚπ˙ët¥õ,W'cË⁄€~ı´…Ô±eFW}¿ŸQ≠ßM%r»}¢Õˆi¬ÆL,zﬁÎ)∑iiJ0WÉpv<»'Æ÷ñZqù⁄ÙE]òè5¥{:–;T´V[Ÿ®ûTÌc´.œÀPóÙ.E∆“ÊËÙ¶ù`≈’:ß§üµ¶x¿dÚ	ITÌÔî(âC¬Qæéè!•C¶[¬fBê⁄í$äÎpdÌ€u[Ó;˛ò”F≥°gåwNu·Èîd»iÇÜÒ$«g}˛ƒœ8Ï(—vÔmcÃÃ∂’õ-ñóÒ∏7ÍJã@ÎkLÀ8 ãXú)l1Ü“õ‡NoÉûvá˝Æ⁄vÌz∏vŸIq-ÅŸûoy5a?™bTçﬁÛFXåÿ±f«N's¸Ä›Ò|Ì€$E„CíçÍ∫"˝1Pv∑ˆ◊kQù¡vílâ’Á˝’fßf˛$0€ã˙DÃqqKmOPÆ=÷¶« Sg+èSkN+$ŸüVw-X2:.=Ø≤5≠∆h{_ûËÿŒdL∫—∫œı£Ë∏hÒ˘dZ÷$√0+d»ÂH:H_s5aq.%,˙,9E’!CsÜtù›	#}ûÆ5âJ<¶ô«v)®=§±†5i…ª’Ÿmπ—n”ﬂ¨D4úÿΩNà—`v∞÷ÎYw†åÜÌ}Ωª{|ÊèÜî_ÖÈNLñcƒ†≠y#£mì”Rõﬁç÷˛—ïã‚pi4@≈›º∫Æ{È$¨y›dAøZùÊ€”ÿpÖ6pPÜe5wç)£VØŒòÄDÑy`ö‰÷ü
-PID:8030 just read 2764 bytes from host
-PID:8030 just wrote 2764 bytes to client response:
-JØjX/ 	ÉN˜C¡c úLß˛§}hi´=;ˇ8«¬qüﬁ8[”6:≠d5óO[é=Ÿ5ù‡ªc;;eÁ´âOh~}§8Ût6õõ˛BaáLàä∂æ‹"q’Ä≈
-©jfª~B ÓxîÌ¯ÅÌÌ€‘§Ó‘æΩ3€ÎÌÑ–™Ω@˜…¬bÎ£àëhµ´'#Œ¢¢ﬁë—˙¥∞œxë™ªò]w∏@r‰∏^á∂∏&QZöÑe$ŒŸå0Ï∫ˆ\ØÌV1:3™
-PID:8030 just read 1068 bytes from host
-PID:8030 just wrote 1068 bytes to client response:
-HTTP/1.0 400 Bad Request
-Content-Type: text/html; charset=UTF-8
-Content-Length: 925
-Date: Tue, 19 Mar 2013 01:50:45 GMT
-Server: GFE/2.0
-
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 400 (Bad Request)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}
-  </style>
-  <a href=//www.google.com/><img src=//www.google.com/images/errors/logo_sm.gif alt=Google></a>
-  <p><b>400.</b> <ins>That‚Äôs an error.</ins>
-  <p>Your client has issued a malformed or illegal request.  <ins>That‚Äôs all we know.</ins>
-
-PID:8030 just read 0 bytes from host
-PID:8030 just wrote 0 bytes to client response:
-
-PID:8030 job done, returning to server main()
-PID8030 fork is ending cleanly
