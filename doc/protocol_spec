@@ -3,7 +3,7 @@ illamasa@ucsc.edu
 1252148
 
 CMPE 156 Winter 2013
-March 6, 2013
+March 20, 2013
 
 **PROTOCOL SPEC**
 Basic design of server is as follows:
@@ -15,6 +15,11 @@ Basic design of server is as follows:
 	  log request received and method
 	  if host is not in request send error and listen for more connections
 	  log request url and host
+	  check if host is a forbidden host, if so, send 403 forbidden and exit
+	  check if host is a secure connection host, if so build secure connection
+		send data over secured connection and wait for response
+		send response to the client
+		close connection/ end process
 	  send request to server and wait for response
 	  while server has stuff to consume, fill buffer and send to browser
 	  if server buffer contained Connection:close end the process

@@ -1,3 +1,7 @@
+/* -- extra.h --
+Author: Ignacio Llamas Avalos Jr
+Class: CMPE 156 / Network Programming
+*/
 #ifndef __EXTRA_H__
 #define __EXTRA_H__
 

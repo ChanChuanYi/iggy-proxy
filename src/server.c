@@ -1,3 +1,11 @@
+/* -- server.c --
+Author: Ignacio Llamas Avalos Jr
+Class: CMPE 156 / Network Programming
+Credits: socket building utilizes code obtained from beej.us network
+         programming guide found online. See README in doc folder
+         for further acknowledgements
+*/
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
@@ -146,8 +154,6 @@ int main(int argc,char** argv){
 		    
 		    int index = check_secure(host);
 		    if(index != -1){
-		    	//out_fd = create_secure_socket(index,new_fd,write_pipe,tmp_out);
-		    	//write_secure_host(out_fd,new_fd,read_pipe,write_pipe,tmp_out);
 		    	secure_and_send(new_fd,read_pipe,write_pipe,index,tmp_out);
 		    	break;
 		    }

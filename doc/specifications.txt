@@ -3,7 +3,7 @@ illamasa@ucsc.edu
 1252148
 
 CMPE 156 Winter 2013
-March 6, 2013
+March 20, 2013
 
 **specifications**
 
@@ -14,3 +14,7 @@ as possible,the following guidelines and assumptions were used:
 To that end, the program only relies on the 3 way handshake provided by TCP
 and will not authenticate further. The client mearly needs to establish a 
 connection and is immediately able to start parsing HTTP requests
+
+It will furthermore assume that HTTP requests received are provided in standard
+format. (i.e 1st line is ( [method] [uri] [http version]). Otherwise requests
+are not forwarded to their destinations correctly. 

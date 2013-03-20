@@ -1,3 +1,12 @@
+/* -- iggyssl.c --
+Author: Ignacio Llamas Avalos Jr
+Class: CMPE 156 / Network Programming
+Credits: 
+        OpenSSL library calls are made possible by example code used in the 
+        IBM OpenSSL tutorial authored by Kenneth Ballard 
+        (kballard@kennethballard.com), Software Engineer, MediNotes Corp.
+*/
+
 #include <openssl/bio.h>
 #include <openssl/ssl.h>
 #include <openssl/err.h>

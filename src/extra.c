@@ -1,3 +1,10 @@
+/* -- extra.c --
+Author: Ignacio Llamas Avalos Jr
+Class: CMPE 156 / Network Programming
+Credits: create_host_socket() utilizes code obtained from beej.us network
+         programming guide found online. See README in doc folder
+         for further acknowledgements
+*/
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <sys/time.h>
