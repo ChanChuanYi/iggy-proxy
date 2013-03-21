@@ -96,8 +96,8 @@ int main(int argc,char** argv){
 			memset(read_pipe,0,PIPE_MAX);
 			data_size = read(new_fd,read_pipe,PIPE_MAX);
 			if(data_size <= 0){
-				call_death(tmp_out,new_fd,500,"initial read pipe returned <= 0",
-				write_pipe,"Server error, unable to read from pipe");
+				call_death(tmp_out,new_fd,405,"Bad Request",
+				write_pipe,"Bad Request");
 			}
 		     
 			//fill time for log printing
@@ -107,15 +107,15 @@ int main(int argc,char** argv){
 		    //grab string from request
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	call_death(tmp_out,new_fd,500,"did not read a proper line",
-				write_pipe,"Server error, not a valid request");
+		    	call_death(tmp_out,new_fd,405,"Bad Request",
+				write_pipe,"Bad Request");
 		    }
 		    
 		    //parse 1st line  	
 		    int n = sscanf(line, "%s %s %s", method, url, http);
 		    if(n!=3){
-		    	call_death(tmp_out,new_fd,500,"not enough tokens read",
-				write_pipe,"Server error, unable to parse request");
+		    	call_death(tmp_out,new_fd,405,"Bad Request",
+				write_pipe,"Bad Request");
 		    }
 		    
 		    
@@ -133,18 +133,18 @@ int main(int argc,char** argv){
 		    
 		    start = get_next_string(start, read_pipe, line);
 		    if(strlen(line)<=0){
-		    	call_death(tmp_out,new_fd,500,"unable to parse host",
-				write_pipe,"Server error, host line read error");
+		    	call_death(tmp_out,new_fd,405,"Bad Request",
+				write_pipe,"Bad Request");
 		    }
 		    
 		    n = sscanf(line, "%s %s", arg,host);
 		    if(n!=2){
-		    	call_death(tmp_out,new_fd,500,"initial read pipe returned < 0",
+		    	call_death(tmp_out,new_fd,405,"initial read pipe returned < 0",
 				write_pipe,"Server error, not enough tokens in host line");
 		    }
 		    if(strcmp(arg,"Host:")!=0){
-		    	call_death(tmp_out,new_fd,500,"read something other than host",
-					write_pipe,"Server error, no host detected");
+		    	call_death(tmp_out,new_fd,400,"Bad Request",
+					write_pipe,"Bad Request");
 		    }
 		    fprintf(tmp_out,"\tHost: %s\n",host);
 		    fprintf(tmp_out,"\tURL: %s\n",url);
@@ -159,8 +159,8 @@ int main(int argc,char** argv){
 		    }
 		    out_fd = create_host_socket(host,new_fd,write_pipe,tmp_out);
 		    if(out_fd < 0){
-		    	call_death(tmp_out,new_fd,500,"unable to build host socket",
-				write_pipe,"Server error, unable to connect to host");
+		    	call_death(tmp_out,new_fd,405,"Bad Request",
+				write_pipe,"Bad Request");
 		    }
 		    /////
 		    write_to_host(out_fd,new_fd,read_pipe,write_pipe,tmp_out);
